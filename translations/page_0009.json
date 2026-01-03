@@ -1,0 +1,50 @@
+{
+  "page": 9,
+  "chapter": "目录",
+  "chapter_title": null,
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "第七十五回至第八十回章目",
+      "zh_modern": "第七十五回至第八十回章目",
+      "en": "Chapters 75-80",
+      "ru": "Главы 75-80",
+      "ja": "第七十五回至第八十回",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "附录",
+      "zh_modern": "附录",
+      "en": "Appendices",
+      "ru": "Приложения",
+      "ja": "附録",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "电子版校读札记",
+      "zh_modern": "电子版校读札记",
+      "en": "Electronic Edition Collation Notes",
+      "ru": "Примечания к сверке электронного издания",
+      "ja": "電子版校読札記",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "This page concludes the table of contents",
+    "Chapter 80 is the final chapter of Cao Xueqin's authentic text",
+    "Three appendices follow the main text",
+    "Electronic edition notes document the collation process"
+  ],
+  "research_notes": [
+    "The 80-chapter structure confirms this is the authentic version, not the 120-chapter Cheng-Gao continuation"
+  ],
+  "characters_appearing": [],
+  "total_segments": 3,
+  "manuscript_sources_on_page": []
+}
