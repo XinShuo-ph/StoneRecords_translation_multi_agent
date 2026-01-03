@@ -1,0 +1,224 @@
+{
+  "page": 60,
+  "chapter": "第四回",
+  "chapter_title": {
+    "original": "薄命女偏逢薄命郎 葫芦僧乱判葫芦案",
+    "zh_modern": "命薄的女子偏巧遇到命薄的男子，葫芦和尚糊涂判了葫芦案",
+    "en": "An Ill-Fated Girl Meets an Ill-Fated Man; The Gourd Monk Makes a Muddled Judgment of the Gourd Case",
+    "ru": "Девушка с несчастной судьбой встречает мужчину с несчастной судьбой; Монах-тыква выносит запутанный приговор по делу тыквы",
+    "ja": "薄命の女偏に薄命の郎に逢い、葫芦僧乱れて葫芦案を判ず"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "因此这李纨虽青春丧偶，且居处于膏粱锦绣之中，竟如槁木死灰一般，一概无见无闻，唯知侍亲养子，外则陪侍小姑等针黹诵读而已。今黛玉虽客寄于斯，日有这般姐妹相伴，除老父外，余者也就无庸虑及了。",
+      "zh_modern": "因此这李纨虽然青春丧偶，且居住在膏粱锦绣之中，竟如槁木死灰一般，一概无见无闻，只知侍奉婆婆养育儿子，在外则陪侍小姑们做针线活和读书而已。如今黛玉虽然客居于此，每日有这般姐妹相伴，除了老父亲外，其他的也就无需忧虑了。",
+      "en": "Thus, although Li Wan lost her husband in the bloom of youth and lived amid wealth and luxury, she was like dead wood or cold ashes—seeing nothing, hearing nothing, knowing only to serve her mother-in-law and raise her son, while outside she merely accompanied the young aunts in needlework and reading. Now that Daiyu was a guest here, with such sisters for daily company, aside from her elderly father, there was nothing else to worry about.",
+      "ru": "Таким образом, хотя Ли Вань потеряла мужа в расцвете юности и жила среди богатства и роскоши, она была как мёртвое дерево или холодный пепел — ничего не видя, ничего не слыша, зная только как служить свекрови и воспитывать сына, а снаружи она лишь сопровождала молодых тётушек в рукоделии и чтении. Теперь, когда Дайюй была гостьей здесь, с такими сёстрами для ежедневного общения, кроме её пожилого отца, не о чем было беспокоиться.",
+      "ja": "因りて此の李紈青春に偶を喪うと雖も、且つ膏粱錦繍の中に居処して、竟に槁木死灰の一般の如く、一概見ること無く聞くこと無し、唯親に侍し子を養うことを知るのみ、外は則ち小姑等の針黹誦読に陪侍するのみ。今黛玉客として斯に寄ると雖も、日に這般の姐妹相伴い有り、老父を除くの外、余の者も亦就ち庸に虑り及ぶ無し。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 竟如槁木死灰一般",
+          "original": "此时处此境，最能越理生事，彼竟不然，实罕见者。",
+          "zh_modern": "此时处于此种境地，最能越理生事，她竟然不如此，实属罕见。",
+          "en": "In such circumstances at such a time, one would most easily act unreasonably and cause trouble, yet she does not—truly rare.",
+          "ru": "В таких обстоятельствах в такое время легче всего действовать неразумно и создавать проблемы, но она этого не делает — поистине редко.",
+          "ja": "此の時此の境に処して、最も能く理を越えて事を生ず、彼竟に然らず、実に罕見の者なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "脂砚斋",
+          "position": "inline, after 一概无见无闻",
+          "original": "反有此等文章。",
+          "zh_modern": "反有此等文章。",
+          "en": "Yet there is such writing.",
+          "ru": "Однако есть такое письмо.",
+          "ja": "反て此の等の文章有り。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 唯知侍亲养子",
+          "original": "一段叙出李纨，不犯熙凤。",
+          "zh_modern": "这一段叙述李纨，不触犯熙凤。",
+          "en": "This paragraph describes Li Wan without encroaching on Xifeng.",
+          "ru": "Этот абзац описывает Ли Вань, не затрагивая Сифэн.",
+          "ja": "一段李紈を叙出して、熙鳳を犯さず。"
+        },
+        {
+          "type": "夹批",
+          "source": "脂砚斋",
+          "position": "inline, after 此中不得不有如此人",
+          "original": "天地覆载，何物不有？而才子手中，亦何物不有？",
+          "zh_modern": "天地覆载，什么东西没有？而才子手中，什么东西没有？",
+          "en": "What does heaven and earth not contain? And what does the talented writer not have in hand?",
+          "ru": "Что не содержат небо и земля? И чего нет в руках талантливого писателя?",
+          "ja": "天地覆載して、何物か有らざらん？而して才子の手中、亦何物か有らざらん？"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 日有这般姐妹相伴",
+          "original": "仍是从黛玉身上写来，以上了结住黛玉，复接前文。",
+          "zh_modern": "仍是从黛玉身上写来，以上了结住黛玉，再接前文。",
+          "en": "Still written from Daiyu's perspective; the above concludes Daiyu's part, then connects to the earlier text.",
+          "ru": "Всё ещё написано с точки зрения Дайюй; вышесказанное завершает часть Дайюй, затем соединяется с более ранним текстом.",
+          "ja": "仍ち是れ黛玉の身上より写し来る、以上黛玉を了結住し、復た前文に接す。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "如今且说贾雨村，因补授了应天府，一下马，就有一件人命官司详至案下，乃是两家争买一婢，各不相让，以致殴伤人命。彼时雨村即问原告。那原告道：「被殴死者乃小人之主人。因那日买了一个丫头，不想系拐子所拐来卖的。这拐子先已得了我家银子，我家小爷原说第三日方是好日子，再接入门。谁知所谓『迟则有变』，往往世人因不经之谈误却大事。这拐子便又悄悄的卖与了薛家，被我们知道了，去找那卖主夺取丫头。无奈薛家原系金陵一霸，倚财仗势，众豪奴将我主人竟打死了。凶身主仆已皆逃走，无影无踪，只剩了几个局外之人。小人告了一年的状，竟无人作主。望大老爷拘拿凶犯，剪恶除凶，以救孤寡，死者感戴天恩不尽！」",
+      "zh_modern": "如今且说贾雨村，因为补授了应天府的官职，一下马，就有一件人命官司详细报告到案前，是两家争买一个婢女，各不相让，以致殴打伤了人命。当时雨村就问原告。那原告说：「被殴打死的是小人的主人。因为那天买了一个丫头，不想是拐子所拐来卖的。这拐子先已经得了我家银子，我家小爷原说第三天才是好日子，再接进门。谁知所谓『迟则有变』，往往世人因不经意的话误了大事。这拐子便又悄悄地卖给了薛家，被我们知道了，去找那卖主夺取丫头。无奈薛家原是金陵一霸，倚财仗势，众豪奴竟把我主人打死了。凶身主仆都已逃走，无影无踪，只剩了几个局外的人。小人告了一年的状，竟无人作主。望大老爷拘拿凶犯，剪除凶恶，以救孤寡，死者感戴天恩不尽！」",
+      "en": "Now let us speak of Jia Yucun. Because he had been appointed to Yingtian Prefecture, as soon as he arrived, there was a murder case brought before him. It concerned two families fighting to buy a maidservant, neither willing to yield, resulting in a fatal beating. Yucun immediately questioned the plaintiff. The plaintiff said: 'The one beaten to death was my master. On that day he bought a maid, not knowing she had been kidnapped and sold by a trafficker. The trafficker had already received our family's silver, and my young master said the third day would be an auspicious day to bring her in. Who knew that as the saying goes, \"delay breeds change\"—often people's casual talk leads to ruined affairs. The trafficker then secretly sold her again to the Xue family. When we found out, we went to the seller to take back the maid. But the Xue family were originally the tyrants of Jinling, relying on their wealth and power. Their brutal servants beat my master to death. The murderer and his servants have all fled, vanished without a trace, leaving only a few uninvolved people. I have been filing complaints for a year, but no one would hear the case. I beg Your Honor to arrest the criminals, root out this evil, and save the widows and orphans. The dead will be eternally grateful for your heavenly grace!'",
+      "ru": "Теперь поговорим о Цзя Юйцуне. Поскольку он был назначен в префектуру Интянь, как только он прибыл, перед ним было представлено дело об убийстве. Речь шла о двух семьях, борющихся за покупку служанки, ни одна не уступала, что привело к смертельному избиению. Юйцунь немедленно допросил истца. Истец сказал: «Избитый до смерти был моим хозяином. В тот день он купил служанку, не зная, что она была похищена и продана торговцем людьми. Торговец уже получил серебро нашей семьи, и мой молодой господин сказал, что третий день будет благоприятным днём для её привода. Кто знал, что, как говорится, «промедление порождает перемены» — часто случайные разговоры людей ведут к погубленным делам. Торговец затем тайно продал её снова семье Сюэ. Когда мы узнали, мы пошли к продавцу забрать служанку. Но семья Сюэ были изначально тиранами Цзиньлина, полагаясь на своё богатство и власть. Их жестокие слуги забили моего хозяина до смерти. Убийца и его слуги все сбежали, исчезли без следа, оставив только нескольких непричастных людей. Я подавал жалобы целый год, но никто не рассматривал дело. Умоляю Вашу Честь арестовать преступников, искоренить это зло и спасти вдов и сирот. Мёртвые будут вечно благодарны за вашу небесную милость!»",
+      "ja": "如今且く賈雨村を説かん、補授して応天府に至るに因り、一たび下馬すれば、就ち一件の人命官司有りて案下に詳至す、乃ち是れ両家一婢を争い買いて、各相讓らず、以て殴傷人命を致す。彼の時雨村即ち原告に問う。那の原告道う：「殴死せらるる者は乃ち小人の主人なり。因りて那の日一個の丫頭を買い、想わざりき拐子の拐し来りて売る所の者なるを。這の拐子先已に我が家の銀子を得、我が家の小爺原説く第三日方に是れ好日子にして、再び接して門に入れんと。誰か知らん謂う所の『遅ければ則ち変有り』、往往世人不経の談に因りて大事を誤却す。這の拐子便ち又悄悄と薛家に売与し、我等に知られ、彼の売主を去き找して丫頭を奪取せんとす。奈何とも薛家原系金陵の一霸にして、財を倚り勢を仗み、衆豪奴我が主人を将て竟に打死せり。凶身主僕已に皆逃走し、影も踪も無く、只幾個の局外の人を剩すのみ。小人一年の状を告せしも、竟に人の主と作る無し。大老爺の凶犯を拘拿し、悪を剪り凶を除き、以て孤寡を救い、死者天恩を感戴すること尽きざらんことを望む！」",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂砚斋",
+          "position": "inline, after 两家争买一婢",
+          "original": "非两村难以了结此案。",
+          "zh_modern": "非两村难以了结此案。",
+          "en": "Without Yucun, this case would be difficult to conclude.",
+          "ru": "Без Юйцуня это дело было бы трудно закрыть.",
+          "ja": "両村に非ざれば以て此の案を了結し難し。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 迟则有变",
+          "original": "所谓「迟则有变」，往往世人因不经之谈误却大事。",
+          "zh_modern": "所谓「迟则有变」，往往世人因不经意的话误了大事。",
+          "en": "The saying 'delay breeds change'—often people ruin great matters through careless talk.",
+          "ru": "Поговорка «промедление порождает перемены» — часто люди губят великие дела необдуманными словами.",
+          "ja": "謂う所の「遅ければ則ち変有り」、往往世人不経の談に因りて大事を誤却す。"
+        },
+        {
+          "type": "夹批",
+          "source": "脂砚斋",
+          "position": "inline, after 众豪奴将我主人竟打死了",
+          "original": "一派世境恶习活现。",
+          "zh_modern": "一派世境恶习活现。",
+          "en": "The evil customs of worldly society are vividly portrayed.",
+          "ru": "Злые обычаи мирского общества живо изображены.",
+          "ja": "一派の世境悪習活現す。"
+        },
+        {
+          "type": "夹批",
+          "source": "脂砚斋",
+          "position": "inline, after 只剩了几个局外之人",
+          "original": "悲夫！千古世情，不过如此。",
+          "zh_modern": "悲夫！千古世情，不过如此。",
+          "en": "Alas! The way of the world throughout the ages is no more than this.",
+          "ru": "Увы! Таковы законы мира во все времена.",
+          "ja": "悲しいかな！千古の世情、此の如きに過ぎず。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "雨村听了大怒道：「岂有这样放屁的事！打死人命就白白的走了，再拿不来的？」因发签差公人立刻将凶犯族中人拿来拷问，令他们实供藏在何处，一面再动海捕文书。正要发签时，只见案边立着一个门子，使眼色儿不令他发签之意。雨村心中甚是疑怪，即时退堂，至密室，使从皆退去，只留下门子一人伏侍。这门子忙上来请安，笑问：「老爷一向加官进禄，八九年来就忘了我了？」雨村道：「却十分面善得紧，只是一时想不起来。」那门子笑道：「老爷真是贵人多忘事，把出身之地竟忘了，",
+      "zh_modern": "雨村听了大怒道：「岂有这样放屁的事！打死人命就白白地走了，再拿不来的？」于是发签差公人立刻将凶犯族中人拿来拷问，令他们实供藏在何处，一面再动海捕文书。正要发签时，只见案边立着一个门子，使眼色儿不让他发签的意思。雨村心中甚是疑怪，当即退堂，到密室，使从皆退去，只留下门子一人伏侍。这门子忙上来请安，笑着问：「老爷一向加官进禄，八九年来就忘了我了？」雨村道：「却十分面善得紧，只是一时想不起来。」那门子笑道：「老爷真是贵人多忘事，把出身之地竟忘了，",
+      "en": "Hearing this, Yucun flew into a rage: 'How can there be such nonsense! He kills someone and just walks away, never to be caught?' He then issued a warrant ordering officers to immediately arrest and interrogate the murderer's clansmen, making them confess where he was hiding, while also issuing a nationwide arrest warrant. Just as he was about to issue the warrant, he saw a doorman standing by the table making eye signals not to issue it. Yucun was greatly puzzled. He immediately adjourned the court and went to a private chamber, dismissing all attendants except the doorman. The doorman hurried up to pay his respects, asking with a smile: 'Your Honor has been advancing in rank and salary—after eight or nine years, have you forgotten me?' Yucun said: 'Your face is very familiar, but I can't recall at the moment.' The doorman laughed and said: 'Your Honor is truly a noble person who forgets much—you've even forgotten where you came from,",
+      "ru": "Услышав это, Юйцунь пришёл в ярость: «Как может быть такая чушь! Он убивает человека и просто уходит, и его никогда не поймают?» Затем он выдал ордер, приказывая офицерам немедленно арестовать и допросить родственников убийцы, заставив их признаться, где он прячется, одновременно выдавая общенациональный ордер на арест. Как только он собирался выдать ордер, он увидел привратника, стоящего у стола и делающего знаки глазами, чтобы не выдавать его. Юйцунь был очень озадачен. Он немедленно отложил заседание и пошёл в частную комнату, отпустив всех слуг, кроме привратника. Привратник поспешил выразить почтение, спрашивая с улыбкой: «Ваша Честь продвигалась в звании и жалованье — за восемь или девять лет вы забыли меня?» Юйцунь сказал: «Ваше лицо очень знакомо, но я не могу вспомнить в данный момент.» Привратник засмеялся и сказал: «Ваша Честь поистине благородный человек, который многое забывает — вы даже забыли, откуда вы пришли,",
+      "ja": "雨村聴き了りて大いに怒りて道う：「豈此の様の放屁の事有らんや！人命を打死して就ち白白に走り、再び拿え来るべからざるか？」因りて簽を発し公人を差して立刻に凶犯族中の人を将て来り拷問し、彼等をして実に何処に藏せるかを供せしめ、一面再び海捕文書を動かす。正に簽を発せんとする時、只案辺に立つ一個の門子を見、眼色を使して彼をして簽を発せしめざるの意あり。雨村心中甚だ疑怪す、即時退堂し、密室に至り、従をして皆退かしめ、只門子一人を留下して伏侍せしむ。這の門子忙しく上り来りて安を請い、笑いて問う：「老爺一向に官を加え禄を進め、八九年来就ち我を忘れしか？」雨村道う：「却て十分面善緊を得、只是れ一時想い起こすこと能わず。」那の門子笑いて道う：「老爺真に是れ貴人多く事を忘る、出身の地を把して竟に忘れ了り、",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂砚斋",
+          "position": "inline, after 岂有这样放屁的事",
+          "original": "偏能用反映法。",
+          "zh_modern": "偏能用反映法。",
+          "en": "Employing the technique of ironic reflection.",
+          "ru": "Применяя технику иронического отражения.",
+          "ja": "偏に能く反映法を用う。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 雨村心中甚是疑怪",
+          "original": "原可疑怪，余亦疑怪。",
+          "zh_modern": "原可疑怪，我也疑怪。",
+          "en": "Indeed it is suspicious and strange—I too find it suspicious and strange.",
+          "ru": "Действительно это подозрительно и странно — я тоже нахожу это подозрительным и странным.",
+          "ja": "原より疑怪すべし、余も亦疑怪す。"
+        },
+        {
+          "type": "夹批",
+          "source": "脂砚斋",
+          "position": "inline, after 使从皆退去",
+          "original": "清看文字逮出逮转，闘中皆是要笔。",
+          "zh_modern": "请看文字逮出逮转，闘中皆是要笔。",
+          "en": "Note how the writing catches and turns—every point is essential.",
+          "ru": "Обратите внимание, как письмо ловит и поворачивает — каждая точка существенна.",
+          "ja": "清く文字の逮出逮転を看よ、闘中皆是れ要筆なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 老爷一向加官进禄",
+          "original": "语气傲慢，怪哉！",
+          "zh_modern": "语气傲慢，怪哉！",
+          "en": "The tone is arrogant—how strange!",
+          "ru": "Тон высокомерный — как странно!",
+          "ja": "語気傲慢なり、怪しいかな！"
+        },
+        {
+          "type": "夹批",
+          "source": "脂砚斋",
+          "position": "inline, after 面善得紧",
+          "original": "似闘语，是要人。",
+          "zh_modern": "似闘语，是要人。",
+          "en": "Sounds like test words—this is an important person.",
+          "ru": "Звучит как проверочные слова — это важный человек.",
+          "ja": "闘語に似る、是れ要人なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 贵人多忘事",
+          "original": "刺心语。自招其祸，亦因奋能待才也。",
+          "zh_modern": "刺心语。自招其祸，亦因奋能待才也。",
+          "en": "Words that pierce the heart. He brings misfortune upon himself, also because of his striving for recognition.",
+          "ru": "Слова, пронзающие сердце. Он навлекает несчастье на себя, также из-за своего стремления к признанию.",
+          "ja": "刺心の語なり。自ら其の禍を招く、亦奮能待才に因るなり。"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "This is the beginning of Chapter 4, introducing the famous 'Gourd Case' (葫芦案)",
+    "The chapter title contains wordplay: 葫芦 (gourd) sounds like 糊涂 (muddled/confused)",
+    "The kidnapped girl is Yinglian (英莲/香菱), Zhen Shiyin's lost daughter from Chapter 1",
+    "The Xue family mentioned is Xue Pan's family - the same family being introduced to the Jia household",
+    "This case shows Jia Yucun's moral corruption as he will compromise justice for power",
+    "The doorman is a former monk from the Gourd Temple where Jia Yucun once stayed",
+    "「贵人多忘事」(nobles forget much) is a sarcastic reminder of Yucun's humble origins"
+  ],
+  "research_notes": [
+    "应天府 (Yingtian Prefecture) corresponds to modern Nanjing",
+    "The case connects multiple plot threads: Yinglian's kidnapping, Xue Pan's crime, and Yucun's corruption",
+    "The Xue family's description as '金陵一霸' (tyrants of Jinling) foreshadows their role in the story",
+    "海捕文书 refers to a nationwide arrest warrant in Qing dynasty legal practice",
+    "The doorman's reminder of Yucun's 'place of origin' refers to the Gourd Temple",
+    "This chapter exposes the corruption of the Qing judicial system through the metaphor of the 'gourd'"
+  ],
+  "characters_appearing": [
+    "李纨 (Li Wan)",
+    "林黛玉 (Lin Daiyu - mentioned)",
+    "贾雨村 (Jia Yucun)",
+    "门子/旧僧 (The Doorman/Former Monk)",
+    "薛蟠 (Xue Pan - the murderer, not named)",
+    "英莲/香菱 (Yinglian/Xiangling - the kidnapped girl, not named)"
+  ],
+  "total_segments": 3,
+  "manuscript_sources_on_page": ["甲戌本", "脂砚斋"]
+}
