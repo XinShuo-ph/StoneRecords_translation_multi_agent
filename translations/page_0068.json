@@ -1,0 +1,82 @@
+{
+  "page": 68,
+  "chapter": "第四回",
+  "chapter_title": {
+    "original": "薄命女偏逢薄命郎 葫芦僧乱判葫芦案",
+    "zh_modern": "薄命女偏逢薄命郎，葫芦僧胡乱判断葫芦案",
+    "en": "The Ill-Fated Girl by Chance Meets an Ill-Fated Man; The Monk from the Gourd Temple Judgmentally Settles the Gourd Case",
+    "ru": "Несчастная дева встречает несчастного юношу; Монах из тыквы судит дело о тыкве",
+    "ja": "薄命の女は偏（ひとえ）に薄命の郎（おとこ）に逢い、葫芦（ころ）の僧は乱りに葫芦の案を判ず"
+  },
+  "page_content_type": "prose",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 68,
+      "type": "prose",
+      "original": "雨村断了此案，急忙作书二封，与贾政并京营节度使王子腾，不过说“令甥之事已完，不必过虑”等语。",
+      "zh_modern": "雨村断了此案，急忙写了两封信，给贾政和京营节度使王子腾，无非是说“令甥的事情已经办完，不必过分担心”之类的话。",
+      "en": "Yucun judged the case and hurriedly wrote two letters to Jia Zheng and the Commander-in-Chief of the Capital Camp, Wang Ziteng, saying nothing more than \"Your nephew's matter has been concluded; there is no need to worry excessively.\"",
+      "ru": "Юйцунь вынес решение по делу и спешно написал два письма Цзя Чжэну и Ван Цзытэну, главнокомандующему столичным гарнизоном, в которых говорилось лишь: «Дело вашего племянника улажено, не стоит чрезмерно беспокоиться».",
+      "ja": "雨村はこの案を断じ、急忙（いそい）で書二封を作（したた）め、賈政並びに京営節度使王子騰に与え、不过（ただ）「令甥（れいせい）の事已（すで）に完（おわ）りぬ、過慮（かりょ）するに必（およ）ばず」等の語を説くのみ。"
+    },
+    {
+      "id": 2,
+      "pdf_page": 68,
+      "type": "prose",
+      "original": "此事皆由葫芦庙内之沙弥所出，雨村又恐他对人说出当日贫贱时故事来，因此心中大不乐业。后来到底寻了个不是，远远的充发了他才罢。",
+      "zh_modern": "这件事都是由葫芦庙里的小沙弥出的主意，雨村又恐怕他对别人说出自己当年贫贱时的故事来，因此心里很不痛快。后来到底找了个过失，把他远远地发配充军才算完。",
+      "en": "This entire affair had been devised by the novice monk from the Gourd Temple. Yucun feared that he might tell others about his days of poverty and low status, so he felt very uneasy. Later, he eventually found a pretext to find fault with him and exiled him to a distant place, only then letting the matter rest.",
+      "ru": "Все это дело было придумано послушником из храма Хулу. Юйцунь опасался, что тот может рассказать другим о его днях бедности, поэтому чувствовал себя очень неспокойно. Позже он в конце концов нашел предлог, чтобы обвинить его в проступке, и сослал его в отдаленное место; только тогда он успокоился.",
+      "ja": "此事（このこと）は皆葫芦廟内の沙弥より出（い）づるも、雨村はまた彼が人に対して当日貧賤なりし時の故事を説き出さんことを恐れ、因って心中大いに楽業（らくぎょう）ならず。后来（のち）到底（ついに）個（ひとつ）の不是（非）を尋ね、遠遠（とだとだ）しく彼を充発（流罪）して才（はじ）めて罷（や）みぬ。"
+    },
+    {
+      "id": 3,
+      "pdf_page": 68,
+      "type": "prose",
+      "original": "且说薛蟠，虽买了英莲，到底一文不给，便带着母亲和妹子急急起程。",
+      "zh_modern": "再说那薛蟠，虽然买了英莲，终究是一文钱也没给，便带着母亲和妹妹急急忙忙启程了。",
+      "en": "To speak of Xue Pan: although he had bought Yinglian, in the end he did not pay a single coin, and hurriedly set off on his journey with his mother and sister.",
+      "ru": "Что касается Сюэ Паня, то, хотя он и купил Инлянь, в конце концов он не заплатил ни гроша и поспешно отправился в путь с матерью и сестрой.",
+      "ja": "且（しばら）く説く、薛蟠は、英蓮を買うと虽（いえど）も、到底（ついに）一文も給せず、便（すなわ）ち母親と妹子を帯（つ）れ急急（いそいそ）として程（みち）を起（た）つ。"
+    }
+  ],
+  "commentary": [
+    {
+      "type": "interlinear",
+      "source": "Zhiping",
+      "original": "心中大不乐业（甲戌侧批：奸雄大概如此。虽是了结雨村，然写得入木三分。）",
+      "translation_en": "(Jiaxu Side Note: Treacherous heroes are mostly like this. Although this concludes [the subplot of] Yucun, it is written with profound depth.)",
+      "position": "segment_2"
+    },
+    {
+      "type": "interlinear",
+      "source": "Zhiping",
+      "original": "寻了个不是，远远的充发了他（甲戌侧批：卸磨杀驴，尚可言也；这只怕是灭口了。）",
+      "translation_en": "(Jiaxu Side Note: 'Slaughtering the donkey after grinding the flour' is one thing; this, I fear, is silencing a witness.)",
+      "position": "segment_2"
+    }
+  ],
+  "translator_notes": [
+    {
+      "original_term": "充发",
+      "english_translation": "Exile / Banishment",
+      "explanation": "A punishment where a criminal is sent to a distant border region to serve in the military or do hard labor."
+    }
+  ],
+  "research_notes": [
+    {
+      "topic": "Jia Yucun's Betrayal",
+      "content": "Yucun's treatment of the monk (who helped him solve the case) solidifies his characterization as a ruthless opportunist ('Jian Xiong'). He values his reputation and career over gratitude or justice."
+    }
+  ],
+  "characters_appearing": [
+    "Jia Yucun (贾雨村)",
+    "The Attendant/Monk (门子/沙弥)",
+    "Xue Pan (薛蟠)"
+  ],
+  "manuscript_sources_on_page": [
+    "Jiaxu (甲戌本)",
+    "Gengchen (庚辰本)"
+  ]
+}
