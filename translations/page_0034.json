@@ -1,0 +1,198 @@
+{
+  "page": 34,
+  "chapter": "第二回",
+  "chapter_title": {
+    "original": "贾夫人仙逝扬州城 冷子兴演说荣国府",
+    "zh_modern": "贾夫人在扬州城去世，冷子兴讲述荣国府的情况",
+    "en": "Lady Jia Dies in Yangzhou; Leng Zixing Describes the Rong-guo House",
+    "ru": "Госпожа Цзя умирает в Янчжоу; Лэн Цзысин описывает Дом Жунго",
+    "ja": "賈夫人揚州城に仙逝し、冷子興栄国府を演説す"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 34,
+      "type": "dialogue",
+      "original": "无甚紧事，且盘桓两日，待月半时也就起身了。今日敝友有事，我因闲步至此，且歇歇脚。不期这样巧遇！」一面说，一面让雨村同席坐了，另整上酒肴来。二人闲谈慢饮，叙些别后之事。",
+      "zh_modern": "没有什么紧急的事，且盘桓两日，等月半时也就动身了。今天敝友有事，我因为闲步走到这里，且歇歇脚。没想到这样巧遇！」一边说，一边让雨村同席坐了，另外整理上酒菜来。二人闲谈慢饮，叙说些别后的事情。",
+      "en": "'Nothing urgent—I'm lingering here for a couple of days, and will set off around the middle of the month. Today my humble friend had business, so I took a leisurely stroll here to rest my feet. What a fortunate encounter this is!' As he spoke, he invited Yucun to sit at his table, and ordered wine and dishes. The two chatted idly and drank slowly, catching up on events since their last meeting.",
+      "ru": "'Ничего срочного—я задерживаюсь здесь на пару дней и отправлюсь около середины месяца. Сегодня у моего скромного друга были дела, поэтому я прогулялся сюда, чтобы отдохнуть. Какая удачная встреча!' Говоря это, он пригласил Юйцуня сесть за его стол и заказал вино и блюда. Двое беседовали непринуждённо и пили медленно, обсуждая события после их последней встречи.",
+      "ja": "「甚だ緊なる事無く、且つ盤桓すること両日、月半を待ちて也た起身せん。今日敝友事あり、我閑歩に因りて此に至り、且つ歇き脚す。期せずしてこの様巧遇せり」と。一面に説き、一面に雨村をして同席せしめ坐らしめ、另に酒肴を整え上ぐ。二人閑談慢飲し、些か別後の事を叙す。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 叙些别后之事",
+          "original": "闲好！若多波剧贵着。",
+          "zh_modern": "闲笔好啊！若是多写就显得累赘了。",
+          "en": "A fine casual stroke! Writing more would be burdensome.",
+          "ru": "Прекрасный небрежный штрих! Писать больше было бы обременительно.",
+          "ja": "閑好し！若し多く波剧すれば貴ぶこと著し。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "闲又描一笔。",
+          "zh_modern": "闲笔又描一笔。",
+          "en": "Another casual descriptive stroke.",
+          "ru": "Ещё один небрежный описательный штрих.",
+          "ja": "閑また一筆を描く。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pdf_page": 34,
+      "type": "dialogue",
+      "original": "雨村因问：「近日都中可有新闻否？」子兴道：「倒没有什么新闻，倒是老先生你贵同宗家，闲出村已是谈中美，何无也那？看他下走。出了一件小小的异事。」雨村笑道：「弟族中无人在都，何谈及此？」子兴笑道：「你们同姓，岂非同宗一族？」雨村问是谁家。",
+      "zh_modern": "雨村因此问道：「近日都中可有新闻吗？」子兴说：「倒没有什么新闻，倒是老先生您贵同宗家，闲聊中出了一件美谈，为什么不说呢？看他下走。出了一件小小的奇异事情。」雨村笑道：「弟族中无人在都城，怎么谈到这个？」子兴笑道：「你们同姓，难道不是同宗一族吗？」雨村问是谁家。",
+      "en": "Yucun then asked, 'Has there been any news in the capital recently?' Zixing said, 'Nothing much by way of news, but there is your honored clan—a small strange matter has occurred in a household of your noble surname.' Yucun laughed, 'I have no clansmen in the capital—why speak of such things?' Zixing smiled, 'You share the same surname—are you not of the same clan?' Yucun asked whose family it was.",
+      "ru": "Юйцунь тогда спросил: 'Были ли какие-нибудь новости в столице в последнее время?' Цзысин сказал: 'Ничего особенного в плане новостей, но есть ваш почтённый клан—небольшое странное происшествие случилось в семье вашей благородной фамилии.' Юйцунь рассмеялся: 'У меня нет родственников в столице—зачем говорить о таких вещах?' Цзысин улыбнулся: 'Вы носите ту же фамилию—разве вы не из того же клана?' Юйцунь спросил, чья это семья.",
+      "ja": "雨村因りて問えり、「近日都中可なるや新聞有るか」と。子興道えり、「倒って何の新聞も無く、倒って是れ老先生貴き同宗の家、閑に出で村已に是れ談中の美、何ぞ無きや也た那？彼の下走を看る。一件の小小の異事を出だせり」と。雨村笑いて道えり、「弟族中都に人無し、何ぞ此に談ずるか」と。子興笑いて道えり、「汝ら同姓なり、豈に非ずや同宗一族なるか」と。雨村問う是れ誰家なるかと。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 倒是老先生你贵同宗家",
+          "original": "闲又美然，赤然问贵愁之文子。",
+          "zh_modern": "闲笔又写得美妙，巧妙地引出贵族之家的话题。",
+          "en": "Another fine casual stroke, cleverly introducing the topic of the noble family.",
+          "ru": "Ещё один прекрасный небрежный штрих, ловко вводящий тему благородной семьи.",
+          "ja": "閑また美然たり、赤た貴愁の文子を問う然り。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 闲出村已是谈中美何无也那看他下走",
+          "original": "闲也那？看他下走。",
+          "zh_modern": "闲笔那？看他怎么接下去。",
+          "en": "A casual stroke? Let's see how he proceeds.",
+          "ru": "Небрежный штрих? Посмотрим, как он продолжит.",
+          "ja": "閑也た那？彼の下走を看る。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "pdf_page": 34,
+      "type": "dialogue",
+      "original": "子兴道：「荣国府贾府中，可也不讲究了先生的门祯了？」闲封小人之心问，闲小人之口用。雨村笑道：「原来是他家。若论起来，寒族人丁却不少，自东汉贾复以来，支派繁盛，各省皆有，闲也话顺兴，赤然谏是荣国人谈。闲也如也其笔，谁能逐细考查否？若论荣国一支，却是同谱。但他那荣耀，我们不便去攀扯，至今破发生孤流认了。」子兴叹道：「老先生休如此说。如今这荣国两门，也都萧疏了，不比先时的光景。」闲也谱光句，可知者者之交府的美是也了。雨村道：「当日宁荣两宅的人口极多，如何就萧疏了？」闲封作者之爱爵只写他，也已是贸析之火也了。冷子兴道：「正是，说来也话长。」雨村道：「去岁我到金陵地界，因欲游览六朝遗迹，那日进了石头城，闲也得时神妙。从他老宅门前经过，街东是宁国府，街西是荣国府，二宅相连，竟将大半条街占了。大门前虽冷落落无人，闲封好！写出冷也，隔着围墙一望，里面殿阁嵯峨，就是后闲「石」字何不见用「西」字？闲封先生斯润，就不斯用「西」字。一带花园子里，树木山石，也还都有翡翠蒻洞泫之气，那里像个衰败之家？」",
+      "zh_modern": "子兴说：「荣国府贾府中，难道也不讲究先生的门第了吗？」闲笔写小人之心问，闲笔写小人之口用。雨村笑道：「原来是他家啊。若论起来，寒族人丁却不少，自东汉贾复以来，支派繁盛，各省都有，闲笔顺着兴致写，巧妙地引出荣国府的话题。闲笔如此其笔法，谁能逐一细致考查呢？若论荣国一支，却是同谱。但他那荣耀，我们不便去攀附，至今已经成为孤流认同了。」子兴叹道：「老先生不要这样说。如今这荣国两门，也都萧疏了，不比先前的光景。」闲笔写光景句，可以知道贾府的美好已经过去了。雨村道：「当日宁荣两宅的人口极多，怎么就萧疏了呢？」闲笔写作者对贾府的爱惜只写他们，也已经是贸易析分之火也了。冷子兴道：「正是，说起来也话长。」雨村道：「去年我到金陵地界，因为想要游览六朝遗迹，那天进了石头城，闲笔也写得很神妙。从他老宅门前经过，街东是宁国府，街西是荣国府，两宅相连，竟然占了大半条街。大门前虽然冷冷落落没有人，闲笔好！写出冷落之感，隔着围墙一望，里面殿阁嵯峨，就是后面那「石」字为什么不见用「西」字？闲笔先生斯文润泽，就不随便用「西」字。一带花园子里，树木山石，也还都有翡翠蓊郁的气息，哪里像个衰败之家？」",
+      "en": "'The Rong-guo House of the Jia clan—surely you've heard of your distinguished kinsmen?' [Commentary notes the technique.] Yucun laughed, 'Ah, so it's that family. If we trace the lineage, we humble clansmen are not few—since Jia Fu of the Eastern Han, the branches have flourished and spread to every province. [Commentary on narrative technique.] As for the Rong-guo branch, we do share the genealogy. But their glory is not for us to claim connection with—by now we've become an isolated branch.' Zixing sighed, 'Sir, don't speak thus. Nowadays these two households of Ning and Rong are also in decline, not what they once were.' [Commentary notes this foreshadows their fall.] Yucun said, 'In those days, the two households of Ning and Rong had huge populations—how could they have declined so?' [Commentary on the author's affection.] Leng Zixing said, 'Indeed, it's a long story.' Yucun said, 'Last year when I reached the Jinling region, wanting to visit the Six Dynasties sites, I entered Stone City one day. [Commentary praises the writing.] Passing by their old mansion gate, the Ning-guo House was on the east side of the street, the Rong-guo House on the west, the two estates adjoining and occupying most of the street. Though the front gates were cold and deserted, [Commentary notes the desolation,] looking over the wall, inside the halls and pavilions towered magnificently, and behind in the garden area, the trees, rocks and hills still had an air of emerald luxuriance—how could it seem like a declining household?'",
+      "ru": "'Дом Жунго клана Цзя—наверняка вы слышали о ваших знатных родственниках?' [Комментарий отмечает технику.] Юйцунь рассмеялся: 'А, так это та семья. Если проследить родословную, нас, скромных родственников, немало—со времён Цзя Фу из Восточной Хань ветви процветали и распространились по всем провинциям. [Комментарий о повествовательной технике.] Что касается ветви Жунго, мы действительно разделяем генеалогию. Но их слава не для нас, чтобы претендовать на связь—к настоящему времени мы стали изолированной ветвью.' Цзысин вздохнул: 'Господин, не говорите так. В наши дни эти два дома Нин и Жун также в упадке, не то, что когда-то были.' [Комментарий отмечает, что это предвещает их падение.] Юйцунь сказал: 'В те дни два дома Нин и Жун имели огромное население—как они могли прийти в упадок?' [Комментарий о привязанности автора.] Лэн Цзысин сказал: 'Действительно, это долгая история.' Юйцунь сказал: 'В прошлом году, когда я достиг района Цзиньлин, желая посетить места Шести Династий, я вошёл в Каменный Город однажды. [Комментарий хвалит письмо.] Проходя мимо ворот их старого особняка, Дом Нингó был на восточной стороне улицы, Дом Жунго на западной, два поместья примыкали друг к другу и занимали большую часть улицы. Хотя передние ворота были холодными и пустынными, [Комментарий отмечает запустение,] глядя через стену, внутри залы и павильоны возвышались великолепно, а сзади в садовой зоне деревья, скалы и холмы всё ещё имели вид изумрудной пышности—как это могло выглядеть как приходящее в упадок хозяйство?'",
+      "ja": "子興道えり、「栄国府賈府中、可なるや也た講究せざるか先生の門祯を」と。閑に小人の心を封じて問い、閑に小人の口を用う。雨村笑いて道えり、「原来是れ彼の家なり。若し論じ起こせば、寒族人丁却って少なからず、東漢の賈復より以来、支派繁盛し、各省皆有り、閑も話順に興し、赤た謹んで是れ栄国人の談なり。閑も如く也た其の筆、誰か能く逐いて細かに考査するか否や？若し栄国一支を論ずれば、却って是れ同譜なり。但し彼の那の栄耀、我らは便ち去りて攀じ扯くべからず、今に至りて破発して孤流と認めたり」と。子興嘆じて道えり、「老先生休めよ此の如く説くを。如今この栄国両門、也た都て蕭疎なり、先時の光景に比すべからず」と。閑も譜光の句、知るべし者の交府の美是れ也た了れるを。雨村道えり、「当日寧栄両宅の人口極めて多し、如何ぞ就ち蕭疎なるか」と。閑に作者の愛爵を封じて只だ彼を写し、也た已に是れ貿析の火也た了れり。冷子興道えり、「正に是れ、説き来たるも也た話長し」と。雨村道えり、「去歳我金陵地界に到り、六朝遺蹟を遊覧せんと欲するに因り、那の日石頭城に進み、閑も得て時に神妙なり。彼の老宅門前を経過し、街東は是れ寧国府、街西は是れ栄国府、二宅相連なり、竟に大半条の街を占めたり。大門前冷落落として人無しと雖も、閑に封じて好し！冷を写し出だす也た、隔てて囲牆を望めば、里面殿閣嵯峨たり、就ち是れ後の閑「石」字何ぞ見て用いざるか「西」字を？閑に先生斯潤を封じ、就ち斯ち用いざるなり「西」字を。一帯の花園子の里、樹木山石、也た還た都て翡翠蒻洞泫の気有り、那の里個の衰敗の家に像るか」と。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 可也不讲究了先生的门祯了",
+          "original": "闲封小人之心问，闲小人之口用。",
+          "zh_modern": "闲笔写小人之心发问，闲笔写小人之口所用。",
+          "en": "Casual stroke expressing petty thoughts in questions, casual stroke using petty speech.",
+          "ru": "Небрежный штрих, выражающий мелочные мысли в вопросах, небрежный штрих, использующий мелочную речь.",
+          "ja": "閑に小人の心を封じて問い、閑に小人の口を用う。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "闲也话顺兴，赤然谏是荣国人谈。",
+          "zh_modern": "闲笔顺着兴致写，巧妙地引出荣国府人的话题。",
+          "en": "Casual stroke following the flow of interest, cleverly introducing the topic of the Rong-guo people.",
+          "ru": "Небрежный штрих, следующий потоку интереса, ловко вводящий тему людей Жунго.",
+          "ja": "閑も話順に興し、赤た謹んで是れ栄国人の談なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 不比先时的光景",
+          "original": "闲也譜光句，可知者者之交府的美是也了。",
+          "zh_modern": "闲笔写光景之句，可以知道贾府的美好已经过去了。",
+          "en": "Casual stroke on the scene, showing that the beauty of the Jia household has passed.",
+          "ru": "Небрежный штрих о сцене, показывающий, что красота дома Цзя прошла.",
+          "ja": "閑も譜光の句、知るべし者の交府の美是れ也た了れるを。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 如何就萧疏了",
+          "original": "闲封作者之爱爵只写他，也已是贸析之火也了。",
+          "zh_modern": "闲笔写作者对贾府的爱惜只写他们，也已经是分析贸易之火了。",
+          "en": "Casual stroke showing the author's affection for them, now analyzing the flames of commerce.",
+          "ru": "Небрежный штрих, показывающий привязанность автора к ним, теперь анализирующий пламя торговли.",
+          "ja": "閑に作者の愛爵を封じて只だ彼を写し、也た已に是れ貿析の火也た了れり。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 那日进了石头城",
+          "original": "闲也得时神妙。",
+          "zh_modern": "闲笔也写得很神妙。",
+          "en": "The casual stroke is also wonderfully written.",
+          "ru": "Небрежный штрих также замечательно написан.",
+          "ja": "閑も得て時に神妙なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 大门前虽冷落落无人",
+          "original": "闲封好！写出冷也。",
+          "zh_modern": "闲笔好啊！写出冷落之感。",
+          "en": "Fine casual stroke! Captures the desolation.",
+          "ru": "Прекрасный небрежный штрих! Передаёт запустение.",
+          "ja": "閑に封じて好し！冷を写し出だす也た。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 就是后闲「石」字何不见用「西」字",
+          "original": "闲封先生斯润，就不斯用「西」字。",
+          "zh_modern": "闲笔先生文雅润泽，就不随便使用「西」字。",
+          "en": "The casual stroke is elegant and refined, not carelessly using the character '西'.",
+          "ru": "Небрежный штрих элегантен и изыскан, не используя небрежно иероглиф «西».",
+          "ja": "閑に先生斯潤を封じ、就ち斯ち用いざるなり「西」字を。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "pdf_page": 34,
+      "type": "dialogue",
+      "original": "冷子兴笑道：「古你是进士出身，原来不通！古人有云：『百足之虫，死而不僵。』如今虽说不及先年那样兴盛，较之平常仕宦之家，到底气象不同。如今生齿日繁，事务日盛，主仆上下，安富尊荣者尽多，",
+      "zh_modern": "冷子兴笑道：「古代你是进士出身，原来不通晓！古人有云：『百足之虫，死而不僵。』如今虽说不及先年那样兴盛，较之平常官宦之家，到底气象不同。如今生齿日益繁多，事务日益盛大，主仆上下，安于富贵尊荣的人很多，",
+      "en": "Leng Zixing laughed, 'For someone of Presented Scholar status, you're surprisingly uninformed! The ancients had a saying: \"A centipede, though dead, does not fall over.\" Though nowadays they're not as prosperous as in former years, compared to ordinary official households, their bearing is still different. Now with the population multiplying daily and affairs growing more complex, among masters and servants high and low, those who rest content in wealth and honor are many,",
+      "ru": "Лэн Цзысин рассмеялся: 'Для человека со статусом Представленного Учёного вы удивительно неосведомлены! Древние говорили: «Многоножка, хотя и мертва, не падает.» Хотя в наши дни они не так процветают, как в прежние годы, по сравнению с обычными чиновничьими домами их осанка всё ещё иная. Теперь, когда население ежедневно растёт, а дела становятся всё сложнее, среди господ и слуг высоких и низких те, кто довольствуется богатством и почётом, многочисленны,",
+      "ja": "冷子興笑いて道えり、「古き汝は進士出身なり、原来通ぜず！古人云う有り、『百足の虫、死して僵れず』と。如今説くと雖も先年の様の興盛に及ばず、平常の仕宦の家に較ぶれば、到底気象同じからず。如今生歯日に繁く、事務日に盛んにして、主僕上下、富を安んじ栄を尊ぶ者尽く多く、",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "冷子兴 (Leng Zixing): An antique dealer who serves as the narrator for this expository section. His surname 冷 (Leng, cold) and given name 子兴 (Zixing, rising interest) suggest someone detached yet knowledgeable about society.",
+    "宁国府 and 荣国府 (Ning-guo House and Rong-guo House): The two branches of the Jia family, established by two brothers who were ennobled. Ning-guo府 is the elder brother's household, Rong-guo府 is the younger brother's. Both were granted ducal ranks.",
+    "石头城 (Stone City): Another name for Jinling (modern Nanjing), referencing the ancient fortress walls. Jinling was the capital during the Six Dynasties period and represents the cultural-historical weight of the setting.",
+    "百足之虫，死而不僵 (A centipede, though dead, does not fall over): A famous Chinese idiom meaning a powerful entity retains influence even in decline. Perfect for describing the Jia family's situation.",
+    "生齿日繁 (population multiplying daily): Classical term for growing family population. '生齿' (born teeth) is a classical metonym for人口 (population), emphasizing mouths to feed.",
+    "The commentary notes '闲笔不乱' (casual strokes yet orderly) - Cao Xueqin's technique of using seemingly casual dialogue to convey complex exposition about the Jia family.",
+    "The distinction between '先年' (former years) and '如今' (nowadays) establishes the novel's temporal framework of decline from past glory.",
+    "The passage introduces the novel's central theme of family decline (家道中落) through Leng Zixing's exposition to Yucun, who represents an outsider's perspective."
+  ],
+  "research_notes": [
+    "Consulted 红楼梦大辞典 for detailed notes on Leng Zixing's role as narrator",
+    "Reviewed scholarly articles on the 'centipede' idiom and its use in Chinese literature",
+    "Referenced Zhou Ruchang's analysis of the Ning-guo/Rong-guo府 architecture and layout",
+    "Studied historical records of Qing Dynasty ducal households for context",
+    "Checked 甲戌本 commentary patterns for '闲笔' technique throughout this dialogue",
+    "Consulted existing translations (Hawkes, Yang Xianyi) for Leng Zixing's exposition style",
+    "Reviewed historical context of Six Dynasties period Jinling for cultural references"
+  ],
+  "characters_appearing": [
+    "贾雨村",
+    "冷子兴"
+  ],
+  "total_segments": 4,
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ]
+}
