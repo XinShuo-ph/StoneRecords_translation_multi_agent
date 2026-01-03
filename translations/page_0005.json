@@ -1,0 +1,76 @@
+{
+  "page": 5,
+  "chapter": "前言",
+  "chapter_title": null,
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "色。抄本中有些同一位置不止一条批语的，原以○或空格隔开，现统一以◇隔开。\n本书使用半角圆括号()和半角方括号[]作为校改文字记号：(某)表示删字，[某]表示补字，(甲)[乙]表示改字。",
+      "zh_modern": "（接上页）颜色。在手抄本中，有些同一位置有不止一条批注的，原本以○或空格分隔，现在统一改用◇隔开。\n本书使用半角圆括号()和半角方括号[]作为校勘修改的标记符号：(某)表示应当删除的字，[某]表示应当补入的字，(甲)[乙]表示将甲字改为乙字。",
+      "en": "(Continued from previous page) ...color. In the manuscripts, where there is more than one commentary note at the same position, originally separated by '○' or spaces, these are now uniformly separated by '◇'.\nThis book uses half-width parentheses () and half-width square brackets [] as textual emendation marks: (某) indicates a deletion, [某] indicates an addition, and (甲)[乙] indicates replacing character '甲' with '乙'.",
+      "ru": "(Продолжение с предыдущей страницы) ...цвет. В рукописях, где в одном месте встречается более одного комментария, изначально разделённых «○» или пробелами, теперь они единообразно разделяются символом «◇».\nВ данной книге используются полуширинные круглые скобки () и квадратные скобки [] в качестве знаков текстологических исправлений: (某) обозначает удаление, [某] обозначает добавление, (甲)[乙] обозначает замену иероглифа «甲» на «乙».",
+      "ja": "（前頁より続く）…色。写本において同一箇所に複数の批語がある場合、元は「○」や空白で区切られていたものを、現在は統一して「◇」で区切ることとした。\n本書では半角の丸括弧()と角括弧[]を校勘記号として使用する：(某)は削除すべき字、[某]は補うべき字、(甲)[乙]は「甲」を「乙」に改めることを示す。"
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "本电子书自发布以来，不少网友提出了改进意见，这些建议基本上都已经采纳。现在，接受多数朋友的意见，这个版本采用PDF格式。",
+      "zh_modern": "这个电子书自从发布以来，不少网友提出了改进意见，这些建议基本上都已经被采纳。现在，根据大多数朋友的意见，这个版本采用了PDF格式。",
+      "en": "Since this e-book was first released, many netizens have offered suggestions for improvement, most of which have been adopted. Now, following the advice of the majority, this version is published in PDF format.",
+      "ru": "С момента первой публикации этой электронной книги многие пользователи сети предлагали улучшения, большинство из которых было учтено. Теперь, по совету большинства друзей, эта версия выпущена в формате PDF.",
+      "ja": "本電子書籍の公開以来、多くのネットユーザーから改善意見をいただき、それらの提案は基本的にすべて採用された。現在、多くの方々のご意見に従い、本版はPDF形式を採用している。"
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "本书的整理得到很多网友的帮助。早期版本曾得浪如协助覆校，订正不少错误；冰冰冰冷、云涛先后参与讨论，给我很多启发。3.0版发出之后，又承君子九思、爱如潮水、yupeng、蓝山、潇湘楚客、zhwl、liuzhoufish、麦员外、寻梦园、阿迦、梁三、影乐之声、兔子她妈、休闲、志学斋主、daphne、rocwings等各位指出了若干问题，统此鸣谢。",
+      "zh_modern": "本书的整理工作得到了很多网友的帮助。早期版本曾得到浪如协助复核校对，订正了不少错误；冰冰冰冷、云涛先后参与讨论，给了我很多启发。3.0版发布之后，又承蒙君子九思、爱如潮水、yupeng、蓝山、潇湘楚客、zhwl、liuzhoufish、麦员外、寻梦园、阿迦、梁三、影乐之声、兔子她妈、休闲、志学斋主、daphne、rocwings等各位指出了若干问题，在此一并表示感谢。",
+      "en": "The compilation of this book received help from many netizens. For early versions, 'Langru' assisted with proofreading and corrected many errors; 'Bingbingbingleng' and 'Yuntao' successively participated in discussions and gave me much inspiration. After version 3.0 was released, I am grateful to 'Junzi Jiusi,' 'Ai Ru Chaoshui,' yupeng, 'Lanshan,' 'Xiaoxiang Chuke,' zhwl, liuzhoufish, 'Mai Yuanwai,' 'Xunmengyuan,' 'A Jia,' 'Liang San,' 'Yingle Zhisheng,' 'Tuzi Ta Ma,' 'Xiuxian,' 'Zhixue Zhaizhu,' daphne, rocwings, and others for pointing out various issues. My thanks to all of them.",
+      "ru": "Составление этой книги получило помощь от многих интернет-пользователей. Ранние версии были проверены при содействии «Ланжу», который исправил множество ошибок; «Бинбинбинлэн» и «Юньтао» поочерёдно участвовали в обсуждениях и дали мне много вдохновения. После выпуска версии 3.0 я благодарен «Цзюньцзы Цзюсы», «Ай Жу Чаошуй», yupeng, «Ланьшань», «Сяосян Чукэ», zhwl, liuzhoufish, «Май Юаньвай», «Сюньмэнъюань», «А Цзя», «Лян Сань», «Инлэ Чжишэн», «Туцзы Тама», «Сюсянь», «Чжисюэ Чжайчжу», daphne, rocwings и другим за указание на различные проблемы. Всем им моя благодарность.",
+      "ja": "本書の編集にあたり、多くのネットユーザーの助けを得た。初期版は「浪如」氏の協力により校正され、多くの誤りが訂正された。「冰冰冰冷」「云涛」は相次いで議論に参加し、多くの示唆を与えてくれた。3.0版公開後は「君子九思」「爱如潮水」、yupeng、「蓝山」「潇湘楚客」、zhwl、liuzhoufish、「麦员外」「寻梦园」「阿迦」「梁三」「影乐之声」「兔子她妈」「休闲」「志学斋主」、daphne、rocwings等の皆様から様々な問題点をご指摘いただいた。ここに感謝申し上げる。"
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "由于整理者学识所限，本书虽经多次修订，存在问题必然尚多。希望朋友们在使用过程中发现错误及不妥之处，继续不吝赐教。\n联系方式：Email：kolistan@yahoo.com.cn，QQ：552129470，MSN：kolistan@msn.com，或到抚琴居红楼梦文学社区发贴。反馈意见的朋友将会在以后本书修订时及时获得更新版本。",
+      "zh_modern": "由于整理者学识有限，本书虽然经过多次修订，但存在的问题必然还有很多。希望朋友们在使用过程中发现错误或不妥之处时，能够继续不吝赐教。\n联系方式：电子邮箱kolistan@yahoo.com.cn，QQ号552129470，MSN账号kolistan@msn.com，或者到抚琴居红楼梦文学社区发帖。提供反馈意见的朋友将会在本书日后修订时及时获得更新版本。",
+      "en": "Due to the editor's limited knowledge, although this book has undergone multiple revisions, there must still be many remaining issues. I hope that friends who discover errors or inappropriate content while using this book will continue to offer their generous guidance.\nContact: Email kolistan@yahoo.com.cn, QQ 552129470, MSN kolistan@msn.com, or post at the 'Fuqinju Dream of the Red Chamber Literary Community.' Friends who provide feedback will receive updated versions promptly when the book is revised.",
+      "ru": "Из-за ограниченных знаний редактора, хотя книга прошла множество редакций, проблем неизбежно остаётся ещё много. Надеюсь, что друзья, обнаружившие ошибки или недочёты при использовании книги, продолжат делиться своими замечаниями.\nКонтакты: Email kolistan@yahoo.com.cn, QQ 552129470, MSN kolistan@msn.com, или оставляйте сообщения в «Литературном сообществе Фуциньцзюй Сон в красном тереме». Друзья, предоставившие отзывы, своевременно получат обновлённые версии при следующих редакциях книги.",
+      "ja": "編者の学識が限られているため、本書は何度も修訂を重ねてきたものの、問題点はまだ多く残っているはずである。使用中に誤りや不適切な箇所を発見された方は、引き続きご指導いただければ幸いである。\n連絡先：Email kolistan@yahoo.com.cn、QQ 552129470、MSN kolistan@msn.com、または「撫琴居紅楼夢文学社区」に投稿してください。フィードバックをいただいた方には、本書の改訂時に更新版を速やかにお届けします。"
+    },
+    {
+      "id": 5,
+      "type": "prose",
+      "original": "本书由Kolistan汇校整理、制作电子版并免费提供下载，允许在不改变其内容完整的前提下自由传播，但禁止用于商业用途。其它网站转载本书，请注明整理者联系资料，以使我们及时得到回馈意见。我们从未授权任何人对本书进行格式转换（如改为word、htm、exe、chm、txt等等），照搬本书内容或仅作局部改动，而变更（或删除）整理者名字另行发表者，我们保留追究的权利。",
+      "zh_modern": "本书由Kolistan汇集校勘、整理，制作电子版并免费提供下载。允许在不改变内容完整性的前提下自由传播，但禁止用于商业目的。其他网站转载本书时，请注明编辑者的联系方式，以便我们及时收到反馈意见。我们从未授权任何人将本书进行格式转换（如改为word、htm、exe、chm、txt等格式）。如有人照搬本书内容或仅做局部修改，却更改或删除编辑者姓名另行发表，我们保留追究法律责任的权利。",
+      "en": "This book was collated, organized, and produced as an e-book by Kolistan, and is provided free for download. It may be freely distributed without altering its content integrity, but commercial use is prohibited. Other websites reposting this book should credit the editor's contact information so that we can receive feedback promptly. We have never authorized anyone to convert this book to other formats (such as Word, HTM, EXE, CHM, TXT, etc.). We reserve the right to pursue legal action against anyone who copies this book's content or makes only partial modifications while changing or removing the editor's name and republishing it.",
+      "ru": "Данная книга была составлена, отредактирована и оформлена как электронное издание Kolistan и предоставляется бесплатно для скачивания. Разрешается свободное распространение без изменения целостности содержания, но коммерческое использование запрещено. Другие веб-сайты, перепечатывающие книгу, должны указывать контактные данные редактора, чтобы мы могли своевременно получать обратную связь. Мы никогда не давали разрешения на конвертацию книги в другие форматы (такие как Word, HTM, EXE, CHM, TXT и т.д.). Мы оставляем за собой право преследовать по закону тех, кто копирует содержимое книги или вносит лишь частичные изменения, при этом изменяя или удаляя имя редактора и публикуя от своего имени.",
+      "ja": "本書はKolistanが校訂・整理し、電子版を制作して無料ダウンロード提供しているものである。内容の完全性を損なわない限り自由に配布できるが、商業利用は禁止する。他のサイトで本書を転載する際は、編集者の連絡先を明記し、フィードバックが適時届くようにしていただきたい。本書を他の形式（Word、HTM、EXE、CHM、TXT等）に変換することは一切許可していない。本書の内容をそのまま流用、または部分的な変更のみを加え、編集者名を変更または削除して別途発表する者については、法的責任を追及する権利を留保する。"
+    },
+    {
+      "id": 6,
+      "type": "prose",
+      "original": "Kolistan　2007.11.30.",
+      "zh_modern": "Kolistan 2007年11月30日",
+      "en": "Kolistan, November 30, 2007",
+      "ru": "Kolistan, 30 ноября 2007 г.",
+      "ja": "Kolistan　2007年11月30日"
+    }
+  ],
+  "translator_notes": [
+    "The textual emendation marks described here (parentheses for deletions, brackets for additions) are standard in Chinese classical text editing (校勘学)",
+    "The acknowledgments list shows this was a community-driven scholarly effort, with many contributors using pseudonymous online handles typical of Chinese internet forums",
+    "The original date (2007.11.30) predates the version number (3.13, 2009.7.20) on page 3, indicating ongoing revisions over several years",
+    "The format conversion prohibition reflects concerns about unauthorized modifications common in Chinese digital publishing"
+  ],
+  "research_notes": [
+    "QQ is China's dominant instant messaging platform developed by Tencent",
+    "MSN Messenger was still active in China in 2007 but has since been discontinued",
+    "This page demonstrates the collaborative nature of Chinese internet scholarship on classical texts"
+  ],
+  "characters_appearing": [],
+  "total_segments": 6,
+  "manuscript_sources_on_page": []
+}
