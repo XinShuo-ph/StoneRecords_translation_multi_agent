@@ -7,13 +7,14 @@
 - **Status**: online
 
 ## Current Work
-- **Claimed Page**: 1
-- **Started At**: 1767405287
-- **Current Step**: research
+- **Claimed Page**: none
+- **Started At**: -
+- **Current Step**: -
 
 ## Completed Pages
 | Page | Chapter | Completed At | Hash | Segments |
 |------|---------|--------------|------|----------|
+| 1    | 封面    | 1767405410   | 364d9903 | 3 |
 
 ## Known Workers (Last Sync)
 | Short ID | Status | Claimed Page | Last Heartbeat |

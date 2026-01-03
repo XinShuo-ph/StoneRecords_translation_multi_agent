@@ -1,0 +1,59 @@
+{
+  "page": 1,
+  "chapter": "封面",
+  "chapter_title": {
+    "original": "红楼梦脂评汇校本",
+    "zh_modern": "红楼梦脂评汇校本",
+    "en": "Dream of the Red Chamber with Zhiping Commentary - Collated Edition",
+    "ru": "Сон в красном тереме с комментариями Чжипин - Сводное издание",
+    "ja": "紅楼夢脂評彙校本"
+  },
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "type": "title",
+      "original": "红楼梦脂评汇校本",
+      "zh_modern": "红楼梦脂评汇校本",
+      "en": "Dream of the Red Chamber with Zhiping Commentary - Collated Edition",
+      "ru": "Сон в красном тереме с комментариями Чжипин - Сводное издание",
+      "ja": "紅楼夢脂評彙校本",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "type": "title",
+      "original": "曹雪芹著 脂砚齋評",
+      "zh_modern": "曹雪芹著 脂砚斋评",
+      "en": "Written by Cao Xueqin, Commented by Zhiyan Zhai",
+      "ru": "Написано Цао Сюэцинем, Прокомментировано Чжиянь Чжаем",
+      "ja": "曹雪芹著 脂硯齋評",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "type": "title",
+      "original": "Kolistan 匯校整理・制作",
+      "zh_modern": "Kolistan 汇校整理·制作",
+      "en": "Collated and Compiled by Kolistan",
+      "ru": "Собрано и составлено Kolistan",
+      "ja": "Kolistan 彙校整理・制作",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "脂评 (Zhiping) refers to the commentary attributed to Zhiyan Zhai (脂砚斋) and other early readers from Cao Xueqin's circle, preserved in multiple manuscript sources",
+    "汇校本 indicates this is a collated edition combining commentary from multiple manuscript versions (甲戌本, 庚辰本, 己卯本, etc.)",
+    "Cao Xueqin (曹雪芹, c. 1715-1763) is the primary author of the first 80 chapters of Dream of the Red Chamber",
+    "Zhiyan Zhai (脂砚斋) is believed to be a close friend or family member of Cao Xueqin who added extensive commentary to early manuscripts"
+  ],
+  "research_notes": [
+    "Title page contains book title, author attribution, commentator attribution, and modern editor",
+    "The Zhiping commentary (脂评) is one of the most important sources for understanding the novel's hidden meanings and authorial intent",
+    "Multiple manuscript versions exist (甲戌本 from 1754, 庚辰本 from 1760, etc.), each with different commentary",
+    "This collated edition combines commentary from various sources, marked with tags like 【甲戌】【庚辰】throughout the text"
+  ],
+  "characters_appearing": [],
+  "total_segments": 3,
+  "manuscript_sources_on_page": []
+}
