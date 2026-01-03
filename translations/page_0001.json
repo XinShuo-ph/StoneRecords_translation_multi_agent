@@ -1,0 +1,64 @@
+{
+  "page": 1,
+  "chapter": "前言",
+  "chapter_title": null,
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "红楼梦脂评汇校本",
+      "zh_modern": "红楼梦脂评汇校本",
+      "en": "Dream of the Red Chamber: Zhiping Commentary Collated Edition",
+      "ru": "Сон в красном тереме: сводное издание с комментариями Чжипин",
+      "ja": "紅楼夢脂評彙校本",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "曹雪芹著",
+      "zh_modern": "曹雪芹著",
+      "en": "Written by Cao Xueqin",
+      "ru": "Написано Цао Сюэцинем",
+      "ja": "曹雪芹著",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "脂砚斋评",
+      "zh_modern": "脂砚斋评",
+      "en": "Commentary by Zhiyan Zhai",
+      "ru": "Комментарии Чжияньчжая",
+      "ja": "脂硯斎評",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "Kolistan 匯校整理·制作",
+      "zh_modern": "Kolistan 汇校整理·制作",
+      "en": "Compiled and produced by Kolistan",
+      "ru": "Собрано и подготовлено Kolistan",
+      "ja": "Kolistan 匯校整理・制作",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "红楼梦 (Dream of the Red Chamber) is one of China's Four Great Classical Novels, written by Cao Xueqin (ca. 1715-1763) during the Qing Dynasty",
+    "脂评 refers to the Zhiping Commentary attributed to 脂砚斋 (Zhiyan Zhai, 'Rouge Inkstone Studio'), a commentator whose identity remains unknown but who was clearly intimate with the author and the real events behind the novel",
+    "This 汇校本 (collated edition) compiles commentary from multiple early manuscript sources including the 甲戌本 (Jiaxu, 1754), 庚辰本 (Gengchen, 1760), and 己卯本 (Jimao, 1759)",
+    "The work is the authentic 80-chapter version by Cao Xueqin, NOT the later 120-chapter Cheng-Gao continuation",
+    "Kolistan is the modern editor who compiled this digital edition with bookmarks and cross-referenced commentary sources"
+  ],
+  "research_notes": [
+    "Consulted Zhou Ruchang's 红楼梦新证 for biographical context on Cao Xueqin",
+    "Reviewed academic consensus on manuscript sources and dating",
+    "Checked standard translations: Hawkes uses 'Story of the Stone', Yang uses 'Dream of Red Mansions' - we adopt 'Dream of the Red Chamber' as most widely recognized",
+    "Confirmed that 脂砚斋 identity remains scholarly debate, likely a close relative or intimate friend of Cao Xueqin"
+  ],
+  "characters_appearing": [],
+  "total_segments": 4,
+  "manuscript_sources_on_page": []
+}
