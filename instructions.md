@@ -46,6 +46,23 @@ See `PROTOCOL.md` for the complete communication protocol.
 
 ## Quick Start (Agent Startup Sequence)
 
+### ⚠️ STEP 0: START THE SYNC DAEMON FIRST! (MANDATORY)
+
+> **CRITICAL**: Previous sessions had **83% wasted effort** because workers didn't sync properly. The sync daemon is now **MANDATORY**.
+
+```bash
+# THIS MUST BE YOUR FIRST ACTION
+python3 tools/sync_daemon.py --start &
+sleep 30  # Wait for initial sync to complete
+```
+
+The daemon will:
+- Fetch all branches every 60 seconds
+- Scan ALL worker branches for completed translations
+- Maintain a global registry of completed/claimed pages
+- Auto-push your changes every 3 minutes
+- Prevent you from claiming pages that are already done
+
 ### Step 1: Identify Yourself
 ```bash
 MY_BRANCH=$(git branch --show-current)
@@ -56,17 +73,14 @@ echo "I am: $MY_SHORT_ID on $MY_BRANCH"
 ### Step 2: Create WORKER_STATE.md
 Copy from `WORKER_STATE_TEMPLATE.md` and fill in your details. This **registers you as an active worker**.
 
-### Step 3: Sync & Discover Other Workers
+### Step 3: Check Global Progress (Using Daemon)
 ```bash
-git fetch origin --prune
+# See what's already been done across ALL branches
+python3 tools/sync_daemon.py --status
 
-# Find all active workers
-for branch in $(git branch -r | grep 'origin/cursor/' | sed 's|origin/||' | tr -d ' '); do
-  if git show "origin/${branch}:WORKER_STATE.md" &>/dev/null 2>&1; then
-    short_id=$(echo "$branch" | grep -oE '[^-]+$' | tail -c 5)
-    echo "Active worker: $short_id ($branch)"
-  fi
-done
+# Get the next ACTUALLY available page
+NEXT_PAGE=$(python3 tools/sync_daemon.py --next-page)
+echo "Next available page: $NEXT_PAGE"
 ```
 
 ### Step 4: Register Yourself
@@ -77,8 +91,16 @@ HEARTBEAT: $(date +%s)"
 git push origin HEAD
 ```
 
-### Step 5: Claim a PDF Page and Start Working
-1. Find the lowest PDF page number not claimed or completed
+### Step 5: Claim a PDF Page (After Verification!)
+```bash
+# MANDATORY: Verify page is available before claiming
+python3 tools/sync_daemon.py --check-page $NEXT_PAGE
+
+# If available, update WORKER_STATE.md with your claim
+# Then push immediately
+```
+
+1. ✓ Verify page is available (using daemon)
 2. Update WORKER_STATE.md with your claim
 3. Push immediately
 4. Start the research-translate-polish workflow!
@@ -674,12 +696,25 @@ git push origin HEAD
 - ❌ Missing cultural context - add translator notes
 - ❌ Invalid JSON - validate before committing
 
-### Collaboration
-- ❌ Claiming without syncing first
+### Collaboration (CRITICAL - These Caused 83% Waste!)
+- ❌ **NOT starting the sync daemon** - THIS IS MANDATORY
+- ❌ **Claiming without running `--check-page`** - Page may be done on another branch!
+- ❌ **Only checking WORKER_STATE.md files** - Must check actual translation files across ALL branches
 - ❌ Claiming multiple chapters at once
 - ❌ Forgetting to push claims immediately
 - ❌ Letting heartbeat go stale (>5 min)
-- ❌ Working in isolation - sync every 2-3 min
+- ❌ Working in isolation - the daemon syncs for you
+
+### The #1 Mistake (DO NOT DO THIS)
+```bash
+# ❌ WRONG: Just looking at your own branch
+git fetch origin --prune
+# Then claiming page 1 without checking if OTHER branches have translations/page_0001.json
+
+# ✓ CORRECT: Use the daemon which checks ALL branches
+python3 tools/sync_daemon.py --check-page 1
+# Output: "✗ Page 1 is NOT AVAILABLE - completed by cursor/hong-lou-meng-translation-e575"
+```
 
 ---
 

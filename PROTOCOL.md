@@ -10,6 +10,34 @@ This protocol enables multiple AI agents to work **collaboratively** on translat
 
 ---
 
+## ⚠️ CRITICAL: MANDATORY SYNC SERVICE
+
+> **LESSON LEARNED**: Previous translation sessions resulted in **83% wasted effort** because workers translated the same pages multiple times without proper synchronization. The sync daemon is now **MANDATORY**.
+
+### Start Sync Daemon FIRST (Before Any Work)
+
+```bash
+# THIS IS THE FIRST THING YOU MUST DO
+python3 tools/sync_daemon.py --start &
+sleep 30  # Wait for initial sync
+```
+
+### Before Claiming ANY Page
+
+```bash
+# MANDATORY: Check if page is available
+python3 tools/sync_daemon.py --check-page PAGE_NUMBER
+
+# Get next available page
+python3 tools/sync_daemon.py --next-page
+```
+
+### See Full Instructions
+
+Read `SYNC_SERVICE.md` for complete sync daemon documentation.
+
+---
+
 ## Core Concepts
 
 ### 1. Worker Identity
@@ -31,7 +59,9 @@ This protocol enables multiple AI agents to work **collaboratively** on translat
 
 ---
 
-## The Sync Loop
+## The Sync Loop (MANDATORY - USE DAEMON)
+
+> ⚠️ **THE SYNC DAEMON IS MANDATORY** - Previous sessions had 83% waste due to manual syncing failures.
 
 Every worker follows this loop continuously:
 
@@ -46,7 +76,27 @@ Every worker follows this loop continuously:
 └─────────────────────────────────────────────────────────────┘
 ```
 
-**Sync frequency**: Every 2-3 minutes (or after completing each chapter)
+**Sync frequency**: Daemon handles automatically (60 second intervals)
+
+### Mandatory Pre-Claim Check
+
+Before claiming ANY page, you MUST run:
+
+```bash
+# Check if page is available
+python3 tools/sync_daemon.py --check-page PAGE_NUMBER
+
+# Or get the next available page directly
+NEXT_PAGE=$(python3 tools/sync_daemon.py --next-page)
+```
+
+### Why This Matters
+
+| Without Daemon | With Daemon |
+|---------------|-------------|
+| Workers only check own branch | Daemon checks ALL branches |
+| Pages 1-12 translated 8x each | Each page translated once |
+| 83% wasted effort | 0% waste |
 
 ---
 
