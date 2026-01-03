@@ -1,0 +1,70 @@
+{
+  "page": 10,
+  "chapter": "凡例",
+  "chapter_title": {
+    "original": "脂砚斋重评石头记凡例",
+    "zh_modern": "脂砚斋重评石头记凡例",
+    "en": "Zhiyan Zhai's Reevaluation of Story of the Stone - Editorial Principles",
+    "ru": "Переоценка Чжиянь Чжая «Записок о камне» - Редакционные принципы",
+    "ja": "脂硯齋重評石頭記凡例"
+  },
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "type": "preface",
+      "original": "《红楼梦》首义，是书题名极多，一曰《红楼》①梦》，是总其全部之名也；又曰《风月宝鉴》，是戒妄动风月之情；又曰《石头记》，是自譬石头所记之事也。此三名皆书中曾自点晴关。如宝玉作梦，梦中有曲，名曰《红楼梦十二支》，此则《红楼梦》之点晴处。又如贾瑞病，殷道人持一镜本，上面即镌"风月宝鉴"四字，此则《风月宝鉴》之点晴。又如道人常眼见石上大书一镜故事，则系石头所记之往来，此则《石头记》之点晴处。然此书又名曰《金陵十二钗》，审其名，则必系金陵十二女子也；然遮郭细按拾去，上面千余女子也止十二人哉！若云其中自有十二个，则又未尝揭明白系那来，及至"红楼梦"一回中，亦曾翻出金陵十二钗之簿籍，又有十二支曲可考。",
+      "zh_modern": "《红楼梦》的名称由来：这部书的题名极多，一个叫《红楼梦》，这是总括全书的名称；又叫《风月宝鉴》，是警戒不要妄动风月之情；又叫《石头记》，是自比为石头所记录的事情。这三个名字都在书中曾经点明过。比如宝玉做梦，梦中有曲子，名叫《红楼梦十二支曲》，这就是《红楼梦》这个名称的点睛之处。又比如贾瑞生病，跛足道人拿着一面镜子，上面就镌刻着"风月宝鉴"四个字，这就是《风月宝鉴》的点睛之处。又比如道人常常看见石头上大书记载的故事，这就是石头所记录的往事，这就是《石头记》的点睛之处。然而这部书又叫《金陵十二钗》，从这个名字来看，应该是关于金陵十二位女子的；然而仔细数来，上面千余位女子也不止十二个人啊！如果说其中自有十二个特别的，但又从未明确揭示是哪些人，等到"红楼梦"这一回中，也曾翻出金陵十二钗的册子，又有十二支曲可以考证。",
+      "en": "On the title Dream of the Red Chamber: This book has numerous titles. One is 'Dream of the Red Chamber (Honglou Meng),' which encompasses the entire work; another is 'Mirror of Romantic Affairs (Fengyue Baojian),' warning against recklessly stirring up romantic passions; yet another is 'Story of the Stone (Shitou Ji),' likening itself to events recorded by a stone. These three names are all clearly indicated within the book itself. For example, when Baoyu dreams, within his dream there are songs called 'Twelve Melodies of Dream of the Red Chamber,' which serves as the key passage for the title 'Dream of the Red Chamber.' Again, when Jia Rui falls ill, a lame Taoist holds up a mirror with the four characters 'Mirror of Romantic Affairs' engraved on it—this is the key passage for that title. Similarly, a Taoist often sees stories written in large characters on the stone, being the past events recorded by the stone—this is the key passage for 'Story of the Stone.' However, this book is also called 'Twelve Beauties of Jinling.' Judging by this name, it must concern twelve women from Jinling; yet upon careful examination, among the thousand-plus female characters, how can there be only twelve? If we say there are twelve special ones among them, it is never explicitly revealed which ones they are, until in the chapter 'Dream of the Red Chamber,' the register of the Twelve Beauties of Jinling is revealed, along with twelve melodies that can be examined.",
+      "ru": "О названии «Сон в красном тереме»: У этой книги множество названий. Одно — «Сон в красном тереме (Хунлоу мэн)», которое охватывает всё произведение; другое — «Зеркало романтических дел (Фэнъюэ баоцзянь)», предостерегающее от безрассудного разжигания романтических страстей; ещё одно — «Записки о камне (Шитоу цзи)», уподобляющее себя событиям, записанным камнем. Все эти три названия чётко указаны в самой книге. Например, когда Баоюй видит сон, в его сне есть песни, называемые «Двенадцать мелодий Сна в красном тереме», что служит ключевым отрывком для названия «Сон в красном тереме». Опять же, когда Цзя Жуй заболевает, хромой даос держит зеркало с выгравированными четырьмя иероглифами «Зеркало романтических дел» — это ключевой отрывок для этого названия. Подобным образом, даос часто видит истории, написанные крупными иероглифами на камне, являющиеся прошлыми событиями, записанными камнем — это ключевой отрывок для «Записок о камне». Однако эта книга также называется «Двенадцать красавиц из Цзиньлина». Судя по этому названию, она должна касаться двенадцати женщин из Цзиньлина; однако при тщательном рассмотрении, среди тысячи с лишним женских персонажей, как может быть только двенадцать? Если мы скажем, что среди них есть двенадцать особенных, никогда явно не раскрывается, какие именно, пока в главе «Сон в красном тереме» не обнаруживается реестр Двенадцати красавиц из Цзиньлина вместе с двенадцатью мелодиями, которые можно изучить.",
+      "ja": "『紅楼夢』の書名について：この書の題名は極めて多い。一つは『紅楼夢』と言い、これは全書を総括する名称である。また『風月宝鑑』と言い、これは妄りに風月の情を動かすことを戒めるものである。また『石頭記』と言い、これは石頭が記録した事柄に自らを譬えるものである。この三つの名はいずれも書中で点睛されている。例えば宝玉が夢を見る時、夢の中に曲があり、『紅楼夢十二支曲』と名付けられている。これが『紅楼夢』という名の点睛之処である。また賈瑞が病む時、跛足の道人が一面の鏡を持ち、その上に「風月宝鑑」の四字が刻まれている。これが『風月宝鑑』の点睛之処である。また道人がしばしば石上に大書された物語を見る、これは石頭が記録した往事であり、『石頭記』の点睛之処である。しかしこの書はまた『金陵十二釵』とも呼ばれる。その名を審らかにすれば、必ずや金陵の十二人の女子に係るものであろう。しかし仔細に数えれば、千余りの女子がおり、どうして十二人に止まろうか。もしその中に自ずから十二人があると言っても、それが誰なのかは明らかにされていない。「紅楼夢」の回に至って、金陵十二釵の簿籍が翻り出され、また十二支曲が考証できる。",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "type": "preface",
+      "original": "书中凡写长安，在文人笔意之间，则从古之称；凡愚夫妇，几处大如，几女子家常口角，则曰"中京"，是不欲著述于方向也。盖天子之邦，亦当以中为尊。特避其东西南北四字样也。",
+      "zh_modern": "书中凡是写到长安，在文人笔下的意境中，就沿用古代的称呼；凡是愚夫愚妇、几位大人物、几位女子的家常口角时，就称为"中京"，这是不想明确指出方位。因为天子所在的都城，也应当以中为尊。特意避开东西南北这四个字样。",
+      "en": "Whenever the book writes of Chang'an, in the literary sensibility of the literati, it follows the ancient designation; whenever common folk, important personages, or women engage in household banter, it is called 'Central Capital (Zhongjing),' deliberately avoiding specification of direction. For the imperial capital should be honored as central. This specifically avoids the four directional characters: east, west, south, and north.",
+      "ru": "Всякий раз, когда книга пишет о Чанъане, в литературной чувствительности литераторов она следует древнему обозначению; всякий раз, когда простолюдины, важные персоны или женщины вступают в домашнюю болтовню, это называется «Центральная столица (Чжунцзин)», намеренно избегая указания направления. Ибо имперская столица должна почитаться как центральная. Это специально избегает четырёх иероглифов направлений: восток, запад, юг и север.",
+      "ja": "書中、長安を書く場合、文人の筆意においては古の称に従う。愚夫愚婦、何人かの大人物、何人かの女子の家常の口角では「中京」と言う。これは方向を著述したくないからである。蓋し天子の邦もまた中を以て尊しとすべきである。特に東西南北の四字様を避けるのである。",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "type": "preface",
+      "original": "此书只是看卷干闲中，故叙闲中之事切，略涉于外事者则间，不得谓其不均也。",
+      "zh_modern": "这部书只是着眼于闺阁之中，所以叙述闺阁中的事情详细，略微涉及到外面事情的就简略，不能说它不均衡。",
+      "en": "This book focuses solely on what happens within the women's quarters, thus narrating events within those chambers in detail, while only briefly touching upon external matters—one cannot say this is unbalanced.",
+      "ru": "Эта книга фокусируется исключительно на том, что происходит в женских покоях, таким образом подробно повествуя о событиях в этих покоях, лишь вкратце касаясь внешних дел — нельзя сказать, что это несбалансировано.",
+      "ja": "この書はただ閨閣の中を看るのみであり、故に閨閣中の事を叙するは切であり、やや外事に渉るは則ち簡である。その不均と謂うべからず。",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "type": "preface",
+      "original": "此书不敢干涉朝廷，凡有不得不用朝政者，只略用此数笔带出，盖实不敢以写儿女之笔墨唐突朝廷之上也。又恐不敬之罪，故凡有讽，悔则无益之大无可何之日",
+      "zh_modern": "这部书不敢干涉朝廷，凡是不得不涉及朝政的地方，只是略微用几笔带过，实在是不敢以写儿女情长的笔墨唐突朝廷。又恐犯下不敬之罪，所以凡是讽刺的地方，后悔也无益，在无可奈何的时候",
+      "en": "This book dares not interfere with court affairs. Whenever it must unavoidably mention court politics, it only briefly alludes to them with a few strokes, truly not daring to offend the court with writing about romance and personal affairs. Also fearing the crime of disrespect, wherever there is satire, regret would be useless, at times when there is no alternative",
+      "ru": "Эта книга не осмеливается вмешиваться в дела двора. Всякий раз, когда она должна неизбежно упоминать придворную политику, она лишь кратко намекает на неё несколькими штрихами, поистине не осмеливаясь оскорблять двор писанием о романтике и личных делах. Также боясь преступления неуважения, где бы ни была сатира, сожаление было бы бесполезно, в моменты, когда нет альтернативы",
+      "ja": "この書は敢えて朝廷に干渉せず。凡そ朝政を用いざるを得ざる所は、只だ略して数筆もて帯び出すのみ。蓋し実に敢えて児女の筆墨を以て朝廷の上を唐突せざるなり。また不敬の罪を恐れ、故に凡そ諷あれども、悔ゆとも則ち益なき大いに如何ともすべからざるの日",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "This page begins the 凡例 (Editorial Principles) explaining the book's structure and editorial approach",
+    "Explains the multiple titles of the novel: 红楼梦 (Dream of the Red Chamber), 石头记 (Story of the Stone), 风月宝鉴 (Mirror of Romantic Affairs), 金陵十二钗 (Twelve Beauties of Jinling)",
+    "The editorial note explains the deliberate use of vague geographic terms like 'Central Capital' to avoid offending imperial sensibilities",
+    "Acknowledges the book's focus on domestic/women's quarters rather than public/political affairs",
+    "The text is incomplete at the bottom, continuing to next page",
+    "Page numbered '1' at bottom indicating first page of main editorial notes"
+  ],
+  "research_notes": [
+    "This is scholarly editorial apparatus explaining the book's structure and approach",
+    "These editorial principles are part of the Zhiping commentary tradition",
+    "The multiple titles reflect different aspects and layers of the novel's meaning"
+  ],
+  "characters_appearing": [],
+  "total_segments": 4,
+  "manuscript_sources_on_page": []
+}
