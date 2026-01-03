@@ -1,0 +1,196 @@
+{
+  "page": 26,
+  "chapter": "第一回",
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "type": "dialogue",
+      "original": "士隐听了，便迎上来道：“你满口说些什么？只听见些‘好’，‘了’，‘好’，‘了’。”那道人笑道：“你若果听见‘好’‘了’二字，还算你明白。可知世上万般，好便是了，了便是好。若不了，便不好，若要好，须是了。我这歌儿，便名《好了歌》。”士隐本是有宿慧的，一闻此言，心中早已彻悟，因笑道：“且住！待我将你这《好了歌》解注出来何如？”道人笑道：“你解，你解。”士隐乃说道：",
+      "zh_modern": "士隐听了，便迎上去说：“你满口都在说些什么？我只听见你不停地说‘好’、‘了’，‘好’、‘了’。”那道人笑道：“你若真听懂了‘好’‘了’二字，也算明白了。世上万般事：好就是了，了就是好；若不了，便不好；若要好，须是了。我这支歌，就叫《好了歌》。”士隐本来就有宿慧，一听这话，心里早已豁然通透，便笑道：“且慢！待我把你这《好了歌》解注出来如何？”道人笑道：“你解，你解。”士隐于是说道：",
+      "en": "Hearing this, Shiyin stepped forward and said, “What are you babbling about? All I hear are the words ‘good’ and ‘done’—‘good,’ ‘done.’” The Daoist laughed: “If you truly catch those two words, ‘good’ and ‘done,’ you may be counted as understanding. Know this: of all things in the world, ‘good’ is ‘done,’ and ‘done’ is ‘good.’ If it is not ‘done,’ it is not ‘good’; if you want it ‘good,’ then it must be ‘done.’ This little song of mine is called ‘The Song of Good-and-Done.’” Shiyin, who possessed an innate spiritual insight, heard this and at once was thoroughly awakened. Smiling, he said, “Hold—let me write an explication of your ‘Song of Good-and-Done,’ shall I?” The Daoist laughed: “Explain it, then—explain it.” Shiyin thereupon said:",
+      "ru": "Выслушав, Шиинь подошёл и сказал: «Что ты всё бормочешь? Я только и слышу: “хорошо”, “кончено”, “хорошо”, “кончено”.» Даос рассмеялся: «Если ты впрямь уловил эти два слова — “хорошо” и “кончено”, — значит, ты ещё понимаешь. В мире всякое бывает так: “хорошо” — значит “кончено”, а “кончено” — значит “хорошо”. Не кончено — не хорошо; хочешь, чтобы было хорошо, — доведи до конца. Потому песенка моя зовётся “Песней о ‘хорошо’ и ‘кончено’”.» Шиинь был наделён врождённой прозорливостью: услышав это, он уже прозрел до конца и, улыбнувшись, сказал: «Постой! Позволь мне дать толкование твоей “Песне о ‘хорошо’ и ‘кончено’” — как тебе?» Даос рассмеялся: «Толкуй, толкуй». И Шиинь произнёс:",
+      "ja": "これを聞くや、士隠は進み寄って言った。「お前は口に何を並べ立てているのだ。私にはただ『好』『了』、『好』『了』としか聞こえぬ。」道人は笑って言う。「もしまことに『好』『了』の二字を聞き取ったなら、まだ分かっていると言えよう。世の万般、好とは了なり、了とは好なり。了せざれば好にあらず、好を欲せば了すべし。わが歌は名づけて『好了歌』という。」士隠はもとより宿慧あり、この言を聞くや心中すでに徹悟し、笑って言った。「しばし！この『好了歌』を解注してみせようか。」道人は笑って言った。「解け、解け。」士隠、ここに曰く：",
+      "commentary": [
+        {
+          "type": "侧批",
+          "source": "蒙府本",
+          "original": "因要写情要写幻境，偏先写出一篇奇人奇境来。",
+          "zh_modern": "因为要写“情”、要写“幻境”，偏偏先写出一段“奇人奇境”来。",
+          "en": "Because the book must write of passion and of an illusory realm, it first presents a scene of strange people in a strange world.",
+          "ru": "Поскольку предстоит писать о «страсти» и о «мире-иллюзии», автор нарочно начинает с рассказа о «дивных людях и дивных пределах».",
+          "ja": "情を写し幻境を写さんがために、あえて先に奇人奇境の一段を写し出だすなり。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "poem",
+      "original": "陋室空堂，当年笏满床，\n衰草枯杨，曾为歌舞场。\n蛛丝儿结满雕梁，\n绿纱今又糊在蓬窗上。\n说什么脂正浓，粉正香，如何两鬓又成霜？\n昨日黄土陇头送白骨，\n今宵红灯帐底卧鸳鸯。\n金满箱，银满箱，\n展眼乞丐人皆谤。\n正叹他人命不长，那知自己归来丧！\n训有方，保不定日后作强梁。\n择膏粱，谁承望流落在烟花巷！",
+      "zh_modern": "陋室空堂，当年笏满床，\n衰草枯杨，曾为歌舞场。\n蛛丝儿结满雕梁，\n绿纱今又糊在蓬窗上。\n说什么脂正浓，粉正香，如何两鬓又成霜？\n昨日黄土陇头送白骨，\n今宵红灯帐底卧鸳鸯。\n金满箱，银满箱，\n转眼乞丐人皆谤。\n正叹他人命不长，那知自己归来丧！\n训教有方，保不定日后作强梁。\n挑选膏粱子弟，谁承望竟流落到烟花巷里！",
+      "en": "Bare rooms and empty halls—yet once the bed was strewn with court tablets;\nWithered grass and dying poplars—yet once it was a ground for song and dance.\nSpider-silk now tangles the carved beams;\nGreen gauze is pasted again on a humble, thatched window.\nWhat of rouge at its richest, powder at its sweetest—how do the temples turn to frost?\nYesterday, at the grave-mound, they sent off white bones in yellow earth;\nTonight, beneath red lanterns and bed-curtains, mandarin ducks lie paired.\nChests brimming with gold, chests brimming with silver—\nIn the blink of an eye, beggars are everywhere reviled.\nYou sigh that others’ lives are short—who knows your own will return in mourning!\nThough one is trained with proper rules, one cannot be sure he won’t later turn into a bully.\nChosen as the flower of the rich—who would have thought he’d drift down into the brothel lanes!",
+      "ru": "Убогая комната, пустой зал — а некогда по постели лежали чиновничьи жезлы;\nСухая трава, мёртвый тополь — а некогда тут были пляски и песни.\nПаутина оплела резные балки;\nЗелёная марля нынче снова заклеила убогое окно.\nЧто толку в густых румянах да душистой пудре — как же виски стали инеем?\nЕщё вчера у кургана жёлтой земли провожали белые кости;\nСегодня ночью под красным фонарём, под пологом, лежат парой «утки-мандаринки».\nСундуки полны золота, сундуки полны серебра —\nИ вот вмиг: кругом нищие, и всех бранят.\nТы вздыхаешь о короткой жизни чужих — кто знает, что твоя вернётся плачем!\nИ воспитан правильно — а всё же не поручишься, что потом не станет разбойным властолюбцем.\nИзбранный как лакомство богатых — кто бы подумал, что занесёт его в кварталы распутных домов!",
+      "ja": "陋屋の空堂、かつては笏が床に満ちた。\n衰草に枯楊、かつては歌舞の場であった。\n蜘蛛の糸は彫梁に満ち、\n緑の紗は今また蓬の窓に貼られる。\n脂は濃く粉は香しと言うても、いかで両鬢は霜となる。\n昨日は黄土の塚頭にて白骨を送り、\n今宵は紅灯の帳底にて鸳鸯は臥す。\n金は箱に満ち、銀も箱に満つ—\n瞬く間に乞食となり、人みな謗る。\n他人の命の短きを嘆くうち、知らずや己が帰り来たって喪に遇う。\n訓け方よくとも、のち強梁となるやも知れぬ。\n膏粱の子と選ばれながら、誰か思わん煙花の巷に零落せんとは！",
+      "poem_notes": {
+        "form": "歌行体（散文化的长歌，句式不齐）",
+        "notes": "“好了歌”以“好/了”的双关为题，通篇写盛衰无常与世事如幻；本页脂批将多句对应到后续人物命运，带强烈预叙性质。"
+      },
+      "commentary": [
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "original": "六、荣未有之先。",
+          "zh_modern": "（第六类）荣华尚未到来之时。",
+          "en": "Sixth: before glory and splendor have arrived.",
+          "ru": "Шестое: ещё до прихода славы и богатства.",
+          "ja": "六、栄未だ有らざるの先。"
+        },
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "original": "六、荣既败之后。",
+          "zh_modern": "（第六类）荣华已败之后。",
+          "en": "Sixth: after glory has already fallen.",
+          "ru": "Шестое: после того, как блеск уже пал.",
+          "ja": "六、栄すでに敗れし後。"
+        },
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "original": "潇湘馆、紫芸轩等处。",
+          "zh_modern": "如潇湘馆、紫芸轩等处。",
+          "en": "Places such as the Bamboo Lodge (Xiaoxiang Pavilion) and Ziyun Studio, and the like.",
+          "ru": "Например: 潇湘馆 (Сяосян-гуань) и 紫芸轩 (Цзыюнь-сюань) и прочие места.",
+          "ja": "潇湘館・紫芸軒などの処。"
+        },
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "original": "雨村等一千新来暴发之家。",
+          "zh_modern": "如雨村这类新近暴发之家的千般一例。",
+          "en": "A thousand instances like Yucun—newly risen, suddenly enriched families.",
+          "ru": "Тысяча примеров вроде Юцуня — семей, внезапно разбогатевших в новые времена.",
+          "ja": "雨村ら千の新来の暴発の家。"
+        },
+        {
+          "type": "眉批",
+          "source": "甲戌本",
+          "original": "先说场面，忽新忽败，忽丽忽枯，已见得反覆不了。",
+          "zh_modern": "先写“场面”：忽而新盛、忽而败落，忽而绚丽、忽而枯槁，已见得世态反覆无常。",
+          "en": "It begins with the tableau: now flourishing, now ruined; now splendid, now withered—already showing the world’s ceaseless reversals.",
+          "ru": "Сначала — «сцена»: то новизна и расцвет, то распад; то красота, то увядание — уже видно, как всё переворачивается вновь и вновь.",
+          "ja": "まず場面を説き、新たにして忽ち敗れ、麗しくして忽ち枯る。すでに反覆のならざるを見せたり。"
+        },
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "original": "宝钗、湘云一千人。",
+          "zh_modern": "宝钗、湘云这类人物千般一例。",
+          "en": "A thousand people like Baochai and Xiangyun.",
+          "ru": "Тысяча людей вроде Баоцай и Сянъюнь.",
+          "ja": "宝釵・湘雲千人。"
+        },
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "original": "黛玉、晴雯一千人。",
+          "zh_modern": "黛玉、晴雯这类人物千般一例。",
+          "en": "A thousand people like Daiyu and Qingwen.",
+          "ru": "Тысяча людей вроде Дайюй и Цинвэнь.",
+          "ja": "黛玉・晴雯千人。"
+        },
+        {
+          "type": "眉批",
+          "source": "甲戌本",
+          "original": "一段妻妾迎新送死，侯恩侯爱，侯痛侯悲，缠绵不了。",
+          "zh_modern": "这一段写妻妾之间迎新送死：时而受恩受爱，时而痛苦悲伤，纠缠不休。",
+          "en": "A passage of wives and concubines welcoming the new and seeing off the dead—now waiting on favor and love, now waiting on pain and grief—entanglement without end.",
+          "ru": "Эпизод о жёнах и наложницах: встречают новое, провожают смерть; то ждут милости и любви, то ждут боли и печали — и нет конца этой путанице.",
+          "ja": "妻妾、迎新送死の一段、侯恩侯愛、侯痛侯悲、纏綿して了らず。"
+        },
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "original": "熙凤一千人。",
+          "zh_modern": "熙凤这类人物千般一例。",
+          "en": "A thousand people like Xifeng.",
+          "ru": "Тысяча людей вроде Сифэн.",
+          "ja": "熙鳳千人。"
+        },
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "original": "甄玉、贾玉一千人。",
+          "zh_modern": "甄玉、贾玉这类人物千般一例。",
+          "en": "A thousand people like Zhen Yu and Jia Yu.",
+          "ru": "Тысяча людей вроде Чжэнь Юй и Цзя Юй.",
+          "ja": "甄玉・賈玉千人。"
+        },
+        {
+          "type": "眉批",
+          "source": "甲戌本",
+          "original": "一段石火光阴，悲喜不了。风露草霜，富贵嗜欲，贪禁不了。",
+          "zh_modern": "这一段写“石火光阴”：悲喜无尽；而风露草霜之间，富贵嗜欲也难禁、贪念难止。",
+          "en": "A passage of time like sparks from flint—sorrows and joys without end; amid wind, dew, grass, and frost, cravings for wealth and rank are hard to restrain, greed impossible to forbid.",
+          "ru": "Эпизод о «времени, как искра кремня»: горе и радость не иссякают; а среди ветра и росы, травы и инея жажда богатства и почестей трудно укротима, алчность не запретить.",
+          "ja": "石火のごとき光陰の一段、悲喜了らず。風露草霜のうち、富貴の嗜欲、貪りは禁じ難し。"
+        },
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "original": "言父母死后之日。",
+          "zh_modern": "说的是父母死后那段日子。",
+          "en": "This speaks of the time after the parents’ death.",
+          "ru": "Речь о том времени, когда родители уже умерли.",
+          "ja": "父母死後の日を言う。"
+        },
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "original": "柳湘莲一千人。",
+          "zh_modern": "柳湘莲这类人物千般一例。",
+          "en": "A thousand people like Liu Xianglian.",
+          "ru": "Тысяча людей вроде Лю Сянляня.",
+          "ja": "柳湘蓮千人。"
+        },
+        {
+          "type": "眉批",
+          "source": "甲戌本",
+          "original": "一段儿女死后无凭，生前空为筹划计算，痴心不了。",
+          "zh_modern": "这一段写儿女死后无凭无据；生前徒然为他们筹划算计，却总是痴心放不下。",
+          "en": "A passage of children: after death there is nothing to rely on; in life one plans and calculates in vain—yet foolish, clinging hearts cannot let go.",
+          "ru": "Эпизод о детях: после смерти — ни на что не опереться; при жизни напрасно строят планы и расчёты — а слепая привязанность не отпускает.",
+          "ja": "児女、死後は凭るべきなし。生前、空しく籌画計算するも、痴心了らず。"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "《好了歌》以“好/了”双关（好=好处/称好，了=了结/完毕）点明“了即是好”的看破，承接上文“万境如梦”的佛道语境。",
+    "诗中“笏满床”以笏（朝见所执之板）象征仕宦荣华；随即转入“衰草枯杨”“蛛丝”“蓬窗”，构成极强的盛衰反照。",
+    "甲戌本脂批多处以“一千人”方式把诗句对应到后文人物（如宝钗、湘云、黛玉、晴雯、熙凤、柳湘莲等），显示此歌既是通论，也是对群像命运的预叙提纲。",
+    "眉批“迎新送死…石火光阴…富贵嗜欲…”把情爱纠缠、人生短促与贪欲难禁并列，强化本书“写情而兼写世”的批评立场。"
+  ],
+  "research_notes": [
+    "参照通行《红楼梦》版本的《好了歌》文本，确认本页所录为“好了歌”本歌（非后续的“好了歌解”）。",
+    "核对“笏”“鸳鸯”“烟花巷”等词在清代语境中的常用义，译文中保留其文化指向并避免过度现代化。"
+  ],
+  "characters_appearing": [
+    "甄士隐",
+    "道人",
+    "贾雨村",
+    "薛宝钗",
+    "史湘云",
+    "林黛玉",
+    "晴雯",
+    "王熙凤",
+    "甄玉",
+    "贾玉",
+    "柳湘莲"
+  ],
+  "manuscript_sources_on_page": [
+    "甲戌本",
+    "蒙府本"
+  ],
+  "total_segments": 2
+}
