@@ -1,0 +1,105 @@
+{
+  "page": 44,
+  "chapter": "第三回",
+  "chapter_title": {
+    "original": "金陵城起复贾雨村 荣国府收养林黛玉",
+    "zh_modern": "贾雨村在金陵城复职，荣国府收养林黛玉",
+    "en": "Jia Yucun Is Reinstated in Jinling; Lin Daiyu Enters the Rong-guo House",
+    "ru": "Цзя Юйцунь восстанавливается в должности в Цзиньлине; Линь Дайюй входит в Дом Жунго",
+    "ja": "賈雨村金陵城に起復し、栄国府林黛玉を収養す"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 44,
+      "type": "prose",
+      "original": "过插屏，小小三间内厅，厅后就是后面的正房大院。正面五间上房，皆是雕梁画栋，两边穿山游廊厢房，挂着各色鹦鹉，画眉等雀，台矶之上，坐着几个穿红着绿的丫鬟，一见他们来了，便忙都笑迎上来，说：「才刚老太太还念念金呢，可巧就来了。」",
+      "zh_modern": "过了插屏，小小三间内厅，厅后就是后面的正房大院。正面五间上房，都是雕梁画栋，两边穿山游廊厢房，挂着各色鹦鹉、画眉等鸟雀，台阶之上，坐着几个穿红着绿的丫鬟，一见他们来了，便忙都笑着迎上来，说：「才刚老太太还念叨着呢，可巧就来了。」",
+      "en": "Passing through the decorated screen, they entered a small inner hall of three rooms, behind which lay the main courtyard. Facing them were five grand chambers with carved beams and painted rafters. On either side, covered walkways and side rooms were hung with cages of parrots, mynas and other birds. On the terrace sat several maids dressed in red and green. Seeing them arrive, the maids all hurried forward with smiles, saying, 'Just now the Old Lady was asking after you—how perfectly timed your arrival!'",
+      "ru": "Пройдя через украшенную ширму, они вошли в небольшой внутренний зал из трёх комнат, за которым находился главный двор. Перед ними стояли пять великолепных палат с резными балками и расписными стропилами. По обеим сторонам крытые проходы и боковые комнаты были увешаны клетками с попугаями, майнами и другими птицами. На террасе сидело несколько служанок в красном и зелёном. Увидев их прибытие, служанки поспешно вышли вперёд с улыбками, говоря: 'Только что Старая Госпожа спрашивала о вас—как своевременно ваше прибытие!'",
+      "ja": "插屏を過ぎ、小さき三間の内庁、庁後は即ち後面の正房大院なり。正面五間の上房、皆是れ雕梁画棟、両辺穿山遊廊の廂房、掛けて各色の鸚鵡、画眉等の雀あり、台磯の上、坐して幾人かの紅を穿ち緑を着たる丫鬟、一たび彼らの来たるを見れば、便ち忙しく都て笑いて迎え上り来たり、説きて「才だ剛に老太太還た念念たりき金なるを呢、可巧に就ち来たれり」と。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 说话",
+          "original": "闲如见如闻，活现纸上之妙，好看极！",
+          "zh_modern": "闲笔如同亲见亲闻，活现在纸上之妙，好看极了！",
+          "en": "Casual stroke as if seen and heard firsthand, marvelously brought to life on paper—extremely well done!",
+          "ru": "Небрежный штрих, словно увиденный и услышанный из первых рук, чудесно оживший на бумаге—чрезвычайно хорошо!",
+          "ja": "閑に見るが如く闻くが如く、紙上に活現するの妙、看ること極めて好し！"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pdf_page": 44,
+      "type": "prose",
+      "original": "于是三四个争着打起帘幕，闲闲此数到如娘，身有思奏！一面听得人回话：「林姑娘到了。」",
+      "zh_modern": "于是三四个人争着打起帘幕，闲闲此数如同娘亲，身有思念！一面听得有人回话：「林姑娘到了。」",
+      "en": "Thus three or four vied to lift the door curtains. Meanwhile, someone was heard announcing, 'Miss Lin has arrived.'",
+      "ru": "Таким образом, трое или четверо соревновались, поднимая дверные занавески. Тем временем был слышен голос, объявляющий: 'Мисс Линь прибыла.'",
+      "ja": "是に於いて三四人争いて簾幕を打ち起こし、閑に此の数娘の如く、身に思奏あり！一面に人の回話するを聴き得たり、「林姑娘到れり」と。",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "pdf_page": 44,
+      "type": "prose",
+      "original": "不一时，只见三个奶嬷嬷并五六个丫鬟，簇拥着三个姊妹来了。第一个肌肤微丰，合中身材，腮凝新荔，鼻腻鹅脂，温柔沉默，观之可亲。第二个削肩细腰，中等《谐神赋》中云「肩若削成」是也。长挑身材，鸭蛋脸面，俊眼修眉，顾盼神飞，文彩精华，见之忘俗。第三个身量未足，形容尚小。",
+      "zh_modern": "不一会儿，只见三个奶娘并五六个丫鬟，簇拥着三个姐妹来了。第一个肌肤微丰，中等身材，脸颊像新鲜荔枝，鼻子像鹅脂般润泽，温柔沉默，看着可亲。第二个削肩细腰，《洛神赋》中说「肩若削成」就是这样。身材修长挑高，鸭蛋脸，俊美的眼睛修长的眉毛，顾盼之间神采飞扬，文采精华，见之忘俗。第三个身量未足，形容尚小。",
+      "en": "Before long, three wet nurses and five or six maids appeared, escorting three young ladies. The first had slightly plump skin and medium build, cheeks like fresh lychees, a nose smooth as goose fat—gentle and quiet, pleasant to behold. The second had sloping shoulders and a slim waist (as the Rhapsody on the Goddess of the Luo describes: 'shoulders as if carved')—tall and slender of figure, an oval face, handsome eyes and delicate brows; her glances sparkled with spirit, her literary grace and refinement made one forget worldly concerns. The third was not yet fully grown, her appearance still youthful.",
+      "ru": "Вскоре появились три кормилицы и пять-шесть служанок, сопровождая трёх молодых дам. У первой была слегка пухлая кожа и средний рост, щёки как свежие личи, нос гладкий, как гусиный жир—нежная и тихая, приятная на вид. У второй были покатые плечи и тонкая талия (как описывает Рапсодия о Богине Ло: 'плечи, словно вырезанные')—высокая и стройная фигура, овальное лицо, красивые глаза и изящные брови; её взгляды искрились духом, её литературная грация и утончённость заставляли забыть о мирских заботах. Третья ещё не полностью выросла, её внешность всё ещё юношеская.",
+      "ja": "一時ならずして、只だ三個の奶嬷嬷並びに五六個の丫鬟を見れば、簇めて拥して三個の姊妹来たれり。第一の者肌膚微かに豊かにして、中の身材に合い、腮は新荔を凝らし、鼻は鵞脂を膩らかにし、温柔沈黙、之を観れば親しむべし。第二の者削肩細腰、中等《洛神賦》中に云う「肩若し削りて成る」是れ也。長く挑みたる身材、鴨蛋の臉面、俊眼修眉、顧盼して神飛び、文彩精華、之を見れば俗を忘る。第三の者身量未だ足らず、形容尚お小なり。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after descriptions",
+          "original": "画笔如纸恋上，寥寥如此却天零一页。",
+          "zh_modern": "画笔如同在纸上留恋，寥寥数笔却描绘得如此生动。",
+          "en": "The brush lingers on paper lovingly; with just a few strokes, such vivid portrayal is achieved.",
+          "ru": "Кисть любовно задерживается на бумаге; всего несколькими мазками достигается такое яркое изображение.",
+          "ja": "画筆紙上に恋するが如く、寥々として此の如くなれども天の一頁を零す。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "闲从容写三人，真是妙笔，恩得细琢！泪今个今生剑疏矢。",
+          "zh_modern": "闲笔从容地写三人，真是妙笔，值得细细琢磨！",
+          "en": "Casually and unhurriedly depicting three people—truly masterful writing, worthy of careful contemplation!",
+          "ru": "Небрежно и неспешно изображая трёх людей—поистине мастерское письмо, достойное тщательного размышления!",
+          "ja": "閑に从容として三人を写す、真に是れ妙筆、恩を得て細かに琢く！"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "This page introduces the famous 'Three Springs' (元春/迎春/探春) sisters through vivid physical descriptions",
+    "The description technique follows traditional Chinese beauty standards and literary conventions for depicting women",
+    "《洛神赋》(Rhapsody on the Goddess of the Luo) by Cao Zhi is a famous work describing an idealized beauty, referenced here for literary authority",
+    "The phrase '削肩细腰' (sloping shoulders, slim waist) echoes classical Chinese beauty ideals found in poetry and painting",
+    "The progression from 'fully developed' to 'still youthful' establishes age hierarchy among the sisters",
+    "The 甲戌本 commentary praises Cao Xueqin's economical yet vivid character descriptions using '寥寥数笔' (a few strokes)",
+    "This introduction scene uses architectural description (carved beams, painted rafters) to establish the family's wealth before describing the characters"
+  ],
+  "research_notes": [
+    "Consulted 红楼梦大辞典 for detailed notes on the Three Springs characterization",
+    "Reviewed traditional Chinese physiognomy and beauty standards in classical literature",
+    "Referenced Cao Zhi's 洛神赋 for the shoulder description allusion",
+    "Studied 甲戌本 commentary on character introduction techniques",
+    "Checked existing translations (Hawkes, Yang Xianyi) for handling of physical descriptions"
+  ],
+  "characters_appearing": [
+    "林黛玉",
+    "贾迎春",
+    "贾探春",
+    "贾惜春"
+  ],
+  "total_segments": 3,
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ]
+}
