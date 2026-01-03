@@ -3,11 +3,11 @@
 ## Status
 - **Branch**: cursor/hong-lou-meng-translation-e575
 - **Short ID**: e575
-- **Heartbeat**: 1767405349
+- **Heartbeat**: 1767405400
 - **Status**: researching
 
 ## Current Work
-- **Claimed Page**: 1
+- **Claimed Page**: 2
 - **Started At**: 1767405349
 - **Current Step**: research
 
@@ -20,4 +20,4 @@
 |----------|--------|--------------|----------------|
 
 ## Notes
-Ready to begin translation.
+Switched to Page 2 (Title Page) as Page 1 appears to be image-only cover.
