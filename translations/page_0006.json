@@ -1,0 +1,49 @@
+{
+  "page": 6,
+  "chapter": "目录",
+  "chapter_title": null,
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "红楼梦脂评汇校本目录",
+      "zh_modern": "红楼梦脂评汇校本目录",
+      "en": "Dream of the Red Chamber: Zhiping Commentary Collated Edition - Table of Contents",
+      "ru": "Сон в красном тереме: сводное издание с комментариями Чжипин - Содержание",
+      "ja": "紅楼夢脂評彙校本目録",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "脂砚斋重评石头记凡例",
+      "zh_modern": "脂砚斋重评石头记凡例",
+      "en": "Preface: Zhiyan Zhai's Re-evaluation of The Story of the Stone",
+      "ru": "Предисловие: переоценка Записок о камне Чжияньчжаем",
+      "ja": "脂硯斎重評石頭記凡例",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "第一回至第二十回章目",
+      "zh_modern": "第一回至第二十回章目",
+      "en": "Chapters 1-20",
+      "ru": "Главы 1-20",
+      "ja": "第一回至第二十回",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "This page begins the table of contents for the 80-chapter edition",
+    "Each chapter is listed with its traditional paired-couplet title format",
+    "Page numbers refer to the PDF pagination of this collated edition"
+  ],
+  "research_notes": [
+    "The chapter titles follow traditional format with parallel couplet structure"
+  ],
+  "characters_appearing": [],
+  "total_segments": 3,
+  "manuscript_sources_on_page": []
+}
