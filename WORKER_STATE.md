@@ -7,9 +7,9 @@
 - **Status**: online
 
 ## Current Work
-- **Claimed Page**: 7
-- **Started At**: 1767405750
-- **Current Step**: research
+- **Claimed Page**: none
+- **Started At**: -
+- **Current Step**: -
 
 ## Completed Pages
 | Page | Chapter | Completed At | Hash | Segments |
@@ -20,6 +20,7 @@
 | 4    | 凡例    | 1767405580   | 2f03494e | 4 |
 | 5    | 凡例    | 1767405650   | 15b3177c | 7 |
 | 6    | 目录    | 1767405720   | 46907213 | 3 |
+| 7    | 目录    | 1767405820   | 239196e2 | 1 |
 
 ## Known Workers (Last Sync)
 | Short ID | Status | Claimed Page | Last Heartbeat |
