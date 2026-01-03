@@ -15,7 +15,7 @@
 - **Branch**: cursor/hong-lou-meng-translation-ebba
 - **Short ID**: ebba
 - **Heartbeat**: 1735874240
-- **Status**: online
+- **Status**: idle
 
 ## Current Work
 - **Claimed Page**: none
@@ -46,4 +46,4 @@
 |--------|----------------|
 
 ## Notes
-Completed page 43.
+Session complete. Completed 9 pages.
