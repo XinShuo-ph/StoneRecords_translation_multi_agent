@@ -3,12 +3,12 @@
 ## Status
 - **Branch**: cursor/hong-lou-meng-translation-01d9
 - **Short ID**: 01d9
-- **Heartbeat**: 1767407300
+- **Heartbeat**: 1767407600
 - **Status**: translating
 
 ## Current Work
-- **Claimed Page**: 18
-- **Started At**: 1767407300
+- **Claimed Page**: 19
+- **Started At**: 1767407600
 - **Current Step**: research
 
 ## Completed Pages
@@ -26,7 +26,7 @@
 | 13   | 第一回  | 1767406650   | - | 4 |
 | 14   | 第一回  | 1767406900   | - | 3 |
 | 17   | 第一回  | 1767407200   | - | 4 |
+| 18   | 第一回  | 1767407500   | - | 3 |
 
 ## Notes
-Completed 12 pages total. Working through Chapter 1 (第一回).
-Introduced Zhen Shiyin and the frame narrative.
+Completed 13 pages total. Just finished the crucial 'debt of tears' passage explaining Daiyu and Baoyu's divine origins.
