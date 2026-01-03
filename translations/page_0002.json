@@ -1,0 +1,60 @@
+{
+  "page": 2,
+  "chapter": "扉页",
+  "chapter_title": null,
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "红楼梦脂评汇校本",
+      "zh_modern": "《红楼梦》脂砚斋评点汇校本",
+      "en": "Dream of the Red Chamber: Collected and Collated Edition with Zhiyan Zhai Commentary",
+      "ru": "Сон в красном тереме: Сводное издание с комментариями Чжияньчжай",
+      "ja": "紅楼夢 脂硯斎評点 彙校本",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "曹雪芹著／脂砚斋评",
+      "zh_modern": "曹雪芹 著 / 脂砚斋 评点",
+      "en": "Written by Cao Xueqin / Commentary by Zhiyan Zhai",
+      "ru": "Автор: Цао Сюэцинь / Комментарии: Чжияньчжай",
+      "ja": "曹雪芹 著／脂硯斎 評",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "Kolistan 汇校整理、制作",
+      "zh_modern": "Kolistan 汇校整理、制作",
+      "en": "Collated, Edited, and Produced by Kolistan",
+      "ru": "Составление, редактирование и оформление: Kolistan",
+      "ja": "Kolistan 彙校整理・制作",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "抚琴居红楼梦文学社区发布",
+      "zh_modern": "由抚琴居红楼梦文学社区发布",
+      "en": "Published by the Fuqinju Dream of the Red Chamber Literary Community",
+      "ru": "Опубликовано литературным сообществом «Сон в красном тереме» Фуциньцзюй",
+      "ja": "撫琴居紅楼夢文学社区より発布",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "「抚琴居」(Fuqinju) literally means 'Dwelling of Caressing the Qin' - the qin (琴) is the classical Chinese zither, symbolizing scholarly refinement",
+    "This is an online literary community dedicated to 红楼梦 scholarship and textual studies",
+    "The title page establishes this as a collaborative scholarly effort combining traditional commentary with modern collation methods"
+  ],
+  "research_notes": [
+    "The Fuqinju community was active in early Chinese internet forums dedicated to classical literature",
+    "Kolistan's collation work compares multiple manuscript traditions to establish the most authentic text"
+  ],
+  "characters_appearing": [],
+  "total_segments": 4,
+  "manuscript_sources_on_page": []
+}

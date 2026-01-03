@@ -1,0 +1,63 @@
+{
+  "page": 1,
+  "chapter": "封面",
+  "chapter_title": null,
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "红楼梦脂评汇校本",
+      "zh_modern": "《红楼梦》脂砚斋评点汇校本",
+      "en": "Dream of the Red Chamber: Collected and Collated Edition with Zhiyan Zhai Commentary",
+      "ru": "Сон в красном тереме: Сводное издание с комментариями Чжияньчжай",
+      "ja": "紅楼夢 脂硯斎評点 彙校本",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "曹雪芹著　脂砚斋评",
+      "zh_modern": "曹雪芹 著　脂砚斋 评点",
+      "en": "Written by Cao Xueqin, with Commentary by Zhiyan Zhai",
+      "ru": "Автор: Цао Сюэцинь, комментарии: Чжияньчжай",
+      "ja": "曹雪芹 著　脂硯斎 評",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "Kolistan 汇校整理·制作",
+      "zh_modern": "Kolistan 汇校整理、制作",
+      "en": "Collated, Edited, and Produced by Kolistan",
+      "ru": "Составление, редактирование и оформление: Kolistan",
+      "ja": "Kolistan 彙校整理・制作",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "[插图：仕女图，一女子立于梅竹之下]",
+      "zh_modern": "[插图：传统仕女画，描绘一位女子站在梅花与竹子之间]",
+      "en": "[Illustration: Traditional painting of a lady standing beneath plum blossoms and bamboo]",
+      "ru": "[Иллюстрация: Традиционная картина с изображением дамы под цветущей сливой и бамбуком]",
+      "ja": "[挿図：仕女図、梅と竹の下に立つ女性]",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "「红楼梦」(Hónglóumèng) literally means 'Dream of the Red Chamber' - 红楼 refers to the vermilion chambers where noble women resided",
+    "「脂砚斋」(Zhiyan Zhai) was a primary commentator of the manuscript, possibly a close relative or confidant of Cao Xueqin; identity still debated among scholars",
+    "「汇校本」indicates this is a collated edition combining variants from multiple manuscript sources (甲戌本, 庚辰本, 己卯本, etc.)",
+    "The illustration depicts a classical beauty (仕女) in a garden setting with plum blossoms (梅花) and bamboo (竹), symbolizing refinement and nobility - likely representing Lin Daiyu or a generic representation of the novel's female characters",
+    "Plum, orchid, bamboo, and chrysanthemum (梅兰竹菊) are known as the 'Four Gentlemen' in Chinese art, representing noble qualities"
+  ],
+  "research_notes": [
+    "This edition is version 3.13, released July 20, 2009, by the 抚琴居红楼梦文学社区 (Fuqinju Honglou Meng Literary Community)",
+    "The Zhiping commentaries are crucial for understanding authorial intent, as they were written by contemporaries of Cao Xueqin",
+    "This cover design emphasizes the scholarly nature of the edition by highlighting the commentary tradition"
+  ],
+  "characters_appearing": [],
+  "total_segments": 4,
+  "manuscript_sources_on_page": []
+}
