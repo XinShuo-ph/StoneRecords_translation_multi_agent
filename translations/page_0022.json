@@ -1,0 +1,94 @@
+{
+  "page": 22,
+  "chapter": "第一回",
+  "chapter_title": {
+    "original": "甄士隐梦幻识通灵 贾雨村风尘怀闺秀",
+    "zh_modern": "甄士隐在梦幻中认识了通灵宝玉，贾雨村在落魄时怀念闺中秀女",
+    "en": "Zhen Shiyin in a Dream Perceives the Jade of Spiritual Understanding; Jia Yucun in Humble Circumstances Thinks Fondly of a Beautiful Maiden",
+    "ru": "Чжэнь Шиинь во сне постигает волшебную яшму; Цзя Юйцунь в бедности вспоминает прекрасную деву",
+    "ja": "甄士隠、夢幻の中で通霊を識り、賈雨村、風塵にありて閨秀を懐う"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 22,
+      "type": "prose",
+      "original": "真是闲处光阴易过，倏忽又是元宵佳节。士隐令家人霍启抱了英莲去看社火花灯。",
+      "zh_modern": "真是闲暇时的光阴容易度过，转眼间又是元宵佳节。甄士隐命令家仆霍启抱着英莲去看社火花灯。",
+      "en": "Truly, time passes easily in idleness; in the blink of an eye, it was the Lantern Festival. Shiyin ordered his servant Huo Qi to carry Yinglian out to see the festive lanterns and fireworks.",
+      "ru": "Воистину, в праздности время летит незаметно; и вот уже снова Праздник Фонарей. Шиинь велел слуге Хо Ци взять Инлянь и отнести её посмотреть на праздничные огни и фонари.",
+      "ja": "誠に閑なれば光陰過ぎ易く、忽ちまた元宵の佳節なり。士隠は家人の霍啓に命じ、英蓮を抱いて社火花灯を見に行かせた。",
+      "commentary": [
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "position": "right margin",
+          "original": "霍启，祸起也。此是大关节处。",
+          "zh_modern": "霍启，谐音"祸起"（灾祸由此而起）。这是关键的情节。",
+          "en": "Huo Qi is a homophone for 'disaster arises'. This is a major turning point.",
+          "ru": "Хо Ци созвучно с «беда начинается». Это ключевой поворотный момент.",
+          "ja": "霍啓とは、禍起なり。此れ大いなる関節の処なり。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pdf_page": 22,
+      "type": "prose",
+      "original": "半夜中，霍启因要小解，便将英莲放在一家门槛上坐着。待他小解完了来抱时，那有英莲的踪影？",
+      "zh_modern": "到了半夜，霍启因为要小便，便把英莲放在一家门槛上坐着。等他小便回来要抱她时，哪里还有英莲的踪影？",
+      "en": "In the middle of the night, Huo Qi needed to relieve himself, so he placed Yinglian on the threshold of a house to sit. When he finished and returned to pick her up, there was no trace of Yinglian.",
+      "ru": "Посреди ночи Хо Ци захотел справить нужду и посадил Инлянь на порог чьего-то дома. Когда он закончил и вернулся, чтобы взять её, Инлянь и след простыл.",
+      "ja": "夜半、霍啓は小用を足そうとして、英蓮をある家の門の敷居に座らせた。小用を済ませて抱き上げようとした時、英蓮の影も形もなかった。"
+    },
+    {
+      "id": 3,
+      "pdf_page": 22,
+      "type": "prose",
+      "original": "急得霍启直寻了半夜，至天明不见，那霍启也就不敢回来见主人，便逃往他乡去了。",
+      "zh_modern": "急得霍启找了半夜，直到天亮也没见到人。那霍启也不敢回来见主人，便逃往外乡去了。",
+      "en": "Frantic, Huo Qi searched for half the night, but by dawn she was nowhere to be seen. Huo Qi dared not return to face his master, so he fled to a distant place.",
+      "ru": "В панике Хо Ци искал её половину ночи, но к рассвету так и не нашёл. Хо Ци не посмел вернуться к хозяину и сбежал в чужие края.",
+      "ja": "霍啓は慌てて夜半まで尋ね回ったが、夜が明けても見当たらず、霍啓も敢えて戻って主人に見えることができず、他郷へと逃げ去った。"
+    },
+    {
+      "id": 4,
+      "pdf_page": 22,
+      "type": "prose",
+      "original": "那士隐夫妇，见女儿一夜不归，便知有些不妥，再使几人去寻找，回来皆云连霍启并无踪影。",
+      "zh_modern": "甄士隐夫妇见女儿一夜未归，便知道有些不对劲，再派几个人去寻找，回来都说连霍启也没了踪影。",
+      "en": "Seeing that their daughter had not returned all night, Shiyin and his wife realized something was wrong. They sent several people to search, but all returned saying there was no trace of either her or Huo Qi.",
+      "ru": "Супруги Шиинь, видя, что дочь не вернулась ночевать, поняли, что случилось неладное. Они послали людей на поиски, но те вернулись с вестью, что исчез и сам Хо Ци.",
+      "ja": "士隠夫婦は、娘が一夜帰らぬを見て、何か不都合があったと知り、さらに数人を遣わして探させたが、戻って来て皆言うには、霍啓すら影も形もないとのこと。"
+    },
+    {
+      "id": 5,
+      "pdf_page": 22,
+      "type": "prose",
+      "original": "夫妻二人半世只生此女，一旦失落，其凄凉之况，不必细说。因此天天啼哭，几乎不曾寻死。",
+      "zh_modern": "夫妻二人半辈子只生了这个女儿，一旦丢失，那种凄凉的况景，不必细说。因此两人天天哭泣，简直不想活了。",
+      "en": "The couple had only this one daughter in half a lifetime; losing her so suddenly, their desolation need not be described in detail. They wept every day, almost wishing for death.",
+      "ru": "У супругов за полжизни родилась лишь эта дочь; потеряв её в одночасье, они погрузились в скорбь, которую не нужно и описывать. Они плакали день и ночь, едва не наложив на себя руки.",
+      "ja": "夫妻二人は半生にしてただこの女を生み、一旦失落すれば、その凄涼の況、細説するに及ばず。因って日々啼泣し、ほとんど死を尋ねんばかりであった。"
+    }
+  ],
+  "translator_notes": [
+    "Huo Qi (霍启) is a homophone for 祸起 (disaster arises/begins), signaling the start of Zhen Shiyin's misfortunes.",
+    "The loss of Yinglian (English translation often 'Lotus') is the first major tragedy, setting in motion the theme of separation and loss.",
+    "The Lantern Festival (15th of 1st lunar month) is traditionally a time of reunion, making the separation more poignant."
+  ],
+  "research_notes": [
+    "Verified the 'Huo Qi' pun in Zhiping commentary.",
+    "Checked chronology: This follows the Mid-Autumn Festival (8th month) of the previous year."
+  ],
+  "characters_appearing": [
+    "甄士隐",
+    "霍启",
+    "英莲",
+    "封氏"
+  ],
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ]
+}
