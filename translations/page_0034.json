@@ -1,0 +1,70 @@
+{
+  "page": 34,
+  "chapter": "第二回",
+  "chapter_title": {
+    "original": "贾夫人仙逝扬州城 冷子兴演说荣国府",
+    "zh_modern": "贾夫人（贾敏）在扬州城仙逝，冷子兴演说荣国府",
+    "en": "Lady Jia Dies in the City of Yangzhou; Leng Zixing Discourses on the Rongguo Mansion",
+    "ru": "Госпожа Цзя умирает в городе Янчжоу; Лэн Цзысин рассказывает о дворце Жунго",
+    "ja": "賈夫人、揚州城に仙逝し、冷子興、栄国府を演説す"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 34,
+      "type": "prose",
+      "original": "天地生人，除大仁大恶两种，余者皆无大异。若大仁者，则应运而生；大恶者，则应劫而生。运生世治，劫生世危。",
+      "zh_modern": "天地生人，除了大仁和大恶这两种人之外，其余的人都没有什么大的区别。大仁的人，是应运而生的；大恶的人，是应劫而生的。应运而生的人出现，世道就太平治理；应劫而生的人出现，世道就危险混乱。",
+      "en": "When Heaven and Earth give birth to humans, except for the Great Good and the Great Evil, the rest are not much different. The Great Good are born in response to a prosperous destiny; the Great Evil are born in response to a calamitous fate. When those of destiny are born, the world is well-governed; when those of calamity are born, the world is in peril.",
+      "ru": "Когда Небо и Земля порождают людей, то, за исключением Великого Добра и Великого Зла, остальные мало чем отличаются. Великое Добро рождается в ответ на счастливую судьбу; Великое Зло рождается в ответ на роковой рок. Когда рождаются избранники судьбы, в мире царит порядок; когда рождаются вестники бедствий, мир в опасности.",
+      "ja": "天地の人を生ずるに、大仁と大悪の二種を除くのほか、余者は皆大いなる異なり無し。若し大仁なる者は、則ち運に応じて生じ、大悪なる者は、則ち劫に応じて生ず。運生ずれば世治まり、劫生ずれば世危うし。"
+    },
+    {
+      "id": 2,
+      "pdf_page": 34,
+      "type": "prose",
+      "original": "尧、舜、禹、汤、文、武、周、召、孔、孟、董、韩、周、程、张、朱，皆应运而生者。",
+      "zh_modern": "像尧、舜、禹、商汤、周文王、周武王、周公、召公、孔子、孟子、董仲舒、韩愈、周敦颐、程颢、程颐、张载、朱熹这些人，都是应运而生的。",
+      "en": "Yao, Shun, Yu, Tang, Wen, Wu, the Duke of Zhou, the Duke of Shao, Confucius, Mencius, Dong Zhongshu, Han Yu, Zhou Dunyi, the Cheng brothers, Zhang Zai, and Zhu Xi—all these were born in response to a prosperous destiny.",
+      "ru": "Яо, Шунь, Юй, Тан, Вэнь, У, Чжоу-гун, Шао-гун, Конфуций, Мэн-цзы, Дун Чжуншу, Хань Юй, Чжоу Дуньи, братья Чэн, Чжан Цзай и Чжу Си — все они родились в ответ на счастливую судьбу.",
+      "ja": "堯、舜、禹、湯、文、武、周、召、孔、孟、董、韓、周、程、張、朱は、皆運に応じて生ぜる者なり。"
+    },
+    {
+      "id": 3,
+      "pdf_page": 34,
+      "type": "prose",
+      "original": "蚩尤、共工、桀、纣、始皇、王莽、曹操、桓温、安禄山、秦桧等，皆应劫而生者。",
+      "zh_modern": "像蚩尤、共工、夏桀、商纣、秦始皇、王莽、曹操、桓温、安禄山、秦桧这些人，都是应劫而生的。",
+      "en": "Chi You, Gong Gong, Jie, Zhou, the First Emperor of Qin, Wang Mang, Cao Cao, Huan Wen, An Lushan, and Qin Hui—all these were born in response to a calamitous fate.",
+      "ru": "Чи Ю, Гун Гун, Цзе, Чжоу, Цинь Шихуанди, Ван Ман, Цао Цао, Хуань Вэнь, Ань Лушань и Цинь Хуэй — все они родились в ответ на роковой рок.",
+      "ja": "蚩尤、共工、桀、紂、始皇、王莽、曹操、桓温、安禄山、秦檜等は、皆劫に応じて生ぜる者なり。"
+    },
+    {
+      "id": 4,
+      "pdf_page": 34,
+      "type": "prose",
+      "original": "大仁者，修治天下；大恶者，扰乱天下。清明灵秀，天地之正气，仁者之所秉也；残忍乖僻，天地之邪气，恶者之所秉也。",
+      "zh_modern": "大仁的人，修整治理天下；大恶的人，扰乱破坏天下。清明灵秀，是天地之间的正气，是仁者所秉承的；残忍乖僻，是天地之间的邪气，是恶者所秉承的。",
+      "en": "The Great Good govern and restore order to the world; the Great Evil disturb and plunge the world into chaos. Clarity, brightness, intelligence, and refinement are the Righteous Qi of Heaven and Earth, endowed to the benevolent. Cruelty, perversity, and eccentricity are the Evil Qi of Heaven and Earth, endowed to the malevolent.",
+      "ru": "Великое Добро управляет Поднебесной и приводит её в порядок; Великое Зло сеет смуту в Поднебесной. Ясность, свет, одухотворенность и изящество — это Праведная Ци Неба и Земли, которой наделены добрые. Жестокость, упрямство и извращенность — это Злая Ци Неба и Земли, которой наделены злые.",
+      "ja": "大仁なる者は、天下を修治し、大悪なる者は、天下を擾乱す。清明霊秀は、天地の正気にして、仁者の秉（と）る所なり；残忍乖僻は、天地の邪気にして、悪者の秉る所なり。"
+    }
+  ],
+  "translator_notes": [
+    "This passage presents Jia Yucun's (and by extension, the author's) philosophy of human nature, blending Confucian ethics with a metaphysical theory of Qi (Vital Energy).",
+    "It distinguishes between 'Righteous Qi' (Zheng Qi) which creates sages, and 'Evil Qi' (Xie Qi) which creates tyrants. This sets the stage for explaining Baoyu's nature as a complex mixture of both.",
+    "The list of historical figures serves as a canonical reference for the ultimate Good (Sages) and ultimate Evil (Usurpers/Tyrants)."
+  ],
+  "research_notes": [
+    "Verified the historical figures listed. They represent standard Confucian exemplars of virtue and vice.",
+    "Gong Gong and Chi You are mythological figures associated with chaos/war."
+  ],
+  "characters_appearing": [
+    "贾雨村",
+    "冷子兴"
+  ],
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ]
+}
