@@ -13,14 +13,15 @@
 - **Status**: online
 
 ## Current Work
-- **Claimed Page**: 21
-- **Page Verified Available**: yes
-- **Started At**: 1735873456
-- **Current Step**: research
+- **Claimed Page**: none
+- **Page Verified Available**: -
+- **Started At**: -
+- **Current Step**: -
 
 ## Completed Pages
 | Page | Chapter | Completed At | Hash | Segments |
 |------|---------|--------------|------|----------|
+| 21   | 第一回  | 1735873800   | a3f9c2b1 | 3        |
 
 ## Known Workers (Last Sync - Auto-Updated by Daemon)
 | Short ID | Status | Claimed Page | Completed | Last Heartbeat |
