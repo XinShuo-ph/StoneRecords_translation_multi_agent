@@ -1,0 +1,210 @@
+{
+  "page": 30,
+  "chapter": "第二回",
+  "chapter_title": {
+    "original": "贾夫人仙逝扬州城 冷子兴演说荣国府",
+    "zh_modern": "贾夫人在扬州城去世，冷子兴讲述荣国府的情况",
+    "en": "Lady Jia Passes Away in Yangzhou; Leng Zixing Discourses on the Rong-guo Mansion",
+    "ru": "Госпожа Цзя умирает в Янчжоу; Лэн Цзысин рассказывает о доме Жунго",
+    "ja": "賈夫人、揚州城にて仙逝し、冷子興、栄国府を演説す"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 30,
+      "type": "prose",
+      "original": "却说封肃因听见公差传唤，忙出来陪笑启问。那些人只嚷：「快请出甄爷来！」甲一丝不乱。封肃忙陪笑道：「小人姓封，并不姓甄。只有当日小婿姓甄，今已出家一二年了，不知可是问他？」那些公人道：「我们也不知什么'真''假'，甲点睛妙笔。因奉太爷之命来问。他既是你女婿，便带了你去亲见太爷面禀，省得乱跑。」说着，不容封肃多言，大家推拥他去了。封家人各各惊慌，不知何兆。",
+      "zh_modern": "却说封肃因为听见差役传唤，忙出来陪着笑脸询问。那些人只是嚷道：「快请出甄爷来！」（【甲戌本批】一丝不乱。）封肃忙陪笑道：「小人姓封，并不姓甄。只有当日的小婿姓甄，如今已经出家一两年了，不知可是问他？」那些公人说：「我们也不知道什么'真''假'，（【甲戌本批】点睛妙笔。）是奉太爷的命令来问的。他既然是你女婿，便带你去亲自见太爷当面禀报，省得乱跑。」说着，不容封肃多说，大家就推拥着他去了。封家人个个惊慌，不知是何征兆。",
+      "en": "Now we speak of Feng Su. Having heard the summons from the yamen runners, he hurriedly came out with an ingratiating smile to inquire. Those men only shouted, 'Quickly bring out Master Zhen!' [Jiaxu: Not a thread out of place.] Feng Su hastily smiled and said, 'This humble one's surname is Feng, not Zhen. Only my former son-in-law was surnamed Zhen; he has already become a monk for a year or two. Might you be asking about him?' The runners said, 'We don't know anything about 'true' or 'false'—[Jiaxu: A masterful touch of the brush.]—we are just here on the magistrate's orders. Since he is your son-in-law, we'll take you to see the magistrate in person, so there's no need for running around.' With that, without allowing Feng Su to say more, they hustled him away. The Feng household was alarmed, not knowing what omen this portended.",
+      "ru": "Итак, о Фэн Су. Услышав вызов от посыльных из ямэня, он поспешно вышел с заискивающей улыбкой, чтобы узнать в чём дело. Те люди только кричали: «Быстро приведите господина Чжэня!» [Цзясюй: Ни одной нити не спутано.] Фэн Су поспешно улыбнулся и сказал: «Моя скромная персона носит фамилию Фэн, а не Чжэнь. Только мой бывший зять носил фамилию Чжэнь; он уже стал монахом год или два назад. Не о нём ли вы спрашиваете?» Посыльные сказали: «Мы ничего не знаем о «настоящем» или «ложном» — [Цзясюй: Мастерский штрих кисти.] — мы здесь по приказу магистрата. Раз он ваш зять, мы отведём вас к магистрату лично, чтобы не было беготни». С этими словами, не дав Фэн Су сказать больше, они увели его. Домочадцы Фэн были встревожены, не понимая, что это предвещает.",
+      "ja": "却説封粛、公差の伝喚を聞きて、忙しく出て陪笑して啓問す。彼の人々只嚷りて曰く：「早く甄爺を請じ出せ！」【甲戌：一糸乱れず。】封粛忙しく陪笑して道う：「小人は姓封にして、姓甄にあらず。只当日の小婿のみ姓甄にして、今已に出家して一二年なり、知らず彼を問うか？」彼の公人道う：「我々も何の『真』『假』をも知らず、【甲戌：点睛の妙筆。】太爺の命を奉じて来りて問うなり。彼既に汝の女婿ならば、便ち汝を帯びて去りて親しく太爺に見えて面禀せしめ、乱跑するを省かん。」説き著りて、封粛の多言するを容さず、大家推擁して彼を去らしむ。封家の人各々驚慌し、何の兆しなるかを知らず。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 甄爷来",
+          "original": "一丝不乱",
+          "zh_modern": "叙述有条不紊",
+          "en": "Not a thread out of place [in the narrative]",
+          "ru": "Ни одной нити не спутано [в повествовании]",
+          "ja": "一糸乱れず"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 真假",
+          "original": "点睛妙笔",
+          "zh_modern": "点睛之笔",
+          "en": "A masterful touch of the brush [wordplay on 真/假 = Zhen/Jia surnames and true/false]",
+          "ru": "Мастерский штрих кисти [игра слов: 真/假 = фамилии Чжэнь/Цзя и истинный/ложный]",
+          "ja": "点睛の妙筆"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pdf_page": 30,
+      "type": "prose",
+      "original": "那天约有二更时分，只见封肃方回来，欢天喜地。甲出自封肃口内，便省却多少闲文。众人忙问端的。他乃说道：「原来本府新升的太爷，姓贾名化，本胡州人氏，曾与女婿旧日相交。蒙世态精神，叠露于数语间。方才在咱门前过去，因看见娇杏甲优等也。◇托言当日丫头回顾，故有今日，亦不过偶然侥幸耳，非真实得坐中英杰也。非近日小说中满纸红粉紫烟之可比。甲余批重出。余阅此书，偶有所得，即笔录之。非从首至尾阅过复从首加批者，故偶有复处。且诸公之批，自是诸公眼界，脂斋之批，亦有脂斋取乐处。后每一回，亦必有一语半言，重加批评于侧。故又有于前后照应之说等批。那丫头买线，所以他只当女婿移住于此。我一一将原故回明，那太爷倒伤感叹息了一回。又问外孙女儿，甲细。我说看灯丢了。太爷说：'不妨，我自使番役务必来访回来。'甲为葫芦案伏线。说了一回话，临走倒送了我二两银子。」蒙此事最要紧。甄家娘子听了，不免心中伤感。甲所谓「旧事迷不可闻」也。一宿无话。",
+      "zh_modern": "那天约有二更时分，只见封肃方才回来，欢天喜地。（【甲戌本批】出自封肃口内，便省却多少闲文。）众人忙问究竟。他便说道：「原来本府新升的太爷，姓贾名化，是胡州人氏，曾与女婿旧日相交。（【蒙府本批】世态精神，叠露于数语间。）方才在咱门前过去，因看见娇杏（【甲戌本批】优等也。◇托言当日丫头回顾，故有今日，亦不过偶然侥幸耳，非真实得坐中英杰也。非近日小说中满纸红粉紫烟之可比。【甲戌本批】余批重出。余阅此书，偶有所得，即笔录之。非从首至尾阅过复从首加批者，故偶有复处。且诸公之批，自是诸公眼界，脂斋之批，亦有脂斋取乐处。后每一回，亦必有一语半言，重加批评于侧。故又有于前后照应之说等批。）那丫头买线，所以他只当女婿移住于此。我一一将原故回明，那太爷倒伤感叹息了一回。又问外孙女儿，（【甲戌本批】细。）我说看灯丢了。太爷说：'不妨，我自使番役务必来访回来。'（【甲戌本批】为葫芦案伏线。）说了一回话，临走倒送了我二两银子。」（【蒙府本批】此事最要紧。）甄家娘子听了，不免心中伤感。（【甲戌本批】所谓「旧事迷不可闻」也。）一宿无话。",
+      "en": "That day, around the second watch, Feng Su finally returned, overjoyed. [Jiaxu: Coming from Feng Su's mouth saves much unnecessary text.] Everyone hurried to ask what happened. He said, 'It turns out the newly promoted magistrate of this prefecture is surnamed Jia, given name Hua, from Huzhou. He was an old acquaintance of my son-in-law. [Mengfu: The spirit of worldly affairs is revealed in these few words.] Just now, passing by our gate, he saw Jiaoxing [Jiaxu: Excellent! ◇ The pretext is that the maidservant once looked back at him, hence today's fortune—this is merely a lucky coincidence, not truly obtaining a heroic figure. This cannot compare to the pages of rouge and purple mist in recent novels. Jiaxu: My commentary repeats here. When reading this book, whenever I have an insight, I record it. I did not read from start to finish and then add comments from the beginning, so there are occasional repetitions. Moreover, the various commentators have their own perspectives; Zhizhai's commentary also has places where Zhizhai takes pleasure. In later chapters, there will surely be a word or half-sentence of added commentary on the side. Hence there are also comments about foreshadowing and correspondence.] that maidservant buying thread, so he assumed my son-in-law had moved here. I explained everything clearly, and the magistrate sighed with emotion. He also asked about my granddaughter. [Jiaxu: Detailed.] I said she was lost while watching the lanterns. The magistrate said, 'No matter, I will certainly send runners to find her.' [Jiaxu: Foreshadowing for the Gourd Case.] After talking for a while, upon leaving he gave me two taels of silver.' [Mengfu: This matter is most important.] When Madam Zhen heard this, she could not help feeling sad. [Jiaxu: This is what is called 'old affairs are too painful to hear.'] Nothing more was said that night.",
+      "ru": "В тот день, около второй ночной стражи, Фэн Су наконец вернулся, на радостях. [Цзясюй: То, что это исходит из уст Фэн Су, экономит много лишнего текста.] Все поспешили спросить, что случилось. Он сказал: «Оказывается, новый магистрат этой префектуры носит фамилию Цзя, имя Хуа, родом из Хучжоу. Он был старым знакомым моего зятя. [Мэнфу: Дух мирских дел раскрывается в этих нескольких словах.] Только что, проходя мимо наших ворот, он увидел Цзяосин [Цзясюй: Превосходно! ◇ Предлог в том, что служанка когда-то оглянулась на него, отсюда сегодняшняя удача — это лишь счастливая случайность, а не обретение героя. Это нельзя сравнить со страницами румян и пурпурного тумана в современных романах. Цзясюй: Мой комментарий повторяется. Читая эту книгу, когда у меня есть мысль, я записываю её. Я не читал от начала до конца, а затем добавлял комментарии сначала, поэтому есть повторения.] ту служанку, покупавшую нитки, поэтому он решил, что мой зять переехал сюда. Я всё объяснил, и магистрат со вздохом выразил сочувствие. Он также спросил о внучке. [Цзясюй: Детально.] Я сказал, что она потерялась во время праздника фонарей. Магистрат сказал: «Не беда, я непременно пошлю людей найти её». [Цзясюй: Предвестие дела о Тыкве-горлянке.] Поговорив некоторое время, уходя, он дал мне два ляна серебра». [Мэнфу: Это дело важнее всего.] Услышав это, госпожа Чжэнь не могла не опечалиться. [Цзясюй: Вот что называется «старые дела слишком больно слышать».] В ту ночь больше ничего не говорили.",
+      "ja": "其の天約二更時分、只封粛方に回り来るを見る、歓天喜地なり。【甲戌：封粛の口内より出ずれば、便ち多少の閒文を省却す。】衆人忙しく端的を問う。彼乃ち説きて道う：「原来本府新升の太爺、姓賈名化、本胡州の人氏にして、曾て女婿と旧日相交わる。【蒙：世態の精神、数語の間に畳露す。】方才咱が門前を過ぎ去り、因りて嬌杏を看見す【甲戌：優等なり。◇当日丫頭回顧するを托言し、故に今日有り、亦不過偶然僥倖のみ、真に坐中の英傑を得るに非ず。近日の小説中満紙紅粉紫烟の比すべきに非ず。甲戌：余が批重出す。余此の書を閲し、偶々所得有れば、即ち筆録す。首より尾に至るまで閲し過ぎて復た首より批を加うる者に非ず、故に偶々復する処有り。】彼の丫頭線を買う、所以彼只女婿此に移住すと当す。我一一原故を回明すれば、彼の太爺倒って傷感嘆息すること一回。又外孫女児を問う、【甲戌：細なり。】我説く灯を看て丢うと。太爺説く：『妨げず、我自ら番役を使わして務めて必ず来訪し回らしむ。』【甲戌：葫芦案の為に伏線を敷く。】一回話を説き、走るに臨んで倒って我に二両銀子を送る。」【蒙：此の事最も要緊。】甄家の娘子聞きて、心中傷感せざるを免れず。【甲戌：所謂「旧事迷いて聞くべからず」なり。】一宿話無し。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 欢天喜地",
+          "original": "出自封肃口内，便省却多少闲文",
+          "zh_modern": "从封肃口中说出，便省去多少闲文",
+          "en": "Coming from Feng Su's mouth saves much unnecessary text",
+          "ru": "То, что это исходит из уст Фэн Су, экономит много лишнего текста",
+          "ja": "封粛の口内より出ずれば、便ち多少の閒文を省却す"
+        },
+        {
+          "type": "夹批",
+          "source": "蒙府本",
+          "position": "after 旧日相交",
+          "original": "世态精神，叠露于数语间",
+          "zh_modern": "世态人情的精髓，在几句话中层层展现",
+          "en": "The spirit of worldly affairs is revealed layer by layer in these few words",
+          "ru": "Дух мирских дел раскрывается слой за слоем в этих нескольких словах",
+          "ja": "世態の精神、数語の間に畳露す"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 娇杏",
+          "original": "优等也。◇托言当日丫头回顾，故有今日，亦不过偶然侥幸耳，非真实得坐中英杰也。非近日小说中满纸红粉紫烟之可比",
+          "zh_modern": "优等！◇借口是当日丫头回顾，故有今日，也不过是偶然侥幸罢了，并非真正得到席中英杰。不是近来小说中满纸红粉紫烟可比的",
+          "en": "Excellent! The pretext is that the maidservant once looked back, hence today's fortune—merely a lucky coincidence, not truly obtaining a hero. Cannot compare to pages of rouge and purple mist in recent novels",
+          "ru": "Превосходно! Предлог в том, что служанка когда-то оглянулась, отсюда сегодняшняя удача — лишь счастливая случайность, а не обретение героя. Нельзя сравнить со страницами румян и пурпурного тумана в современных романах",
+          "ja": "優等なり。◇当日丫頭回顧するを托言し、故に今日有り、亦不過偶然僥倖のみ、真に坐中の英傑を得るに非ず"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 外孙女儿",
+          "original": "细",
+          "zh_modern": "写得细致",
+          "en": "Detailed [writing]",
+          "ru": "Детально [написано]",
+          "ja": "細なり"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 访回来",
+          "original": "为葫芦案伏线",
+          "zh_modern": "为葫芦案埋下伏笔",
+          "en": "Foreshadowing for the Gourd Case",
+          "ru": "Предвестие дела о Тыкве-горлянке",
+          "ja": "葫芦案の為に伏線を敷く"
+        },
+        {
+          "type": "夹批",
+          "source": "蒙府本",
+          "position": "after 二两银子",
+          "original": "此事最要紧",
+          "zh_modern": "此事最为重要",
+          "en": "This matter is most important",
+          "ru": "Это дело важнее всего",
+          "ja": "此の事最も要緊"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 心中伤感",
+          "original": "所谓「旧事迷不可闻」也",
+          "zh_modern": "正是所谓「旧事令人迷惘，不忍听闻」",
+          "en": "This is what is called 'old affairs are too painful to hear'",
+          "ru": "Вот что называется «старые дела слишком больно слышать»",
+          "ja": "所謂「旧事迷いて聞くべからず」なり"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "pdf_page": 30,
+      "type": "prose",
+      "original": "至次日，早有雨村遣人送两封银子、四匹锦缎，答谢甄家娘子，甲雨村已是下流人物，看此，今之如雨村者亦不有矣。又寄一封密书与封肃，转托他向甄家娘子要那娇杏作二房。甲谢礼却为此。险哉，人之心也！封肃喜得屁滚尿流，巴不得去奉承，便在女儿前一力撺掇成了，甲一语道尽。乘夜只用一乘小轿，便把娇杏送进去了。雨村欢喜自不必说。蒙知己相逢，得遂平生，一大快事。乃封百金赠封肃，外又谢甄家娘子许多物事，令其好生养赡，以待寻访女儿下落。甲找前伏后。封肃回家无话。",
+      "zh_modern": "到了第二天，早有贾雨村派人送来两封银子、四匹锦缎，答谢甄家娘子，（【甲戌本批】雨村已是下流人物，看此，今之如雨村者亦不有矣。）又寄一封密书给封肃，转托他向甄家娘子要那娇杏做二房。（【甲戌本批】谢礼却为此。险哉，人之心也！）封肃喜得屁滚尿流，巴不得去奉承，便在女儿面前一力撺掇成了，（【甲戌本批】一语道尽。）趁夜只用一乘小轿，便把娇杏送进去了。贾雨村欢喜自不必说。（【蒙府本批】知己相逢，得遂平生，一大快事。）于是封百金赠给封肃，外又谢甄家娘子许多物品，叫她好好生活，以等待寻访女儿的下落。（【甲戌本批】找前伏后。）封肃回家无话。",
+      "en": "The next day, Yucun had already sent someone with two packets of silver and four bolts of brocade to thank Madam Zhen. [Jiaxu: Yucun is already a base character; looking at this, today there are none even like Yucun.] He also sent a secret letter to Feng Su, asking him to request from Madam Zhen that Jiaoxing become his second wife. [Jiaxu: The gifts of thanks were actually for this purpose. How treacherous is the human heart!] Feng Su was so delighted he could barely contain himself, eager to curry favor, and persuaded his daughter to agree. [Jiaxu: One sentence says it all.] That very night, using only a small sedan chair, Jiaoxing was sent in. Needless to say, Yucun was overjoyed. [Mengfu: Kindred spirits meeting, achieving lifelong aspirations—a great joy.] He then gave a hundred taels of gold to Feng Su, and also sent many items to Madam Zhen, telling her to live well while waiting for news of her daughter's whereabouts. [Jiaxu: Connecting earlier foreshadowing to later events.] Feng Su returned home without further word.",
+      "ru": "На следующий день Юйцунь уже послал кого-то с двумя пакетами серебра и четырьмя рулонами парчи в благодарность госпоже Чжэнь. [Цзясюй: Юйцунь уже низкий человек; глядя на это, сегодня нет даже таких, как Юйцунь.] Он также послал тайное письмо Фэн Су, прося его попросить госпожу Чжэнь, чтобы Цзяосин стала его второй женой. [Цзясюй: Благодарственные подарки были на самом деле для этой цели. Как коварно человеческое сердце!] Фэн Су был так рад, что едва мог сдержаться, стремясь угодить, и убедил свою дочь согласиться. [Цзясюй: Одно предложение говорит всё.] В ту же ночь, используя лишь маленький паланкин, Цзяосин была отправлена. Нечего и говорить, что Юйцунь был в восторге. [Мэнфу: Родственные души встретились, исполнив мечту всей жизни — великая радость.] Затем он дал сто лянов золота Фэн Су, а также послал много вещей госпоже Чжэнь, веля ей хорошо жить в ожидании вестей о местонахождении дочери. [Цзясюй: Связывая ранее заложенное с последующими событиями.] Фэн Су вернулся домой без лишних слов.",
+      "ja": "次日に至り、早くも雨村人を遣わして両封の銀子・四匹の錦緞を送り、甄家の娘子に答謝す。【甲戌：雨村已に是れ下流の人物、此を看れば、今の雨村の如き者も亦有らざるなり。】又一封の密書を封粛に寄せ、転托して彼をして甄家の娘子に向かいて彼の嬌杏を要して二房と作さしむ。【甲戌：謝礼却って此が為なり。険なる哉、人の心なり！】封粛喜びて屁滚尿流、巴不得奉承に去き、便ち女児の前に於いて一力撺掇して成す、【甲戌：一語道い尽くす。】夜に乗じて只一乗の小轎を用い、便ち嬌杏を送り進めたり。雨村の歓喜は自ら必ずしも説くを須いず。【蒙：知己相逢い、平生を得遂ぐ、一大快事なり。】乃ち百金を封じて封粛に贈り、外に又甄家の娘子に許多の物事を謝し、其れをして好く生養贍せしめ、以て女児の下落を尋訪するを待たしむ。【甲戌：前を找し後に伏す。】封粛家に回りて話無し。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 甄家娘子",
+          "original": "雨村已是下流人物，看此，今之如雨村者亦不有矣",
+          "zh_modern": "雨村已经是下流人物，看到这里，当今像雨村这样的人也没有了",
+          "en": "Yucun is already a base character; looking at this, today there are none even like Yucun",
+          "ru": "Юйцунь уже низкий человек; глядя на это, сегодня нет даже таких, как Юйцунь",
+          "ja": "雨村已に是れ下流の人物、此を看れば、今の雨村の如き者も亦有らざるなり"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 作二房",
+          "original": "谢礼却为此。险哉，人之心也！",
+          "zh_modern": "谢礼原来是为了这个。危险啊，人心！",
+          "en": "The gifts were actually for this purpose. How treacherous is the human heart!",
+          "ru": "Подарки были на самом деле для этой цели. Как коварно человеческое сердце!",
+          "ja": "謝礼却って此が為なり。険なる哉、人の心なり！"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 撺掇成了",
+          "original": "一语道尽",
+          "zh_modern": "一语道尽",
+          "en": "One sentence says it all",
+          "ru": "Одно предложение говорит всё",
+          "ja": "一語道い尽くす"
+        },
+        {
+          "type": "夹批",
+          "source": "蒙府本",
+          "position": "after 不必说",
+          "original": "知己相逢，得遂平生，一大快事",
+          "zh_modern": "知己相逢，得遂平生愿望，是一大快事",
+          "en": "Kindred spirits meeting, achieving lifelong aspirations—a great joy",
+          "ru": "Родственные души встретились, исполнив мечту всей жизни — великая радость",
+          "ja": "知己相逢い、平生を得遂ぐ、一大快事なり"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 女儿下落",
+          "original": "找前伏后",
+          "zh_modern": "呼应前文，为后文埋伏笔",
+          "en": "Connecting earlier foreshadowing to later events",
+          "ru": "Связывая ранее заложенное с последующими событиями",
+          "ja": "前を找し後に伏す"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "「贾雨村」(Jia Yucun) - name is homophonic with 假语存/假语村 (false words remain/village of false words)",
+    "「胡州」(Huzhou) - may be a pun, as 胡 can mean 'nonsense' or 'reckless'",
+    "「娇杏」(Jiaoxing) - name puns on 侥幸 (lucky chance), as noted in commentary",
+    "「葫芦案」(Gourd Case) - refers to the famous 'Gourd Temple Case' in Chapter 4 involving Xue Pan",
+    "「真」/「假」wordplay - The runners' line about not knowing 'true' from 'false' is a pun on the surnames Zhen (甄=真=true) and Jia (贾=假=false)",
+    "Commentary notes that Yucun's character decline begins here - using gifts as pretext to obtain Jiaoxing",
+    "「屁滚尿流」- vulgar idiom meaning 'so excited one loses control', shows Feng Su's base character"
+  ],
+  "research_notes": [
+    "This page introduces Jia Yucun (贾雨村) as the new magistrate, connecting to Chapter 1",
+    "The Zhiping commentary explicitly criticizes Yucun's character as 'base' (下流)",
+    "Multiple commentaries emphasize the author's efficient narrative technique",
+    "The 'Gourd Case' foreshadowing refers to Chapter 4's famous legal case",
+    "Jiaoxing's story represents the theme of chance encounters determining fate"
+  ],
+  "characters_appearing": ["封肃", "贾雨村", "娇杏", "甄家娘子"],
+  "characters_referenced": ["甄士隐", "甄英莲"],
+  "total_segments": 3,
+  "manuscript_sources_on_page": ["甲戌本", "蒙府本"]
+}
