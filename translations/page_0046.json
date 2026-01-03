@@ -1,0 +1,321 @@
+{
+  "page": 46,
+  "chapter": "第三回",
+  "chapter_title": {
+    "original": "金陵城起复贾雨村 荣国府收养林黛玉",
+    "zh_modern": "金陵城里贾雨村官复原职，荣国府收养林黛玉",
+    "en": "Jia Yucun Is Reinstated in Jinling; The Rong-guo House Takes in Lin Daiyu",
+    "ru": "Цзя Юйцунь восстановлен в должности в Цзиньлине; дом Жунго принимает Линь Дайюй",
+    "ja": "金陵城にて賈雨村官に起復し、栄国府にて林黛玉を収養す"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "焉得不活跳纸上？此等文字非仙助即神助，从何而得此机括耶？另磨新墨，搦锐笔，特独出熙凤一人。",
+      "zh_modern": "怎能不活灵活现跃然纸上？这样的文字不是仙人帮助就是神明帮助，从哪里得到这样的机巧呢？另外磨新墨，握锐笔，专门独写熙凤一人。",
+      "en": "How could they not leap vividly from the page? Such writing must be aided by immortals or deities—from where does such artistry come? Grinding fresh ink and grasping a sharp brush, [the author] specially brings out Xifeng alone.",
+      "ru": "Как они могли бы не оживать ярко на странице? Такое письмо должно быть вспомоществовано бессмертными или божествами — откуда приходит такое мастерство? Растирая свежую тушь и беря острую кисть, [автор] специально выделяет одну Сифэн.",
+      "ja": "焉んぞ紙上に活き躍らざるを得ん？此等の文字は仙の助けに非ずんば即ち神の助けなり、何処よりしてかこの機括を得るや？別に新墨を磨り、鋭筆を搦り、特に独り熙鳳一人を出だす。",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "未写其形，先使闻声，所谓「绣幡开，遥见英雄俺」也。",
+      "zh_modern": "还没写她的形象，先让人听到她的声音，这就是所谓的「绣旗一展开，远远看见英雄来了」。",
+      "en": "Before writing her form, first let us hear her voice—the so-called 'when the embroidered banner unfurls, from afar we see the hero approach.'",
+      "ru": "Прежде чем написать её облик, сначала дайте нам услышать её голос — так называемое «когда вышитое знамя разворачивается, издалека мы видим приближение героя».",
+      "ja": "その形を写さず、先ずその声を聞かしむ、所謂「繍幡開きて、遥かに英雄の俺を見る」なり。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "position": "before segment",
+          "original": "另磨新墨，搦锐笔，特独出熙凤一人。未写其形，先使闻声，所谓「绣幡开，遥见英雄俺」也。",
+          "zh_modern": "另外磨新墨，握锐笔，专门独写熙凤一人。还没写她的形象，先让人听到她的声音，这就是所谓的「绣旗一展开，远远看见英雄来了」。",
+          "en": "Grinding fresh ink and grasping a sharp brush, specially bringing out Xifeng alone. Before writing her form, first let us hear her voice—the so-called 'when the embroidered banner unfurls, from afar we see the hero approach.'",
+          "ru": "Растирая свежую тушь и беря острую кисть, специально выделяя одну Сифэн. Прежде чем написать её облик, сначала дайте нам услышать её голос — так называемое «когда вышитое знамя разворачивается, издалека мы видим приближение героя».",
+          "ja": "別に新墨を磨り、鋭筆を搦り、特に独り熙鳳一人を出だす。その形を写さず、先ずその声を聞かしむ、所謂「繍幡開きて、遥かに英雄の俺を見る」なり。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "dialogue",
+      "original": "黛玉纳罕道：「这些人个个皆敛声屏气，恭肃严整如此，这来者系谁，这样放诞无礼？」",
+      "zh_modern": "黛玉感到惊讶，心想：「这些人个个都收敛声音屏住呼吸，恭敬肃穆严整到这样，这来的人是谁，这样放肆无礼？」",
+      "en": "Daiyu wondered in amazement: 'These people all lower their voices and hold their breath, so respectful and solemn—who is this person coming, so unrestrained and discourteous?'",
+      "ru": "Дайюй удивилась: «Все эти люди приглушают голоса и затаивают дыхание, такие почтительные и торжественные — кто этот человек, что идёт так свободно и неучтиво?»",
+      "ja": "黛玉訝しみて道えり、「これらの人は個々に皆声を斂め気を屏し、恭しく粛々として厳整なること此の如し、この来たる者は系れ誰ぞ、かく放誕にして無礼なるや？」と。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "position": "after 无礼",
+          "original": "原有此一想。天下事，不可一概而論。",
+          "zh_modern": "原本就有这样的想法。天下的事情，不能一概而论。",
+          "en": "Originally had this thought. Matters in the world cannot all be judged the same way.",
+          "ru": "Изначально была эта мысль. Дела в мире нельзя судить все одинаково.",
+          "ja": "原より此の一想あり。天下の事、一概に論ずべからず。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "心下想时，只见一群媳妇丫鬟围拥着一个人从后房门进来。这个人打扮与众姑娘不同，彩绣辉煌，恍若神妃仙子：",
+      "zh_modern": "心里正想的时候，只见一群媳妇丫鬟围拥着一个人从后房门进来。这个人的打扮与其他姑娘们不同，彩色刺绣光彩照人，好像神仙妃子一般：",
+      "en": "As she thought this, she saw a group of matrons and maids surrounding someone entering from the back door. This person's dress was unlike the other young ladies, brilliantly embroidered and radiant, like a celestial consort or fairy:",
+      "ru": "Думая об этом, она увидела группу матрон и служанок, окружающих кого-то, входящего через заднюю дверь. Платье этого человека отличалось от других молодых дам, блестяще вышитое и сияющее, как небесная супруга или фея:",
+      "ja": "心に想うとき、只だ一群の媳婦丫鬟の一人を囲み拥して後房門より進み来るを見る。この人の扮装、衆の姑娘と異なり、彩繍輝煌たり、恍として神妃仙子の若し：",
+      "commentary": []
+    },
+    {
+      "id": 5,
+      "type": "prose",
+      "original": "头上戴着金丝八宝攒珠髻，绾着朝阳五凤挂珠钗，项上带着赤金盘螭璎珞圈，裙边系着豆绿宫绦、双衡比目玫瑰佩，身上穿着缕金百蝶穿花大红洋缎窄褃袄，外罩五彩刻丝石青银鼠褂，下着翡翠撒花洋绉裙。",
+      "zh_modern": "头上戴着金丝八宝攒珠发髻，插着朝阳五凤挂珠钗，脖子上戴着赤金盘螭璎珞圈，裙边系着豆绿色宫绦、双衡比目玫瑰佩，身上穿着缕金百蝶穿花的大红洋缎窄袄，外面罩着五彩刻丝石青银鼠褂，下面穿着翡翠撒花的洋绉裙。",
+      "en": "On her head she wore a gold-thread eight-treasure pearl chignon, with a morning-sun five-phoenix hanging-pearl hairpin; around her neck a red-gold coiling-dragon necklace; at her skirt a jade-green palace sash with paired-fish rose pendant; she wore a tight red foreign-satin jacket with gold-thread hundred-butterflies-amid-flowers design, over it a multi-colored carved-silk stone-blue jacket with silver squirrel trim, and below an emerald-scattered-flowers foreign-crepe skirt.",
+      "ru": "На голове она носила шиньон из жемчуга с золотой нитью и восемью сокровищами, с утренним солнцем и пятью фениксами на шпильке с висящим жемчугом; на шее красно-золотое ожерелье со свернувшимся драконом; на юбке нефрит ово-зелёный дворцовый пояс с парными рыбами и розовой подвеской; она носила узкую красную куртку из иностранного атласа с золотой нитью и рисунком из сотни бабочек среди цветов, поверх неё многоцветную резную шёлковую каменно-голубую куртку с отделкой из серебристой белки, а внизу изумрудную юбку с рассыпанными цветами из иностранного крепа.",
+      "ja": "頭上には金糸八宝攢珠の髻を戴き、朝陽五鳳掛珠の釵を綰き、項には赤金盤螭瓔珞の圏を帯び、裙辺には豆緑宮絛・双衡比目玫瑰佩を繋ぎ、身には縷金百蝶穿花の大紅洋緞窄褃襖を穿ち、外には五彩刻糸石青銀鼠褂を罩し、下には翡翠撒花の洋縐裙を着す。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "position": "after 朝阳五凤挂珠钗",
+          "original": "头。",
+          "zh_modern": "头部。",
+          "en": "Head.",
+          "ru": "Голова.",
+          "ja": "頭。"
+        },
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "position": "after 赤金盘螭璎珞圈",
+          "original": "颈。",
+          "zh_modern": "颈部。",
+          "en": "Neck.",
+          "ru": "Шея.",
+          "ja": "頸。"
+        },
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "position": "after 双衡比目玫瑰佩",
+          "original": "腰。",
+          "zh_modern": "腰部。",
+          "en": "Waist.",
+          "ru": "Талия.",
+          "ja": "腰。"
+        },
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "position": "after 窄褃袄",
+          "original": "大凡能事者，多是尚奇好异，不肯泛泛同流。",
+          "zh_modern": "大凡有本事的人，多是崇尚新奇好异，不肯平平常常随波逐流。",
+          "en": "Generally those with ability prefer the novel and unusual, unwilling to follow the common crowd.",
+          "ru": "В целом, те, у кого есть способности, предпочитают новое и необычное, не желая следовать за обычной толпой.",
+          "ja": "大凡そ能事ある者、多くは奇を尚び異を好み、泛泛として同流することを肯んぜず。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "prose",
+      "original": "一双丹凤三角眼，两弯柳叶吊梢眉，身量苗条，体格风骚，粉面含春威不露，丹唇未启笑先闻。",
+      "zh_modern": "一双丹凤三角眼，两弯柳叶吊梢眉，身材苗条，体态风流，粉面含春威严不露，红唇未开笑声先闻。",
+      "en": "A pair of red-phoenix triangular eyes, two willow-leaf eyebrows drooping at the tips, slender figure, alluring bearing, powdered face concealing springtime authority, crimson lips emitting laughter before parting.",
+      "ru": "Пара красно-фениксовых треугольных глаз, две ивовые брови, свисающие на концах, стройная фигура, соблазнительная осанка, припудренное лицо, скрывающее весеннюю власть, багровые губы, издающие смех до раскрытия.",
+      "ja": "一双の丹鳳三角眼、両弯の柳葉吊梢眉、身量苗条、体格風騷、粉面春を含みて威露れず、丹唇未だ啓かず笑い先ず聞ゆ。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "position": "after 吊梢眉",
+          "original": "非如此眼，非如此眉，不得为熙凤。作者读过麻衣相法。",
+          "zh_modern": "不是这样的眼睛，不是这样的眉毛，就不能成为熙凤。作者读过麻衣相法。",
+          "en": "Without such eyes, without such brows, one cannot be Xifeng. The author has read physiognomy texts.",
+          "ru": "Без таких глаз, без таких бровей невозможно быть Сифэн. Автор читал тексты по физиогномике.",
+          "ja": "かくの如き眼に非ず、かくの如き眉に非ずんば、熙鳳たることを得ず。作者、麻衣相法を読み過ぎたり。"
+        },
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "position": "after 笑先闻",
+          "original": "为阿凤写照。试问诸公：从来小说中可有写形追像至此者？英豪本等。",
+          "zh_modern": "为阿凤写照。试问各位：从来小说中可有写形状追摹到这种程度的吗？真是英雄豪杰本来就该如此。",
+          "en": "A portrait of Lady Feng. Ask the gentlemen: has any novel ever depicted form and likeness to such a degree? Heroes should naturally be thus.",
+          "ru": "Портрет госпожи Фэн. Спросите господ: изобразил ли когда-либо роман облик и сходство до такой степени? Герои естественно должны быть такими.",
+          "ja": "阿鳳の為に写照す。試みに諸公に問う、従来小説の中、形を写し像を追うこと此に至る者有りや？英豪本と等し。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "prose",
+      "original": "黛玉连忙起身接见。贾母笑道：「你不认得他，他是我们这里有名的一个泼皮破落户儿，南省俗谓作『辣子』，你只叫他『凤辣子』就是。」",
+      "zh_modern": "黛玉连忙起身迎接。贾母笑着说：「你不认识她，她是我们这里有名的一个泼辣破败户，南方省份俗称作『辣子』，你只叫她『凤辣子』就是了。」",
+      "en": "Daiyu hastily rose to greet her. Grandmother Jia laughed and said, 'You don't know her—she's our famous shrew and spendthrift here. In the southern provinces they call her \"Peppery One\"; you can just call her \"Peppery Phoenix.\"'",
+      "ru": "Дайюй поспешно встала, чтобы поприветствовать её. Бабушка Цзя засмеялась и сказала: «Ты её не знаешь — она наша знаменитая ведьма и расточительница. В южных провинциях её называют «Перечная», можешь просто называть её «Перечный Феникс»».",
+      "ja": "黛玉、連忙として身を起こして接見す。賈母笑いて道う、「汝彼を認めず、彼は我らここに有名なる一個の潑皮破落戶兒なり、南省俗に『辣子』と謂い作す、汝只だ彼を『鳳辣子』と叫べば是なり」と。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "position": "after 贾母笑",
+          "original": "阿凤一至，贾母方笑，与后文多少笑字作偶。",
+          "zh_modern": "阿凤一到，贾母才笑，与后文多少个笑字形成对照。",
+          "en": "Only when Lady Feng arrives does Grandmother Jia laugh, paralleling the many laugh-characters in later text.",
+          "ru": "Только когда прибывает госпожа Фэн, бабушка Цзя смеётся, параллельно многим иероглифам смеха в более позднем тексте.",
+          "ja": "阿鳳一たび至れば、賈母方に笑う、後文の多少の笑字と偶を作す。"
+        },
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "position": "after 凤辣子就是",
+          "original": "阿凤笑声进来，老太君打诨，虽是空口传声，却是补出一向晨昏起居，阿凤于太君处承欢应候一刻不可少之人，看官勿以闲文淡文也。",
+          "zh_modern": "阿凤笑着进来，老太君打趣，虽然是空口说说，却补充说明了一向以来早晚起居，阿凤在太君处承欢应候一刻也不可缺少，读者不要认为是闲文淡文。",
+          "en": "Lady Feng enters with laughter, the Old Matriarch jests—though mere words, this reveals how Feng has always been indispensable at the matriarch's side morning and evening. Readers should not dismiss this as idle text.",
+          "ru": "Госпожа Фэн входит со смехом, Старая Матриарх шутит — хотя это просто слова, это показывает, как Фэн всегда была незаменима рядом с матриархом утром и вечером. Читатели не должны отвергать это как праздный текст.",
+          "ja": "阿鳳、笑声にて進み来たり、老太君打諢す、空口伝声なりと雖も、却って一向晨昏起居を補い出だし、阿鳳の太君の処に承歓応候して一刻も少なくすべからざる人たることを、看官閑文淡文と以てすること勿れ。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "prose",
+      "original": "黛玉正不知以何称呼，只见众姊妹都忙告诉他道：「这是琏嫂子。」",
+      "zh_modern": "黛玉正不知该怎么称呼，只见众姊妹都赶忙告诉她说：「这是琏嫂子。」",
+      "en": "Daiyu didn't know how to address her, when the sisters all hastened to tell her, 'This is Sister-in-law Lian.'",
+      "ru": "Дайюй не знала, как к ней обращаться, когда сёстры поспешили сказать ей: «Это невестка Лянь».",
+      "ja": "黛玉、正に何を以て称呼すべきかを知らず、只だ衆姊妹の皆忙しく彼に告げて道うを見る、「これは璉嫂子なり」と。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "position": "before segment",
+          "original": "想黛玉此时神情，含浑可爱。",
+          "zh_modern": "想象黛玉此时的神情，含蓄浑然可爱。",
+          "en": "Imagine Daiyu's expression at this moment—subtly charming.",
+          "ru": "Представьте выражение лица Дайюй в этот момент — утончённо очаровательное.",
+          "ja": "黛玉此の時の神情を想え、含渾として愛すべし。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": "prose",
+      "original": "黛玉虽不识，亦曾听见母亲说过，大舅贾赦之子贾琏，娶的就是二舅母王氏之内侄女，自幼假充男儿教养的，学名叫王熙凤。",
+      "zh_modern": "黛玉虽然不认识她，也曾听母亲说过，大舅贾赦的儿子贾琏，娶的就是二舅母王氏的内侄女，从小假充男孩教养的，学名叫王熙凤。",
+      "en": "Though Daiyu didn't know her, she had heard from her mother that her eldest uncle Jia She's son Jia Lian had married the niece of her second uncle's wife, Lady Wang—one raised as a boy from childhood, whose formal name was Wang Xifeng.",
+      "ru": "Хотя Дайюй её не знала, она слышала от матери, что сын её старшего дяди Цзя Шэ, Цзя Лянь, женился на племяннице жены её второго дяди, госпожи Ван — той, которую с детства растили как мальчика, чьё официальное имя было Ван Сифэн.",
+      "ja": "黛玉識らずと雖も、亦た曾て母親の語るを聞きたり、大舅賈赦の子賈璉、娶る所は就ち二舅母王氏の內姪女にして、幼より假りに男兒に充てて教養せらるる者、學名を王熙鳳と叫ぶと。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "position": "after 王熙凤",
+          "original": "奇想奇文。以女子曰「学名」固奇，然此偏有学名的反倒不识字，不曰学名者反若假。",
+          "zh_modern": "奇特的想法和文字。对女子说「学名」本来就奇特，然而这个偏偏有学名的反而不识字，不说学名的反而像是假的。",
+          "en": "Strange thought and writing. For a woman to have a 'scholarly name' is already unusual, yet this one with a scholarly name is actually illiterate, while those without such names seem false.",
+          "ru": "Странная мысль и письмо. Для женщины иметь «учёное имя» уже необычно, но эта с учёным именем на самом деле неграмотна, в то время как те, у кого нет таких имён, кажутся ложными.",
+          "ja": "奇想奇文なり。女子を以て「學名」と曰うこと固より奇なり、然れども此れ偏に學名ある者反って字を識らず、學名と曰わざる者反って假の若し。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": "dialogue",
+      "original": "黛玉忙陪笑见礼，以「嫂」呼之。这熙凤携着黛玉的手，上下细细的打量了一回，便仍送至贾母身边坐下，因笑道：「天下真有这样标致人物，我今儿才算见了！」",
+      "zh_modern": "黛玉急忙陪笑见礼，称呼她为「嫂子」。这熙凤拉着黛玉的手，上下仔细地打量了一回，便仍然送她到贾母身边坐下，于是笑着说：「天下真有这样美丽的人物，我今天才算是见到了！」",
+      "en": "Daiyu hastily smiled and bowed, addressing her as 'Sister-in-law.' Xifeng took Daiyu's hand and looked her up and down carefully, then escorted her to sit beside Grandmother Jia. She laughed and said, 'There truly are such beautiful people in this world—only today have I finally seen one!'",
+      "ru": "Дайюй поспешно улыбнулась и поклонилась, обращаясь к ней «невестка». Сифэн взяла руку Дайюй и внимательно осмотрела её сверху донизу, затем проводила её сесть рядом с бабушкой Цзя. Она засмеялась и сказала: «В этом мире действительно есть такие красивые люди — только сегодня я наконец увидела одного!»",
+      "ja": "黛玉、忙しく笑みを陪して礼を見、「嫂」を以て之を呼ぶ。この熙鳳、黛玉の手を携え、上下細々と打量すること一回、便ち仍お賈母の身辺に送り至り坐せしめ、因りて笑いて道う、「天下真にかくの如き標致人物あり、我れ今児才めて見たりと算す！」と。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "position": "after 一回",
+          "original": "写阿凤全部传神第一笔也。",
+          "zh_modern": "写阿凤全部神韵的第一笔。",
+          "en": "The first stroke capturing Lady Feng's complete spirit.",
+          "ru": "Первый штрих, захватывающий полный дух госпожи Фэн.",
+          "ja": "阿鳳全部の伝神第一筆なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "position": "after 见了",
+          "original": "这方是阿凤言语。若一味浮词套语，岂复为阿凤哉！",
+          "zh_modern": "这才是阿凤的言语。如果一味用浮夸套话，怎么还算是阿凤呢！",
+          "en": "This is truly Feng's manner of speaking. If only flowery clichés, how could it be Feng!",
+          "ru": "Это действительно манера говорить Фэн. Если только цветистые клише, как это могло быть Фэн!",
+          "ja": "この方是れ阿鳳の言語なり。若し一味浮詞套語ならば、豈に復た阿鳳たるや！"
+        },
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "position": "after 见了",
+          "original": "「真有这样标致人物」出自凤口，黛玉丰姿可知。宜作史笔看。",
+          "zh_modern": "「真有这样标致人物」出自凤口，黛玉的风姿可想而知。应当作为史家之笔来看。",
+          "en": "'There truly are such beautiful people'—from Feng's mouth, Daiyu's grace can be known. Should be read as historian's writing.",
+          "ru": "«Действительно есть такие красивые люди» — из уст Фэн можно понять изящество Дайюй. Следует читать как письмо историка.",
+          "ja": "「真にかくの如き標致人物あり」鳳口より出づ、黛玉の豊姿知るべし。宜しく史筆を作すと看るべし。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": "dialogue",
+      "original": "况且这通身的气派，竟不像老祖宗的外孙女儿，竟是个嫡亲的孙女，怨不得",
+      "zh_modern": "况且这通身的气派，竟然不像老祖宗的外孙女，竟然像是个嫡亲的孙女，难怪",
+      "en": "Moreover, her entire bearing doesn't seem like an external granddaughter of the Old Ancestress, but rather like a direct granddaughter. No wonder",
+      "ru": "Более того, всё её поведение не похоже на внешнюю внучку Старой Прародительницы, а скорее на прямую внучку. Неудивительно",
+      "ja": "况んや此の通身の気派、竟に老祖宗の外孫女兒に似ず、竟に嫡親の孫女たり、怨むに足らず",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "position": "after 孙女",
+          "original": "仍归太君，方不失《石头记》文字，且是阿凤身心之至文。",
+          "zh_modern": "仍然归结到太君，才不失《石头记》的文字特色，而且是阿凤身心的至文。",
+          "en": "Still returning to the Grand Matriarch—this doesn't lose the style of Story of the Stone, and is the supreme text of Feng's body and mind.",
+          "ru": "Всё ещё возвращаясь к Великой Матриарх — это не теряет стиль Истории Камня и является высшим текстом тела и ума Фэн.",
+          "ja": "仍お太君に帰す、方に『石頭記』の文字を失わず、且つ是れ阿鳳身心の至文なり。"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "「未写其形，先使闻声」(Before writing her form, first let us hear her voice) - One of the most famous narrative techniques in Chinese literature. Wang Xifeng's voice is heard before she appears, establishing her dominant personality.",
+    "「绣幡开，遥见英雄俺」- Classical technique from martial tales where heroes are introduced with banners unfurling. Applied to Xifeng, it elevates her to heroic status in domestic sphere.",
+    "丹凤三角眼 (Phoenix eyes with triangular corners) - Distinctive eye shape considered sharp and penetrating. Commentary notes these specific features are essential to Xifeng's character.",
+    "凤辣子 (Peppery Phoenix) - Grandmother Jia's teasing nickname combining Xifeng's given name (凤) with southern dialect for spicy/fierce (辣子). Shows their intimate relationship.",
+    "The elaborate clothing description (5 items from head to feet) demonstrates Xifeng's extravagance and status as household manager. Commentary notes 'capable people prefer the novel and unusual.'",
+    "「粉面含春威不露，丹唇未启笑先闻」- Captures Xifeng's dual nature: charming exterior concealing iron authority. Her laugh precedes her words, showing confidence.",
+    "Commentary「作者读过麻衣相法」notes Cao Xueqin studied physiognomy, explaining the detailed physical descriptions that reveal character.",
+    "学名 (scholarly name) for a woman was unusual. Commentary notes the irony: Xifeng has a scholarly name but is illiterate, while educated women often lacked such names.",
+    "Grandmother Jia only laughs when Xifeng arrives - commentary notes this parallels later 'laugh characters,' showing Xifeng as her favorite who brings joy.",
+    "「宜作史笔看」(Should be read as historian's writing) - Commentary emphasizes documentary-like realism rather than mere fiction."
+  ],
+  "research_notes": [
+    "Studied classical narrative techniques for hero introductions in Chinese fiction",
+    "Consulted《红楼梦词典》for Xifeng's nicknames and their cultural significance",
+    "Reviewed scholarly articles on physiognomy in《红楼梦》character descriptions",
+    "Examined clothing symbolism in Qing Dynasty aristocratic society",
+    "Researched the significance of 'hearing voice before seeing form' technique in《红楼梦学刊》"
+  ],
+  "characters_appearing": [
+    "林黛玉",
+    "王熙凤",
+    "贾母"
+  ],
+  "total_segments": 11,
+  "manuscript_sources_on_page": [
+    "脂批"
+  ]
+}
