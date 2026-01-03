@@ -1,0 +1,266 @@
+{
+  "page": 64,
+  "chapter": "第四回",
+  "chapter_title": {
+    "original": "薄命女偏逢薄命郎 葫芦僧乱判葫芦案",
+    "zh_modern": "薄命女偏逢薄命郎，葫芦僧乱判葫芦案",
+    "en": "An Ill-fated Girl Meets an Ill-fated Man; The Monk from the Gourd Temple Muddle-headedly Judges the Gourd Case",
+    "ru": "Несчастная дева встречает несчастного юношу; Монах из тыквенного храма судит путаное дело",
+    "ja": "薄命の女偏（ひと）えに薄命の郎に逢い、葫蘆僧葫蘆案を乱判す"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 64,
+      "type": "prose",
+      "original": "[总为后文。]只说：‘我原不记得小时之事！’这可无疑了。",
+      "zh_modern": "[总为后文。]（她）只说：‘我本来就不记得小时候的事了！’这就可以确定无疑了（她就是甄英莲）。",
+      "en": "[Always for the later text.] She only said: 'I don't remember anything from my childhood!' This makes it certain [that she is the lost girl].",
+      "ru": "[Всё это ради дальнейшего повествования.] Она лишь сказала: «Я совсем не помню того, что было в детстве!» Теперь сомнений быть не может.",
+      "ja": "[総て後文の為なり。]只だ説く：『我原（もと）より小時の事を記せざる！』と。這（こ）れ可（まこと）に疑い無きなり。",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "pdf_page": 64,
+      "type": "prose",
+      "original": "那日冯公子相看了，兑了银子，拐子醉了，他自叹道：‘我今日罪孽可满了！’",
+      "zh_modern": "那天冯公子看中了她，付了银子，拐子喝醉了，自己感叹道：‘我今天的罪孽可算满了！’",
+      "en": "That day, Master Feng saw her and agreed to the purchase, paying the silver. The kidnapper got drunk and sighed to himself, 'My sins are full today!'",
+      "ru": "В тот день молодой господин Фэн осмотрел ее, уплатил серебро, а похититель напился и сам вздохнул: «Сегодня чаша моих грехов переполнилась!»",
+      "ja": "那の日冯公子相看し了（おわ）り、銀子を兌（か）え、拐子（かどわかし）酔いて、他（かれ）自ら嘆じて道う：『我今日罪孽（ざいげつ）可（まこと）に満てり！』と。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline after 我今日罪孽可满了",
+          "original": "天下英雄，失足匪人，偶得机会可以跳出者，与英莲同声一哭！",
+          "zh_modern": "天下的英雄，如果误身从贼，偶然得到机会可以跳出来的，应当与英莲同声一哭！",
+          "en": "Heroes of the world who have lost their footing among criminals and chance upon an opportunity to escape should weep in unison with Yinglian!",
+          "ru": "Герои Поднебесной, оступившиеся и попавшие к злодеям, но случайно получившие шанс вырваться, должны плакать в один голос с Инлянь!",
+          "ja": "天下の英雄、足を匪人（ひじん）に失し、偶（たま）たま機会を得て以て跳び出づる可き者は、英蓮と同声に一哭せよ！"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "pdf_page": 64,
+      "type": "prose",
+      "original": "后又听得冯公子三日后才娶过门，他又转有忧愁之态。我又不忍其形景，等拐子出去，又命内人去解释他：",
+      "zh_modern": "后来又听说冯公子三天后才娶她过门，她又转而表现出忧愁的样子。我不忍心看她那个样子，等拐子出去了，又叫我的妻子去宽慰解释给她听：",
+      "en": "Later, hearing that Master Feng would only marry her and bring her home after three days, she became worried again. I could not bear to see her like that, so waiting until the kidnapper went out, I ordered my wife to go and explain things to her:",
+      "ru": "Позже, услышав, что молодой господин Фэн заберет ее только через три дня, она снова запечалилась. Я не мог смотреть на нее в таком состоянии, и, дождавшись, пока похититель уйдет, велел жене пойти и утешить ее:",
+      "ja": "後又た聴き得て冯公子三日の後才（はじ）めて娶りて門を過ぐとて、他（かれ）又た転じて憂愁の態有り。我又た其の形景に忍びず、拐子の出去するを待ち、又た内人に命じて去りて他（かれ）に解説せしむ：",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "pdf_page": 64,
+      "type": "prose",
+      "original": "‘这冯公子必待好日期来接，可知必不以丫鬟相看。况他是个绝风流人品，家里颇过得，素习又最厌恶堂客，今竟破价买你，后事不言可知。只耐得三两日，何必忧闷！’",
+      "zh_modern": "‘这冯公子一定要等到好日子才来接，可见一定不是把你当作丫鬟看待。况且他是个绝顶风流的人物，家里颇为富裕，平素又最厌恶女色，今天竟然出高价买你，以后的事不用说也能知道（一定会对你好）。只忍耐这两三天，何必忧愁烦闷呢！’",
+      "en": "'Since Master Feng insists on waiting for a propitious date to fetch you, it is evident that he does not regard you as a mere maidservant. Moreover, he is a man of exceptional elegance and character, and his family is quite well-off. He usually detests women, yet today he has paid a broken price [exorbitant sum] to buy you; the future implies itself. Just have patience for two or three days; why be depressed?'",
+      "ru": "«Раз молодой господин Фэн ждет благоприятного дня, чтобы забрать тебя, значит, он не смотрит на тебя как на служанку. К тому же он человек исключительного изящества, семья его весьма состоятельна, и хотя обычно он терпеть не может женщин, сегодня он заплатил за тебя огромную цену — понятно, что ждет тебя в будущем. Потерпи всего два-три дня, зачем же так горевать!»",
+      "ja": "『這の冯公子必ず好き日期を待ちて来たり接（むか）うは、知る可し必ず丫鬟を以て相看ざることを。況んや他（かれ）は是れ絶風流の人品、家裏（うち）頗る過ぐるを得、素習（ひごろ）又た最も堂客（おんな）を厭悪するに、今竟（つい）に価を破りて你（なんじ）を買う、後事は言わずして知る可し。只だ三两日を耐え得よ、何ぞ憂悶する必要あらん！』と。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline after 何必忧闷",
+          "original": "良人者所望而终身也。",
+          "zh_modern": "这就是所谓的“良人者，所仰望而终身也”（找到了好丈夫，是终身的依靠）。",
+          "en": "A husband is one to whom one looks up and entrusts one's life.",
+          "ru": "Муж — это тот, на кого надеются и с кем связывают жизнь.",
+          "ja": "良人とは望む所にして身を終うるなり。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "pdf_page": 64,
+      "type": "prose",
+      "original": "他听如此说，方才略解忧闷，自为从此得所。谁料天下竟有这等不如意事，",
+      "zh_modern": "她听了这样的话，才稍微解除了忧愁烦闷，自以为从此有了归宿。谁料到天下竟然有这样不如意的事，",
+      "en": "Hearing this, she was slightly relieved of her sorrow, thinking that she had finally found a place. Who could have expected that there are such unhappy events in the world,",
+      "ru": "Услышав это, она немного успокоилась, думая, что теперь нашла свое пристанище. Кто бы мог подумать, что в мире случаются такие несчастья,",
+      "ja": "他（かれ）聴いて此くの如く説くにより、方才（はじ）めて略（いささ）か憂悶を解き、自ら此従（これよ）り所を得たりと為す。誰か料らん天下竟（つい）に這等の意の如くならざる事有らんとは、",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline after 不如意事",
+          "original": "可怜真可怜！◇一篇《薄命赋》，特出英莲。",
+          "zh_modern": "可怜，真可怜！一篇《薄命赋》，特地写英莲。",
+          "en": "Pitiful, truly pitiful! An \"Ode to Ill Fate,\" written especially for Yinglian.",
+          "ru": "Жалко, поистине жалко! «Ода несчастной судьбе», посвященная именно Инлянь.",
+          "ja": "可憐（あわれ）真に可憐！一篇の『薄命賦』、特（ひと）り英蓮を出だす。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline after 不如意事",
+          "original": "天下同患难者同来一哭！",
+          "zh_modern": "天下的同患难者一起来哭！",
+          "en": "Those in the world who share the same tribulations, come weep together!",
+          "ru": "Все страдальцы мира, придите и плачьте вместе!",
+          "ja": "天下の患難を同じくする者同に来たりて一哭せよ！"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "pdf_page": 64,
+      "type": "prose",
+      "original": "第二日，他偏又卖与了薛家。若卖与第二个人还好，这薛公子的混名人称‘呆霸王’，最是天下第一个弄性尚气的人，而且使钱如土，",
+      "zh_modern": "第二天，他偏偏又把她卖给了薛家。如果卖给别的人还好，这薛公子的绰号人称‘呆霸王’，最是天下第一个任性使气的人，而且挥金如土，",
+      "en": "The next day, he went and sold her to the Xue family. If he had sold her to anyone else, it might have been fine, but this Master Xue is nicknamed the 'Idiot Tyrant'. He is the most willful and arrogant person in the world, and spends money like dirt.",
+      "ru": "На следующий день он умудрился продать ее семье Сюэ. Если бы продал кому другому, еще куда ни шло, но у этого молодого господина Сюэ прозвище «Дурень-Тиран». Он первый в мире самодур и гордец, к тому же сорит деньгами, как землей.",
+      "ja": "第二日、他（かれ）偏（ひと）えに又た薛家に売り与う。若し第二の人に売り与えば還（ま）た好（よ）きに、這の薛公子の混名（あだな）人は『呆覇王（ほうはおう）』と称し、最とも是れ天下第一の弄性尚気（ろうせいしょうき）の人、而して銭を使うこと土の如く、",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline after 使钱如土",
+          "original": "世路难行钱作马。",
+          "zh_modern": "世路难行，钱作马（有钱能使鬼推磨）。",
+          "en": "The roads of the world are hard to travel; money serves as a horse.",
+          "ru": "Труден путь в миру, деньги служат конем.",
+          "ja": "世路行き難くして銭馬と作る。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline after 使钱如土",
+          "original": "“使钱如土”，方能称霸王。",
+          "zh_modern": "“使钱如土”，才能称霸王。",
+          "en": "Only by \"spending money like dirt\" can one be called a Tyrant.",
+          "ru": "Только «соря деньгами как землей», можно зваться Тираном.",
+          "ja": "「銭を使うこと土の如し」、方（はじ）めて覇王と称す能（あた）う。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "pdf_page": 64,
+      "type": "prose",
+      "original": "遂打了个落花流水，生拖死拽，把个英莲拖去，如今也不知死活。这冯公子空喜一场，一念未遂，反花了钱，送了命，岂不可叹！”",
+      "zh_modern": "于是（把冯家的人）打了个落花流水，生拉死拽，把个英莲拖了去，如今也不知是死是活。这冯公子空欢喜一场，心愿未遂，反而花了钱，送了命，岂不可叹！”",
+      "en": "He beat [Feng's servants] to pieces, and dragged Yinglian away dead or alive; now no one knows if she is dead or alive. Master Feng rejoiced for nothing; his wish unfulfilled, he instead spent money and lost his life. Is it not lamentable!\"",
+      "ru": "Он избил всех в пух и прах, силой уволок Инлянь, и теперь неизвестно, жива она или мертва. Молодой господин Фэн радовался впустую, желание его не сбылось, он лишь потратил деньги и поплатился жизнью. Разве это не печально!»",
+      "ja": "遂に打って個（ひと）つの落花流水となし、生拖死拽（せいたしえい）して、個（かの）英蓮を拖（ひ）き去り、如今（いま）も死活を知らず。這の冯公子空しく喜び一場、一念遂げず、反って銭を花（つか）い、命を送り、豈に嘆ず可からざらんや！」",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline after 如今也不知死活",
+          "original": "为英莲留后步。",
+          "zh_modern": "这是为英莲留后路（因为她没死，后来成了薛蟠的妾）。",
+          "en": "Leaving a path for Yinglian's future.",
+          "ru": "Оставляя лазейку для будущего Инлянь.",
+          "ja": "英蓮の為に後歩を留む。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline after 岂不可叹",
+          "original": "又一首《薄命叹》。英、冯二人一段小悲欢幻景从葫芦僧口中补出，省却闲文之法也。所谓“美中不足，好事多魔”，先用冯渊作一开路之人。",
+          "zh_modern": "又是一首《薄命叹》。英莲、冯渊二人的一段小悲欢幻景从葫芦僧口中补叙出来，这是省去闲文的方法。所谓“美中不足，好事多磨”，先用冯渊作一个开路的人。",
+          "en": "Another \"Lament for Ill Fate\". The brief tragic illusion of Yinglian and Feng Yuan is supplemented through the mouth of the Monk from the Gourd Temple; this is a method to save unnecessary text. As the saying goes, \"Flaws in beauty, many demons in good deeds\"; Feng Yuan is used first as a pathfinder.",
+          "ru": "Еще один «Вздох о несчастной судьбе». Краткая иллюзия радости и горя Инлянь и Фэна восполняется устами монаха из Тыквенного храма; это способ избежать лишнего текста. Как говорится, «в прекрасном есть изъяны, в добрых делах много дьяволов»; Фэн Юань используется здесь как первопроходец.",
+          "ja": "又た一首の『薄命嘆』なり。英、冯二人の一段の小悲歓幻景葫蘆僧の口中より補い出だすは、閑文を省却するの法なり。所謂「美中不足、好事多魔」、先ず冯淵を用いて一の開路の人と作（な）す。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "pdf_page": 64,
+      "type": "prose",
+      "original": "雨村听了，亦叹道：“这也是他们的孽障遭遇，亦非偶然。不然这冯渊如何偏只看准了这英莲？这英莲受了拐子这几年折磨，才得了个头路，且又是个多情的，若能聚合了，倒是一件美事，偏又生出这段事来。",
+      "zh_modern": "雨村听了，也叹道：“这也是他们的孽障遭遇，也不是偶然的。不然这冯渊怎么偏偏只看准了这英莲？这英莲受了拐子这几年折磨，才有了个出头之路，而且又是个多情的，如果能团聚，倒是一件美事，偏偏又生出这段事来。",
+      "en": "Yucun listened and also sighed, \"This is also a predetermined encounter of their karma, and not accidental. Otherwise, why would Feng Yuan have eyes only for this Yinglian? Yinglian suffered torment from the kidnapper for these years and finally found a way out. Moreover, she is an affectionate person. If they could have been together, it would have been a beautiful thing. But unfortunately, this incident had to happen.",
+      "ru": "Юйцунь выслушал и тоже вздохнул: «Это их кармическая встреча, и она не случайна. Иначе почему Фэн Юань положил глаз именно на эту Инлянь? Инлянь терпела мучения от похитителя все эти годы и только нашла выход. К тому же она натура страстная. Если бы они соединились, это было бы прекрасно, но случилось такое несчастье.",
+      "ja": "雨村聴き了（おわ）り、亦た嘆じて道う：「這れも亦た彼らの孽障遭遇にして、亦た偶然に非ず。然らずんば這の冯淵如何ぞ偏（ひと）えに只だ這の英蓮を看準（みさだ）めん？這の英蓮拐子の這の幾年の折磨を受け、才（はじ）めて個（ひと）つの頭路を得、且つ又た是れ個（ひと）つの多情なるもの、若し聚合し能（う）らば、倒（かえ）って是れ一件の美事ならんに、偏（ひと）えに又た這段の事を生じ来れる。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline after 偏又生出这段事来",
+          "original": "冯渊之事之人，是英莲之幻景中之痴情人。这薛家纵比冯家富贵，想其为人，自然姬妾众多，淫佚无度，未必及冯渊定情于一人者。这正是梦幻情缘，",
+          "zh_modern": "冯渊这事这人，是英莲幻景中的痴情人。这薛家纵然比冯家富贵，想他的为人，自然姬妾众多，荒淫无度，未必能像冯渊那样定情于一人。这正是梦幻情缘，",
+          "en": "The matter and person of Feng Yuan represent the infatuated lover in Yinglian's illusion. Although the Xue family is richer than the Feng family, considering his character, he naturally has many concubines and is unrestrained in debauchery; he may not equal Feng Yuan in fixing his love on one person. This is precisely a dream-illusion romance,",
+          "ru": "История и личность Фэн Юаня — это влюбленный безумец в иллюзиях Инлянь. Пусть семья Сюэ богаче семьи Фэн, но, зная его характер, у него наверняка множество наложниц и он безудержен в разврате; вряд ли он сравнится с Фэн Юанем в преданности одной единственной. Это и есть призрачная любовная связь,",
+          "ja": "冯淵の事の人、是れ英蓮の幻景中の痴情の人なり。這の薛家冯家に比して富貴なりと縦（いえど）も、其の人と為りを想うに、自然姫妾衆（おお）く、淫佚（いんいつ）度無く、未だ必ずしも冯淵の一人に情を定むる者に及ばざらん。這れ正に是れ夢幻情縁、"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "pdf_page": 64,
+      "type": "prose",
+      "original": "恰遇见一对薄命儿女。且不要议论他，只目今这官司，如何剖断才好？”",
+      "zh_modern": "恰好遇见一对薄命儿女。暂且不要议论他，只是眼下这官司，怎么判决才好？”",
+      "en": "Happening to meet a pair of ill-fated lovers. Let us not discuss him for now; but regarding this lawsuit at hand, how should it be judged?\"",
+      "ru": "Случилось так, что встретилась пара несчастных влюбленных. Но не будем обсуждать его; как же лучше решить эту тяжбу сейчас?»",
+      "ja": "恰（あたか）も一対の薄命の児女に遇えり。且つ他（かれ）を議論することなかれ、只だ目今（ただいま）這の官司、如何が剖断せば才（はじ）めて好からん？」と。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline after 恰遇见一对薄命儿女",
+          "original": "点明白了，直入本题。使雨村一评，方补足上半回之题目。所谓此书有繁处愈繁，省中愈省；又有不怕繁中繁，只要繁中虚；不畏省中省，只要省中实。此则省中实也。",
+          "zh_modern": "点明白了，直入本题。让雨村一评，才补足了上半回的题目。所谓这本书繁的地方越繁，省的地方越省；又有不怕繁中之繁，只要繁中有虚；不畏省中之省，只要省中有实。这就是省中有实。",
+          "en": "Pointed out clearly, entering directly into the main topic. Having Yucun comment on it completes the theme of the first half of the chapter. As it is said, in this book, where it is detailed, it is increasingly detailed, and where it is abbreviated, it is increasingly abbreviated; also, it does not fear detail within detail, as long as there is emptiness within the detail; nor does it fear abbreviation within abbreviation, as long as there is substance within the abbreviation. This is substance within abbreviation.",
+          "ru": "Точка поставлена ясно, переход прямо к делу. Комментарий Юйцуня дополняет тему первой половины главы. Как говорится, в этой книге где подробно — там еще подробнее, где кратко — там еще короче; и еще: не бойся подробностей в подробностях, лишь бы в них была пустота; не бойся краткости в краткости, лишь бы в ней была суть. Это и есть суть в краткости.",
+          "ja": "点じ明白にして、直ちに本題に入る。雨村をして一評せしめ、方（はじ）めて上半回の題目を補足す。所謂此の書繁き処は愈いよ繁く、省く中は愈いよ省くもの有り；又た繁中繁を怕（おそ）れず、只だ繁中虚を要し；省中省を畏れず、只だ省中実を要すもの有り。此れ則ち省中実なり。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "pdf_page": 64,
+      "type": "prose",
+      "original": "门子笑道：“老爷当年何等明决，今日何翻成个没主意的人了！小的闻得老爷补升此任，亦系贾府、王府之力，此薛蟠即贾府之老亲，老爷何不顺水行舟，做个整人情，将此",
+      "zh_modern": "门子笑道：“老爷当年何等英明果决，今天怎么反倒成个没主意的人了！小的听说老爷补升这个职位，也是靠了贾府、王府的力，这薛蟠就是贾府的老亲戚，老爷何不顺水推舟，做个整人情，把这...",
+      "en": "The usher laughed: \"How brilliant and decisive Your Honor was in those days! How have you turned into a person with no ideas today? This humble one heard that Your Honor's restoration to this post was also due to the influence of the Jia and Wang families. This Xue Pan is an old relative of the Jia family. Why doesn't Your Honor go with the current, do a complete favor, and take this...\"",
+      "ru": "Пристав усмехнулся: «Каким проницательным и решительным вы были в былые годы, господин! Почему же сегодня вы стали таким нерешительным? Я слышал, что ваше назначение на эту должность произошло благодаря влиянию семей Цзя и Ван. Этот Сюэ Пань — давний родственник семьи Цзя. Почему бы господину не плыть по течению, не сделать одолжение и не...»",
+      "ja": "門子笑いて道う：「老爺当年何等の明決なりしに、今日何ぞ翻（かえ）って個（ひと）つの主意無き人と成りたる！小的（わたくし）聞得す老爺此の任に補升せしは、亦た贾府、王府の力に係（かか）ると、此の薛蟠は即ち贾府の老親なり、老爺何ぞ順水行舟せず、個（ひと）つの整人情を作（な）し、此れを将（もち）いて",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline after 今日何翻成个没主意的人了",
+          "original": "利欲薰心，必致如此。",
+          "zh_modern": "利欲熏心，必然导致这样。",
+          "en": "When greed and desire blind the heart, it must lead to this.",
+          "ru": "Когда корысть и желания затмевают сердце, это неизбежно приводит к такому.",
+          "ja": "利欲心を薫ずれば、必ず此くの如きを致す。"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "Opening text (总为后文...): Starts mid-sentence, likely continuing a commentary from the previous page. The monk is recounting Yinglian's story.",
+    "Gourd Monk (葫芦僧): Refers to the novice from the Gourd Temple (where Yucun lived) who is now an usher/bailiff in Yucun's court.",
+    "Dai Bawang (呆霸王): Xue Pan's nickname, meaning Idiot Tyrant or Dull Hegemon, highlighting his brute force and lack of intelligence.",
+    "Going with the current (顺水行舟): Idiom meaning to take the easy way out or follow the prevailing force (here, the influence of the powerful families).",
+    "Gourd Case (葫芦案): Pun on 'Hulu' (Gourd) and 'Hutu' (Muddled/Confused). A muddled case judged by a monk from the Gourd Temple."
+  ],
+  "research_notes": [
+    "Confirmed nickname 'Dai Bawang' for Xue Pan.",
+    "Verified the connection: This segment explains how Yinglian (Zhen Shiyin's daughter) ended up with Xue Pan, setting the stage for her life as Xiangling.",
+    "Commentaries emphasize the theme of 'Ill Fate' (薄命) and the corrupting nature of power/money."
+  ],
+  "characters_appearing": [
+    "门子",
+    "贾雨村",
+    "甄英莲",
+    "冯渊",
+    "薛蟠",
+    "拐子"
+  ],
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ],
+  "total_segments": 10
+}
