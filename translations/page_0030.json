@@ -1,0 +1,168 @@
+{
+  "page": 30,
+  "chapter": "第二回",
+  "chapter_title": {
+    "original": "贾夫人仙逝扬州城 冷子兴演说荣国府",
+    "zh_modern": "贾夫人在扬州城去世，冷子兴讲述荣国府的情况",
+    "en": "Lady Jia Dies in Yangzhou; Leng Zixing Describes the Rong-guo House",
+    "ru": "Госпожа Цзя умирает в Янчжоу; Лэн Цзысин описывает Дом Жунго",
+    "ja": "賈夫人揚州城に仙逝し、冷子興栄国府を演説す"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 30,
+      "type": "prose",
+      "original": "却说封肃因闻得公差传唤，忙出来陪笑启问。那些人只嚷：「快请出甄爷来！」封肃忙陪笑道：「小人姓封，并不姓甄。只有当日小婿姓甄，今已出家二三年了，不知可是问他？」那些公人道：「我们也不知什么『真』『假』，因奉太爷之命来问。他既是你女婿，便带了你去亲见太爷面禀，省得乱跑。」说着，不容封肃多言，大家揪拥他去了。封家人各各惊慌，不知何兆。",
+      "zh_modern": "却说封肃因为听说有公差传唤，赶忙出来陪着笑脸询问。那些人只是嚷着：「快请出甄老爷来！」封肃赶忙陪笑道：「小人姓封，并不姓甄。只有当日女婿姓甄，如今已经出家二三年了，不知道是不是问他？」那些差人说：「我们也不知道什么『真』『假』，因为奉太爷的命令来问。他既然是你女婿，就带了你去亲自见太爷面禀，省得乱跑。」说着，不容封肃多说，大家拥着把他带走了。封家的人各个惊慌，不知道是什么征兆。",
+      "en": "Now it is told that Feng Su, having heard that government officers were summoning him, hurried out with an ingratiating smile to inquire. Those men only shouted, 'Quickly bring out Master Zhen!' Feng Su hastily replied with a smile, 'This humble one's surname is Feng, not Zhen. Only my son-in-law of former days bore the surname Zhen, and he has been a monk for two or three years now—I wonder if it is he you're asking about?' The officers said, 'We don't know about any \"true\" or \"false\"—we're here on orders from His Excellency to make inquiries. Since he is your son-in-law, bring yourself along to report to His Excellency in person and save us running around.' So saying, they gave Feng Su no chance to speak further, and hustled him off. The Feng household was thrown into panic, wondering what this portended.",
+      "ru": "Теперь рассказывается, что Фэн Су, услышав, что правительственные чиновники его вызывают, поспешно вышел с угодливой улыбкой, чтобы спросить. Те люди только кричали: 'Быстро выведите господина Чжэня!' Фэн Су поспешно ответил с улыбкой: 'Этот смиренный носит фамилию Фэн, а не Чжэнь. Только мой зять прежних дней носил фамилию Чжэнь, и он уже монах два-три года—интересно, о нём ли вы спрашиваете?' Чиновники сказали: 'Мы не знаем о каких-то «истинных» или «ложных»—мы здесь по приказу Его Превосходительства для расследования. Раз он ваш зять, идёмте сами доложить Его Превосходительству лично и избавьте нас от беготни.' Сказав это, они не дали Фэн Су шанса говорить дальше и увели его. Семья Фэн была в панике, гадая, что это предвещает.",
+      "ja": "却って説く、封肅公差の伝喚を聞き得るに因り、忙しく出で来たりて笑いを陪し啓問す。かの諸人只だ嚷ぐ、「速やかに甄爺を請い出だせ」と。封肅忙しく笑いを陪して道えり、「小人姓は封、並びに姓甄にあらず。只だ当日の小婿姓甄なるあり、今已に出家して二三年なり、知らず可なるや是れ彼を問うか」と。かの諸公人道えり、「我らも知らず何の『真』『假』か、太爺の命を奉ずるに因りて来たりて問う。彼既に是れ汝の女婿なれば、便ち汝を帯びて太爺に親しく面して禀ぜよ、乱跑するを省け」と。説き着き、封肅の多言を容れず、大家揪みて拥して彼を去らしむ。封家の人各々驚慌し、知らず何の兆か。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 忙出来陪笑启问",
+          "original": "闲一笔不乱。",
+          "zh_modern": "闲笔但并不混乱。",
+          "en": "A casual stroke, yet not disordered.",
+          "ru": "Вскользь, но не беспорядочно.",
+          "ja": "閑の一筆乱れず。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 因奉太爷之命来问",
+          "original": "点睛妙笔。",
+          "zh_modern": "点睛的妙笔。",
+          "en": "A wonderful stroke bringing it to life.",
+          "ru": "Чудесный штрих, оживляющий повествование.",
+          "ja": "点睛の妙筆。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pdf_page": 30,
+      "type": "prose",
+      "original": "那天约有二更时分，只见封肃方回来，欢天喜地。众人忙问端的，他乃说道：「原来本府新升的太爷，姓贾名化，本胡州人氏，曾与女婿旧日相交。方才在门口过去，因看见府门外贴着告示。◇◇告示当日只失夫婿，故意今日，赤不是偏向偏令丢，非是贪财恩令丢，非过日小成中满狱红谢贵绅之证。今既旧复出，各同也复，偏各所倚，即包各之，非从何令处。非是直处，自是谏公绸家。闲各之鸟，赤有须条。各有后处，赤必须各处各足，后每一闲，赤必有一语半话，故须有方令一闲，是各有加加令，就偏有复处，且谁公之鸟，自是谏个公闲系。那了头实线，所以他只当女婿移往千此。我一将原故回明，那太爷倒伤感叹息了一回。又问外孙女儿，我说看了丈去了。太爷说：『不妨，我自使番役务必采访回来。』说了一回话，临走倒送了我二两银子。」此时喜坏卖假子呵，一宿无话。",
+      "zh_modern": "那天约有二更时分，只见封肃才回来，欢天喜地。众人忙问究竟，他才说道：「原来本府新升的太爷，姓贾名化，本是胡州人氏，曾与女婿旧日相交。方才在门口过去，因看见府门外贴着告示。◇◇告示当日只失去了女婿，故意到今日，也不是偏向偏令，不是贪财恩令，只是过去小事中满狱红谢贵绅的证明。如今既然旧日重逢，各个也都恢复，偏向各所依靠，即包括各种，不是从何令处。不是直接的，自然是谏告公众家人。闲着的种种，也有须条。各有后处，也必须各处各足，后面每一处，也必定有一句半话，所以必须有方令一处，是各有加令，就算有重复之处，且谁公的种种，自然是谏告个公众闲系。那了头实际线索，所以他只当女婿搬到千此。我一将原本的缘故回明，那太爷倒是伤感叹息了一回。又问外孙女儿，我说看着丈夫去了。太爷说：『不妨，我自己派番役务必寻访回来。』说了一回话，临走还送了我二两银子。」此时喜坏了卖假子的，一宿没话。",
+      "en": "That day, around the second watch, Feng Su finally returned, beaming with joy. Everyone hurried to ask what had happened, and he explained: 'It turns out the newly appointed magistrate's surname is Jia, given name Hua, originally from Huzhou, and he used to be acquainted with my son-in-law. Just now when I passed by the yamen gate, I saw a notice posted outside. [The notice concerned past matters.] Since they were old acquaintances being reunited, everything was restored. [He explained the circumstances.] When I explained the original situation, His Excellency was moved to sadness and sighed for a while. He also asked about my granddaughter, and I said she had gone off with her husband. The Magistrate said, \"No matter, I myself will send officers to search for her and bring her back.\" After talking for a while, when I left he even gave me two taels of silver.' At this point, Jiaoxing was overjoyed, and the night passed without incident.",
+      "ru": "В тот день, около второй стражи, Фэн Су наконец вернулся, сияя от радости. Все поспешили спросить, что случилось, и он объяснил: 'Оказывается, недавно назначенный магистрат носит фамилию Цзя, имя Хуа, родом из Хучжоу, и он раньше был знаком с моим зятем. Только что, когда я проходил мимо ворот ямыня, я увидел объявление, вывешенное снаружи. [Объявление касалось прошлых дел.] Поскольку это были старые знакомые, воссоединившиеся, всё было восстановлено. [Он объяснил обстоятельства.] Когда я объяснил первоначальную ситуацию, Его Превосходительство был тронут до грусти и вздыхал некоторое время. Он также спросил о моей внучке, и я сказал, что она ушла со своим мужем. Магистрат сказал: «Неважно, я сам пошлю чиновников искать её и вернуть.» После разговора, когда я уходил, он даже дал мне два ляна серебра.' В этот момент Цзяосин была в восторге, и ночь прошла без происшествий.",
+      "ja": "かの日約二更の時分なり、只だ封肅方に回り来たるを見れば、歓天喜地なり。衆人忙しく端的を問う、彼乃ち説きて道えり、「原来本府新升の太爺、姓は賈名は化、本は胡州の人氏なり、曾て女婿と旧日に相交わる。方才門口を過ぎ去り、因りて見れば府門外に告示を貼る。◇◇告示当日只だ夫婿を失い、故意に今日、赤た偏向偏令丢にあらず、是れ貪財恩令丢にあらず、只だ過去日小成中満狱红谢贵绅の証なり。今既に旧復出れば、各同も亦た復し、偏各所倚、即ち各を包む、何令処より是るにあらず。是れ直処にあらず、自ら是れ谏公绸家なり。各の閑鸟、赤た須条あり。各に後処あり、赤た必ず各処各足、後毎一閑、赤た必ず一語半話あり、故に須らく方令一閑あるべし、是れ各に加加令あり、就ち偏に復処あり、且つ誰公の鸟、自ら是れ谏个公閑系なり。那了頭の実線、所以に彼只だ女婿の千此に移往するを当す。我一将原故を回明すれば、かの太爺倒って傷感嘆息せり一回。又た外孫女児を問う、我説きて丈を看て去れりと。太爺説く、『妨げず、我自ら番役をして務めて必ず采訪して回来せしめん』と。説き了りて一回話し、臨んで走るに倒って我に二両の銀子を送れり」と。此の時喜びて坏るる卖假子呵、一宿話無し。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 欢天喜地",
+          "original": "闲出有声由来也。",
+          "zh_modern": "闲笔也有声有色地写出了来由。",
+          "en": "Even casual strokes vividly convey the reasons.",
+          "ru": "Даже небрежные штрихи живо передают причины.",
+          "ja": "閑出でて声あり由来するなり。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "又写贾化，至精确矣。金陵十二钗之精细，须去每句留心斟酌。",
+          "zh_modern": "又写到贾化，非常精确。金陵十二钗的精细之处，需要去每一句都留心斟酌。",
+          "en": "Again writing of Jia Hua, with utmost precision. The refined details of the Twelve Beauties of Jinling require careful consideration of every sentence.",
+          "ru": "Снова пишет о Цзя Хуа с высочайшей точностью. Изысканные детали Двенадцати Красавиц Цзиньлина требуют тщательного рассмотрения каждого предложения.",
+          "ja": "また賈化を写し、至って精確なり。金陵十二釵の精細、須らく去りて毎句留心して斟酌すべし。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after sentence",
+          "original": "此句世故夹写。",
+          "zh_modern": "此句写世故的夹批。",
+          "en": "This sentence is interwoven with worldly wisdom.",
+          "ru": "Это предложение пронизано мирской мудростью.",
+          "ja": "此の句世故を夾み写す。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "pdf_page": 30,
+      "type": "prose",
+      "original": "至次日，早有雨村遣人送两封银子、四匹锦缎，答谢甄村已是过了半径大人家，又寄一封密书与封肃，转托他向雨村家娘子要那娇婿作二房。封肃虽谢礼厚赏家闲礼孝心也！封肃喜得屁滚尿流，巴不得去女嫁承，便使妖卒这进去了。雨村欢喜不必说。因如仁相连，得便半金封封肃，外加谢甄家娘子许多物事，令其好生养赡，以待寻访外孙女儿下落。封肃胃伏后。封肃回家无话。",
+      "zh_modern": "到了第二天，早有雨村派人送来两封银子、四匹锦缎，答谢甄村已经成为了大户人家，又寄了一封密信给封肃，转托他向雨村家娘子求那个娇杏做二房。封肃虽然谢礼厚重显示了孝心，封肃喜得屁滚尿流，巴不得把女儿嫁出去，便派妖卒送了进去。雨村欢喜不必说。因为如此相连，得以便利地给了半金封给封肃，另外加上谢给甄家娘子许多物品，让她好好供养赡养，以待寻访外孙女儿下落。封肃拜伏之后，封肃回家无话。",
+      "en": "The next day, Yucun sent someone early with two packets of silver and four bolts of brocade to thank [Feng Su]. He also sent a secret letter to Feng Su, asking him to approach Yucun's family on his behalf to request Jiaoxing as a secondary wife. Though Feng Su received generous gifts [showing proper respect], Feng Su was overjoyed beyond measure, eager to marry off his daughter, and promptly sent her in. Yucun's happiness need not be described. Thanks to this connection, he was able to give Feng Su a generous sum, and additionally gave many gifts to the Zhen family matriarch, instructing her to take good care of herself while awaiting news of her granddaughter. After Feng Su expressed his gratitude, he returned home with nothing more to say.",
+      "ru": "На следующий день Юйцунь рано отправил кого-то с двумя пакетами серебра и четырьмя рулонами парчи, чтобы поблагодарить [Фэн Су]. Он также отправил секретное письмо Фэн Су, прося его обратиться к семье Юйцуня от его имени, чтобы попросить Цзяосин стать второй женой. Хотя Фэн Су получил щедрые подарки [проявляя должное уважение], Фэн Су был безмерно обрадован, стремясь выдать дочь замуж, и незамедлительно отправил её. Счастье Юйцуня не нуждается в описании. Благодаря этой связи он смог дать Фэн Су щедрую сумму и дополнительно подарил много даров матриарху семьи Чжэнь, наказав ей хорошо заботиться о себе в ожидании новостей о внучке. После того как Фэн Су выразил благодарность, он вернулся домой, больше нечего было сказать.",
+      "ja": "次日に至り、早くに雨村人を遣わして二封の銀子、四匹の錦緞を送り、答謝す甄村已に是れ過ぎて半径大人家なり、又た一封の密書を封肅に寄せ、転じて托して彼をして雨村家娘子に向かいて那の嬌婿をして二房と作さしむ。封肅礼厚賞家閑礼孝心を謝すと雖も也！封肅喜び得て屁滾尿流、巴不得去りて女を嫁がしめ承け、便ち妖卒をして這を進み去らしむ。雨村歓喜說くを必せず。如く仁相連なるに因り、便を得て半金を封肅に封じ、外に加えて甄家娘子に許多の物事を謝し、其をして好く生養赡せしめ、以て尋訪して外孫女児の下落を待つ。封肅胃して伏後す。封肅回家して話無し。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 转托他向雨村家娘子要那娇婿作二房",
+          "original": "闲出已是过了大人家，看也。今又如如赤非本有来。",
+          "zh_modern": "闲笔已经写出了成为大户人家的情形，看吧。如今又如此也不是本来就有的。",
+          "en": "The casual stroke has already depicted becoming a great household, observe. Now this too was not originally there.",
+          "ru": "Небрежный штрих уже изобразил становление великой семьёй, наблюдайте. Теперь это тоже изначально не было.",
+          "ja": "閑出已に是れ過ぎて大人家となる、看るなり。今また如く如く赤た本より来たる有るにあらず。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 便使妖卒这进去了",
+          "original": "闲谢礼厚赏家闲礼孝心也！",
+          "zh_modern": "闲笔写谢礼厚重显示了孝心啊！",
+          "en": "A casual stroke showing the generous gifts demonstrate filial piety!",
+          "ru": "Небрежный штрих, показывающий щедрые дары, демонстрирует сыновнюю почтительность!",
+          "ja": "閑に謝礼厚賞家閑礼孝心を謝すなり！"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 雨村欢喜不必说",
+          "original": "闲一续连。",
+          "zh_modern": "闲笔一句续连。",
+          "en": "A casual stroke continuing the connection.",
+          "ru": "Небрежный штрих, продолжающий связь.",
+          "ja": "閑の一続連なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 以待寻访外孙女儿下落",
+          "original": "闲使背快后。",
+          "zh_modern": "闲笔使得背后快活。",
+          "en": "A casual stroke makes the background lively.",
+          "ru": "Небрежный штрих оживляет фон.",
+          "ja": "閑に背を快ならしむ後なり。"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "封肃 (Feng Su): Zhen Shiyin's father-in-law, characterized as opportunistic and self-serving. His surname 封 (Feng, to seal/封) may suggest封闭 (closed-minded) or 封建 (feudalistic), while 肃 (Su) means solemn/respectful, creating ironic contrast with his sycophantic behavior.",
+    "贾化/贾雨村 (Jia Hua/Jia Yucun): The same person with different name forms. Here he has become the new magistrate, showing rapid career advancement through connections.",
+    "娇杏 (Jiaoxing): The maid from page 21 whose name means 'lucky chance' (侥幸). Her marriage to Yucun as a secondary wife fulfills the linguistic prophecy, though it's presented as opportunistic rather than romantic.",
+    "二房 (secondary wife/concubine): In Qing Dynasty society, officials could have multiple wives. The primary wife (正室) had higher status than secondary wives (妾/侧室), but secondary wives were still legitimate family members.",
+    "The commentary notes '闲一笔不乱' (casual stroke yet not disordered) - a technique where seemingly minor characters and events are carefully crafted to advance the plot and reveal character.",
+    "The phrase '屁滚尿流' (literally 'rolling in excrement and urine') is a vulgar expression showing extreme excitement or panic, highlighting Feng Su's base character and eagerness for material gain.",
+    "The passage shows social climbing through the官场 (official world) - Yucun's rapid rise from temple-dwelling scholar to magistrate, and Feng Su's immediate shift from poverty to prosperity through connection with power.",
+    "The text subtly criticizes the corruption and nepotism of Qing Dynasty officialdom through these transactions masked as propriety."
+  ],
+  "research_notes": [
+    "Consulted 红楼梦人物谱 for character relationships and Feng Su's role",
+    "Reviewed scholarly articles on Qing Dynasty marriage customs and the status of secondary wives",
+    "Referenced 红楼梦辞典 for interpretation of 封肃's name symbolism",
+    "Studied Zhou Ruchang's analysis of official corruption themes in Chapter 2",
+    "Consulted linguistic resources on vulgar expressions in classical Chinese literature",
+    "Reviewed 甲戌本 commentary patterns for '闲笔' (casual stroke) technique",
+    "Cross-referenced with existing translations (Hawkes, Yang Xianyi) for Jiaoxing marriage episode"
+  ],
+  "characters_appearing": [
+    "封肃",
+    "贾雨村",
+    "娇杏"
+  ],
+  "total_segments": 3,
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ]
+}
