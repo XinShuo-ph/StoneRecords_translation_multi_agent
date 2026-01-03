@@ -1,0 +1,63 @@
+{
+  "page": 4,
+  "chapter": "电子版制作说明",
+  "chapter_title": {
+    "original": "电子版制作说明",
+    "zh_modern": "电子版制作说明",
+    "en": "Electronic Edition Production Notes",
+    "ru": "Примечания к подготовке электронной версии",
+    "ja": "電子版制作説明"
+  },
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 4,
+      "type": "prose",
+      "original": "《红楼梦脂评汇校本》电子版，系以甲戌本、己卯本、庚辰本等早期脂本为底本，汇集了藏府（有正）本、蒙府本等其他脂批本的部分脂批，并参考、吸收若干新校点本及脂批本的校点成果整理而成，其中从红研所校戚校注本中获益尤多。对前人善意着分歧的，略参己意而取舍；力求既不人云亦云，也不标新立异，整理成为一个方便阅读和检索的网络普及本。",
+      "zh_modern": "《红楼梦脂评汇校本》电子版，是以甲戌本、己卯本、庚辰本等早期脂砚斋评本为底本，汇集了藏府（有正）本、蒙府本等其他脂批本的部分批语，并参考、吸收了若干新校点本及脂批本的校点成果整理而成，其中从红学研究所校戚校注本中获益尤多。对前人善意着分歧的地方，略参己意而取舍；力求既不人云亦云，也不标新立异，整理成为一个方便阅读和检索的网络普及本。",
+      "en": "The electronic edition of Dream of the Red Chamber: Collated Edition with Zhiping Commentary is based primarily on early Zhiping manuscript editions such as the Jiaxu, Jimao, and Gengchen versions. It incorporates selected commentaries from other Zhiping editions including the Cangfu (Youzheng) and Mengfu manuscripts, and draws upon the collation achievements of several modern annotated editions, benefiting especially from the collated and annotated Qi edition by the Institute of Red Studies. Where previous scholars have differed in good faith, I have exercised my own judgment in making selections, striving neither to merely echo others nor to pursue novelty for its own sake, but rather to create a convenient and accessible online edition for reading and reference.",
+      "ru": "Электронное издание «Сон в красном тереме: Сводное издание с комментариями Чжиянь Чжая» основано главным образом на ранних рукописных изданиях с комментариями Чжиянь Чжая, таких как Цзясюй, Цзимао и Гэнчэнь. Оно включает избранные комментарии из других изданий с комментариями Чжи, в том числе рукописей Цанфу (Ючжэн) и Мэнфу, и опирается на достижения коллации нескольких современных аннотированных изданий, особенно извлекая пользу из коллированного и аннотированного издания Ци Института красноведения. Там, где предыдущие ученые расходились во мнениях добросовестно, я применил собственное суждение при выборе, стремясь ни просто повторять других, ни гнаться за новизной ради самой новизны, а скорее создать удобное и доступное онлайн-издание для чтения и справки.",
+      "ja": "『紅楼夢脂評匯校本』電子版は、甲戌本、己卯本、庚辰本などの初期の脂硯斎評本を底本とし、蔵府（有正）本、蒙府本など他の脂批本の部分的な批語を集め、さらに若干の新校点本及び脂批本の校点成果を参考・吸収して整理したものです。その中でも紅学研究所校戚校注本から特に多くを得ています。先人の善意ある見解の相違については、やや己意を参じて取捨し、人云亦云でもなく、標新立異でもなく、閲覧と検索に便利なネット普及本となることを目指しました。",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "pdf_page": 4,
+      "type": "prose",
+      "original": "本书正文以甲戌本及庚辰本为底本（第六十四、六十七回以列藏本为底本），以其他各脂本参校。甲戌本所存者十六回，又文大大优于他本，基本原文照录，只在确有必要时改动少量字词；庚辰本内容比较完整，惜抄写草率，错误较多，不得作参照已卯本等等字校寻大量字句。第六十七回两种版本文字差异过大，无法互校，一并附录。",
+      "zh_modern": "本书正文以甲戌本及庚辰本为底本（第六十四回、六十七回以列藏本为底本），以其他各脂本参校。甲戌本所保存的十六回，文字大大优于其他版本，基本原文照录，只在确有必要时改动少量字词；庚辰本内容比较完整，可惜抄写草率，错误较多，不得不参照己卯本等进行大量字句校订。第六十七回两种版本文字差异过大，无法互校，故一并附录。",
+      "en": "The main text of this book is based on the Jiaxu and Gengchen manuscripts (with Chapters 64 and 67 based on the Liezang manuscript), collated against other Zhiping editions. The sixteen chapters preserved in the Jiaxu manuscript are textually far superior to other versions and are reproduced largely as found, with minimal emendations only where absolutely necessary. While the Gengchen manuscript is relatively complete in content, it suffers from careless copying and numerous errors, requiring extensive character-by-character collation against the Jimao and other manuscripts. Chapter 67 shows such significant textual divergence between versions that cross-collation proved impossible, so both versions are appended.",
+      "ru": "Основной текст этой книги основан на рукописях Цзясюй и Гэнчэнь (главы 64 и 67 основаны на рукописи Лецзан), сверенных с другими изданиями Чжи. Шестнадцать глав, сохранившихся в рукописи Цзясюй, текстуально намного превосходят другие версии и воспроизводятся в основном как есть, с минимальными поправками только там, где это абсолютно необходимо. Хотя рукопись Гэнчэнь относительно полна по содержанию, она страдает от небрежного копирования и многочисленных ошибок, что требует обширной посимвольной коллации с рукописями Цзимао и другими. Глава 67 показывает настолько значительные текстуальные расхождения между версиями, что перекрестная коллация оказалась невозможной, поэтому обе версии приложены.",
+      "ja": "本書の本文は甲戌本及び庚辰本を底本とし（第六十四回、六十七回は列蔵本を底本とし）、他の各脂本を参校としています。甲戌本に保存されている十六回は、文字が他の版本より大いに優れており、基本的に原文のまま収録し、確実に必要な場合にのみ少量の字句を改めています。庚辰本は内容が比較的完全ですが、残念ながら筆写が粗雑で誤りが多く、己卯本などを参照して大量の字句を校訂せざるを得ませんでした。第六十七回は両版本の文字の差異が大きすぎて互いに校訂できないため、併せて付録としました。",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "pdf_page": 4,
+      "type": "prose",
+      "original": "本书批语按以下顺序辑录：甲戌本、己卯本、庚辰本、戚序本、蒙府本、列藏本、甲辰本、为书省篇幅，后出版本的批语与前面某本文字相同的，不再列出；有个别文字差异的，只据以校，也不单独列出。",
+      "zh_modern": "本书批语按以下顺序辑录：甲戌本、己卯本、庚辰本、戚序本、蒙府本、列藏本、甲辰本。为节省篇幅，后出版本的批语与前面某本文字相同的，不再列出；有个别文字差异的，只据以校订，也不单独列出。",
+      "en": "The commentaries in this book are compiled in the following order: Jiaxu, Jimao, Gengchen, Qixu, Mengfu, Liezang, and Jiachen manuscripts. To conserve space, when later manuscript commentaries are identical in text to earlier ones, they are not repeated; when there are minor textual differences, these are used for collation but not separately listed.",
+      "ru": "Комментарии в этой книге собраны в следующем порядке: Цзясюй, Цзимао, Гэнчэнь, Цисюй, Мэнфу, Лецзан и Цзячэнь рукописи. Для экономии места, когда комментарии более поздних рукописей идентичны по тексту более ранним, они не повторяются; когда есть незначительные текстуальные различия, они используются для коллации, но не перечисляются отдельно.",
+      "ja": "本書の批語は以下の順序で輯録されています：甲戌本、己卯本、庚辰本、戚序本、蒙府本、列蔵本、甲辰本。紙面を節約するため、後の版本の批語が前のある版本の文字と同じ場合は再掲せず、個別の文字差異がある場合は、それに基づいて校訂するのみで、単独で列挙しません。",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "甲戌本 (Jiaxu manuscript) - Named after the year jiaxu (1754) in the sexagenary cycle, one of the earliest and most valuable manuscript versions",
+    "己卯本 (Jimao manuscript) - Named after the year jimao (1759), another important early manuscript",
+    "庚辰本 (Gengchen manuscript) - Named after the year gengchen (1760), the most complete early manuscript with 78 chapters",
+    "戚序本 (Qixu manuscript) - A manuscript with a preface by Qi, also known as the You Zheng edition",
+    "红研所 (Institute of Red Studies) - The leading research institution for Dream of the Red Chamber scholarship in China",
+    "This page explains the scholarly methodology used in creating this collated electronic edition, emphasizing the compiler's careful approach to reconciling differences among manuscript versions"
+  ],
+  "research_notes": [
+    "Researched the various manuscript versions and their relative scholarly value",
+    "Verified standard terminology for textual scholarship and manuscript collation",
+    "Understood the compiler's methodology of preferring the Jiaxu manuscript for quality while using Gengchen for completeness"
+  ],
+  "characters_appearing": [],
+  "total_segments": 3,
+  "manuscript_sources_on_page": []
+}
