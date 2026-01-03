@@ -3,20 +3,20 @@
 ## ⚠️ SYNC DAEMON STATUS (CHECK FIRST!)
 
 - **Daemon Running**: no
-- **Last Full Sync**: 1767409604
-- **Global Completed Count**: 20
+- **Last Full Sync**: 1767411025
+- **Global Completed Count**: 43
 
 ## Status
 - **Branch**: cursor/hong-lou-meng-translation-843e
 - **Short ID**: 843e
-- **Heartbeat**: 1767409645
-- **Status**: researching
+- **Heartbeat**: 1767411004
+- **Status**: translating
 
 ## Current Work
-- **Claimed Page**: 22
+- **Claimed Page**: 44
 - **Page Verified Available**: yes
-- **Started At**: 1767409645
-- **Current Step**: research
+- **Started At**: 1767411004
+- **Current Step**: translate
 
 ## Completed Pages
 | Page | Chapter | Completed At | Hash | Segments |
@@ -32,5 +32,6 @@
 
 ## Notes
 - Cannot run the long-lived `sync_daemon.py --start` process in this environment; using `--check-page/--next-page/--status` (full-sync) before claiming and before writing output.
-- Working on PDF page 22 (Chapter 1: Jia Yucun notices Jiaoxing; Mid-Autumn poems).
+- Initially started page 21→22, but those pages were completed by other workers during sync; removed local duplicate.
+- Working on PDF page 44 (Chapter 3: Lin Daiyu arrives at Rongguo; meeting Grandmother Jia and the three sisters).
 
