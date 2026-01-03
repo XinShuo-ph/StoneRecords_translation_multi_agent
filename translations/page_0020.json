@@ -1,0 +1,106 @@
+{
+  "page": 20,
+  "chapter": "第一回",
+  "chapter_title": {
+    "original": "甄士隐梦幻识通灵 贾雨村风尘怀闺秀",
+    "zh_modern": "甄士隐在梦幻中认识了通灵宝玉，贾雨村在落魄时怀念闺中秀女",
+    "en": "Zhen Shiyin in a Dream Perceives the Jade of Spiritual Understanding; Jia Yucun in Humble Circumstances Thinks Fondly of a Beautiful Maiden",
+    "ru": "Чжэнь Шиинь во сне постигает волшебную яшму; Цзя Юйцунь в бедности вспоминает прекрасную деву",
+    "ja": "甄士隠、夢幻の中で通霊を識り、賈雨村、風塵にありて閨秀を懐う"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 20,
+      "type": "prose",
+      "original": "偏值士隐走来听见，笑道：“雨村兄，真抱负不浅也！”雨村忙笑道：“不过偶吟，且莫当真。蒙谬赞，不敢当，不敢当。”",
+      "zh_modern": "偏巧甄士隐走来听见了，笑着说：“雨村兄，你的抱负真是不浅啊！”雨村连忙笑着回答：“不过是偶尔吟诵罢了，请不要当真。承蒙谬赞，不敢当，不敢当。”",
+      "en": "Just then, Shiyin walked up and overheard him. Smiling, he said, \"Brother Yucun, your ambitions are truly not shallow!\" Yucun hurriedly smiled and replied, \"It was merely a casual recitation; please do not take it seriously. I am unworthy of your exaggerated praise, truly unworthy.\"",
+      "ru": "Как раз в это время подошёл Шиинь и, услышав это, с улыбкой сказал: «Брат Юйцунь, ваши амбиции поистине глубоки!» Юйцунь поспешно улыбнулся и ответил: «Это лишь случайные строки, не принимайте их всерьез. Я недостоин такой похвалы, право, недостоин».",
+      "ja": "折しも士隠が歩いて来てこれを耳にし、笑って言った。「雨村兄、まことに抱負浅からずですね！」雨村は慌てて笑い、「ただの偶然の吟詠です、本気にしないでください。過分なお褒めにあずかり、恐縮です、恐縮です。」",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "不仅只为闺阁增光，见凡极贵大人物，当想彼一时若何光景，即知今日之不想也。",
+          "zh_modern": "这不仅仅是为了给闺阁增添光彩。凡是见到极尊贵的大人物，应当想想他们当时还是普通人时的光景，就知道他们今日的显赫是当时想不到的。",
+          "en": "This is not merely to add luster to the ladies' chambers. Whenever one sees extremely noble and great figures, one should imagine what their circumstances were like at a previous time, and then one will realize that their present state was unimaginable then.",
+          "ru": "Это не только для того, чтобы прославить женские покои. Всякий раз, видя великих и знатных людей, следует представить, каково было их положение в прошлом, и тогда станет ясно, что их нынешнее величие тогда было немыслимо.",
+          "ja": "ただ閨閣に光を増すのみならず、凡そ極めて貴き大人物を見るに、彼の一時の光景若何んを想わば、即ち今日の想わざるを知るべし。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pdf_page": 20,
+      "type": "prose",
+      "original": "士隐笑道：“老兄今岁得大比，已有八九。只是一件，目今行囊路费，恐不充积？晚弟倒想助一臂之力，不知道尊意如何？”",
+      "zh_modern": "甄士隐笑着说：“老兄今年参加大考，已有八九成的把握。只是有一件事，目前的行囊路费，恐怕积蓄不够吧？小弟倒想助你一臂之力，不知道你的意下如何？”",
+      "en": "Shiyin smiled and said, \"Brother, regarding the triennial civil service examination this year, you surely have an eighty or ninety percent chance. There is just one thing: I fear your current provisions and travel funds are insufficient. I would like to lend a helping hand; I wonder what your thoughts are?\"",
+      "ru": "Шиинь улыбнулся и сказал: «Брат, в нынешнем году на больших экзаменах у вас есть восемь или девять шансов из десяти. Только одно беспокоит: боюсь, ваших средств на дорогу и сборы недостаточно? Ваш покорный слуга хотел бы предложить свою помощь, не знаю, как вы на это посмотрите?»",
+      "ja": "士隠は笑って言った。「兄貴、今年の科挙は、すでに八九分の見込みがおありでしょう。ただ一つ、目下の旅費や支度が、恐らく十分ではないのでは？弟として一肌脱ぎたいと思いますが、ご意向はいかがでしょう？」"
+    },
+    {
+      "id": 3,
+      "pdf_page": 20,
+      "type": "prose",
+      "original": "雨村听了，也不推辞，便笑道：“多谢，多谢！其实生平不惯踌躇，正欲求教老翁，但恐唐突。今既蒙赠，他日若得寸进，必不忘德。”",
+      "zh_modern": "雨村听了，也不推辞，便笑着说：“多谢，多谢！其实我平生不习惯犹豫踌躇，正想求教于老翁，但又怕太唐突。既然承蒙赠送，日后如果能有一点长进，一定不会忘记您的恩德。”",
+      "en": "Upon hearing this, Yucun offered no polite refusal but simply smiled and said, \"Many thanks, many thanks! Actually, I have never been one to hesitate. I was just intending to ask for your assistance, Sir, but feared being presumptuous. Since you have now generously offered this gift, if I make even an inch of progress in the future, I shall certainly not forget your kindness.\"",
+      "ru": "Услышав это, Юйцунь не стал отказываться и с улыбкой сказал: «Премного благодарен, премного благодарен! На самом деле я не привык колебаться и как раз хотел просить вас о помощи, старина, но боялся показаться назойливым. Раз уж вы оказали мне такую честь, если в будущем я добьюсь хоть малейшего успеха, я непременно не забуду вашей добродетели».",
+      "ja": "雨村はこれを聞くと、辞退もせず、笑って言った。「多謝、多謝！実のところ、平生ためらうことには慣れておらず、正に老翁に教えを乞おうと思っていたところですが、唐突かとも恐れておりました。今すでに贈与を蒙りましたれば、後日もし寸進を得ば、必ずや御恩は忘れません。」",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "写雨村真是个奸雄。",
+          "zh_modern": "写出了雨村真是一个奸雄。",
+          "en": "This portrays Yucun as a truly treacherous hero [Cao Cao-esque figure].",
+          "ru": "Здесь Юйцунь описан как настоящий коварный герой.",
+          "ja": "雨村が真に奸雄であることを写す。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "pdf_page": 20,
+      "type": "prose",
+      "original": "士隐见他不拘俗套，越发欢喜，当下便命小童进去，速封五十两白银，并两套冬衣。",
+      "zh_modern": "甄士隐见他不拘泥于俗套，越发高兴，当下便命小书童进去，迅速封好五十两白银，以及两套冬衣。",
+      "en": "Seeing that he was not bound by conventional politeness, Shiyin was all the more delighted. He immediately ordered his servant boy to go inside and quickly wrap up fifty taels of silver and two sets of winter clothes.",
+      "ru": "Шиинь, видя, что он не скован условностями, ещё больше обрадовался и тут же приказал мальчику-слуге пойти и быстро упаковать пятьдесят лянов серебра и два комплекта зимней одежды.",
+      "ja": "士隠は彼が俗習に拘泥しないのを見て、ますます喜び、即座に小童に命じて中に入らせ、速やかに白銀五十両と冬衣二着を包ませた。",
+      "commentary": [
+        {
+          "type": "眉批",
+          "source": "甲戌本",
+          "position": "top margin",
+          "original": "写士隐也是个爽快人。",
+          "zh_modern": "写出了士隐也是个爽快人。",
+          "en": "This shows that Shiyin is also a straightforward and generous man.",
+          "ru": "Здесь показано, что Шиинь тоже прямой и открытый человек.",
+          "ja": "士隠もまた爽快な人であることを写す。"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "The interaction highlights the contrast between Zhen Shiyin's generosity and Jia Yucun's pragmatic ambition.",
+    "Jia Yucun is described as a '奸雄' (jianxiong) in commentary, a term often associated with Cao Cao, implying ability but also ruthlessness.",
+    "Fifty taels of silver was a significant sum, sufficient for travel to the capital and examination expenses."
+  ],
+  "research_notes": [
+    "Verified the text of Jia Yucun's acceptance of the gift.",
+    "Consulted Zhiping commentary regarding the characterization of Yucun as 'jianxiong'."
+  ],
+  "characters_appearing": [
+    "甄士隐",
+    "贾雨村"
+  ],
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ]
+}
