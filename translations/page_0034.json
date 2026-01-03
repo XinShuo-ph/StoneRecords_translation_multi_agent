@@ -1,0 +1,130 @@
+{
+  "page": 34,
+  "chapter": "第二回",
+  "chapter_title": {
+    "original": "贾夫人仙逝扬州城 冷子兴演说荣国府",
+    "zh_modern": "贾夫人在扬州城去世 冷子兴讲述荣国府的故事",
+    "en": "Lady Jia Passes Away in Yangzhou; Leng Zixing Discourses on the Rong Mansion",
+    "ru": "Госпожа Цзя скончалась в Янчжоу; Лэн Цзысин рассказывает о поместье Жун",
+    "ja": "賈夫人揚州城にて仙逝し、冷子興榮國府を演説す"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "无甚紧事，且盘桓两日，待月半时也就起身了。今日敝友有事，我因闲步至此，且歇歇脚。不期这样巧遇！",
+      "zh_modern": "没有什么紧急的事，暂且盘桓两天，等到月半的时候也就动身了。今天朋友有事，我因为闲逛到此，想歇歇脚。没想到这样巧遇！",
+      "en": "Nothing urgent—I'll linger here for a couple of days and depart around mid-month. Today my friend had some business, so I wandered over here idly to rest my feet. What an unexpected fortunate encounter!",
+      "ru": "Ничего срочного—я задержусь здесь на пару дней и отправлюсь примерно в середине месяца. Сегодня у моего друга были дела, поэтому я забрел сюда праздно, чтобы отдохнуть. Какая неожиданная удачная встреча!",
+      "ja": "さしたる急事なく、且く二日盤桓し、月半の時に起身せんとす。今日敝友事有り、我は閑歩して此に至り、且つ足を歇めんとす。期せずしてかくも巧遇せり！",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "type": "dialogue",
+      "original": "一面说，一面让雨村同席坐了。另整上酒来。二人闲谈慢饮，叙些别后之事。",
+      "zh_modern": "一边说着，一边让雨村同席坐下。另外摆上酒来。二人闲谈慢饮，叙说些别后的事情。",
+      "en": "As he spoke, he invited Yucun to sit at the same table. Fresh wine was brought. The two chatted leisurely as they drank, recounting what had happened since they last met.",
+      "ru": "Говоря это, он пригласил Юйцуня сесть за тот же стол. Принесли свежее вино. Двое непринужденно беседовали, попивая и рассказывая о том, что произошло с тех пор, как они виделись в последний раз.",
+      "ja": "一面に言いて、一面に雨村をして同席せしむ。別に酒を整え上ぐ。二人閑談し慢飲して、別後の事を叙す。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline after 叙些别后之事",
+          "original": "四句！若多说则累赘。",
+          "zh_modern": "四句！如果多说就累赘了。",
+          "en": "Four lines! Any more would be superfluous.",
+          "ru": "Четыре строки! Больше было бы лишним.",
+          "ja": "四句！若し多く言わば則ち累贅なり。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "dialogue",
+      "original": "雨村因问：近日都中可有新闻没有？",
+      "zh_modern": "雨村问道：近日京城可有什么新闻没有？",
+      "en": "Yucun inquired: Has there been any news from the capital lately?",
+      "ru": "Юйцунь спросил: Есть ли какие-нибудь новости из столицы?",
+      "ja": "雨村因りて問う：近日都中に新聞有るや無しや？",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "type": "dialogue",
+      "original": "子兴道：倒没有什么新闻，倒是老先生你贵姓宗家，【庚辰】雨村已失落中黄书中言：何先知那？着他下笔。由了一件小小的异事。",
+      "zh_modern": "子兴说：倒没有什么新闻，倒是老先生您贵姓的宗家，出了一件小小的异事。",
+      "en": "Zixing replied: There's no particular news, but in your honorable clan, sir, there has occurred a small curious incident.",
+      "ru": "Цзысин ответил: Никаких особых новостей нет, но в вашем почтенном клане, сударь, произошел небольшой курьезный случай.",
+      "ja": "子興道う：さして新聞なきも、却って老先生貴姓の宗家に、一件の小小たる異事有り。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline after 宗家",
+          "original": "雨村已失落中黄書中言：何先知那？著他下筆。",
+          "zh_modern": "雨村已经失意，书中说：怎么能预先知道呢？让他写下来。",
+          "en": "Yucun was already in decline; the text says: How could one know in advance? Let him write it down.",
+          "ru": "Юйцунь уже был в упадке; текст гласит: Как можно было знать заранее? Пусть он это запишет.",
+          "ja": "雨村已に失落す。書中に言う：何ぞ先に知らんや？彼をして筆を下さしむ。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "dialogue",
+      "original": "雨村笑道：弟族中无人在都，何谈及此？",
+      "zh_modern": "雨村笑道：弟弟家族中无人在京城，何以谈及此事？",
+      "en": "Yucun laughed: I have no family in the capital—why speak of this?",
+      "ru": "Юйцунь рассмеялся: У меня нет семьи в столице—зачем говорить об этом?",
+      "ja": "雨村笑いて道う：弟の族中に都に在る人なし、何ぞ此れに談及せんや？",
+      "commentary": []
+    },
+    {
+      "id": 6,
+      "type": "dialogue",
+      "original": "子兴道：你贵姓贾府中，可也不讲先生你贵姓的门第了？【庚辰】小人之心断，刚小舌之口看。雨村笑道：原来是他家。若论起来，寒族人丁却也不少，自东汉贾复以来，支派甚盛，各省皆有，【庚辰】此话极善，亦必须又谈一支，却是此地那。",
+      "zh_modern": "子兴说：您贵姓的贾府中，难道也不算您贵姓的门第了？雨村笑道：原来是他家。若论起来，寒族人丁却也不少，自东汉贾复以来，支派很盛，各省都有。",
+      "en": "Zixing said: In the Jia family of your honorable surname, does that not count as part of your clan? Yucun laughed: Ah, so it's that family. Speaking of which, though our clan is humble, there are quite a few descendants. Since Jia Fu of the Eastern Han, the branches have flourished greatly, with members in every province.",
+      "ru": "Цзысин сказал: В семье Цзя вашей почтенной фамилии, разве это не считается частью вашего клана? Юйцунь рассмеялся: А, так это та семья. Говоря об этом, хотя наш клан и скромен, потомков довольно много. Со времен Цзя Фу из Восточной Хань ветви процветали, с членами в каждой провинции.",
+      "ja": "子興道う：貴姓の賈府中、豈に先生の貴姓の門第を講ぜざらんや？雨村笑いて道う：原来彼の家なり。若し論起さば、寒族の人丁も却って少なからず、東漢の賈復より以来、支派甚だ盛んにして、各省皆有り。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline after 門第了",
+          "original": "小人之心斷，剛小舌之口看。",
+          "zh_modern": "小人之心断，刚小舌之口看。",
+          "en": "The petty mind judges, the sharp tongue observes.",
+          "ru": "Мелочный ум судит, острый язык наблюдает.",
+          "ja": "小人の心断じ、剛小の舌の口看る。"
+        },
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline after 各省皆有",
+          "original": "此話極善，亦必須又談一支，卻是此地那。",
+          "zh_modern": "此话极好，也必须又谈一支，却是此地的。",
+          "en": "This is excellent; one must also speak of another branch, which is in this place.",
+          "ru": "Это превосходно; нужно также говорить о другой ветви, которая находится здесь.",
+          "ja": "此の話極めて善し、亦た必ず又た一支を談ずべし、却って此の地なり。"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "冷子兴 (Leng Zixing) - A minor character who serves as the narrator for exposition about the Jia family background. His name suggests coldness and interest/prosperity.",
+    "荣国府 (Rongguo Mansion) - One of the two Jia family mansions in the capital, founded by Jia Daishan. The other is Ningguo Mansion.",
+    "贾复 (Jia Fu) - A historical general from the Eastern Han Dynasty, used here to establish the Jia family's ancient lineage.",
+    "The commentary notes the economical writing style - four lines suffice to establish the scene without being redundant."
+  ],
+  "research_notes": [
+    "This page is part of the exposition scene where Leng Zixing explains the Jia family history to Jia Yucun",
+    "The dialogue structure efficiently moves from pleasantries to the main narrative purpose"
+  ],
+  "characters_appearing": ["贾雨村", "冷子兴"],
+  "total_segments": 6,
+  "manuscript_sources_on_page": ["庚辰本"]
+}
