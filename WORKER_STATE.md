@@ -3,12 +3,12 @@
 ## Status
 - **Branch**: cursor/hong-lou-meng-translation-e575
 - **Short ID**: e575
-- **Heartbeat**: 1767405932
+- **Heartbeat**: 1767406008
 - **Status**: researching
 
 ## Current Work
-- **Claimed Page**: 10
-- **Started At**: 1767405932
+- **Claimed Page**: 11
+- **Started At**: 1767406008
 - **Current Step**: research
 
 ## Completed Pages
@@ -22,10 +22,11 @@
 | 7    | Front Matter | 1767405790 | 577fe222 | 27 |
 | 8    | Front Matter | 1767405877 | fc651cde | 27 |
 | 9    | Front Matter | 1767405932 | 4e5219f4 | 10 |
+| 10   | Fanli | 1767406008 | f4c0dc8f | 6 |
 
 ## Known Workers (Last Sync)
 | Short ID | Status | Claimed Page | Last Heartbeat |
 |----------|--------|--------------|----------------|
 
 ## Notes
-Completed TOC (Pages 6-9). Starting Page 10.
+Completed Page 10 (Start of Fanli). Starting Page 11 (Fanli Continued).

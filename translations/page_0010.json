@@ -1,0 +1,86 @@
+{
+  "page": 10,
+  "chapter": "Fanli",
+  "chapter_title": null,
+  "page_content_type": "fanli",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 10,
+      "type": "title",
+      "original": "脂砚斋重评石头记凡例",
+      "zh_modern": "脂砚斋重评石头记凡例",
+      "en": "General Principles of the Zhiyan Zhai Re-commented Story of the Stone",
+      "ru": "Основные принципы «Записок о камне» с повторными комментариями Чжияньчжая",
+      "ja": "脂硯斎重評石頭記凡例",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "pdf_page": 10,
+      "type": "prose",
+      "original": "《红楼梦》旨义 是书题名极[多，一曰《红楼]梦》，是总其全部之名也；又曰《风月宝鉴》，是戒妄动风月之情；又曰《石头记》，是自譬石头所记之事也。此三名皆书中曾已点睛矣。如宝玉作梦，梦中有曲，名曰《红楼梦十二支》，此则《红楼梦》之点睛。又如贾瑞病，跛道人持一镜来，上面即錾“风月宝鉴”四字，此则《风月宝鉴》之点睛。又如道人亲眼见石上大书一篇故事，则系石头所记之往来，此则《石头记》之点睛处。然此书又名曰《金陵十二钗》，审其名，则必系金陵十二女子也；然通部细搜检去，上中下女子岂止十二人哉！若云其中自有十二个，则又未尝指明白系某某，及至“红楼梦”一回中，亦曾翻出金陵十二钗之簿籍，又有十二支曲可考。",
+      "zh_modern": "《红楼梦》的主旨意义：这本书的题名极多，一叫《红楼梦》，是总括全书的名字；又叫《风月宝鉴》，是告诫不要妄动风月之情；又叫《石头记》，是自比石头所记的事。这三个名字在书中都曾经点明过。如宝玉做梦，梦中有曲子，名叫《红楼梦十二支》，这就是《红楼梦》的点睛之处。又如贾瑞病重，跛足道人拿一面镜子来，上面就刻着“风月宝鉴”四个字，这就是《风月宝鉴》的点睛之处。又如空空道人亲眼看见石头上写着一大篇故事，就是石头所记的往来事迹，这就是《石头记》的点睛之处。然而这本书又名叫《金陵十二钗》，审察这个名字，就必然是写金陵十二个女子的；但是通部书仔细搜检去，上中下三等的女子难道只有十二个人吗？如果说其中自然有那十二个，却又未曾指明白是某某，等到“红楼梦”这一回中，也曾翻出金陵十二钗的簿册，又有十二支曲子可以考证。",
+      "en": "Regarding the purport of 'Dream of the Red Chamber': This book has many titles. One is 'Dream of the Red Chamber,' which is the general title for the whole work. Another is 'Precious Mirror of Romance,' which is to warn against rashly stirring up romantic passions. Another is 'The Story of the Stone,' implying it is the record of events by the Stone itself. These three titles are all highlighted within the book. For instance, when Baoyu dreams, there are songs in the dream named 'Twelve Songs of the Red Chamber Dream'; this highlights 'Dream of the Red Chamber.' When Jia Rui is ill, a lame Daoist brings a mirror engraved with the four characters 'Precious Mirror of Romance'; this highlights 'Precious Mirror of Romance.' When the Daoist sees a long story written on a stone with his own eyes, it is the record of the Stone's experiences; this highlights 'The Story of the Stone.' However, this book is also named 'Twelve Beauties of Jinling.' Examining this name, it must concern twelve women of Jinling; yet searching through the whole book, are the women of upper, middle, and lower classes limited to only twelve? If one says there are specifically twelve among them, it is never explicitly pointed out who they are, until the 'Dream of the Red Chamber' chapter, where the registers of the Twelve Beauties of Jinling are opened, and there are twelve songs to verify it.",
+      "ru": "О смысле «Сна в красном тереме»: У этой книги много названий. Одно — «Сон в красном тереме», что является общим названием для всего произведения. Другое — «Драгоценное зеркало любви», призванное предостеречь от безрассудного возбуждения любовных страстей. Еще одно — «Записки о камне», подразумевающее, что это запись событий, сделанная самим Камнем. Эти три названия упоминаются в самой книге. Например, когда Баоюй видит сон, в нем звучат песни под названием «Двенадцать песен Сна в красном тереме»; это указывает на «Сон в красном тереме». Когда Цзя Жуй болен, хромой даос приносит зеркало с выгравированными четырьмя иероглифами «Драгоценное зеркало любви»; это указывает на «Драгоценное зеркало любви». Когда даос видит длинную историю, написанную на камне, это запись пережитого Камнем; это указывает на «Записки о камне». Однако эта книга также называется «Двенадцать красавиц из Цзиньлина». Судя по названию, речь должна идти о двенадцати женщинах из Цзиньлина; но если тщательно просмотреть всю книгу, разве женщин высшего, среднего и низшего круга всего двенадцать? Если сказать, что среди них есть именно двенадцать, то нигде прямо не указано, кто именно, пока в главе «Сон в красном тереме» не открываются списки Двенадцати красавиц из Цзиньлина и не приводятся двенадцать песен для подтверждения.",
+      "ja": "『紅楼夢』の旨義：この書の題名は極めて多い。一つに『紅楼夢』というのは、その全部を総括する名である。また『風月宝鑑』というのは、妄りに風月の情を動かすを戒めるものである。また『石頭記』というのは、自ら石頭に譬えて記した事とするものである。この三名は皆書中にて既に点睛（てんせい）されている。例えば宝玉が夢を見、夢中に曲があり、名を『紅楼夢十二支』というのは、即ち『紅楼夢』の点睛である。また賈瑞が病んだ時、跛足の道人が鏡を持って来たが、その上には即ち「風月宝鑑」の四字が刻まれており、これは即ち『風月宝鑑』の点睛である。また道人が親しく石上に大書された一篇の物語を見たのは、即ち石頭が記した往来であり、これは即ち『石頭記』の点睛の処である。然るに此の書はまた『金陵十二釵』とも名づけられている。その名を審らかにするに、必ずや金陵の十二人の女子に係わるものであろう。然るに全部を通じて細かく捜検してみると、上中下の女子は豈に十二人のみに止まろうか！若しその中に自ずから十二人が居ると云うなら、未だ嘗て某々であると明白に指し示されておらず、「紅楼夢」の一回に至って、亦た嘗て金陵十二釵の簿籍を翻し出し、又た十二支の曲有りて考うべきのみである。",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "pdf_page": 10,
+      "type": "prose",
+      "original": "书中凡写长安，在文人笔墨之间，则从古之称；凡愚夫妇、儿女子家常口角，则曰“中京”，是不欲着迹于方向也。盖天子之邦，亦当以中为尊，特避其东南西北四字样也。",
+      "zh_modern": "书中凡是写到长安，在文人的笔墨之间，就沿用古时的称呼；凡是愚昧夫妇、儿女之间家常口角时，就叫“中京”，这是不想在方位上留下痕迹。大概因为天子之邦，也应当以“中”为尊，特意避开东南西北四个字样。",
+      "en": "Whenever 'Chang'an' (the Capital) is written in the book, in literary contexts, it follows the ancient designation; in the daily squabbles of foolish couples and children, it is called 'Zhongjing' (Central Capital). This is to avoid specifying a direction. Since it is the domain of the Son of Heaven, it should be honored as the Center, specifically avoiding the four directions of East, West, South, and North.",
+      "ru": "Всякий раз, когда в книге упоминается Чанъань (столица), в литературном контексте используется древнее название; в обыденных перебранках глупых супругов и детей она называется «Чжунцзин» (Срединная столица). Это сделано, чтобы избежать указания направления. Поскольку это владения Сына Неба, их следует почитать как Центр, специально избегая упоминания четырех сторон света: востока, запада, юга и севера.",
+      "ja": "書中凡そ長安を書くに、文人の筆墨の間には、則ち古の称に従う。凡そ愚夫婦、児女子の家常の口角には、則ち「中京」と曰うは、是れ方向（ほうガク）に迹（あと）を着（つ）けんと欲せざるなり。蓋し天子の邦は、亦た当に中をもって尊となすべく、特にその東南西北の四字の様を避けるなり。",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "pdf_page": 10,
+      "type": "prose",
+      "original": "此书只是着意于闺中，故叙闺中之事切，略涉于外事者则简，不得谓其不均也。",
+      "zh_modern": "这本书只是着意描写闺阁之中，所以叙述闺阁之事很切近，略微涉及到外面事情的就简略，不能说它详略不均。",
+      "en": "This book is focused solely on the inner chambers; therefore, the narration of events in the chambers is detailed, while matters involving the outside world are brief. One cannot say it is unbalanced.",
+      "ru": "Эта книга сосредоточена исключительно на внутренних покоях; поэтому события в покоях описываются подробно, а дела внешнего мира — кратко. Нельзя сказать, что это неравномерно.",
+      "ja": "此の書は只だ意を閨中に着けるのみ、故に閨中の事を叙するは切にして、略ぼ外事に渉る者は則ち簡なり、その均しからずと謂うを得ざるなり。",
+      "commentary": []
+    },
+    {
+      "id": 5,
+      "pdf_page": 10,
+      "type": "prose",
+      "original": "此书不敢干涉朝廷，凡有不得不用朝政者，只略用一笔带出，盖实不敢以写儿女之笔墨唐突朝廷之上也，又不得谓其不备。",
+      "zh_modern": "这本书不敢干涉朝廷时政，凡有不得不用到朝政的地方，只略微用一笔带过，因为实在不敢用写儿女私情的笔墨去唐突朝廷大事，又不能说它不完备。",
+      "en": "This book dares not interfere with the Court. Whenever court politics must be mentioned, they are only briefly touched upon with a single stroke. This is because I truly dare not offend the Court with a pen used for writing of young lovers, yet one cannot say it is incomplete.",
+      "ru": "Эта книга не смеет вмешиваться в дела Двора. Всякий раз, когда приходится упоминать придворную политику, она лишь вскользь затрагивается одним штрихом. Ибо я поистине не смею оскорблять Двор пером, описывающим юных влюбленных, однако нельзя сказать, что описание неполно.",
+      "ja": "此の書は敢えて朝廷に干渉せず、凡そ朝政を用いざるを得ざる者有れば、只だ略ぼ一筆を用いて帯出し、蓋し実に児女を書くの筆墨をもって朝廷の上を唐突するを敢えてせざればなり、又たその備わらずと謂うを得ざるなり。",
+      "commentary": []
+    },
+    {
+      "id": 6,
+      "pdf_page": 10,
+      "type": "prose",
+      "original": "此书开卷第一回也，作者自云：因曾历过一番梦幻之后，故将真事隐去，而撰此《石头记》一书也。故曰“甄士隐梦幻识通灵”。但书中所记何事？又因何而撰是书哉？自云：今风尘碌碌，一事无成，忽念及当日所有之女子，一一细推了去，觉其行止见识皆出于我之上，何堂堂之须眉诚不若彼一干裙钗？实愧则有馀，悔则无益之大无可奈何之日也。",
+      "zh_modern": "这是本书开卷的第一回。作者自己说：因为曾经经历过一番梦幻般的往事，所以将真实的事情隐藏起来，而撰写了这部《石头记》。所以叫“甄士隐梦幻识通灵”。但书中所记的是什么事？又因为什么而写这部书呢？作者自己说：如今在风尘中忙忙碌碌，一事无成，忽然念及当日所有的女子，一一仔细推究起来，觉得她们的行为见识都超出我之上，为什么我堂堂男子汉竟然不如那一群女子？实在是愧疚有余，后悔也无益，真是无可奈何的日子。",
+      "en": "This is the first chapter of the opening of the book. The author himself says: Having once passed through a dreamlike experience, he concealed the true events and composed this book, 'The Story of the Stone.' Hence it is called 'Zhen Shiyin (True Matters Hidden) in a Dream Perceives the Spiritual Jade.' But what events are recorded in the book? And why was it written? He says: Now, busy and undistinguished in the dusty world, having accomplished nothing, I suddenly recalled the women I knew in those days. Examining them one by one, I felt that their conduct and understanding were all superior to mine. How is it that a dignified man like me is truly inferior to that group of women? Truly, my shame is excessive, and regret is useless; it is a day of utter helplessness.",
+      "ru": "Это первая глава начала книги. Автор сам говорит: пережив некогда череду грёз, он скрыл истинные события и написал эту книгу, «Записки о камне». Поэтому она называется «Чжэнь Шиинь (Истинные события скрыты) во сне постигает природу Волшебной Яшмы». Но какие события записаны в книге? И почему она была написана? Он говорит: Ныне, суетясь в пыльном мире и ничего не достигнув, я вдруг вспомнил женщин, которых знал в те дни. Перебирая их одну за другой, я почувствовал, что их поведение и понимание были выше моих. Как же так вышло, что я, достойный муж, поистине уступаю этой группе женщин? Поистине, стыд мой безмерен, а сожаления бесполезны; это дни полной беспомощности.",
+      "ja": "此の書は開巻第一回なり。作者自ら云う：因みに曾て一番の夢幻を歴過して後、故に真事を隠去し、而して此の『石頭記』一書を撰するなりと。故に「甄士隠夢幻に通霊を識る」と曰う。但だ書中の記する所は何事ぞ？又た何の因りて是の書を撰するか？自ら云う：今風塵に碌碌として、一事も成る無く、忽ち当日の所有の女子に念及び、一一細かに推し去るに、その行止見識皆我の上に出づるを覚ゆ、何ぞ堂堂たる須眉（男子）誠に彼の一干の裙釵（女子）に若かざるや？実に愧（は）づれば則ち余り有り、悔ゆれば則ち益無きの大いに奈何ともす無きの日なり。",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "The 'General Principles' (Fanli) explains the various titles of the book and the author's intent.",
+    "It clarifies that 'Zhongjing' and 'Chang'an' are used to avoid specific geographical/political identification.",
+    "The author expresses deep regret and admiration for the women he knew, establishing the book's focus on the 'inner chambers'."
+  ],
+  "research_notes": [
+    "This text corresponds to the Fanli found in the Jiaxu edition.",
+    "The bracketed text [多，一曰《红楼] indicates editorial reconstruction of missing characters."
+  ],
+  "characters_appearing": [],
+  "total_segments": 6,
+  "manuscript_sources_on_page": []
+}
