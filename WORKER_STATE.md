@@ -9,14 +9,14 @@
 ## Status
 - **Branch**: cursor/hong-lou-meng-translation-c2f1
 - **Short ID**: c2f1
-- **Heartbeat**: 1767409900
-- **Status**: idle
+- **Heartbeat**: 1767409850
+- **Status**: researching
 
 ## Current Work
-- **Claimed Page**: none
-- **Page Verified Available**: no
-- **Started At**: -
-- **Current Step**: -
+- **Claimed Page**: 26
+- **Page Verified Available**: yes
+- **Started At**: 1767409850
+- **Current Step**: research
 
 ## Completed Pages
 | Page | Chapter | Completed At | Hash | Segments |
