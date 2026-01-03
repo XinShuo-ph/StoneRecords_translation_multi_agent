@@ -3,14 +3,11 @@
 ## Status
 - **Branch**: cursor/hong-lou-meng-translation-0dac
 - **Short ID**: 0dac
-- **Heartbeat**: 1767410670
-- **Status**: translating
+- **Heartbeat**: 1767410728
+- **Status**: idle
 
 ## Current Work
-- **Claimed Page**: 40
-- **Page Verified Available**: yes
-- **Started At**: 1767410614
-- **Current Step**: research
+- **Claimed Page**: none
 
 ## Completed Pages
 | Page | Chapter | Completed At | Hash | Segments |
@@ -20,6 +17,7 @@
 | 32   | 第二回  | 1767410200   | 11902a69 | 6 |
 | 34   | 第二回  | 1767410390   | a96a8306 | 6 |
 | 38   | 第二回  | 1767410580   | 58dd4a6a | 6 |
+| 40   | 第二回  | 1767410728   | fbd10216 | 4 |
 
 ## Notes
-Working on page 40.
+Completed 6 pages total. Page 40 contains important Zhiyan Zhai general commentary on Chapter 2's structure.

@@ -1,0 +1,141 @@
+{
+  "page": 40,
+  "chapter": "第二回",
+  "chapter_title": {
+    "original": "贾夫人仙逝扬州城 冷子兴演说荣国府",
+    "zh_modern": "贾敏夫人在扬州城去世，冷子兴讲述荣国府的情况",
+    "en": "Lady Jia Dies in Yangzhou; Leng Zixing Describes the Rong-guo House",
+    "ru": "Госпожа Цзя умирает в Янчжоу; Лэн Цзысин рассказывает о доме Жунго",
+    "ja": "賈夫人、揚州城にて仙逝し、冷子興、栄国府を演説す"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "type": "dialogue",
+      "original": "「邪也罢，正也罢，只顾算别人家的帐，你也吃一杯酒才好。」雨村道：「正是，只顾说话，竟多吃了几杯。」子兴笑道：「说着别人家的闲话，正好下酒，即多几杯何妨。」雨村向窗外看。道：「天也晚了，仔细关了城。我们慢慢进城再谈，未为不可。」于是，二人起身，算还酒帐。",
+      "zh_modern": "「邪也好，正也好，只顾算别人家的账，你也喝一杯酒才好。」雨村道：「正是，只顾说话，竟然多喝了几杯。」子兴笑道：「说着别人家的闲话，正好下酒，就算多喝几杯又何妨。」雨村向窗外看了看，说道：「天也晚了，小心城门关了。我们慢慢进城再谈，也未尝不可。」于是，二人起身，结了酒帐。",
+      "en": "'Evil or righteous, you keep tallying others' accounts—you should have a cup yourself.' Yucun said: 'Indeed, so absorbed in conversation, I've drunk several more cups.' Zixing laughed: 'Gossiping about others goes well with wine—what harm in a few more cups?' Yucun looked out the window and said: 'It's getting late—be careful the city gates don't close. We can continue our talk slowly as we enter the city, if you wish.' Thereupon, the two rose and settled the wine bill.",
+      "ru": "«Злой или праведный, ты всё подсчитываешь счета других — выпей и сам чашку.» Юйцунь сказал: «Действительно, так увлёкся разговором, что выпил несколько лишних чашек.» Цзысин рассмеялся: «Сплетничать о других хорошо под вино — что плохого в нескольких лишних чашках?» Юйцунь посмотрел в окно и сказал: «Уже поздно — будь осторожен, чтобы городские ворота не закрылись. Мы можем продолжить разговор неспешно, входя в город, если хочешь.» После этого оба встали и расплатились за вино.",
+      "ja": "「邪なるも罷み、正なるも罷み、只別人の家の帳を算うるを顧み、汝も一杯の酒を吃するが好し。」雨村道う：「正に是れ、只話を顧みて、竟に幾杯を多く吃せり。」子興笑いて道う：「別人の家の閑話を説きつつ、正に好く下酒す、即ち幾杯を多くするも何の妨げかあらん。」雨村窓外に向かいて看る。道う：「天も晩なり、仔細に城を関せり。我等慢慢に城に進みて再び談ぜん、未だ不可と為さず。」是に於て、二人身を起こし、酒帳を算還す。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂砚斋",
+          "position": "inline, after 只顾算别人家的帐",
+          "original": "笔转如流，毫无沾滞。",
+          "zh_modern": "笔转流畅，毫无滞涩。",
+          "en": "The brush turns like flowing water, without any stagnation.",
+          "ru": "Кисть течёт как вода, без какого-либо застоя.",
+          "ja": "筆転じて流の如く、毫も沾滞なし。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 正好下酒",
+          "original": "盖云此一段话亦为世人茶酒之笑谈耳。",
+          "zh_modern": "意思是这一段话也不过是世人茶酒之间的闲谈笑话罢了。",
+          "en": "This means this passage is merely idle chatter for people over tea and wine.",
+          "ru": "Это означает, что этот отрывок — лишь праздная болтовня людей за чаем и вином.",
+          "ja": "蓋しこの一段の話も亦世人の茶酒の笑談に為すのみと云う。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 雨村向窗外看",
+          "original": "画。",
+          "zh_modern": "如画。",
+          "en": "Like a painting.",
+          "ru": "Как картина.",
+          "ja": "画なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 算还酒帐",
+          "original": "不得谓此处收得索然，盖原非正文也。",
+          "zh_modern": "不要说这里收得索然无味，因为这本来就不是正文。",
+          "en": "Don't say this ending is bland—for this was originally not main text.",
+          "ru": "Не говорите, что это окончание скучное — ведь изначально это не был основной текст.",
+          "ja": "此処の収め得ること索然なりと謂うべからず、蓋し原より正文にあらざるなり。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "方欲走时，又听得后面有人叫道：「雨村兄，恭喜了！特来报个喜信的。」雨村忙回头看时——",
+      "zh_modern": "正要走时，又听到后面有人叫道：「雨村兄，恭喜了！特来报个喜讯的。」雨村忙回头看时——",
+      "en": "Just as they were about to leave, they heard someone calling from behind: 'Brother Yucun, congratulations! I've come specially to bring you good news.' Yucun hurriedly turned to look—",
+      "ru": "Как раз когда они собирались уходить, они услышали, как кто-то позади кричит: «Брат Юйцунь, поздравляю! Я пришёл специально принести вам хорошие новости.» Юйцунь поспешно обернулся—",
+      "ja": "方に走らんと欲する時、又後面に人の叫ぶを聴く：「雨村兄、恭喜せり！特に来りて喜信を報ぜんとす。」雨村忙しく頭を回して看る時——",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 特来报个喜信的",
+          "original": "此等套头，亦不得不用。",
+          "zh_modern": "这种开场白套话，也是不得不用的。",
+          "en": "Such conventional phrases are unavoidable.",
+          "ru": "Такие условные фразы неизбежны.",
+          "ja": "此等の套頭、亦用いざるを得ず。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 雨村忙回头看时",
+          "original": "笑语言太烦，令人不耐。古人云「惜墨如金」，看此则视墨如土矣。虽演至千万回亦可也。",
+          "zh_modern": "笑谈的话太繁杂，令人不耐烦。古人说「惜墨如金」，看此处则视墨如土矣。虽然可以演绎至千万回也可以。",
+          "en": "The laughing talk is too tedious, making one impatient. The ancients said 'treasure ink like gold'—but here ink is treated like dirt. Though it could be extended to ten thousand chapters.",
+          "ru": "Смеющаяся болтовня слишком утомительна, вызывая нетерпение. Древние говорили «береги тушь как золото» — но здесь тушь как грязь. Хотя это можно было бы растянуть на десять тысяч глав.",
+          "ja": "笑語言太だ煩し、人をして耐えざらしむ。古人云う「惜墨如金」と、此を看れば則ち墨を視ること土の如し。演至千万回と雖も亦可なり。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "脂砚斋总评：先自写幸遇之情于前，而叙借口谈幻境之情于后。世上不平事，道路口如碑。虽作者之苦心，亦人情之必有。雨村之遇娇杏，是此文之总冒，故在前。冷子兴之谈，是事迹之总冒，故叙写于后。冷暖世情，比比如画。有情原比无情苦，生死相关总在心。也是前缘天作合，何妨黛玉泪淋淋。",
+      "zh_modern": "脂砚斋总评：先写幸遇之情于前，而叙述借口谈论幻境之情于后。世上不平的事，道路口如碑刻一样。虽是作者的苦心，也是人之常情必有的。雨村遇见娇杏，是此文的总开场，所以放在前面。冷子兴的谈话，是事迹的总开场，所以叙述在后面。冷暖世情，处处如画。有情原比无情苦，生死相关总在心。这也是前缘天作合，何妨黛玉泪淋淋。",
+      "en": "Zhiyan Zhai General Commentary: First writing of fortunate encounters comes before, while the narrative of using conversation to discuss illusory realms comes after. Injustices in the world stand at crossroads like stone tablets. Though this is the author's painstaking effort, it is also human nature. Yucun's meeting with Jiaoxing serves as the general preface to this text, hence placed first. Leng Zixing's discourse serves as the general preface to the events, hence narrated afterward. The warmth and coldness of worldly sentiments are everywhere like paintings. Having feeling is more bitter than having none; life and death are always linked in the heart. This too is heaven's arrangement of predestined bonds—what matter if Daiyu's tears flow unceasingly.",
+      "ru": "Общий комментарий Чжияньчжая: Сначала написано о счастливых встречах, а затем повествование о разговоре об иллюзорных мирах. Несправедливости в мире стоят на перекрёстках как каменные скрижали. Хотя это старания автора, это также человеческая природа. Встреча Юйцуня с Цзяосин служит общим предисловием к этому тексту, поэтому размещена первой. Рассказ Лэн Цзысина служит общим предисловием к событиям, поэтому излагается после. Тепло и холод мирских чувств повсюду как картины. Иметь чувства горше, чем не иметь; жизнь и смерть всегда связаны в сердце. Это тоже небесное устроение предначертанных уз — что за беда, если слёзы Дайюй текут непрестанно.",
+      "ja": "脂硯斎総評：先ず自ら幸遇の情を前に写し、而して借口幻境を談ずるの情を後に叙す。世上の不平事、道路口碑の如し。作者の苦心と雖も、亦人情の必ず有る所なり。雨村の娇杏に遇うは、是れ此の文の総冒にして、故に前に在り。冷子興の談は、是れ事迹の総冒にして、故に後に叙写す。冷暖の世情、比比画の如し。有情原より無情より苦し、生死相関して総て心に在り。也た是れ前縁天の作合せ、何ぞ妨げん黛玉涙淋淋たるを。",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "①「次年」，除戚、舒本作「后来」外，诸本均同。从后文看，元春和宝玉的年龄相差显然不只一岁。",
+      "zh_modern": "①「次年」，除了戚序本、舒序本写作「后来」之外，各本均相同。从后文来看，元春和宝玉的年龄相差显然不只一岁。",
+      "en": "①'The next year': except for the Qi-preface and Shu-preface manuscripts which write 'later,' all manuscripts agree. Judging from the later text, the age difference between Yuanchun and Baoyu is clearly more than one year.",
+      "ru": "①«На следующий год»: за исключением рукописей Ци и Шу, которые пишут «позже», все рукописи согласны. Судя по последующему тексту, разница в возрасте между Юаньчунь и Баоюем явно больше одного года.",
+      "ja": "①「次年」、戚、舒本の「後来」と作す外を除き、諸本均同なり。後文より看れば、元春と宝玉の年齢相差は顕然と只一歳ならず。",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "This page concludes the drinking scene between Yucun and Leng Zixing",
+    "The 总评 (general commentary) by Zhiyan Zhai explains the structural purpose of Chapter 2",
+    "「雨村之遇娇杏」refers to Yucun's earlier encounter with the maid Jiaoxing, establishing his character",
+    "「冷子兴之谈」(Leng Zixing's discourse) introduces the Jia family, the main subject of the novel",
+    "The commentary「有情原比无情苦」(having feeling is more bitter than having none) encapsulates the novel's theme",
+    "The reference to Daiyu's tears (黛玉泪淋淋) connects to her destiny as the 'Crimson Pearl debtor of tears'",
+    "The editorial note about 元春 and 宝玉's age difference points to textual inconsistencies"
+  ],
+  "research_notes": [
+    "The 总评 reveals the author's conscious structural planning - using Yucun as a frame narrator",
+    "「冷暖世情」(warmth and coldness of worldly sentiments) is a recurring theme in Chinese fiction",
+    "The manuscript variants (戚序本、舒序本 vs others) show textual transmission complexity",
+    "Jiaoxing (娇杏) is a minor character who later becomes Yucun's concubine - her name means 'fortunate'"
+  ],
+  "characters_appearing": [
+    "贾雨村 (Jia Yucun)",
+    "冷子兴 (Leng Zixing)",
+    "娇杏 (Jiaoxing) - mentioned",
+    "林黛玉 (Lin Daiyu) - mentioned in commentary",
+    "贾元春 (Jia Yuanchun) - mentioned in note",
+    "贾宝玉 (Jia Baoyu) - mentioned in note"
+  ],
+  "total_segments": 4,
+  "manuscript_sources_on_page": ["甲戌本", "脂砚斋", "戚序本", "舒序本"]
+}
