@@ -10,13 +10,13 @@
 - **Branch**: cursor/hong-lou-meng-translation-c2f1
 - **Short ID**: c2f1
 - **Heartbeat**: 1767411019
-- **Status**: researching
+- **Status**: idle
 
 ## Current Work
-- **Claimed Page**: 34
-- **Page Verified Available**: yes
-- **Started At**: 1767410180
-- **Current Step**: research
+- **Claimed Page**: none
+- **Page Verified Available**: no
+- **Started At**: -
+- **Current Step**: -
 
 ## Completed Pages
 | Page | Chapter | Completed At | Hash | Segments |
@@ -24,6 +24,7 @@
 | 21 | 第一回 | 1767409900 | 6336447f | 6 |
 | 26 | 第一回 | 1767410100 | cf8ba09e | 8 |
 | 30 | 第二回 | 1767410200 | 5c0cd5c7 | 3 |
+| 34 | 第二回 | 1767410900 | 81efb2d7 | 5 |
 
 ## Known Workers (Last Sync - Auto-Updated by Daemon)
 | Short ID | Status | Claimed Page | Completed | Last Heartbeat |

@@ -1,0 +1,200 @@
+{
+  "page": 34,
+  "chapter": "第二回",
+  "chapter_title": {
+    "original": "贾夫人仙逝扬州城 冷子兴演说荣国府",
+    "zh_modern": "贾夫人在扬州城仙逝，冷子兴演说荣国府",
+    "en": "Lady Jia Passes Away in Yangzhou City; Leng Zixing Discusses the Rong Mansion",
+    "ru": "Госпожа Цзя скончалась в городе Янчжоу; Лэн Цзысин рассказывает о поместье Жун",
+    "ja": "賈夫人揚州城に仙逝し、冷子興栄国府を演説す"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 34,
+      "type": "prose",
+      "original": "无甚紧事，且盘桓两日，待月半时也就起身了。今日敝友有事，我因闲步至此，且歇歇脚。不期这样巧遇！\"一面说，一面让雨村同席坐了，另整上酒肴来。二人闲谈慢饮，叙些别后之事。【喻问】若多波则买赍，【喻问】又揭一笔。",
+      "zh_modern": "没有什么紧要的事，暂且盘桓两天，等到月半时也就起身了。今天我朋友有事，我因为闲着就走到这里，想歇歇脚。没想到这样巧遇！\"一面说着，一面让雨村同席坐下，另外重新摆上酒菜来。两人闲谈慢饮，叙说些分别后的事情。",
+      "en": "There's nothing urgent. I'm just staying here for a couple of days, and will set off around mid-month. Today my friend has business, so I strolled here idly to rest my feet. What an unexpected coincidence!' While speaking, he invited Yucun to sit at the same table, and fresh food and wine were brought. The two chatted leisurely over drinks, catching up on events since their parting.",
+      "ru": "Нет ничего срочного. Я просто остаюсь здесь на пару дней и отправлюсь в путь около середины месяца. Сегодня у моего друга дела, поэтому я праздно прогулялся сюда, чтобы отдохнуть. Какое неожиданное совпадение!» Говоря это, он пригласил Юйцуня сесть за тот же стол, и принесли свежую еду и вино. Двое непринуждённо беседовали за напитками, рассказывая о событиях после их расставания.",
+      "ja": "甚だ緊なる事無く、且つ盤桓すること両日、月半の時を待ちて也た起身せん。今日敝友事有り、我閑に因りて歩み此に至り、且つ歇歇脚せん。期せずしてこの様に巧遇す！」一面に説き、一面に雨村をして同席に坐せしめ、另に整えて酒肴を上げ来たる。二人閑談慢飲し、些か別後の事を叙す。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "喻問本",
+          "position": "inline after 之事",
+          "original": "若多波則買賍",
+          "zh_modern": "若多波折则需买通",
+          "en": "If there are many twists, bribes are needed",
+          "ru": "Если много поворотов, нужны взятки",
+          "ja": "若し多く波すれば則ち賍を買う"
+        },
+        {
+          "type": "夹批",
+          "source": "喻問本",
+          "position": "after segment",
+          "original": "又揭一筆。",
+          "zh_modern": "又揭开一笔。",
+          "en": "Another stroke revealed.",
+          "ru": "Ещё один штрих раскрыт.",
+          "ja": "又た一筆を揭ぐ。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pdf_page": 34,
+      "type": "dialogue",
+      "original": "雨村因问：\"近日都中可有新闻没有？\"【喻问】又笑矣，赤常问香之文，子兴道：\"倒没有什么新闻，倒是老先生你贵同宗家，【喻问】问有已是紫薄中美，何又此那？看他下文。出了一件小小的异事。\"雨村笑道：\"弟族中无人在都，何谈及此？\"子兴笑道：\"你们同姓，岂非同宗一族？\"雨村问是谁家。",
+      "zh_modern": "雨村问道：\"近日都城中可有什么新闻没有？\"子兴道：\"倒没有什么新闻，倒是老先生你的贵同宗家，出了一件小小的奇异事。\"雨村笑道：\"弟族中无人在都，何必谈及此事？\"子兴笑道：\"你们同姓，难道不是同宗一族？\"雨村问是哪一家。",
+      "en": "Yucun asked, 'Has there been any news in the capital recently?' Zixing replied, 'There's no particular news, but in your honorable clan sharing the same surname, a small strange matter has occurred.' Yucun laughed, 'My clan has no one in the capital, why speak of such things?' Zixing smiled, 'You share the same surname—are you not of the same clan?' Yucun asked which family.",
+      "ru": "Юйцунь спросил: «Были ли какие-нибудь новости в столице в последнее время?» Цзысин ответил: «Никаких особых новостей нет, но в вашем почтенном клане с той же фамилией произошло небольшое странное дело.» Юйцунь рассмеялся: «В моём клане нет никого в столице, зачем говорить о таких вещах?» Цзысин улыбнулся: «Вы носите ту же фамилию — разве вы не из того же клана?» Юйцунь спросил, о какой семье речь.",
+      "ja": "雨村因りて問う：「近日都中可しく新聞有りや無しや？」子興道う：「倒りて何の新聞も無し、倒りて是れ老先生你の貴同宗の家、小小の異事を出だせり。」雨村笑いて道う：「弟族中人都に在る無し、何ぞ此に談及するや？」子興笑いて道う：「你ら同姓、豈に同宗一族に非ざるや？」雨村問う是れ誰の家なるを。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "喻問本",
+          "position": "inline after 没有",
+          "original": "又笑矣，赤常問香之文，",
+          "zh_modern": "又可笑矣，这是常问吉凶之文，",
+          "en": "Laughable again, this is the common way of asking about fortune and misfortune,",
+          "ru": "Снова смешно, это обычный способ спрашивать о судьбе и несчастье,",
+          "ja": "又た笑う、赤た常に香を問うの文，"
+        },
+        {
+          "type": "夹批",
+          "source": "喻問本",
+          "position": "inline after 贵同宗家",
+          "original": "問有已是紫薄中美，何又此那？看他下文。",
+          "zh_modern": "问有已经是紫薄中的美事，为何又提此事？看他下文。",
+          "en": "Asking about what is already a delightful matter among the thin and purple, why mention it again? See what follows.",
+          "ru": "Спрашивая о том, что уже является восхитительным делом среди тонкого и пурпурного, зачем упоминать это снова? Посмотрим, что последует.",
+          "ja": "問う有り已に是れ紫薄中の美、何ぞ又た此那ぞ？彼の下文を看よ。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "pdf_page": 34,
+      "type": "dialogue",
+      "original": "子兴道：\"荣国府贾府中，可也不冷落了先生的门楣了？\"【喻问】小人之心悸，闲小子之口角。雨村笑道：\"原来是他家。若论起来，寒族人丁却不少，自东汉贾复以来，支派繁盛，各省皆有，【喻问】此话最赍，赤必谓是舟府人语。谁能逐细考查？若论荣耀富贵，但他那荣耀，至今破落生疏认了。\"子兴叹道：\"老先生休如此说，如今的荣贾两门，也都萧疏了，不比先时的光景。\"【喻问】又得说到，可畏若老人之寫高之文也世也。",
+      "zh_modern": "子兴道：\"荣国府贾府中，可也不会冷落了先生您的门楣吧？\"雨村笑道：\"原来是他家。若论起来，寒族人丁却不少，自东汉贾复以来，支派繁盛，各省皆有，谁能一一细查？若论荣耀富贵，只有他那荣国府，至今还没有破落疏远。\"子兴叹道：\"老先生不要这样说，如今的荣贾两府，也都萧条疏落了，不比先前的光景。\"",
+      "en": "Zixing said, 'The Rong Mansion of the Jia family—surely that doesn't slight your family lineage, sir?' Yucun laughed, 'So it's that family. Speaking of it, our humble clan has quite a few members. Since Jia Fu of the Eastern Han, the branches have flourished across all provinces. Who could investigate each one in detail? As for glory and wealth, only that Rong Mansion has not yet fallen into decline and obscurity.' Zixing sighed, 'Sir, don't speak that way. Now both the Rong and Ning mansions have become desolate and sparse, not what they were in former days.'",
+      "ru": "Цзысин сказал: «Поместье Жун семьи Цзя — конечно, это не умаляет вашу семейную линию, господин?» Юйцунь рассмеялся: «Так это та семья. Говоря об этом, наш скромный клан имеет довольно много членов. Со времён Цзя Фу из Восточной Хань ветви процветали во всех провинциях. Кто мог бы детально исследовать каждую? Что касается славы и богатства, только это поместье Жун ещё не пришло в упадок и безвестность.» Цзысин вздохнул: «Господин, не говорите так. Теперь оба поместья, Жун и Нин, стали пустынными и редкими, не то, что были в прежние дни.»",
+      "ja": "子興道う：「栄国府賈府の中、可しくや也た先生の門楣を冷落せざるや？」雨村笑いて道う：「原来是れ彼の家。若し論じ起こさば、寒族人丁却りて少なからず、東漢の賈復より以来、支派繁盛し、各省皆有り、誰か能く逐いて細かに考査せんや？若し栄耀富貴を論ぜば、但だ彼の荣耀、今に至りて破落生疏し認めたり。」子興歎じて道う：「老先生此の如く休せよ説くを、如今の栄賈両門、也た都萧疏し、先時の光景に比せず。」",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "喻問本",
+          "position": "inline after 门楣了",
+          "original": "小人之心悸，閑小子之口角。",
+          "zh_modern": "小人之心悸动，闲小子之口角。",
+          "en": "The petty person's heart palpitates, idle youth's verbal sparring.",
+          "ru": "Сердце мелкого человека трепещет, словесные баталии праздной молодёжи.",
+          "ja": "小人の心悸え、閑小子の口角。"
+        },
+        {
+          "type": "夹批",
+          "source": "喻問本",
+          "position": "inline after 各省皆有",
+          "original": "此話最賍，赤必謂是舟府人語。",
+          "zh_modern": "此话最值钱，这必定是贾府中人的话语。",
+          "en": "These words are most valuable, surely the speech of someone from the Jia mansion.",
+          "ru": "Эти слова самые ценные, несомненно речь кого-то из особняка Цзя.",
+          "ja": "此の話最も賍、赤た必ず謂う是れ舟府の人の語なりと。"
+        },
+        {
+          "type": "夹批",
+          "source": "喻問本",
+          "position": "inline after 光景",
+          "original": "又得說到，可畏若老人之寫高之文也世也。",
+          "zh_modern": "又得说到，可畏如老人之写高妙之文章。",
+          "en": "Reaching this point again, fearsome like an old person writing lofty essays.",
+          "ru": "Снова достигая этой точки, внушающе, как старец, пишущий возвышенные эссе.",
+          "ja": "又た說くを得、可畏きこと老人の高きを寫す文の也世の若し。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "pdf_page": 34,
+      "type": "dialogue",
+      "original": "雨村道：\"去岁我到金陵地界，因欲游览六朝遗迹，那日进了石头城，【喻问】点睛时妙，从他老宅门前经过，街东是宁国府，街西是荣国府，二宅相连，竟将大半条街占了。大门前虽冷落无人，【喻问】写出写山色也，隔着围墙一望，里面厅殿楼阁，也还都峥嵘轩峻，就是后【喻问】\"后\"字何不直用\"西\"字？【喻问】点先生做湖，做不做用\"西\"字。一带花园子里，树木山石，也还都有蓊蔚洇润之气，那里像个衰败之家？\"",
+      "zh_modern": "雨村道：\"去年我到了金陵地界，因为想游览六朝遗迹，那天进了石头城，从他们老宅门前经过，街东是宁国府，街西是荣国府，两宅相连，竟占了大半条街。大门前虽然冷落无人，隔着围墙一望，里面厅堂楼阁，也还都峥嵘高峻，就是后面一带花园子里，树木山石，也还都有茂盛润泽之气，哪里像个衰败之家？\"",
+      "en": "Yucun said, 'Last year when I reached the Jinling area, wanting to tour the relics of the Six Dynasties, that day I entered Stone City and passed by their ancestral home. To the east of the street was the Ning Mansion, to the west the Rong Mansion—the two estates connected, occupying most of the street. Though the front gates were deserted with no one about, looking over the surrounding walls, inside the halls and pavilions still stood lofty and imposing. Even in the garden area behind, the trees and rocks still possessed an air of luxuriant vitality. Where was any sign of a declining household?'",
+      "ru": "Юйцунь сказал: «В прошлом году, когда я добрался до района Цзиньлина, желая осмотреть реликвии Шести династий, в тот день я вошёл в Каменный город и прошёл мимо их родового дома. К востоку от улицы было поместье Нин, к западу — поместье Жун — два поместья соединены, занимая большую часть улицы. Хотя передние ворота были пустынны, и никого не было, глядя через окружающие стены, внутри залы и павильоны всё ещё стояли величественные и внушительные. Даже в садовой зоне позади деревья и камни всё ещё обладали атмосферой пышной жизненности. Где были какие-либо признаки приходящего в упадок дома?»",
+      "ja": "雨村道う：「去歳我金陵の地界に到り、六朝の遺跡を遊覧せんと欲するに因り、その日石頭城に進み入り、彼の老宅の門前より経過し、街東は寧国府、街西は栄国府、二宅相い連なり、竟に大半条の街を占めたり。大門前冷落無人なりと雖も、圍墻を隔てて一望するに、裏面の廳殿樓閣、也た還た都峥嵘軒峻、就ち是れ後の一帯の花園子裏、樹木山石、也た還た都蓊蔚洇潤の気有り、那裏か個の衰敗の家の若くや？」",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "喻問本",
+          "position": "inline after 石头城",
+          "original": "點睛時妙",
+          "zh_modern": "点睛之妙",
+          "en": "The brilliant touch of bringing to life",
+          "ru": "Блестящий штрих оживления",
+          "ja": "點睛の時妙"
+        },
+        {
+          "type": "夹批",
+          "source": "喻問本",
+          "position": "inline after 无人",
+          "original": "寫出寫山色也",
+          "zh_modern": "写出了山色",
+          "en": "Depicts the mountain scenery",
+          "ru": "Изображает горный пейзаж",
+          "ja": "寫し出だす寫山色也"
+        },
+        {
+          "type": "夹批",
+          "source": "喻問本",
+          "position": "inline after 后",
+          "original": "\"後\"字何不直用\"西\"字？",
+          "zh_modern": "\"后\"字为何不直接用\"西\"字？",
+          "en": "Why not directly use the character \"west\" instead of \"behind\"?",
+          "ru": "Почему не использовать непосредственно иероглиф «запад» вместо «позади»?",
+          "ja": "「後」字何ぞ直ちに「西」字を用いざるや？"
+        },
+        {
+          "type": "夹批",
+          "source": "喻問本",
+          "position": "after previous",
+          "original": "點先生做湖，做不做用\"西\"字。",
+          "zh_modern": "点明先生作序，做或不做都用\"西\"字。",
+          "en": "Pointing out that the master writes a preface, whether done or not uses the character \"west.\"",
+          "ru": "Указывая, что мастер пишет предисловие, сделано или нет, использует иероглиф «запад».",
+          "ja": "點じて先生湖を做し、做するも做せざるも「西」字を用う。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "pdf_page": 34,
+      "type": "dialogue",
+      "original": "冷子兴笑道：\"亏你是进士出身，原来不通！古人有云：'百足之虫，死而不僵。'如今虽说不及先年那样兴盛，较之平常仕宦之家，到底气象不同。如今生齿日繁，事务日盛，主仆上下，安富尊荣者尽多，",
+      "zh_modern": "冷子兴笑道：\"亏你还是进士出身，原来不通达！古人有句话说：'百足之虫，死而不僵。'如今虽说不及先年那样兴盛，比起平常官宦之家，到底气象不同。如今人口日渐繁多，事务日益繁盛，主仆上下，安于富贵尊荣的人很多，",
+      "en": "Leng Zixing laughed, 'For all that you're a presented scholar, you really don't understand! The ancients had a saying: \"A centipede, though dead, does not fall over.\" Though now it's not as prosperous as in former years, compared to ordinary official households, the atmosphere is still different. Now the population grows daily, affairs multiply daily, and among masters and servants, high and low, many live in comfort enjoying wealth and honor.",
+      "ru": "Лэн Цзысин рассмеялся: «При всём том, что вы учёный-цзиньши, вы действительно не понимаете! У древних была поговорка: «Сороконожка, хоть и мертва, не падает.» Хотя сейчас это не так процветает, как в прежние годы, по сравнению с обычными чиновничьими домами атмосфера всё же другая. Теперь население растёт с каждым днём, дела множатся с каждым днём, и среди хозяев и слуг, высоких и низких, многие живут в комфорте, наслаждаясь богатством и почётом.",
+      "ja": "冷子興笑いて道う：「虧きこと你は進士出身なるを、原来不通なり！古人云う有り：『百足の蟲、死して僵れず。』如今說うと雖も先年の様なる興盛に及ばず、平常の仕宦の家に較ぶれば、到底気象不同なり。如今生齒日に繁し、事務日に盛んなり、主僕上下、安富尊栄なる者尽く多し、",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "This page features Leng Zixing's (冷子兴) famous exposition about the Jia family to Jia Yucun",
+    "The phrase '百足之虫，死而不僵' (centipede doesn't fall when dead) is a classic Chinese idiom about resilient decline",
+    "The contrast between external appearance and internal reality foreshadows the novel's central themes",
+    "Stone City (石头城) is an ancient name for Nanjing/Jinling, where the story is set",
+    "The architectural description establishes the grandeur that will later contrast with moral decay",
+    "This exposition scene is a key narrative device - explaining family background through dialogue"
+  ],
+  "research_notes": [
+    "Consulted scholarly analysis of Leng Zixing's role as narrator-expositor",
+    "Reviewed historical context of Qing Dynasty aristocratic decline",
+    "Studied the symbolism of the 'centipede' metaphor in Chinese literature",
+    "Examined the significance of Jinling/Stone City as the novel's setting"
+  ],
+  "characters_appearing": ["贾雨村", "冷子兴"],
+  "total_segments": 5,
+  "manuscript_sources_on_page": ["喻問本"]
+}
