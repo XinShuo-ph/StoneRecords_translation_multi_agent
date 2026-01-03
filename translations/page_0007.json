@@ -1,0 +1,312 @@
+{
+  "page": 7,
+  "chapter": "Front Matter",
+  "chapter_title": null,
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 7,
+      "type": "toc_entry",
+      "original": "第二十一回 贤袭人娇嗔箴宝玉 俏平儿软语救贾琏",
+      "zh_modern": "第二十一回 贤袭人娇嗔箴宝玉 俏平儿软语救贾琏",
+      "en": "Chapter 21: A Worthy Xiren Admonishes Baoyu with Tender Scolding; A Clever Ping'er Rescues Jia Lian with Soft Words",
+      "ru": "Глава 21: Достойная Сижэнь наставляет Баоюя нежным укором; Умная Пин-эр спасает Цзя Ляня мягкими речами",
+      "ja": "第二十一回 賢襲人嬌嗔して宝玉を箴（いさ）め 俏平児軟語して賈璉を救う",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "pdf_page": 7,
+      "type": "toc_entry",
+      "original": "第二十二回 听曲文宝玉悟禅机 制灯谜贾政悲谶语",
+      "zh_modern": "第二十二回 听曲文宝玉悟禅机 制灯谜贾政悲谶语",
+      "en": "Chapter 22: Listening to Operatic Lyrics, Baoyu Ponders Zen Mysteries; Composing Lantern Riddles, Jia Zheng Laments Prophetic Words",
+      "ru": "Глава 22: Слушая оперные арии, Баоюй постигает дзенские тайны; Составляя загадки для фонарей, Цзя Чжэн скорбит о пророческих словах",
+      "ja": "第二十二回 曲文を聴いて宝玉禅機を悟り 灯謎を制して賈政讖語を悲しむ",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "pdf_page": 7,
+      "type": "toc_entry",
+      "original": "第二十三回 西厢记妙词通戏语 牡丹亭艳曲警芳心",
+      "zh_modern": "第二十三回 西厢记妙词通戏语 牡丹亭艳曲警芳心",
+      "en": "Chapter 23: With Witty Verses from 'Western Chamber,' Playful Words Are Exchanged; With Romantic Airs from 'Peony Pavilion,' A Tender Heart Is Awakened",
+      "ru": "Глава 23: Изящными строками из «Западного флигеля» обмениваются шутливыми речами; Любовными ариями из «Пионовой беседки» пробуждается нежное сердце",
+      "ja": "第二十三回 西廂記の妙詞戯語を通じ 牡丹亭の艶曲芳心を警（いまし）む",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "pdf_page": 7,
+      "type": "toc_entry",
+      "original": "第二十四回 醉金刚轻财尚义侠 痴女儿遗帕惹相思",
+      "zh_modern": "第二十四回 醉金刚轻财尚义侠 痴女儿遗帕惹相思",
+      "en": "Chapter 24: The Drunken Diamond Ignores Wealth to Value Chivalry; The Lovesick Maid Drops a Handkerchief to Invite Longing",
+      "ru": "Глава 24: Пьяный Алмаз пренебрегает богатством ради рыцарства; Влюбленная дева роняет платок, вызывая тоску",
+      "ja": "第二十四回 酔金剛財を軽んじて義侠を尚（たっと）び 痴女児帕（ハンカチ）を遺して相思を惹く",
+      "commentary": []
+    },
+    {
+      "id": 5,
+      "pdf_page": 7,
+      "type": "toc_entry",
+      "original": "第二十五回 魇魔法叔嫂逢五鬼 通灵玉蒙蔽遇双真",
+      "zh_modern": "第二十五回 魇魔法叔嫂逢五鬼 通灵玉蒙蔽遇双真",
+      "en": "Chapter 25: With Nightmare Sorcery, Uncle and Sister-in-law Encounter the Five Ghosts; The Spiritual Jade, Being Obscured, Meets the Pair of Realized Ones",
+      "ru": "Глава 25: Из-за кошмарного колдовства деверь и невестка встречаются с пятью бесами; Духовная яшма, будучи затемненной, встречает пару Истинных",
+      "ja": "第二十五回 魘魔法叔嫂五鬼に逢い 通霊玉蒙蔽して双真に遇う",
+      "commentary": []
+    },
+    {
+      "id": 6,
+      "pdf_page": 7,
+      "type": "toc_entry",
+      "original": "第二十六回 蜂腰桥设言传蜜意 潇湘馆春困发幽情",
+      "zh_modern": "第二十六回 蜂腰桥设言传蜜意 潇湘馆春困发幽情",
+      "en": "Chapter 26: On Wasp Waist Bridge, Suggestive Words Convey Sweet Intentions; In Xiaoxiang Lodge, Spring Lethargy Stirs Hidden Feelings",
+      "ru": "Глава 26: На мосту Осиной Талии намеки передают сладкие чувства; В Домике Сянских бамбуков весенняя дремота пробуждает скрытые страсти",
+      "ja": "第二十六回 蜂腰橋に言を設けて蜜意を伝え 瀟湘館春困して幽情を発す",
+      "commentary": []
+    },
+    {
+      "id": 7,
+      "pdf_page": 7,
+      "type": "toc_entry",
+      "original": "第二十七回 滴翠亭杨妃戏彩蝶 埋香冢飞燕泣残红",
+      "zh_modern": "第二十七回 滴翠亭杨妃戏彩蝶 埋香冢飞燕泣残红",
+      "en": "Chapter 27: At Dripping Emerald Pavilion, Yang Guifei Sports with Colorful Butterflies; At Burying Fragrance Tomb, Flying Swallow Weeps Over Fading Blossoms",
+      "ru": "Глава 27: В Беседке Капающей Изумрудом Ян Гуйфэй играет с пестрыми бабочками; У Могилы Погребенных Ароматов Летящая Ласточка оплакивает увядающие цветы",
+      "ja": "第二十七回 滴翠亭楊妃彩蝶と戯れ 埋香塚飛燕残紅に泣く",
+      "commentary": []
+    },
+    {
+      "id": 8,
+      "pdf_page": 7,
+      "type": "toc_entry",
+      "original": "第二十八回 蒋玉菡情赠茜香罗 薛宝钗羞笼红麝串",
+      "zh_modern": "第二十八回 蒋玉菡情赠茜香罗 薛宝钗羞笼红麝串",
+      "en": "Chapter 28: Jiang Yuhan Affectionately Presents a Madder-Scented Sash; Xue Bao钗 Bashfully Displays a Red Musk Rosary",
+      "ru": "Глава 28: Цзян Юйхань с чувством дарит душистый кушак цвета марены; Сюэ Баочай стыдливо надевает четки из красного мускуса",
+      "ja": "第二十八回 蒋玉菡情をもって茜香羅を贈り 薛宝釵羞じて紅麝串を籠（つ）く",
+      "commentary": []
+    },
+    {
+      "id": 9,
+      "pdf_page": 7,
+      "type": "toc_entry",
+      "original": "第二十九回 享福人福深还祷福 痴情女情重愈斟情",
+      "zh_modern": "第二十九回 享福人福深还祷福 痴情女情重愈斟情",
+      "en": "Chapter 29: A Blessed Person, Deep in Blessings, Prays for More Blessings; A Devoted Maid, Heavy with Love, Pours Out More Love",
+      "ru": "Глава 29: Благословенный, преисполненный благ, молит о новых благах; Влюбленная дева, полная чувств, изливает еще больше чувств",
+      "ja": "第二十九回 福を享くる人福深くして還（また）福を祷（いの）り 痴情の女情重くして愈（いよいよ）情を斟（く）む",
+      "commentary": []
+    },
+    {
+      "id": 10,
+      "pdf_page": 7,
+      "type": "toc_entry",
+      "original": "第 三十 回 宝钗借扇机带双敲 龄官划蔷痴及局外",
+      "zh_modern": "第三十回 宝钗借扇机带双敲 龄官划蔷痴及局外",
+      "en": "Chapter 30: Baochai Borrows a Fan to Deliver a Double Rebuke; Lingguan Traces 'Qiang' and Her Obsession Touches an Onlooker",
+      "ru": "Глава 30: Баочай, одалживая веер, наносит двойной удар; Лин-гуань чертит иероглиф «Цян», и ее одержимость трогает наблюдателя",
+      "ja": "第三十回 宝釵扇を借りて機双敲を帯び 齢官薔を画きて痴局外に及ぶ",
+      "commentary": []
+    },
+    {
+      "id": 11,
+      "pdf_page": 7,
+      "type": "toc_entry",
+      "original": "第三十一回 撕扇子作千金一笑 因麒麟伏白首双星",
+      "zh_modern": "第三十一回 撕扇子作千金一笑 因麒麟伏白首双星",
+      "en": "Chapter 31: Tearing a Fan to Win a Thousand-Gold Smile; Through a Qilin Amulet, White-Haired Double Stars Are Foreshadowed",
+      "ru": "Глава 31: Рвут веер ради улыбки за тысячу золотых; Через амулет Цилинь предначертана судьба седовласой пары звезд",
+      "ja": "第三十一回 扇子を撕（さ）いて千金の一笑を作（な）し 麒麟に因りて白首の双星を伏す",
+      "commentary": []
+    },
+    {
+      "id": 12,
+      "pdf_page": 7,
+      "type": "toc_entry",
+      "original": "第三十二回 诉肺腑心迷活宝玉 含耻辱情烈死金钏",
+      "zh_modern": "第三十二回 诉肺腑心迷活宝玉 含耻辱情烈死金钏",
+      "en": "Chapter 32: Declaring His Innermost Feelings, a Confused Heart Startles the Living Baoyu; Bearing Humiliation, a Fierce Spirit Leads to the Death of Jinchuan",
+      "ru": "Глава 32: Изливая душу, смятенное сердце пугает живого Баоюя; Снося унижение, яростное чувство ведет к смерти Цзиньчуань",
+      "ja": "第三十二回 肺腑を訴えて心活宝玉を迷わし 恥辱を含んで情烈しく金釧死す",
+      "commentary": []
+    },
+    {
+      "id": 13,
+      "pdf_page": 7,
+      "type": "toc_entry",
+      "original": "第三十三回 手足耽耽小动唇舌 不肖种种大承笞挞",
+      "zh_modern": "第三十三回 手足耽耽小动唇舌 不肖种种大承笞挞",
+      "en": "Chapter 33: With Malicious Intent, a Brother Wags His Tongue; For Various Unfilial Acts, He Suffers a Severe Beating",
+      "ru": "Глава 33: Со злым умыслом брат распускает язык; За множество непочтительных поступков он подвергается жестокой порке",
+      "ja": "第三十三回 手足耽耽として小しく唇舌を動かし 不肖種種大いに笞撻（ちたつ）を承く",
+      "commentary": []
+    },
+    {
+      "id": 14,
+      "pdf_page": 7,
+      "type": "toc_entry",
+      "original": "第三十四回 情中情因情感妹妹 错里错以错劝哥哥",
+      "zh_modern": "第三十四回 情中情因情感妹妹 错里错以错劝哥哥",
+      "en": "Chapter 34: A Heart within a Heart: Moved by Affection to Pity Sister; A Mistake upon a Mistake: Using Error to Advise Brother",
+      "ru": "Глава 34: Чувство в чувстве: тронутый любовью жалеет сестренку; Ошибка на ошибке: используя заблуждение, увещевает брата",
+      "ja": "第三十四回 情中の情情に因りて妹妹を感じ 錯裏の錯錯をもって哥哥を勧む",
+      "commentary": []
+    },
+    {
+      "id": 15,
+      "pdf_page": 7,
+      "type": "toc_entry",
+      "original": "第三十五回 白玉钏亲尝莲叶羹 黄金莺巧结梅花络",
+      "zh_modern": "第三十五回 白玉钏亲尝莲叶羹 黄金莺巧结梅花络",
+      "en": "Chapter 35: White Jade Bracelet Personally Tastes the Lotus Leaf Soup; Golden Oriole Skillfully Knots a Plum Blossom Net",
+      "ru": "Глава 35: Бай Юйчуань лично пробует суп из лотосовых листьев; Хуан Цзиньин искусно плетет сетку с узором сливы мэй",
+      "ja": "第三十五回 白玉釧親しく蓮葉羹を嘗め 黄金鶯巧みに梅花絡を結ぶ",
+      "commentary": []
+    },
+    {
+      "id": 16,
+      "pdf_page": 7,
+      "type": "toc_entry",
+      "original": "第三十六回 绣鸳鸯梦兆绛芸轩 识分定情悟梨香院",
+      "zh_modern": "第三十六回 绣鸳鸯梦兆绛芸轩 识分定情悟梨香院",
+      "en": "Chapter 36: Embroidery of Mandarin Ducks Portends a Dream in Crimson Rue Study; Recognizing Destiny, Love Is Understood in Pear Scent Court",
+      "ru": "Глава 36: Вышивка уток-мандаринок предвещает сон в Кабинете алой руты; Познавая судьбу, любовь постигается в Дворике аромата груш",
+      "ja": "第三十六回 鴛鴦を刺繍して夢絳芸軒に兆し 分定を識りて情梨香院に悟る",
+      "commentary": []
+    },
+    {
+      "id": 17,
+      "pdf_page": 7,
+      "type": "toc_entry",
+      "original": "第三十七回 秋爽斋偶结海棠社 蘅芜苑夜拟菊花题",
+      "zh_modern": "第三十七回 秋爽斋偶结海棠社 蘅芜苑夜拟菊花题",
+      "en": "Chapter 37: In Autumn Freshness Study, the Begonia Club Is Formed by Chance; In Alpinia Park, Chrysanthemum Topics Are Drafted at Night",
+      "ru": "Глава 37: В Кабинете осенней свежести случайно создают Клуб бегонии; В Саду душистых трав ночью набрасывают темы о хризантемах",
+      "ja": "第三十七回 秋爽斎に偶（たまたま）海棠社を結び 蘅蕪苑に夜菊花題を擬す",
+      "commentary": []
+    },
+    {
+      "id": 18,
+      "pdf_page": 7,
+      "type": "toc_entry",
+      "original": "第三十八回 林潇湘魁夺菊花诗 薛蘅芜讽和螃蟹咏",
+      "zh_modern": "第三十八回 林潇湘魁夺菊花诗 薛蘅芜讽和螃蟹咏",
+      "en": "Chapter 38: Lin Xiaoxiang Wins the Laurel with Chrysanthemum Poems; Xue Hengwu Sings a Satirical Reply with Crab Verses",
+      "ru": "Глава 38: Линь Сяосян завоевывает первенство стихами о хризантемах; Сюэ Хэнъу слагает сатирический ответ в стихах о крабах",
+      "ja": "第三十八回 林瀟湘魁（さきがけ）て菊花詩を奪い 薛蘅蕪諷して螃蟹詠に和す",
+      "commentary": []
+    },
+    {
+      "id": 19,
+      "pdf_page": 7,
+      "type": "toc_entry",
+      "original": "第三十九回 村姥姥是信口开河 情哥哥偏寻根究底",
+      "zh_modern": "第三十九回 村姥姥是信口开河 情哥哥偏寻根究底",
+      "en": "Chapter 39: The Village Granny Talks Nonsense at Random; The Romantic Brother Persists in Getting to the Bottom of It",
+      "ru": "Глава 39: Деревенская бабушка болтает вздор; Влюбленный брат доискивается до самой сути",
+      "ja": "第三十九回 村姥姥是れ口に信せて河を開き 情哥哥偏に根を尋ね底を究む",
+      "commentary": []
+    },
+    {
+      "id": 20,
+      "pdf_page": 7,
+      "type": "toc_entry",
+      "original": "第 四十 回 史太君两宴大观园 金鸳鸯三宣牙牌令",
+      "zh_modern": "第四十回 史太君两宴大观园 金鸳鸯三宣牙牌令",
+      "en": "Chapter 40: The Matriarch Shi Feasts Twice in Grand View Garden; Golden Mandarin Duck Thrice Announces the Domino Order",
+      "ru": "Глава 40: Старейшая госпожа Ши дважды пирует в Саду Роскошных Зрелищ; Золотая Утка-мандаринка трижды объявляет приказы по костяному домино",
+      "ja": "第四十回 史太君両たび大観園に宴し 金鴛鴦三たび牙牌令を宣す",
+      "commentary": []
+    },
+    {
+      "id": 21,
+      "pdf_page": 7,
+      "type": "toc_entry",
+      "original": "第四十一回 栊翠庵茶品梅花雪 怡红院劫遇母蝗虫",
+      "zh_modern": "第四十一回 栊翠庵茶品梅花雪 怡红院劫遇母蝗虫",
+      "en": "Chapter 41: In Green Lattice Nunnery, Tea Is Tasted Made from Plum Blossom Snow; In Happy Red Court, A Calamity Is Met in the Form of a Mother Locust",
+      "ru": "Глава 41: В монастыре Решетчатой Зелени пробуют чай на снегу с цветов сливы; Во Дворе Красного Счастья встречают напасть в виде матери-саранчи",
+      "ja": "第四十一回 櫳翠庵に茶して梅花雪を品（あじわ）い 怡紅院に劫して母蝗虫に遇う",
+      "commentary": []
+    },
+    {
+      "id": 22,
+      "pdf_page": 7,
+      "type": "toc_entry",
+      "original": "第四十二回 蘅芜君兰言解疑癖 潇湘子雅谑补余音",
+      "zh_modern": "第四十二回 蘅芜君兰言解疑癖 潇湘子雅谑补余音",
+      "en": "Chapter 42: Lady Hengwu with Orchid Words Resolves a Suspicious Habit; Master Xiaoxiang with Elegant Jests Supplements the Lingering Tone",
+      "ru": "Глава 42: Госпожа Хэнъу благородными речами излечивает подозрительность; Мастер Сяосян изящными шутками дополняет оставшиеся звуки",
+      "ja": "第四十二回 蘅蕪君蘭言して疑癖を解き 瀟湘子雅謔して余音を補う",
+      "commentary": []
+    },
+    {
+      "id": 23,
+      "pdf_page": 7,
+      "type": "toc_entry",
+      "original": "第四十三回 闲取乐偶攒金庆寿 不了情暂撮土为香",
+      "zh_modern": "第四十三回 闲取乐偶攒金庆寿 不了情暂撮土为香",
+      "en": "Chapter 43: Seeking Amusement, They Pool Gold to Celebrate a Birthday; With Unending Love, He Temporarily Uses Earth as Incense",
+      "ru": "Глава 43: Ради забавы собирают золото, чтобы отпраздновать день рождения; С нескончаемой любовью он временно использует землю вместо благовоний",
+      "ja": "第四十三回 閑に楽しみを取りて偶（たまたま）金を攢（あつ）めて寿を慶し 不了の情暫く土を撮（つま）んで香と為す",
+      "commentary": []
+    },
+    {
+      "id": 24,
+      "pdf_page": 7,
+      "type": "toc_entry",
+      "original": "第四十四回 变生不测凤姐泼醋 喜出望外平儿理妆",
+      "zh_modern": "第四十四回 变生不测凤姐泼醋 喜出望外平儿理妆",
+      "en": "Chapter 44: A Sudden Turn of Events: Sister Feng Spills Vinegar (Shows Jealousy); Joy Beyond Expectations: Ping'er Fixes Her Makeup",
+      "ru": "Глава 44: Неожиданный поворот: сестрица Фэн проливает уксус (ревнует); Радость сверх ожидания: Пин-эр поправляет макияж",
+      "ja": "第四十四回 変不測に生じて鳳姐酢を潑（そそ）ぎ 望外に喜び出でて平児粧を理（おさ）む",
+      "commentary": []
+    },
+    {
+      "id": 25,
+      "pdf_page": 7,
+      "type": "toc_entry",
+      "original": "第四十五回 金兰契互剖金兰语 风雨夕闷制风雨词",
+      "zh_modern": "第四十五回 金兰契互剖金兰语 风雨夕闷制风雨词",
+      "en": "Chapter 45: Sworn Sisters Reveal Sisterly Confidences; On a Stormy Evening, She Gloomily Composes a Stormy Poem",
+      "ru": "Глава 45: Названные сестры поверяют друг другу сестринские тайны; В ненастный вечер она тоскливо слагает стихи о ветре и дожде",
+      "ja": "第四十五回 金蘭の契（ちぎり）互いに金蘭の語を剖（さ）き 風雨の夕（ゆうべ）悶々として風雨の詞を制す",
+      "commentary": []
+    },
+    {
+      "id": 26,
+      "pdf_page": 7,
+      "type": "toc_entry",
+      "original": "第四十六回 尴尬人难免尴尬事 鸳鸯女誓绝鸳鸯偶",
+      "zh_modern": "第四十六回 尴尬人难免尴尬事 鸳鸯女誓绝鸳鸯偶",
+      "en": "Chapter 46: An Awkward Person Can Hardly Avoid Awkward Matters; The Duck-and-Drake Maid Swears to Renounce a Duck-and-Drake Match",
+      "ru": "Глава 46: Неловкий человек не избежит неловких дел; Дева-мандаринка клянется отвергнуть пару мандаринок",
+      "ja": "第四十六回 尷尬（かんか）の人尷尬の事を免れ難く 鴛鴦の女誓って鴛鴦の偶を絶つ",
+      "commentary": []
+    },
+    {
+      "id": 27,
+      "pdf_page": 7,
+      "type": "toc_entry",
+      "original": "第四十七回 呆霸王调情遭苦打 冷郎君惧祸走他乡",
+      "zh_modern": "第四十七回 呆霸王调情遭苦打 冷郎君惧祸走他乡",
+      "en": "Chapter 47: The Dull Tyrant, Flirting, Suffers a Savage Beating; The Cold Gentleman, Fearing Disaster, Flees to Another Land",
+      "ru": "Глава 47: Глупый Тиран, заигрывая, получает жестокие побои; Холодный Господин, страшась беды, бежит в чужие края",
+      "ja": "第四十七回 呆覇王情を調（からか）って苦打に遭い 冷郎君禍を懼（おそ）れて他郷に走る",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "This page is the Table of Contents for Chapters 21-47."
+  ],
+  "research_notes": [],
+  "characters_appearing": [],
+  "total_segments": 27,
+  "manuscript_sources_on_page": []
+}
