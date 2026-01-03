@@ -1,0 +1,117 @@
+{
+  "page": 45,
+  "chapter": "第一回",
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 45,
+      "type": "prose",
+      "original": "士隐本是有宿慧的，一闻此言，心中早已彻悟，因笑道：“且住！待我将你这《好了歌》注解出来何如？”道人笑道：“你若能解得，便是‘有慧根’矣。”",
+      "zh_modern": "士隐本是有前世慧根的，一听这话，心中早就彻底醒悟了，便笑道：“且慢！等我为你这《好了歌》作一番注解如何？”道人笑道：“你如果能解得出来，就算是有慧根了。”",
+      "en": "Shiyin possessed inherent wisdom from a past life. Upon hearing these words, his mind was instantly and thoroughly enlightened. He laughed and said: “Hold on! How about I provide an annotation for your 'Won-Done Song'?” The Taoist laughed: “If you can interpret it, then you truly have 'roots of wisdom'.”",
+      "ru": "Шиинь обладал врожденной мудростью из прошлой жизни. Услышав эти слова, он мгновенно достиг полного просветления. Он усмехнулся и сказал: «Постой! А что если я составлю комментарий к твоей 'Песне о Хорошем и Конце'?» Даос усмехнулся: «Если сможешь истолковать, значит, у тебя есть 'корни мудрости'».",
+      "ja": "士隠はもとより宿慧（しゅくけい）あるものなれば、一たびこの言を聞き、心中早くすでに徹悟し、よって笑いて言う、「しばらく住（とど）まれ！我に待ちて汝がこの『好了歌』を注解せしめば何如（いかん）？」と。道人は笑いて言う、「汝もし解し得ば、すなわち『慧根（けいこん）』有り」と。",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "pdf_page": 45,
+      "type": "poem",
+      "original": "士隐乃笑道：\n陋室空堂，当年笏满床；\n衰草枯杨，曾为歌舞场。\n蛛丝儿结满雕梁，\n绿纱今又糊在蓬窗上。",
+      "zh_modern": "士隐便笑道：\n简陋的屋舍和空荡的厅堂，当年曾经摆满了朝廷官员的手板；\n衰败的野草和枯萎的杨柳，曾经是歌舞升平的场所。\n雕花的房梁上如今结满了蜘蛛网，\n绿色的纱窗如今又糊在了蓬草编制的窗户上。",
+      "en": "Shiyin then laughed and recited:\nMean huts and empty halls,\nWhere emblems of office once hung on the walls;\nWithered grass and dead willows,\nWhere once was a stage for singing and dance.\nSpiderwebs now cover the carved beams;\nThe green gauze is now pasted on thatched windows again.",
+      "ru": "Шиинь усмехнулся и прочел:\nУбогие хижины, пустые залы,\nГде прежде жезлы чиновников ложа полняли;\nПожухлая трава, сухие ивы,\nГде прежде пели и плясали.\nПаутина заплела резные балки,\nЗеленый газ вновь заклеил соломенные окна.",
+      "ja": "士隠すなわち笑いて云く：\n陋室（ろうしつ）空堂（くうどう）、当年は笏（しゃく）満床（まんしょう）；\n衰草（すいそう）枯楊（こよう）、かつて歌舞の場（じょう）たり。\n蛛糸（ちゅうし）結び満つ雕梁（ちょうりょう）、\n緑紗（りょくさ）今また糊（は）る蓬窓（ほうそう）の上。",
+      "poem_notes": {
+        "form": "Song/Verse",
+        "literary_devices": ["Contrast (Past/Present)", "Imagery of Decay", "Cycle of Fortune"]
+      },
+      "commentary": [
+        {
+          "type": "甲戌侧批",
+          "source": "甲戌本",
+          "position": "right margin",
+          "original": "宁、荣二府。",
+          "zh_modern": "指宁国府、荣国府。",
+          "en": "Refers to the Ning and Rong mansions.",
+          "ru": "Относится к дворцам Нин и Жун.",
+          "ja": "寧・栄の二府なり。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "pdf_page": 45,
+      "type": "poem",
+      "original": "说什么脂正浓、粉正香，如何两鬓又成霜？\n昨日黄土陇头送白骨，今宵红灯帐底卧鸳鸯。",
+      "zh_modern": "还说什么胭脂正浓、香粉正香，怎么两鬓忽然又成了白霜？\n昨天还在黄土坟头送别死去的亲人，今晚就在红灯帐下睡着恩爱鸳鸯。",
+      "en": "Why say the rouge is fresh and powder sweet?\nHow is it the temples are frosted with grey so soon?\nYesterday we buried white bones on the yellow clay mound;\nTonight under red lamps, paired lovebirds lie within the curtains.",
+      "ru": "К чему слова, что румяна ярки и пудра душиста?\nКак же виски вдруг инеем покрылись?\nВчера на желтом холме провожали белые кости,\nСегодня под красной лампой, за пологом, спят мандаринки.",
+      "ja": "何をか説く脂（べに）正に濃く、粉（こ）正に香しきを、如何ぞ両鬢（りょうびん）また霜と成れる？\n昨日（さくじつ）は黄土隴頭（こうどろうとう）に白骨を送り、今宵（こんしょう）は紅灯帳底（こうとうちょうてい）に鴛鴦（えんおう）として臥す。",
+      "commentary": [
+        {
+          "type": "甲戌侧批",
+          "source": "甲戌本",
+          "position": "right margin",
+          "original": "宝玉、湘云一干人。",
+          "zh_modern": "指宝玉、湘云这一干人。",
+          "en": "Refers to Baoyu, Xiangyun and their group.",
+          "ru": "Относится к Баоюю, Сянъюнь и их кругу.",
+          "ja": "宝玉、湘雲の一干の人なり。"
+        },
+        {
+          "type": "甲戌侧批",
+          "source": "甲戌本",
+          "position": "right margin",
+          "original": "黛玉、晴雯一干人。",
+          "zh_modern": "指黛玉、晴雯这一干人。",
+          "en": "Refers to Daiyu, Qingwen and their group.",
+          "ru": "Относится к Дайюй, Цинвэнь и их кругу.",
+          "ja": "黛玉、晴雯の一干の人なり。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "pdf_page": 45,
+      "type": "poem",
+      "original": "金满箱，银满箱，展眼乞丐人皆谤。\n正叹他人命不长，那知自己归来丧！",
+      "zh_modern": "金子装满箱，银子装满箱，转眼间就成了乞丐，人人都诽谤唾弃。\n正在感叹他人性命不长，哪里知道自己回来时也就要丧命了！",
+      "en": "Gold fills the chests, silver fills the chests,\nIn the blink of an eye, a beggar whom all revile.\nJust sighing that another's life is not long,\nWho would know that upon return, one's own doom awaits!",
+      "ru": "Золота полны лари, серебра полны лари,\nМиг — и нищий, кого все хулят.\nТолько вздыхал, что век чужой недолог,\nНе ведая, что сам, вернувшись, встретит смерть!",
+      "ja": "金は箱に満ち、銀は箱に満つるも、展眼（てんがん）すれば乞丐（きっかい）として人皆謗（そし）る。\n正に嘆く他人の命長からざるを、那（な）んぞ知らん自己帰り来たりて喪（し）なんとは！",
+      "commentary": [
+        {
+          "type": "甲戌侧批",
+          "source": "甲戌本",
+          "position": "right margin",
+          "original": "甄玉、贾玉一干人。",
+          "zh_modern": "指甄宝玉、贾宝玉这一干人。",
+          "en": "Refers to Zhen Baoyu, Jia Baoyu and their group.",
+          "ru": "Относится к Чжэнь Баоюю, Цзя Баоюю и их кругу.",
+          "ja": "甄玉、贾玉の一干の人なり。"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "笏 (Hu): Tablets held by officials at court. 'Hu man chuang' (Tablets fill the bed) implies a family full of high-ranking officials.",
+    "蓬窗 (Peng Chuang): Grass/thatched window. Symbol of poverty.",
+    "鸳鸯 (Yuan Yang): Mandarin ducks. Symbol of a loving couple.",
+    "宿慧 (Su Hui): Wisdom from a previous life / Inherent wisdom.",
+    "Zhiping Commentary: Explicitly links lines to specific characters (Ning/Rong houses, Baoyu/Xiangyun, Daiyu/Qingwen), confirming the poem's function as a comprehensive prophecy."
+  ],
+  "research_notes": [
+    "Shiyin's annotation is a condensed summary of the entire novel's plot, foretelling the rise and fall of the Jia family and the fates of the main characters.",
+    "The translation attempts to capture the stark contrasts in each couplet (rich/poor, young/old, life/death).",
+    "Consulted Zhiping commentary which provides key identifications for the poetic allusions."
+  ],
+  "characters_appearing": [
+    "Zhen Shiyin",
+    "Taoist (Miaomiao Zhenren)"
+  ],
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ]
+}
