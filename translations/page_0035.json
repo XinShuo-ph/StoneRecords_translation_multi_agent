@@ -1,0 +1,171 @@
+{
+  "page": 35,
+  "chapter": "第二回",
+  "chapter_title": {
+    "original": "贾夫人仙逝扬州城 冷子兴演说荣国府",
+    "zh_modern": "贾夫人在扬州城去世 冷子兴讲述荣国府的故事",
+    "en": "Lady Jia Passes Away in Yangzhou; Leng Zixing Discourses on the Rong Mansion",
+    "ru": "Госпожа Цзя скончалась в Янчжоу; Лэн Цзысин рассказывает о поместье Жун",
+    "ja": "賈夫人揚州城にて仙逝し、冷子興榮國府を演説す"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "运筹谋画者无一，【庚辰】这三语乃全书骨髓也欲之文病，其日用排场费用，又不能将就省俭，如今外面的架子虽未甚倒，【庚辰】此字妙！盖已倒矣。内囊却也尽上来了。【庚辰】世家富贵，皆早已甚大，诚可叹矣。",
+      "zh_modern": "运筹谋划的人一个也没有，其日用排场费用，又不能将就省俭，如今外面的架子虽未倒塌，内囊却也快耗尽了。",
+      "en": "There is no one capable of planning and strategizing. Their daily expenditure and ostentation cannot be curtailed or economized. Though the outer facade has not yet collapsed, the coffers within are nearly depleted.",
+      "ru": "Нет никого, способного планировать и разрабатывать стратегию. Их ежедневные расходы и показуха не могут быть сокращены или экономизированы. Хотя внешний фасад еще не рухнул, сундуки внутри почти опустошены.",
+      "ja": "運籌謀画する者一人も無し。其の日用の排場費用、又た将就して省倹すること能わず、如今外面の架子未だ甚だしくは倒れざると雖も、内嚢は却って也た尽き上れり。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline after 运筹谋画者无一",
+          "original": "這三語乃全書骨髓也欲之文病，",
+          "zh_modern": "这三句话是全书的骨髓和要旨，",
+          "en": "These three phrases are the marrow and essence of the entire book,",
+          "ru": "Эти три фразы являются сутью и квинтэссенцией всей книги,",
+          "ja": "この三語は全書の骨髄なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline after 未甚倒",
+          "original": "此字妙！蓋已倒矣。",
+          "zh_modern": "此字妙！盖已倒矣。",
+          "en": "This character is marvelous! Indeed, it has already fallen.",
+          "ru": "Этот иероглиф замечателен! Действительно, он уже пал.",
+          "ja": "此の字妙なり！蓋し已に倒れたり。"
+        },
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline after 尽上来了",
+          "original": "世家富貴，皆早已甚大，誠可嘆矣。",
+          "zh_modern": "世家富贵，都早已过度了，诚然可叹。",
+          "en": "Noble families' wealth and status have long been excessive; truly lamentable.",
+          "ru": "Богатство и статус знатных семей давно чрезмерны; поистине достойно сожаления.",
+          "ja": "世家の富貴、皆早く已に甚だ大なり、誠に嘆ずべし。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "这还是小事，更有一件大事，谁知这样钟鸣鼎食之家，翰墨诗书之族，【庚辰】四句总出一篇文病。如今的儿孙，竟一代不如一代了！【庚辰】又是极妙好文，理是必然之文，话则姑妄姑信之论。",
+      "zh_modern": "这还是小事，更有一件大事，谁知这样钟鸣鼎食之家，翰墨诗书之族，如今的儿孙，竟一代不如一代了！",
+      "en": "This is still a minor matter; there is an even greater concern. Who would have thought that in such a family of bells and cauldrons, a clan of scholars and poets, the current descendants would be inferior with each generation!",
+      "ru": "Это все еще незначительное дело; есть еще более серьезная проблема. Кто бы мог подумать, что в такой семье с колоколами и котлами, клане ученых и поэтов, нынешние потомки будут хуже с каждым поколением!",
+      "ja": "これは尚お小事なり、更に一件の大事有り、誰か知らん、かくの如き鐘鳴鼎食の家、翰墨詩書の族、如今の兒孫、竟に一代一代に如かざるを！",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline after 之族",
+          "original": "四句總出一篇文病。",
+          "zh_modern": "四句总归一篇的主旨。",
+          "en": "Four lines sum up the theme of the entire chapter.",
+          "ru": "Четыре строки суммируют тему всей главы.",
+          "ja": "四句總じて一篇の文旨を出す。"
+        },
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline after 一代了",
+          "original": "又是極妙好文，理是必然之文，話則姑妄姑信之論。",
+          "zh_modern": "又是极妙的好文章，理是必然之理，话则姑且妄言姑且相信的论调。",
+          "en": "Again, excellent writing; the logic is inevitable, yet the words are meant to be half-believed.",
+          "ru": "Снова отличное письмо; логика неизбежна, но словам следует верить наполовину.",
+          "ja": "又た極めて妙なる好文なり、理は必然の文、話は則ち姑く妄り姑く信ずるの論なり。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "dialogue",
+      "original": "雨村听说，也纳罕道：这样诗书之家，岂有不善教育之理？别家不知，只说这宁、荣二宅，是最教子有方的。",
+      "zh_modern": "雨村听说，也感到惊讶地说：这样的诗书之家，岂有不善于教育之理？别家不知，只说这宁、荣二宅，是最善于教子有方的。",
+      "en": "Hearing this, Yucun was astonished and said: In such a scholarly family, how could there be poor education? I don't know about other families, but I've heard that the Ning and Rong mansions are exemplary in raising their children.",
+      "ru": "Услышав это, Юйцунь был поражен и сказал: В такой ученой семье, как может быть плохое образование? Я не знаю о других семьях, но я слышал, что поместья Нин и Жун образцовы в воспитании детей.",
+      "ja": "雨村聞きて、也た訝りて道う：かくの如き詩書の家、豈に善く教育せざるの理有らんや？別家は知らず、只だ此の寧・榮二宅を説かば、最も教子有方なり。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline after 有方的",
+          "original": "一針見血。",
+          "zh_modern": "一针见血。",
+          "en": "Hitting the nail on the head.",
+          "ru": "Попадание в точку.",
+          "ja": "一針見血。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "dialogue",
+      "original": "子兴叹道：正说的是这两门呢。待我告诉你，当日宁国【庚辰】珠玉，与荣国公【庚辰】宝莲，是一母同胞弟兄两个，宁公居长，生了四个儿子，【庚辰】珠玉，宝莲之弟，不变可叹矣。宁公死后，长子贾敷袭了官，【庚辰】第二代。",
+      "zh_modern": "子兴叹道：正说的是这两门呢。待我告诉你，当日宁国公与荣国公，是一母同胞兄弟两个，宁公居长，生了四个儿子，宁公死后，长子贾敷袭了官。",
+      "en": "Zixing sighed: Those are exactly the two families I'm talking about. Let me tell you: The Duke of Ningguo and the Duke of Rongguo were full brothers from the same mother. The Duke of Ningguo was the elder, and had four sons. After Duke Ning's death, his eldest son Jia Fu inherited the title.",
+      "ru": "Цзысин вздохнул: Именно об этих двух семьях я и говорю. Позвольте мне рассказать вам: Герцог Нингуо и Герцог Жунгуо были родными братьями от одной матери. Герцог Нингуо был старшим и имел четырех сыновей. После смерти герцога Нина его старший сын Цзя Фу унаследовал титул.",
+      "ja": "子興嘆じて道う：正に説くは此の二門なり。我に告げしむるを待て、當日寧國公と榮國公、是れ一母同胞弟兄二人なり、寧公長に居り、四個の兒子を生めり、寧公死後、長子賈敷官を襲えり。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline after 宁国",
+          "original": "珠玉，",
+          "zh_modern": "珠玉，",
+          "en": "Jewels and jade,",
+          "ru": "Драгоценности и нефрит,",
+          "ja": "珠玉、"
+        },
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline after 荣国公",
+          "original": "寶蓮，",
+          "zh_modern": "宝莲，",
+          "en": "Precious lotus,",
+          "ru": "Драгоценный лотос,",
+          "ja": "寶蓮、"
+        },
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline after 四个儿子",
+          "original": "珠玉，寶蓮之弟，不變可嘆矣。",
+          "zh_modern": "珠玉，宝莲的后代，不变可叹啊。",
+          "en": "Jewels and jade, descendants of precious lotus, unchanging and lamentable.",
+          "ru": "Драгоценности и нефрит, потомки драгоценного лотоса, неизменные и достойные сожаления.",
+          "ja": "珠玉、寶蓮の弟、變ぜざるは嘆ずべし。"
+        },
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline after 袭了官",
+          "original": "第二代。",
+          "zh_modern": "第二代。",
+          "en": "The second generation.",
+          "ru": "Второе поколение.",
+          "ja": "第二代。"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "钟鸣鼎食 (bells and cauldrons) - A classical idiom referring to noble families who used bronze bells and ritual vessels, indicating extreme wealth and high status.",
+    "翰墨诗书之族 (clan of scholars and poets) - Emphasizes the family's scholarly tradition and literary accomplishments.",
+    "The commentary emphasizes that these passages are the marrow of the entire novel, foreshadowing the family's decline.",
+    "贾敷 (Jia Fu) - First mentioned as the eldest son of the Duke of Ningguo who inherited the title."
+  ],
+  "research_notes": [
+    "This page continues Leng Zixing's exposition on the Jia family's decline",
+    "The genealogical details establish the structure of the two main branches of the family"
+  ],
+  "characters_appearing": ["贾雨村", "冷子兴"],
+  "total_segments": 4,
+  "manuscript_sources_on_page": ["庚辰本"]
+}
