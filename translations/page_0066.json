@@ -1,0 +1,79 @@
+{
+  "page": 66,
+  "chapter": "第四回",
+  "chapter_title": {
+    "original": "薄命女偏逢薄命郎 葫芦僧乱判葫芦案",
+    "zh_modern": "薄命女偏逢薄命郎，葫芦僧胡乱判断葫芦案",
+    "en": "The Ill-Fated Girl by Chance Meets an Ill-Fated Man; The Monk from the Gourd Temple Judgmentally Settles the Gourd Case",
+    "ru": "Несчастная дева встречает несчастного юношу; Монах из тыквы судит дело о тыкве",
+    "ja": "薄命の女は偏（ひとえ）に薄命の郎（おとこ）に逢い、葫芦（ころ）の僧は乱りに葫芦の案を判ず"
+  },
+  "page_content_type": "prose",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 66,
+      "type": "prose",
+      "original": "门子笑道：“老爷当年何等精明，如今何怪不通时务至此！老爷明日坐堂，只管虚张声势，动文书发签，拿人捕盗。",
+      "zh_modern": "门子笑道：“老爷当年是何等精明，如今怎么怪不得不通时务到这个地步！老爷明天升堂，只管虚张声势，动用文书签发令牌，捉拿强盗。",
+      "en": "The attendant laughed and said, \"Your Honor was so shrewd back then; how is it that you are so out of touch with the times now! Tomorrow, when Your Honor holds court, just make a show of strength, issue documents and warrants, and dispatch runners to catch the culprit.\"",
+      "ru": "Привратник рассмеялся: «Господин, в былые времена вы были так проницательны, почему же сейчас вы так отстали от жизни! Завтра, когда вы сядете в суде, просто создайте видимость бурной деятельности, издайте указы и отправьте стражников ловить преступника.",
+      "ja": "門子は笑って言った。「旦那様は当年何等の精明なりしに、如今何ぞ怪しむらくは時務に通ぜざること此（かく）の如き！ 旦那様は明日堂に坐し、只管（ひたすら）声勢を虚張し、文書を動かし签（ふだ）を発し、人を拿（とら）え盗を捕らえよ。"
+    },
+    {
+      "id": 2,
+      "pdf_page": 66,
+      "type": "prose",
+      "original": "那时我自有道理，只说凶犯薛蟠，乃是‘暴病身亡’，令族人申报。再判薛家赔些烧埋银子与冯家。",
+      "zh_modern": "到时候我自有办法，只说凶犯薛蟠，因‘暴病身亡’，命令他的族人申报。再判薛家赔偿一些烧埋银子给冯家。",
+      "en": "At that time, I will have a plan. We will simply say that the murderer Xue Pan has 'died of a sudden illness' and order his clansmen to report it. Then judge that the Xue family must pay some burial money to the Feng family.\"",
+      "ru": "К тому времени у меня будет план. Мы просто скажем, что убийца Сюэ Пань \"внезапно скончался от болезни\", и прикажем его родственникам доложить об этом. Затем присудите семье Сюэ выплатить семье Фэн немного денег на похороны.",
+      "ja": "その時我に自ら道理有り。只だ凶犯薛蟠は、乃ち『暴病身亡』すと説き、族人をして申報せしめよ。再（ま）た薛家に判じて些（いささ）かの焼埋銀子を馮家に賠（つぐな）わせよ。"
+    },
+    {
+      "id": 3,
+      "pdf_page": 66,
+      "type": "prose",
+      "original": "那冯家原无甚人，只要有了银子，也就无甚话说了。如此则薛家也周全了，老爷也保住了官，岂不两全其美？”",
+      "zh_modern": "那冯家原本没什么人，只要有了银子，也就没什么话说了。这样薛家也周全了，老爷也保住了官位，岂不是两全其美？”",
+      "en": "The Feng family has few members anyway; as long as they get the silver, they won't have much to say. In this way, the Xue family is protected, and Your Honor also keeps your official post. Isn't this the best of both worlds?\"",
+      "ru": "В семье Фэн все равно мало людей; если они получат серебро, им нечего будет сказать. Так и семья Сюэ будет в безопасности, и вы сохраните свой пост. Разве это не идеально для обеих сторон?»",
+      "ja": "那（か）の馮家は原（もと）甚（はなは）だ人無く、只だ銀子有れば、也就（すなわ）ち甚だ話無からん。此（かく）の如くんば則ち薛家も周全し、旦那様も官を保ち、豈に両全其美（りょうぜんきび）ならずや？」"
+    }
+  ],
+  "commentary": [
+    {
+      "type": "interlinear",
+      "source": "Zhiping",
+      "original": "岂不两全其美（甲戌侧批：为小人谋，固是两全其美；为君子谋，则是万世之罪。）",
+      "translation_en": "(Jiaxu Side Note: Planning for a villain, it is indeed the best of both worlds; planning for a gentleman, it is a sin for ten thousand generations.)",
+      "position": "segment_3"
+    }
+  ],
+  "translator_notes": [
+    {
+      "original_term": "暴病身亡",
+      "english_translation": "Died of a sudden illness",
+      "explanation": "A common fabrication in corrupt legal cases to explain away the absence of a suspect or to close a case without prosecution."
+    },
+    {
+      "original_term": "烧埋银子",
+      "english_translation": "Burial money",
+      "explanation": "Compensation paid to the victim's family to cover funeral expenses and silence their grievances."
+    }
+  ],
+  "research_notes": [
+    {
+      "topic": "The Corruption of the Legal System",
+      "content": "This scene exposes the mechanics of corruption, where justice is manipulated through procedural tricks and financial settlements to protect the powerful, orchestrated by a lowly attendant."
+    }
+  ],
+  "characters_appearing": [
+    "Jia Yucun (贾雨村)",
+    "The Attendant (门子)"
+  ],
+  "manuscript_sources_on_page": [
+    "Jiaxu (甲戌本)",
+    "Gengchen (庚辰本)"
+  ]
+}
