@@ -1,0 +1,126 @@
+{
+  "page": 9,
+  "chapter": "Front Matter",
+  "chapter_title": null,
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 9,
+      "type": "toc_entry",
+      "original": "第七十五回 开夜宴异兆发悲音 赏中秋新词得佳谶",
+      "zh_modern": "第七十五回 开夜宴异兆发悲音 赏中秋新词得佳谶",
+      "en": "Chapter 75: Opening a Night Banquet, Strange Omens Emit Sorrowful Sounds; Appreciating the Mid-Autumn Moon, New Verses Obtain Auspicious Prophecies",
+      "ru": "Глава 75: На ночном пиру странные знамения испускают скорбные звуки; Любуясь луной в Середину осени, новые стихи обретают добрые пророчества",
+      "ja": "第七十五回 夜宴を開いて異兆悲音を発し 中秋を賞して新詞佳讖を得る",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "pdf_page": 9,
+      "type": "toc_entry",
+      "original": "第七十六回 凸碧堂品笛感凄清 凹晶馆联诗悲寂寞",
+      "zh_modern": "第七十六回 凸碧堂品笛感凄清 凹晶馆联诗悲寂寞",
+      "en": "Chapter 76: In Convex Jade Hall, Flute Music Evokes Desolation; In Concave Crystal Lodge, Linked Verses Lament Loneliness",
+      "ru": "Глава 76: В Зале Выпуклой Яшмы звуки флейты навевают печаль; В Павильоне Вогнутого Хрусталя совместные стихи оплакивают одиночество",
+      "ja": "第七十六回 凸碧堂に笛を品（あじわ）って凄清を感じ 凹晶館に詩を連ねて寂寞を悲しむ",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "pdf_page": 9,
+      "type": "toc_entry",
+      "original": "第七十七回 俏丫鬟抱屈夭风流 美优伶斩情归水月",
+      "zh_modern": "第七十七回 俏丫鬟抱屈夭风流 美优伶斩情归水月",
+      "en": "Chapter 77: A Pretty Maid, Bearing Injustice, Dies Young and Romantic; A Beautiful Actor, Cutting off Passion, Returns to Water and Moon",
+      "ru": "Глава 77: Хорошенькая служанка, терпя несправедливость, гибнет во цвете лет; Прекрасный актер, отсекая страсти, возвращается к воде и луне (в монастырь)",
+      "ja": "第七十七回 俏丫鬟屈を抱いて風流に夭（わかじに）し 美優伶情を斬って水月に帰す",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "pdf_page": 9,
+      "type": "toc_entry",
+      "original": "第七十八回 老学士闲征姽婳词 痴公子杜撰芙蓉诔",
+      "zh_modern": "第七十八回 老学士闲征姽婳词 痴公子杜撰芙蓉诔",
+      "en": "Chapter 78: An Old Academician Idly Solicits Verses on the Maiden General; A Devoted Young Master Composes an Elegy for the Hibiscus",
+      "ru": "Глава 78: Старый ученый на досуге требует стихи о Деве-Генерале; Влюбленный молодой господин сочиняет Элегию лотосу",
+      "ja": "第七十八回 老学士閑に姽婳詞（きかくし）を徴し 痴公子杜撰して芙蓉誄（ふようるい）をなす",
+      "commentary": []
+    },
+    {
+      "id": 5,
+      "pdf_page": 9,
+      "type": "toc_entry",
+      "original": "第七十九回 薛文龙悔娶河东狮 贾迎春误嫁中山狼",
+      "zh_modern": "第七十九回 薛文龙悔娶河东狮 贾迎春误嫁中山狼",
+      "en": "Chapter 79: Xue Wenlong Regrets Marrying a River East Lion (Shrew); Jia Yingchun Mistakenly Weds a Wolf of Zhongshan",
+      "ru": "Глава 79: Сюэ Вэньлун раскаивается, что женился на Львице из Хэдуна; Цзя Инчунь по ошибке выходит замуж за Волка из Чжуншаня",
+      "ja": "第七十九回 薛文竜河東獅を娶って悔い 賈迎春中山狼に嫁して誤る",
+      "commentary": []
+    },
+    {
+      "id": 6,
+      "pdf_page": 9,
+      "type": "toc_entry",
+      "original": "第 八十 回 薛文龙悔娶河东狮 贾迎春误嫁中山狼（续）",
+      "zh_modern": "第八十回 薛文龙悔娶河东狮 贾迎春误嫁中山狼（续）",
+      "en": "Chapter 80: Xue Wenlong Regrets Marrying a River East Lion; Jia Yingchun Mistakenly Weds a Wolf of Zhongshan (Continued)",
+      "ru": "Глава 80: Сюэ Вэньлун раскаивается, что женился на Львице из Хэдуна; Цзя Инчунь по ошибке выходит замуж за Волка из Чжуншаня (Продолжение)",
+      "ja": "第八十回 薛文竜河東獅を娶って悔い 賈迎春中山狼に嫁して誤る（続）",
+      "commentary": []
+    },
+    {
+      "id": 7,
+      "pdf_page": 9,
+      "type": "toc_entry",
+      "original": "附 录 一 《红楼梦》各抄本收藏者序跋",
+      "zh_modern": "附录一 《红楼梦》各抄本收藏者序跋",
+      "en": "Appendix 1: Prefaces and Postscripts by Collectors of Various Dream of the Red Chamber Manuscripts",
+      "ru": "Приложение 1: Предисловия и послесловия коллекционеров различных рукописей «Сна в красном тереме»",
+      "ja": "附録一 『紅楼夢』各抄本収蔵者序跋",
+      "commentary": []
+    },
+    {
+      "id": 8,
+      "pdf_page": 9,
+      "type": "toc_entry",
+      "original": "附 录 二 存世脂评系统《红楼梦》版本简介",
+      "zh_modern": "附录二 存世脂评系统《红楼梦》版本简介",
+      "en": "Appendix 2: Introduction to Extant Zhiping Commentary Editions of Dream of the Red Chamber",
+      "ru": "Приложение 2: Краткое описание сохранившихся изданий «Сна в красном тереме» с комментариями Чжияньчжая",
+      "ja": "附録二 存世脂評系統『紅楼夢』版本簡介",
+      "commentary": []
+    },
+    {
+      "id": 9,
+      "pdf_page": 9,
+      "type": "toc_entry",
+      "original": "附 录 三 毛国瑶抄录靖藏本批语一百五十条",
+      "zh_modern": "附录三 毛国瑶抄录靖藏本批语一百五十条",
+      "en": "Appendix 3: One Hundred and Fifty Commentaries from the Jing Edition Transcribed by Mao Guoyao",
+      "ru": "Приложение 3: Сто пятьдесят комментариев из издания Цзин, переписанных Мао Гояо",
+      "ja": "附録三 毛国瑶抄録靖蔵本批語一百五十条",
+      "commentary": []
+    },
+    {
+      "id": 10,
+      "pdf_page": 9,
+      "type": "toc_entry",
+      "original": "《红楼梦脂评汇校本》电子版校读札记",
+      "zh_modern": "《红楼梦脂评汇校本》电子版校读札记",
+      "en": "Reading Notes on the Electronic Edition of 'Dream of the Red Chamber with Zhiping Commentary Collation'",
+      "ru": "Заметки о вычитке электронной версии «Сна в красном тереме: Сводное издание с комментариями Чжияньчжая»",
+      "ja": "『紅楼夢脂評彙校本』電子版校読札記",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "This page ends the Table of Contents.",
+    "The 80-chapter version ends abruptly at Chapter 80, which shares the title with Chapter 79 in this edition."
+  ],
+  "research_notes": [],
+  "characters_appearing": [],
+  "total_segments": 10,
+  "manuscript_sources_on_page": []
+}
