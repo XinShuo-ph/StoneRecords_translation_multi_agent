@@ -1,0 +1,70 @@
+{
+  "page": 3,
+  "chapter": "版权信息",
+  "chapter_title": {
+    "original": "版权信息",
+    "zh_modern": "版权信息",
+    "en": "Copyright Information",
+    "ru": "Информация об авторских правах",
+    "ja": "版権情報"
+  },
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 3,
+      "type": "prose",
+      "original": "本电子版仅供网络阅读、检索之用。写文章引用务请核对相关影印本。",
+      "zh_modern": "本电子版仅供网络阅读和检索之用。撰写文章引用时务必核对相关影印本。",
+      "en": "This electronic edition is provided solely for online reading and reference. When citing in written works, please verify against the relevant facsimile editions.",
+      "ru": "Эта электронная версия предоставлена только для онлайн-чтения и поиска. При цитировании в письменных работах просим сверяться с соответствующими факсимильными изданиями.",
+      "ja": "本電子版はオンライン閲覧・検索のみを目的としております。文章での引用に際しては、必ず関連する影印本と照合してください。",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "pdf_page": 3,
+      "type": "prose",
+      "original": "声明：本书由Kolistan汇校整理、制作并免费提供下载，允许在不改变其内容完整的前提下自由传播，但禁止用于商业用途。其他网站转载本书全部或部分内容时，必须注明整理者联系资料及抗翠居网址。照搬本书内容仅作局部改动，而变更（或删除）整理者名字另行发表者，我们保留追究的权利。",
+      "zh_modern": "声明：本书由Kolistan汇校整理、制作并免费提供下载，允许在不改变其内容完整性的前提下自由传播，但禁止用于商业用途。其他网站转载本书全部或部分内容时，必须注明整理者联系资料及抗翠居网址。如果照搬本书内容仅作局部改动，而删除或变更整理者名字另行发表者，我们保留追究的权利。",
+      "en": "Notice: This book has been collated, compiled, and made freely available for download by Kolistan. Free distribution is permitted provided that the content remains complete and unaltered, but commercial use is prohibited. When other websites reproduce all or part of this book's content, they must credit the compiler's contact information and the Kangcuiju website URL. We reserve the right to pursue action against those who appropriate the content with only minor modifications while removing or changing the compiler's attribution.",
+      "ru": "Уведомление: Эта книга была сведена, составлена и предоставлена бесплатно для загрузки составителем Kolistan. Свободное распространение разрешено при условии сохранения полноты и неизменности содержания, но коммерческое использование запрещено. При воспроизведении другими веб-сайтами всего содержания книги или его частей необходимо указывать контактную информацию составителя и URL-адрес сайта Канцуйцзюй. Мы оставляем за собой право принять меры против тех, кто присваивает содержание с незначительными изменениями, удаляя или изменяя атрибуцию составителя.",
+      "ja": "声明：本書はKolistanにより匯校整理・制作され、無料でダウンロード提供されております。内容の完全性を変更しない前提での自由な配布は許可されますが、商用利用は禁止されています。他のウェブサイトが本書の全部または一部を転載する場合は、必ず整理者の連絡先情報と抗翠居のURLを明記してください。本書の内容を部分的に改変しただけで、整理者の名前を削除または変更して別途発表する者に対しては、追及する権利を留保します。",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "pdf_page": 3,
+      "type": "prose",
+      "original": "红楼梦脂评汇校本\n版本：3.13（2009.7.20.）\n曹雪芹著 / 脂砚斋评\nKolistan 汇校整理、制作\n抗翠居红楼梦文学社区发布",
+      "zh_modern": "《红楼梦》脂砚斋评注汇校本\n版本：3.13（2009年7月20日）\n曹雪芹著，脂砚斋评注\nKolistan 汇校整理、制作\n抗翠居红楼梦文学社区发布",
+      "en": "Dream of the Red Chamber: Collated Edition with Zhiping Commentary\nVersion: 3.13 (July 20, 2009)\nWritten by Cao Xueqin / Commentary by Zhiyan Zhai\nCollated and produced by Kolistan\nPublished by Kangcuiju Red Chamber Literature Community",
+      "ru": "Сон в красном тереме: Сводное издание с комментариями Чжиянь Чжая\nВерсия: 3.13 (20 июля 2009 г.)\nАвтор: Цао Сюэцинь / Комментарии: Чжиянь Чжай\nСведено и составлено Kolistan\nОпубликовано литературным сообществом Канцуйцзюй «Сон в красном тереме»",
+      "ja": "紅楼夢：脂硯斎評注匯校本\nバージョン：3.13（2009年7月20日）\n曹雪芹著／脂硯斎評\nKolistan 匯校整理・制作\n抗翠居紅楼夢文学コミュニティ発行",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "pdf_page": 3,
+      "type": "prose",
+      "original": "联系方式：\nEmail：kolistan@yahoo.com.cn\nQQ：552129470\nMSN：kolistan@msn.com\n网址：http://bbs.hlmbb.com/",
+      "zh_modern": "联系方式：\n电子邮件：kolistan@yahoo.com.cn\nQQ：552129470\nMSN：kolistan@msn.com\n网址：http://bbs.hlmbb.com/",
+      "en": "Contact Information:\nEmail: kolistan@yahoo.com.cn\nQQ: 552129470\nMSN: kolistan@msn.com\nWebsite: http://bbs.hlmbb.com/",
+      "ru": "Контактная информация:\nЭл. почта: kolistan@yahoo.com.cn\nQQ: 552129470\nMSN: kolistan@msn.com\nВеб-сайт: http://bbs.hlmbb.com/",
+      "ja": "連絡先：\nEmail：kolistan@yahoo.com.cn\nQQ：552129470\nMSN：kolistan@msn.com\nウェブサイト：http://bbs.hlmbb.com/",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "This page contains copyright and usage information for the electronic edition",
+    "Version 3.13 dated July 20, 2009 represents the edition used for this translation project",
+    "The compiler Kolistan has made this edition freely available for non-commercial use with proper attribution"
+  ],
+  "research_notes": [
+    "Verified standard copyright terminology across all languages",
+    "Maintained contact information as provided in original"
+  ],
+  "characters_appearing": [],
+  "total_segments": 4,
+  "manuscript_sources_on_page": []
+}
