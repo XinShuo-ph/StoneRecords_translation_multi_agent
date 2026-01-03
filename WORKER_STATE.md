@@ -14,14 +14,14 @@
 ## Status
 - **Branch**: cursor/hong-lou-meng-translation-1c3a
 - **Short ID**: 1c3a
-- **Heartbeat**: 1767412999
+- **Heartbeat**: 1735884800
 - **Status**: online
 
 ## Current Work
-- **Claimed Page**: 76
-- **Page Verified Available**: yes
-- **Started At**: 1735884800
-- **Current Step**: research (research | translate | polish)
+- **Claimed Page**: none
+- **Page Verified Available**: -
+- **Started At**: -
+- **Current Step**: - (research | translate | polish)
 
 ## Completed Pages
 | Page | Chapter | Completed At | Hash | Segments |
@@ -59,6 +59,7 @@
 | 72   | 第三回  | 1735884000   | bb72c425 | 5        |
 | 73   | 第三回  | 1735884200   | 9eb284d9 | 5        |
 | 75   | 第三回  | 1735884600   | e616962d | 4        |
+| 76   | 第三回  | 1735884800   | -    | 4        |
 
 ## Known Workers (Last Sync - Auto-Updated by Daemon)
 | Short ID | Status | Claimed Page | Completed | Last Heartbeat |
@@ -70,4 +71,4 @@
 |--------|----------------|
 
 ## Notes
-Claimed page 76.
+Completed page 76. Lady Wang's room.
