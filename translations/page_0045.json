@@ -1,0 +1,175 @@
+{
+  "page": 45,
+  "chapter": "第二回",
+  "chapter_title": {
+    "original": "贾夫人仙逝扬州城 冷子兴演说荣国府",
+    "zh_modern": "贾夫人在扬州城仙逝，冷子兴演说荣国府",
+    "en": "Lady Jia Passes Away in Yangzhou City; Leng Zixing Discusses the Rong Mansion",
+    "ru": "Госпожа Цзя скончалась в городе Янчжоу; Лэн Цзысин рассказывает о поместье Жун",
+    "ja": "賈夫人揚州城に仙逝し、冷子興栄国府を演説す"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 45,
+      "type": "prose",
+      "original": "另有一番高出世外的事象。黛玉忙起身迎上来见礼，【喻问】此飞亦赤不可少。互相厮认过，大家归坐。丫鬟们斟上茶来。不过说些黛玉之母如何得病，如何请医服药，如何送死发丧。不免贾母又伤感起来，【喻问】！【喻问】厉居是不疼，闲居之差。因说：\"我这些儿女，所疼者惟有你母，今日一旦先舍我去了，连面也不能一见，今见了你，我怎么不伤心！\"说着，搂着黛玉在怀，又呜咽起来。【喻问】不幸妻也嘱他更泣。众人忙都宽慰解释，方略略止住。【喻问】点为妻玉自此不能到拾。",
+      "zh_modern": "另有一番超出世俗的事象。黛玉赶忙起身迎上前去见礼，互相认识过后，大家归坐。丫鬟们斟上茶来。不过说些黛玉之母如何得病，如何请医服药，如何送终发丧。不免贾母又伤感起来，因此说道：\"我这些儿女中，所疼爱的只有你母亲，今日她一旦先于我离世了，连面也不能见一次，如今见了你，我怎能不伤心！\"说着，搂着黛玉在怀中，又呜咽起来。众人赶忙都来宽慰解释，才略略止住。",
+      "en": "There was another matter transcending the mundane world. Daiyu hastily rose and came forward to pay her respects. After mutual introductions, everyone returned to their seats. The maids poured tea. They spoke only of how Daiyu's mother had fallen ill, how physicians were summoned and medicines administered, how she was mourned and buried. Inevitably, Grandmother Jia grew sorrowful again. She said, 'Among all my children, I loved only your mother most. Now that she has left me first, I couldn't even see her face one last time. Seeing you now, how can I not grieve!' As she spoke, she embraced Daiyu and began weeping again. Everyone hastily offered comfort and consolation, barely managing to calm her.",
+      "ru": "Было ещё одно дело, превосходящее мирское. Дайюй поспешно встала и вышла вперёд, чтобы выразить почтение. После взаимных представлений все вернулись на свои места. Служанки разлили чай. Они говорили только о том, как мать Дайюй заболела, как были вызваны врачи и назначены лекарства, как её оплакивали и хоронили. Неизбежно бабушка Цзя снова опечалилась. Она сказала: «Среди всех моих детей я больше всего любила твою мать. Теперь, когда она покинула меня первой, я даже не смогла увидеть её лицо в последний раз. Видя тебя сейчас, как я могу не горевать!» Говоря это, она обняла Дайюй и снова заплакала. Все поспешно предлагали утешение и утешали, едва сумев успокоить её.",
+      "ja": "另に一番世外に高出する事象有り。黛玉忙しく起身し迎え上り来たりて礼を見、互いに相い認め過ぎ、大家帰坐す。丫鬟ら茶を斟ぎ上げ来たる。過ぎざるは些か黛玉の母如何に病を得、如何に医を請じ薬を服し、如何に死を送り喪を発するを説く。免れず賈母又た傷感し起こり来たる、因りて説く：「我が此の些の兒女、疼する所惟だ你の母有り、今日一旦先んじて我を舎し去り、連面も能く一見せず、今你を見、我怎んぞ傷心せざらんや！」と説きて、黛玉を搂みて懐に在り、又た嗚咽し起こり来たる。衆人忙しく都寛慰解釈し、方に略略止住す。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "喻問本",
+          "position": "inline after 见礼",
+          "original": "此飛亦赤不可少。",
+          "zh_modern": "此笔飞扬也不可少。",
+          "en": "This flourish is also indispensable.",
+          "ru": "Этот росчерк также необходим.",
+          "ja": "此の飛亦た赤た少なかるべからず。"
+        },
+        {
+          "type": "夹批",
+          "source": "喻問本",
+          "position": "inline after 起来",
+          "original": "！",
+          "zh_modern": "！",
+          "en": "!",
+          "ru": "!",
+          "ja": "！"
+        },
+        {
+          "type": "夹批",
+          "source": "喻問本",
+          "position": "after exclamation",
+          "original": "厲居是不疼，閑居之差。",
+          "zh_modern": "厉居是不疼，闲居之差。",
+          "en": "Living severely doesn't hurt, it's the difference of living leisurely.",
+          "ru": "Строгая жизнь не причиняет боль, это разница праздной жизни.",
+          "ja": "厲居は是れ疼からず、閑居の差。"
+        },
+        {
+          "type": "夹批",
+          "source": "喻問本",
+          "position": "inline after 起来",
+          "original": "不幸妻也囑他更泣。",
+          "zh_modern": "不幸妻子也嘱咐他更加哭泣。",
+          "en": "The unfortunate wife also urged him to weep more.",
+          "ru": "Несчастная жена также призвала его плакать больше.",
+          "ja": "不幸の妻も也た他に囑して更に泣かしむ。"
+        },
+        {
+          "type": "夹批",
+          "source": "喻問本",
+          "position": "inline at end",
+          "original": "點為妻玉自此不能到拾。",
+          "zh_modern": "点明为妻玉自此不能拾得。",
+          "en": "Pointing out that for wife Jade henceforth could not recover.",
+          "ru": "Указывая, что для жены Яшма отныне не могла восстановиться.",
+          "ja": "點じて妻玉の為に此より拾うこと能わず。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pdf_page": 45,
+      "type": "prose",
+      "original": "众人见黛玉年貌虽小，其举止言谈不俗，身体面庞虽怯弱不胜，【喻问】写人入是如此意传，有富贵得不问岂称赍！却有一段自然风流态度，【喻问】为蜜玉写照，众人目中，只此一句为美。【喻问】此从众人目中写黛玉，暮陪并居，总能胜物背？想其来历不低者也。便知他有不足之症。因问：\"常服何药，如何不急为疗治？\"黛玉笑道：\"我自来是如此，从会吃饮食时便吃药，到今未断，请了多少名医修方配药，皆不见效。那一年我才三岁时，听得说【喻问】大奇每如每毛。来了一个癞头和尚，【喻问】到有奇经捷一套手也。说他中须信懊价，痳谁之差也暴惊《西游》中一味木痺，生不可能疗用世音守子也。说要化我去出家，我父母固是不从。他又说：'既舍不得他，只怕他的病一生也不能好的了。若要好时，除非从此以后意不许见哭声，【喻问】灵父又之父如也出寶玉，串此朴鲁。众人忙都宽慰解释，方略略止住。【喻问】点为妻玉自此不能到拾。",
+      "zh_modern": "众人见黛玉年纪虽小，但举止言谈不俗，身体面庞虽然怯弱柔弱，却有一段自然的风流态度，想她的来历不低。便知道她有不足之症。因而问道：\"常服什么药，为何不赶紧治疗？\"黛玉笑道：\"我向来就是这样，从会吃东西时就开始吃药，到如今未曾间断，请了多少名医修方配药，都不见效果。那一年我才三岁时，听说来了一个癞头和尚，说他已经修炼了很多年。说要度化我去出家，我父母当然不肯。他又说：'既然舍不得她，恐怕她的病一生也不能好了。若要好，除非从此以后意不许见哭声，众人赶忙都来宽慰解释，才略略止住。",
+      "en": "Everyone observed that though Daiyu was young in years and appearance, her manner and speech were refined. Though her body and face were delicate and weak, she possessed a natural grace and elegance. Surmising her origins were not humble, they knew she suffered from a chronic ailment. They asked, 'What medicine do you regularly take? Why not seek urgent treatment?' Daiyu smiled and said, 'I've always been this way. Since I could eat food, I've been taking medicine continuously until now. So many famous physicians have prepared prescriptions, all to no avail. When I was only three years old, I heard that a scabby-headed monk came, claiming many years of cultivation. He said he wanted to take me away to become a nun. My parents, of course, refused. He then said, \"Since you cannot bear to part with her, I fear her illness will never be cured in this lifetime. If you want her well, from now on she must never hear crying...\" Everyone hastily offered comfort and consolation, barely managing to calm down.",
+      "ru": "Все наблюдали, что хотя Дайюй была молода годами и внешне, её манеры и речь были утончёнными. Хотя её тело и лицо были нежными и слабыми, она обладала естественной грацией и элегантностью. Полагая, что её происхождение было не скромным, они знали, что она страдала от хронического недуга. Они спросили: «Какое лекарство вы регулярно принимаете? Почему не искать срочного лечения?» Дайюй улыбнулась и сказала: «Я всегда была такой. С тех пор как я могла есть пищу, я принимала лекарства непрерывно до сих пор. Столько знаменитых врачей готовили рецепты, всё безрезультатно. Когда мне было всего три года, я слышала, что пришёл монах с паршивой головой, утверждавший, что много лет занимался самосовершенствованием. Он сказал, что хочет забрать меня, чтобы я стала монахиней. Мои родители, конечно, отказались. Он тогда сказал: «Раз вы не можете расстаться с ней, боюсь, её болезнь никогда не излечится в этой жизни. Если хотите, чтобы она выздоровела, отныне она не должна слышать плач...» Все поспешно предложили утешение и утешение, едва сумев успокоиться.",
+      "ja": "衆人黛玉の年貌小しと雖も見、其の挙止言談俗ならず、身体面庞怯弱不勝なりと雖も、却りて一段の自然なる風流の態度有り、其の來歷低からざる者なるを想う。便ち彼不足の症有るを知る。因りて問う：「常に何の薬を服す、如何ぞ急として療治を為さざるや？」黛玉笑いて道う：「我自来是の如し、飲食を吃するに会するより時便ち薬を吃し、今に到りて未だ断たず、多少の名医を請じ方を修し薬を配するも、皆效を見ず。その一年我才三歳の時、聽き得て説く一個の癩頭和尚來たり、彼中須く懊價を信じ、痳誰の差也た暴驚す《西遊》中一味の木痺、生として世音守子を療用すべからざるを説く。我を化して去りて出家せしめんと欲すと説き、我が父母固より是れ從わず。彼又た説く：'既に彼を舎し得ず、只だ怕らくは彼の病一生も好く能わざる了。若し好からんと要せば、除く非ず此より以後意許さず哭聲を見るを、衆人忙しく都寬慰解釋し、方に略略止住す。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "喻問本",
+          "position": "inline after 不胜",
+          "original": "寫人入是如此意傳，有富貴得不問豈稱賍！",
+          "zh_modern": "写人如此传神，有富贵却不问难道称得上好？",
+          "en": "Writing about people so vividly, having wealth yet not asking—can this be called good?",
+          "ru": "Писать о людях так живо, имея богатство, но не спрашивая — можно ли это назвать хорошим?",
+          "ja": "人を寫すこと入りて是の如く意傳す、富貴有りて得て問わざるは豈に賍と稱するや！"
+        },
+        {
+          "type": "夹批",
+          "source": "喻問本",
+          "position": "inline after 态度",
+          "original": "為蜜玉寫照，衆人目中，只此一句為美。",
+          "zh_modern": "为黛玉写照，众人眼中，只此一句最美。",
+          "en": "Portraying Daiyu, in everyone's eyes, only this one phrase is beautiful.",
+          "ru": "Изображая Дайюй, в глазах всех только эта одна фраза прекрасна.",
+          "ja": "蜜玉の為に寫照す、衆人の目中、只だ此の一句美為り。"
+        },
+        {
+          "type": "夹批",
+          "source": "喻問本",
+          "position": "after previous",
+          "original": "此從衆人目中寫黛玉，暮陪並居，總能勝物背？",
+          "zh_modern": "此从众人眼中写黛玉，暮伴并居，总能胜物吗？",
+          "en": "This writes Daiyu from everyone's eyes, accompanying at dusk and dwelling together, can it always overcome things?",
+          "ru": "Это пишет Дайюй глазами всех, сопровождая в сумерках и живя вместе, может ли это всегда преодолевать вещи?",
+          "ja": "此れ衆人の目中より黛玉を寫し、暮陪し並び居す、總じて能く物に勝つや？"
+        },
+        {
+          "type": "夹批",
+          "source": "喻問本",
+          "position": "inline after 说",
+          "original": "大奇每如每毛。",
+          "zh_modern": "大奇每如每毛。",
+          "en": "Greatly strange, each like each hair.",
+          "ru": "Весьма странно, каждый как каждый волос.",
+          "ja": "大いに奇なること每毛の如く每なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "喻問本",
+          "position": "inline after 和尚",
+          "original": "到有奇經捷一套手也。",
+          "zh_modern": "到有奇经捷径一套手法。",
+          "en": "Arriving with strange scriptures and shortcuts, a whole set of methods.",
+          "ru": "Прибыв со странными писаниями и ярлыками, целый набор методов.",
+          "ja": "到りて奇經捷一套の手有る也。"
+        },
+        {
+          "type": "夹批",
+          "source": "喻問本",
+          "position": "inline in middle",
+          "original": "痳誰之差也暴驚《西遊》中一味木痺，生不可能療用世音守子也。",
+          "zh_modern": "谁之差异也令人惊异，《西游记》中一味木呆，生来不可能用观音守护。",
+          "en": "Whose difference is also surprising, in Journey to the West stubbornly wooden, born impossible to use Guanyin's protection.",
+          "ru": "Чья разница также удивительна, в «Путешествии на Запад» упрямо деревянный, рождённый не может использовать защиту Гуаньинь.",
+          "ja": "痳誰の差也た暴驚す《西遊》中一味木痺、生として世音の守子を療用すべからざる也。"
+        },
+        {
+          "type": "夹批",
+          "source": "喻問本",
+          "position": "inline after 哭声",
+          "original": "靈父又之父如也出寶玉，串此樸魯。",
+          "zh_modern": "灵父又之父如也出宝玉，串此朴鲁。",
+          "en": "The spiritual father and again the father also produce Baoyu, connecting this simplicity.",
+          "ru": "Духовный отец и снова отец также производят Баоюя, соединяя эту простоту.",
+          "ja": "靈父又た之の父の如く也た寶玉を出だす、此の樸魯を串す。"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "This page describes Lin Daiyu's arrival at the Jia household and her first meeting with Grandmother Jia",
+    "The 'scabby-headed monk' (癞头和尚) is one of the supernatural figures who recur throughout the novel",
+    "Daiyu's chronic illness is established as a plot element - connected to her emotional sensitivity",
+    "The prophecy about not hearing crying foreshadows the tragic themes of the novel",
+    "The natural grace (风流态度) attributed to Daiyu establishes her as the novel's poetic heroine",
+    "Grandmother Jia's grief reinforces the deep bond between mother and daughter across generations"
+  ],
+  "research_notes": [
+    "Consulted scholarly analysis of Daiyu's character introduction",
+    "Reviewed symbolism of illness in Dream of the Red Chamber",
+    "Studied the role of Buddhist monks in the novel's supernatural framework",
+    "Examined parallels between Daiyu's fragility and tragic fate"
+  ],
+  "characters_appearing": ["林黛玉", "贾母", "癞头和尚"],
+  "total_segments": 2,
+  "manuscript_sources_on_page": ["喻問本"]
+}
