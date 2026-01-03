@@ -1,0 +1,71 @@
+{
+  "page": 26,
+  "chapter": "第一回",
+  "chapter_title": {
+    "original": "甄士隐梦幻识通灵 贾雨村风尘怀闺秀",
+    "zh_modern": "甄士隐在梦幻中认识了通灵宝玉，贾雨村在落魄时怀念闺中秀女",
+    "en": "Zhen Shiyin in a Dream Perceives the Jade of Spiritual Understanding; Jia Yucun in Humble Circumstances Thinks Fondly of a Beautiful Maiden",
+    "ru": "Чжэнь Шиинь во сне постигает волшебную яшму; Цзя Юйцунь в бедности вспоминает прекрасную деву",
+    "ja": "甄士隠、夢幻の中で通霊を識り、賈雨村、風塵にありて閨秀を懐う"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 26,
+      "type": "poem",
+      "original": "因嫌纱帽小，致使锁枷扛；昨怜破袄寒，今嫌紫蟒长。\n乱烘烘你方唱罢我登场，反认他乡是故乡。\n甚荒唐，到头来都是为他人作嫁衣裳！",
+      "zh_modern": "因为嫌弃官帽太小（官职低），结果却戴上了枷锁（犯罪入狱）；昨天还可怜破棉袄寒冷，今天又嫌弃紫蟒袍（高官服饰）太长（麻烦）。\n乱哄哄的，你刚唱完我又登场，反而把异乡当作了故乡。\n真是荒唐，到头来都是在为别人做嫁衣裳！",
+      "en": "Because the official's hat was too small, he ended up wearing the cangue;\nYesterday pitying the cold in a tattered jacket, today complaining the purple python robe is too long.\nIn chaotic confusion, after you have sung, I take the stage,\nMistaking a foreign land for one's native home.\nHow absurd! In the end, it is all just sewing a wedding dress for another!",
+      "ru": "Шляпа чиновья мала показалась — в колодки шею заковал;\nВчера жалел о рваной куртке, сегодня мантия длинна.\nВ суматохе один допоёт, другой на сцену вступает,\nЧужую землю родным краем признавая.\nКак нелепо! В конце концов, всё это — шитьё приданого для других!",
+      "ja": "紗帽の小きを嫌いしに因りて、致して鎖枷を扛げしむ；\n昨日は破襖の寒きを憐れみ、今日は紫蟒の長きを嫌う。\n乱烘烘として汝唱い罷めば我登場し、反って他郷を認めて故郷と為す。\n甚だ荒唐なり、頭に到り来れば都て是れ他人の為に嫁衣裳を作すなり！"
+    },
+    {
+      "id": 2,
+      "pdf_page": 26,
+      "type": "prose",
+      "original": "那疯跛道人听了，拍掌笑道：“解得切！解得切！”士隐便说一声“走罢！”将道人肩上褡裢抢了过来背着，竟不回家，同了疯道人飘飘而去。",
+      "zh_modern": "那疯跛道人听了，拍手笑着说：“解得切题！解得切题！”甄士隐便说了一声“走吧！”把道人肩上的褡裢抢过来背在自己身上，竟然不回家，同那疯道人一起飘然而去。",
+      "en": "The crazy lame Taoist heard this, clapped his hands, and laughed, \"Well interpreted! Well interpreted!\" Shiyin then said, \"Let us go!\" He snatched the bag from the Taoist's shoulder, slung it over his own, and without even returning home, drifted away with the crazy Taoist.",
+      "ru": "Безумный хромой даос, услышав это, захлопал в ладоши и засмеялся: «Верно истолковал! Верно истолковал!» Шиинь сказал: «Идём!» Схватил мешок с плеча даоса, закинул себе на спину и, не возвращаясь домой, ушёл вместе с безумным даосом.",
+      "ja": "あの風狂の跛足道人はこれを聞き、手を打って笑い、「解し得たり！解し得たり！」と言った。士隠はすなわち一声「行かん！」と言い、道人の肩の褡裢（布袋）を奪い取って背負い、竟に家に帰らず、風狂の道人と共に飄々と去って行った。"
+    },
+    {
+      "id": 3,
+      "pdf_page": 26,
+      "type": "prose",
+      "original": "当下烘动街坊，众人当作一件新闻传说。封氏闻得此信，哭个死去活来，只得与父亲商议，遣人各处访寻，那讨音信？",
+      "zh_modern": "当时这件事轰动了街坊邻居，大家都把它当作一件新闻来传说。封氏听到这个消息，哭得死去活来，只好和父亲商量，派人到处寻找，哪里还有音信？",
+      "en": "This immediately caused a sensation in the neighborhood, and everyone told it as a piece of news. When his wife, née Feng, heard the news, she wept as if dead, and could only consult with her father to send people to search everywhere, but where could any news be found?",
+      "ru": "Это событие взбудоражило всю округу, люди передавали его как новость. Услышав об этом, госпожа Фэн рыдала до полусмерти; ей пришлось обсудить это с отцом и послать людей на поиски, но где там было найти хоть весточку?",
+      "ja": "即座に街坊を烘動し、衆人は一件の新聞として伝説した。封氏は此の信を聞き、死去活来するほどに泣き、止むを得ず父親と商議し、人を遣わして各所を訪ね尋ねしめたが、何ぞ音信を討めん？"
+    },
+    {
+      "id": 4,
+      "pdf_page": 26,
+      "type": "prose",
+      "original": "无奈何，少不得依靠着他父母度日。幸而身边还有两个旧日的丫鬟伏侍，主仆三人，日夜作些针线发卖，帮着父亲用度。",
+      "zh_modern": "无可奈何，少不得依靠着她的父母过日子。幸好身边还有两个旧时的丫鬟服侍，主仆三人，日夜做些针线活卖钱，帮补父亲的家用。",
+      "en": "With no other choice, she had to rely on her parents to survive. Fortunately, she still had two maids from the old days to serve her. The three of them, mistress and servants, did needlework day and night to sell, helping her father with expenses.",
+      "ru": "Делать было нечего, пришлось жить за счёт родителей. К счастью, при ней остались две старые служанки; втроём, госпожа и слуги, они дни и ночи напролёт занимались шитьём на продажу, помогая отцу с расходами.",
+      "ja": "奈何ともする無く、彼の父母に依靠して日を送るより他なし。幸いにして身辺にまだ二人の旧日の丫鬟ありて伏侍し、主僕三人、日夜些かの針線を作して発売し、父親の用度を助けた。"
+    }
+  ],
+  "translator_notes": [
+    "Zhen Shiyin's departure marks his complete enlightenment and detachment from the 'Red Dust' (worldly life).",
+    "The line 'sewing a wedding dress for another' (为他人作嫁衣裳) is a famous idiom meaning working hard only for others to benefit.",
+    "The 'purple python robe' (紫蟒) refers to the official court dress of high rank."
+  ],
+  "research_notes": [
+    "Verified the interpretation of 'Purple Python' (Zi Mang) as official robes.",
+    "The abruptness of Shiyin's departure is characteristic of Zen/Taoist enlightenment stories."
+  ],
+  "characters_appearing": [
+    "甄士隐",
+    "跛足道人",
+    "封氏"
+  ],
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ]
+}
