@@ -1,0 +1,99 @@
+{
+  "page": 5,
+  "chapter": "凡例",
+  "chapter_title": {
+    "original": "电子版制作说明（续）",
+    "zh_modern": "电子版制作说明（续）",
+    "en": "Electronic Edition Production Notes (continued)",
+    "ru": "Примечания по созданию электронного издания (продолжение)",
+    "ja": "電子版制作説明（続）"
+  },
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "type": "preface",
+      "original": "色。抄本中有些同一位置不止一条批语的，原以"○"或空格隔开，现统一以"◇"隔开。",
+      "zh_modern": "颜色。抄本中有些同一位置不止一条批语的，原以"○"或空格隔开，现统一以"◇"隔开。",
+      "en": "Color. In manuscripts where multiple comments appear at the same location, originally separated by \"○\" or spaces, they are now uniformly separated by \"◇\".",
+      "ru": "Цвет. В рукописях, где несколько комментариев появляются в одном месте, первоначально разделённые символом «○» или пробелами, теперь они единообразно разделены символом «◇».",
+      "ja": "色。抄本の中で同一位置に一条以上の批語がある場合、原本では「○」或いは空格で隔てられていたが、今は統一して「◇」で隔てる。",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "type": "preface",
+      "original": "本书使用半角圆括号０和半角方括号□作为校改文字记号：（某）表示删字，［某］表示补字，（甲）［乙］表示改字。",
+      "zh_modern": "本书使用半角圆括号和半角方括号作为校改文字记号：（某）表示删字，［某］表示补字，（甲）［乙］表示改字。",
+      "en": "This book uses half-width round parentheses and half-width square brackets as textual correction marks: (X) indicates deleted character, [X] indicates added character, (A)[B] indicates changed character.",
+      "ru": "Эта книга использует круглые скобки половинной ширины и квадратные скобки половинной ширины в качестве знаков текстовых исправлений: (X) обозначает удалённый иероглиф, [X] обозначает добавленный иероглиф, (A)[B] обозначает изменённый иероглиф.",
+      "ja": "本書は半角丸括弧と半角方括弧を校改文字記号として使用する：（某）は削字を表し、［某］は補字を表し、（甲）［乙］は改字を表す。",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "type": "preface",
+      "original": "本电子书自发布以来，不少网友提出了改进意见，这些建议基本上都已经采纳。现在，接受多数朋友的意见，这个版本采用 PDF 格式。",
+      "zh_modern": "本电子书自发布以来，不少网友提出了改进意见，这些建议基本上都已经采纳。现在，接受多数朋友的意见，这个版本采用 PDF 格式。",
+      "en": "Since the initial release of this e-book, numerous online friends have offered suggestions for improvement, and most of these suggestions have been adopted. Now, accepting the opinion of most friends, this version uses PDF format.",
+      "ru": "С момента первоначального выпуска этой электронной книги многочисленные друзья в интернете предлагали улучшения, и большинство этих предложений были приняты. Теперь, принимая мнение большинства друзей, эта версия использует формат PDF.",
+      "ja": "本電子書籍は発布以来、少なからぬネット友達が改進意見を提出し、これらの建議は基本的に全て採納された。今、多数の友人の意見を受け入れ、この版本は PDF 形式を採用する。",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "type": "preface",
+      "original": "本书的整理得到很多网友的帮助。早期版本曾得浪如协助校对，订正不少错读；冰冰冰冰、云涛先后参与讨论，给我很多启发。3.0 版发出之后，又承君子九思、爱如潮水、yupeng、蓝山、潇湘楚客、zhwl、liuzhoufish、姜员外、寻梦园、阿超、梁三、彭乐之声、兔子炮姐、休闲、志学斋主、daphne、rocwings 等各位指出了若干问题，统此鸣谢。由于整理者学识所限，本书虽经多次修订，仍在问题必然尚多。希望朋友们在使用过程中发现错误及不妥之处，继续不吝赐教。",
+      "zh_modern": "本书的整理得到很多网友的帮助。早期版本曾得浪如协助校对，订正不少错读；冰冰冰冰、云涛先后参与讨论，给我很多启发。3.0 版发出之后，又承君子九思、爱如潮水、yupeng、蓝山、潇湘楚客、zhwl、liuzhoufish、姜员外、寻梦园、阿超、梁三、彭乐之声、兔子炮姐、休闲、志学斋主、daphne、rocwings 等各位指出了若干问题，统此鸣谢。由于整理者学识所限，本书虽经多次修订，仍在问题必然尚多。希望朋友们在使用过程中发现错误及不妥之处，继续不吝赐教。",
+      "en": "The compilation of this book has benefited from the assistance of many online friends. The early version received proofreading help from Langru, who corrected numerous misreadings; Bingbingbingbing and Yuntao participated in discussions and provided much inspiration. After the 3.0 release, I am further indebted to Junzi Jiusi, Aicruchao Shui, yupeng, Lanshan, Xiaoxiang Chuke, zhwl, liuzhoufish, Jiang Yuanwai, Xunmeng Yuan, A Chao, Liang San, Pengyue Zhisheng, Tuzi Paojie, Xiuxian, Zhixue Zhaizhu, daphne, rocwings and others for pointing out various issues—I express my collective gratitude here. Due to the compiler's limited knowledge, despite multiple revisions, many problems undoubtedly remain. I hope friends will continue to generously offer their guidance when they discover errors or deficiencies in the course of using this book.",
+      "ru": "Составление этой книги получило помощь от многих друзей в интернете. Ранняя версия получила помощь в корректуре от Лангжу, который исправил многочисленные неверные прочтения; Бинбинбинбин и Юньтао участвовали в обсуждениях и дали много вдохновения. После выпуска версии 3.0 я ещё более в долгу перед Цзюньцзы Цзюсы, Айжучао Шуй, yupeng, Ланьшань, Сяосян Чукэ, zhwl, liuzhoufish, Цзян Юаньвай, Сюньмэн Юань, А Чао, Лян Сань, Пэнъюэ Чжишэн, Туцзы Паоцзе, Сюсянь, Чжисюэ Чжайчжу, daphne, rocwings и другими за указание на различные проблемы — я выражаю им коллективную благодарность здесь. Из-за ограниченных знаний составителя, несмотря на многочисленные редакции, несомненно остаётся много проблем. Я надеюсь, что друзья будут продолжать щедро предлагать свои руководства, когда обнаружат ошибки или недостатки в процессе использования этой книги.",
+      "ja": "本書の整理は多くのネット友達の助けを得た。早期版本は浪如の協助により校対を得て、少なからぬ誤読を訂正した。氷氷氷氷、雲涛は先後して討論に参与し、私に多くの啓発を与えた。3.0 版発出後、さらに君子九思、愛如潮水、yupeng、藍山、瀟湘楚客、zhwl、liuzhoufish、姜員外、尋夢園、阿超、梁三、彭楽之声、兎子炮姐、休閑、志学斎主、daphne、rocwings 等各位が若干の問題を指摘してくださり、ここに統一して謝意を表する。整理者の学識の限りにより、本書は多次修訂を経たが、なお問題が必然的に多い。友人達が使用過程で誤りや不妥を発見した際には、引き続き惜しまず教示を賜れば幸いである。",
+      "commentary": []
+    },
+    {
+      "id": 5,
+      "type": "preface",
+      "original": "联系方式：Email: kolistan@yahoo.com.cn，QQ: 552129470，MSN: kolistan@msn.com，或到"抗寨居红楼梦文学社区"发帖，反馈意见的朋友将会在后本书修订时及时获取更新版本。",
+      "zh_modern": "联系方式：Email: kolistan@yahoo.com.cn，QQ: 552129470，MSN: kolistan@msn.com，或到"抗寨居红楼梦文学社区"发帖，反馈意见的朋友将会在后本书修订时及时获取更新版本。",
+      "en": "Contact Information: Email: kolistan@yahoo.com.cn, QQ: 552129470, MSN: kolistan@msn.com, or post at the \"Kangzhaiju Dream of the Red Chamber Literary Community.\" Friends who provide feedback will receive updated versions promptly when this book is revised in the future.",
+      "ru": "Контактная информация: Email: kolistan@yahoo.com.cn, QQ: 552129470, MSN: kolistan@msn.com, или оставьте сообщение в «Литературном сообществе Сон в красном тереме Канчжайцзюй». Друзья, которые оставят отзывы, получат обновлённые версии оперативно, когда эта книга будет пересмотрена в будущем.",
+      "ja": "連絡先：Email: kolistan@yahoo.com.cn、QQ: 552129470、MSN: kolistan@msn.com、或いは「抗寨居紅楼夢文学コミュニティ」に投稿。フィードバック意見を寄せた友人は、後に本書が修訂される際に直ちに更新版を取得できる。",
+      "commentary": []
+    },
+    {
+      "id": 6,
+      "type": "preface",
+      "original": "本书由 Kolistan 汇校整理、制作电子版并免费提供下载，允许在不改变其内容完整的前提下自由传播，但禁止用于商业用途。其它网站转载本书，请注明整理者联系资料，以便我们及时得到回馈意见。我们从未授权任何人对本书进行格式转换（如改为 word、htm、exe、chm、txt 等等），照搬本书内容或仅作局部改动，而变更（或删除）整理者名号另行发表者，我们保留追究的权利。",
+      "zh_modern": "本书由 Kolistan 汇校整理、制作电子版并免费提供下载，允许在不改变其内容完整性的前提下自由传播，但禁止用于商业用途。其它网站转载本书，请注明整理者联系资料，以便我们及时得到回馈意见。我们从未授权任何人对本书进行格式转换（如改为 word、htm、exe、chm、txt 等等），照搬本书内容或仅作局部改动，而变更（或删除）整理者名号另行发表者，我们保留追究的权利。",
+      "en": "This book was collated, compiled, and made freely available for download in electronic form by Kolistan. Free distribution is permitted provided the content remains complete and unaltered, but commercial use is prohibited. Other websites reproducing this book should cite the compiler's contact information so we can receive timely feedback. We have never authorized anyone to convert this book to other formats (such as word, htm, exe, chm, txt, etc.). We reserve the right to take action against those who copy the book's content wholesale or make only minor modifications while changing or removing the compiler's attribution and republishing under another name.",
+      "ru": "Эта книга была собрана, составлена и предоставлена для бесплатного скачивания в электронной форме Kolistan. Свободное распространение разрешено при условии сохранения полноты и неизменности содержания, но коммерческое использование запрещено. Другие сайты, воспроизводящие эту книгу, должны указывать контактную информацию составителя, чтобы мы могли своевременно получать обратную связь. Мы никогда не разрешали никому конвертировать эту книгу в другие форматы (такие как word, htm, exe, chm, txt и т.д.). Мы оставляем за собой право принимать меры против тех, кто копирует содержание книги целиком или вносит лишь незначительные изменения, удаляя или изменяя авторство составителя и публикуя под другим именем.",
+      "ja": "本書は Kolistan により彙校整理し、電子版を制作して無料でダウンロード提供する。内容の完全性を損なわない前提で自由な流布を許可するが、商業用途への使用を禁止する。他のウェブサイトが本書を転載する場合、整理者の連絡先を明記し、我々が適時にフィードバック意見を得られるようにされたい。我々は如何なる人にも本書のフォーマット変換（word、htm、exe、chm、txt 等々への改変）を授権したことはない。本書の内容を丸写しし、或いは局部的に改変しただけで、整理者名を変更（或いは削除）して別途発表する者に対し、我々は追究する権利を留保する。",
+      "commentary": []
+    },
+    {
+      "id": 7,
+      "type": "preface",
+      "original": "Kolistan  2007.11.30.",
+      "zh_modern": "Kolistan  2007年11月30日",
+      "en": "Kolistan  November 30, 2007",
+      "ru": "Kolistan  30 ноября 2007 г.",
+      "ja": "Kolistan  2007年11月30日",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "This page concludes the editorial preface with acknowledgments to contributors",
+    "Version 3.0 was released in 2007, with version 3.13 being the current edition (2009)",
+    "The editor emphasizes this is a collaborative scholarly effort refined through community feedback",
+    "Strong emphasis on non-commercial, educational use with proper attribution",
+    "The page is numbered 'II' indicating it's the second page of front matter proper"
+  ],
+  "research_notes": [
+    "Names many contributors who helped improve the edition through proofreading and suggestions",
+    "Shows the collaborative, iterative nature of this scholarly project",
+    "The compiler acknowledges limitations while encouraging continued feedback"
+  ],
+  "characters_appearing": [],
+  "total_segments": 7,
+  "manuscript_sources_on_page": []
+}
