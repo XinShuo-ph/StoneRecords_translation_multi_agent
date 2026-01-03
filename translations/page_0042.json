@@ -1,0 +1,186 @@
+{
+  "page": 42,
+  "chapter": "第三回",
+  "chapter_title": {
+    "original": "金陵城起复贾雨村 荣国府收养林黛玉",
+    "zh_modern": "金陵城里贾雨村被起用复职，荣国府收养林黛玉",
+    "en": "Jia Yucun Is Reinstated in Jinling; Rong-guo House Takes In Lin Daiyu",
+    "ru": "Цзя Юйцунь восстановлен в должности в Цзиньлине; Дом Жунго принимает Линь Дайюй",
+    "ja": "金陵城にて賈雨村起復し、栄国府にて林黛玉を収養す"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "故未及行。此刻正思向蒙训教之恩未经酬报，遇此机会，岂有不尽心图报之理。但请放心，弟已预为筹画至此，已修下荐书一封，转托内兄务为周全协佐，方可稍尽弟之鄙诚，即有所费用之例，弟于内兄信中已注明白，亦不劳尊兄多虑矣。」雨村一面打躬，谢不释口，一面又问：「不知令亲大人现居何职？」如海笑道：「若论舍亲，与尊兄犹系同谱，乃荣公之孙。大内兄现袭一等将军之职，名赦，字恩侯；二内兄名政，字存周，现任工部员外郎，其为人谦恭厚道，大有祖父遗风，非膏粱轻薄仕宦之流，故弟方致书烦托。否则不但有污尊兄之清操，即弟亦不屑为矣。」",
+      "zh_modern": "所以还没来得及动身。此刻正思量蒙受先生教导之恩还未曾报答，遇到这样的机会，哪有不尽心报答的道理。但请放心，弟已预先筹划好了，已修下推荐信一封，转托内兄务必周全帮忙，方可稍稍表达弟的诚意，即使有费用之例，弟在给内兄的信中也已注明，亦不劳尊兄多费心了。」雨村一面打躬，谢个不停，一面又问：「不知令亲大人现任何职？」如海笑道：「若论舍亲，与尊兄还是同一族谱，是荣国公的孙子。大内兄现袭一等将军之职，名叫赦，字恩侯；二内兄名叫政，字存周，现任工部员外郎，他为人谦恭厚道，大有祖父遗风，不是那些膏粱子弟轻薄仕宦之流，所以弟才敢写信烦托。否则不但有污尊兄的清操，连弟也不屑为此了。」",
+      "en": "So I haven't yet set off. Right now I'm thinking of how I've never repaid your kindness in teaching me—how could I not do my utmost to repay you when such an opportunity arises? But please rest assured, I've already made preparations: I've written a letter of recommendation, entrusting it to my wife's brother to assist you fully. This can slightly express my sincerity; as for any expenses, I've already noted them in my letter to my brother-in-law, so you needn't worry.' Yucun bowed repeatedly, expressing endless thanks, and asked: 'May I ask what position your honorable relative currently holds?' Ruhai laughed: 'Speaking of my wife's family, they're actually of the same genealogy as you—descendants of Duke Rong. My elder brother-in-law has inherited the rank of First-Class General; his name is She, styled Enhou. My second brother-in-law is named Zheng, styled Cunzhou, currently serving as Vice Director of the Board of Works. He is humble and upright, much in the manner of his ancestors, not like those frivolous wealthy wastrels in official circles. That's why I dared to write this letter. Otherwise, it would not only taint your pure integrity, but I too would disdain to do such a thing.'",
+      "ru": "Поэтому я ещё не отправился. Сейчас я думаю о том, что никогда не отблагодарил вас за доброту в обучении — как могу я не сделать всё возможное, чтобы отплатить вам, когда представляется такая возможность? Но не беспокойтесь, я уже всё подготовил: написал рекомендательное письмо, доверив его брату жены, чтобы он полностью помог вам. Это может немного выразить мою искренность; что касается расходов, я уже указал их в письме к шурину, так что вам не о чем беспокоиться.» Юйцунь неоднократно кланялся, выражая бесконечную благодарность, и спросил: «Позвольте спросить, какую должность занимает ваш уважаемый родственник?» Жухай рассмеялся: «Говоря о семье моей жены, они на самом деле того же рода, что и вы — потомки герцога Жун. Мой старший шурин унаследовал звание генерала первого класса; его зовут Шэ, прозвище Эньхоу. Моего второго шурина зовут Чжэн, прозвище Цуньчжоу, в настоящее время он служит заместителем директора Палаты работ. Он скромен и честен, во многом в духе своих предков, не из тех легкомысленных богатых расточителей в чиновничьих кругах. Поэтому я осмелился написать это письмо. Иначе это не только запятнало бы вашу чистую честность, но и я сам погнушался бы делать это.»",
+      "ja": "故に未だ行くに及ばず。此の刻正に蒙訓教の恩未だ経酬報せざるを思向す、此の機会に遇えば、豈尽心図報の理なからんや。但し請う放心せよ、弟已に預め筹画せり此に至る、已に薦書一封を修め下し、内兄に転托して務めて周全協佐せしむ、方に稍々弟の鄙誠を尽くすべし、即ち費用の例有るも、弟内兄の信中に已に注明せり、亦尊兄の多慮を労せず。」雨村一面躬を打ち、謝して口を釈かず、一面又問う：「知らず令親大人現に何職に居るや？」如海笑いて道う：「若し舍親を論ぜば、尊兄と猶同譜に系す、乃ち栄公の孫なり。大内兄現に一等将軍の職を襲ぐ、名は赦、字は恩侯；二内兄名は政、字は存周、現に工部員外郎に任ず、其の人と為り謙恭厚道、大いに祖父の遺風あり、膏粱軽薄仕宦の流にあらず、故に弟方に書を致して煩托す。否らずんば不但尊兄の清操を污すのみならず、即ち弟も亦屑しとせざるなり。」",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂砚斋",
+          "position": "inline, after 故弟方致书烦托",
+          "original": "要说正文故以此作引，且黛玉路中实无可托之人，文笔通切得宜。",
+          "zh_modern": "要说正文所以用这段作引子，而且黛玉路上确实没有可以托付的人，文笔通达切当得宜。",
+          "en": "To explain the main text, this serves as introduction; moreover, Daiyu truly has no one to entrust herself to on the journey—the writing flows naturally and appropriately.",
+          "ru": "Чтобы объяснить основной текст, это служит введением; более того, у Дайюй действительно нет никого, кому она могла бы доверить себя в пути — письмо течёт естественно и уместно.",
+          "ja": "正文を説かんと欲するが故に此を以て引と作す、且つ黛玉路中実に托すべき人なし、文筆通切にして得宜なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 弟亦不屑为矣",
+          "original": "写如海实写政老。所谓此书有不写之写是也。",
+          "zh_modern": "写林如海实际上是在写贾政老爷。这就是所谓此书有「不写之写」的写法。",
+          "en": "Writing about Ruhai is actually writing about Master Zheng. This is what is meant by this book's 'writing without writing.'",
+          "ru": "Написание о Жухае на самом деле является написанием о господине Чжэне. Это то, что подразумевается под «письмом без письма» в этой книге.",
+          "ja": "如海を写すは実に政老を写す。謂う所の此の書に不写の写あるは是なり。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "雨村听了，心下方信了昨日子兴之言，于是又谢了林如海。如海乃说：「择了出月初二日小女入都，尊兄即同路而往，岂不两便？」雨村唯唯听命，心中十分得意。如海遂打点礼物并饯行之事，雨村一一领了。",
+      "zh_modern": "雨村听了，心里这才相信了昨天子兴的话，于是又向林如海道谢。如海便说：「选定了下月初二日小女进京，尊兄就同路一起去，岂不两便？」雨村唯唯听命，心中十分得意。如海于是打点礼物和饯行的事情，雨村一一领受了。",
+      "en": "Hearing this, Yucun finally believed Zixing's words from yesterday, and thanked Lin Ruhai again. Ruhai then said: 'I've chosen the second of next month for my daughter to enter the capital. If you, sir, travel together on the same route, wouldn't that be convenient for both?' Yucun agreed readily, feeling very pleased. Ruhai then prepared gifts and farewell arrangements, which Yucun accepted one by one.",
+      "ru": "Услышав это, Юйцунь наконец поверил вчерашним словам Цзысина и снова поблагодарил Линь Жухая. Жухай затем сказал: «Я выбрал второе число следующего месяца для отъезда моей дочери в столицу. Если вы, господин, поедете тем же путём, не будет ли это удобно для обоих?» Юйцунь охотно согласился, чувствуя себя очень довольным. Жухай затем подготовил подарки и прощальные приготовления, которые Юйцунь принял одно за другим.",
+      "ja": "雨村聴きて、心下方に昨日子興の言を信ぜり、是に於て又林如海に謝せり。如海乃ち説う：「出月の初二日を択りて小女都に入らん、尊兄即ち同路にして往かば、豈両便ならずや？」雨村唯唯として命を聴き、心中十分に得意なり。如海遂に礼物並びに餞行の事を打点し、雨村一一領せり。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂砚斋",
+          "position": "inline, after 即同路而往岂不两便",
+          "original": "作弊者每每偏能如此说。",
+          "zh_modern": "作弊的人往往偏偏能这样说。",
+          "en": "Those who cheat can often say such things.",
+          "ru": "Те, кто обманывает, часто могут говорить такие вещи.",
+          "ja": "作弊の者往往偏に能く此の如く説う。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "那女学生黛玉，身体大愈，原不忍弃父而往，无奈他外祖母致意务去，且兼如海说：「汝父年将半百，再无续室之意，且汝多病，年又极小，上无亲母教养，下无姊妹兄弟扶持，今依傍外祖母及舅氏姊妹去，正好减我顾盼之忧，何云不往？」黛玉听了，方洒泪拜别，",
+      "zh_modern": "那女学生黛玉，身体已经大好，本来不忍离开父亲前往，无奈外祖母殷切要求她一定要去，而且林如海说：「你父亲年近半百，再没有续娶的打算，而且你体弱多病，年纪又小，上无亲母教养，下无姊妹兄弟扶持，如今去依傍外祖母和舅舅家的姊妹，正好减轻我的牵挂之忧，怎么说不去呢？」黛玉听了，才洒泪拜别，",
+      "en": "That girl student Daiyu had largely recovered her health. Originally she couldn't bear to leave her father, but her maternal grandmother had sent earnest word that she must come. Moreover, Ruhai said: 'Your father is approaching fifty and has no intention of remarrying. You are sickly and very young; above, you have no mother to raise you; below, you have no siblings to support you. Now going to stay with your grandmother and your aunts and cousins will relieve my constant worry—how can you say you won't go?' Hearing this, Daiyu tearfully bade farewell,",
+      "ru": "Та ученица Дайюй в основном поправилась. Первоначально она не могла расстаться с отцом, но бабушка по материнской линии настойчиво просила её приехать. Более того, Жухай сказал: «Твоему отцу около пятидесяти, и он не намерен жениться снова. Ты болезненна и очень молода; выше у тебя нет матери, чтобы воспитывать тебя; ниже у тебя нет братьев и сестёр, чтобы поддержать тебя. Теперь поехать жить с бабушкой и двоюродными сёстрами облегчит мои постоянные заботы — как ты можешь сказать, что не поедешь?» Услышав это, Дайюй со слезами попрощалась,",
+      "ja": "那の女学生黛玉、身体大いに愈ゆ、原より父を棄てて往くに忍びず、奈何ともすべからず彼の外祖母致意して務めて去らしむ、且つ兼ねて如海説う：「汝の父年将に半百ならんとす、再び続室の意なし、且つ汝多病、年又極めて小さし、上に親母の教養なく、下に姊妹兄弟の扶持なし、今外祖母及び舅氏姊妹に依傍して去かば、正に好し我の顧盼の忧を減ぜん、何ぞ往かずと云うや？」黛玉聴きて、方に涙を洒ぎて拜別す、",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 且汝多病年又极小",
+          "original": "可怜！一句一滴血，一句一滴血之文。",
+          "zh_modern": "可怜！一句一滴血，一句一滴血的文字。",
+          "en": "How pitiful! Each sentence is a drop of blood—writing of blood with each line.",
+          "ru": "Как жалко! Каждое предложение — капля крови — письмо крови с каждой строкой.",
+          "ja": "可憐！一句一滴血、一句一滴血の文なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "脂砚斋",
+          "position": "inline, after 方洒泪拜别",
+          "original": "实写黛玉。此一段是不肯使黛玉作弃父乐为远游者，以此可见作者之心宝爱黛玉如己。",
+          "zh_modern": "实写黛玉。这一段是不肯让黛玉显得是抛弃父亲而乐于远行的人，由此可见作者是多么宝爱黛玉如同自己。",
+          "en": "This truly depicts Daiyu. This passage refuses to make Daiyu appear as one who abandons her father for distant travel—from this we can see how the author treasures Daiyu as himself.",
+          "ru": "Это подлинно изображает Дайюй. Этот отрывок отказывается показать Дайюй как человека, который оставляет отца ради дальних путешествий — из этого мы видим, как автор дорожит Дайюй как собой.",
+          "ja": "実に黛玉を写す。此の一段は黛玉をして父を棄てて遠游を楽しむ者と作すを肯んぜず、此を以て見るべし作者の心黛玉を宝愛すること己の如し。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "随同奶娘及荣府几个老妇人登舟而去。雨村另有一只船，带两个小童，依附黛玉而行。",
+      "zh_modern": "跟随奶娘和荣府派来的几个老嬷嬷登船而去。雨村另有一只船，带着两个小童，跟随黛玉的船而行。",
+      "en": "She boarded the boat together with her wet nurse and several old serving women from Rong-guo House. Yucun had a separate boat with two young servants, traveling alongside Daiyu's boat.",
+      "ru": "Она села на лодку вместе с кормилицей и несколькими старыми служанками из дома Жунго. У Юйцуня была отдельная лодка с двумя молодыми слугами, плывущая рядом с лодкой Дайюй.",
+      "ja": "奶娘及び栄府の幾個の老婦人に随同して舟に登りて去く。雨村另に一隻の船あり、両個の小童を帯び、黛玉に依附して行く。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 依附黛玉而行",
+          "original": "老师依附门生，怪道今时以收纳门生为幸。",
+          "zh_modern": "老师依附学生，怪不得现今以招收门生为幸事。",
+          "en": "The teacher depends on the student—no wonder nowadays recruiting students is considered fortunate.",
+          "ru": "Учитель зависит от ученика — неудивительно, что в наши дни набор учеников считается удачей.",
+          "ja": "老師門生に依附す、怪しむ道理今時門生を収納するを以て幸と為す。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "prose",
+      "original": "有日到了都中，进入神京，雨村先整了衣冠，拿着宗侄的名帖，",
+      "zh_modern": "有一天到了京城，进入神京，雨村先整理好衣冠，拿着宗侄的名帖，",
+      "en": "One day they arrived at the capital and entered the divine city. Yucun first adjusted his attire, then took a calling card bearing the title of 'clan nephew,'",
+      "ru": "Однажды они прибыли в столицу и вошли в священный город. Юйцунь сначала поправил свой наряд, затем взял визитную карточку с титулом «племянник клана»,",
+      "ja": "有日都中に到り、神京に進入す、雨村先ず衣冠を整え、宗侄の名帖を拿りて、",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 拿着宗侄的名帖",
+          "original": "此帖妙极，可知雨村的品行矣。",
+          "zh_modern": "这张名帖用得妙极，可见雨村的品行了。",
+          "en": "This calling card is wonderfully used—it reveals Yucun's character.",
+          "ru": "Эта визитная карточка замечательно использована — она раскрывает характер Юйцуня.",
+          "ja": "此の帖妙極まれり、雨村の品行を知るべし。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 进入神京",
+          "original": "且按下黛玉以待細写。今故先將雨村安置过一边，方起荣府中之正文也。",
+          "zh_modern": "先按下黛玉以待细写。现在故意先把雨村安置到一边，方才开始荣国府的正文。",
+          "en": "First set aside Daiyu for detailed writing later. Now deliberately placing Yucun aside, the main text of Rong-guo House begins.",
+          "ru": "Сначала отложим Дайюй для детального описания позже. Теперь намеренно откладываем Юйцуня в сторону, начинается основной текст дома Жунго.",
+          "ja": "且つ黛玉を按下して以て細写を待つ。今故に先ず雨村を安置して一辺を過ぎしめ、方に栄府中の正文を起こすなり。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after arrival section",
+          "original": "至此渐渐好看起来也。细密如此，是大家风范。",
+          "zh_modern": "到这里渐渐好看起来了。细密如此，是大家风范。",
+          "en": "From here it gradually becomes interesting. Such meticulousness is the manner of great masters.",
+          "ru": "Отсюда постепенно становится интересно. Такая тщательность — манера великих мастеров.",
+          "ja": "此に至りて漸漸と好看起来る。細密此の如し、是れ大家の風範なり。"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "This page describes the arrangements for Daiyu's journey to the Jia household",
+    "Lin Ruhai (林如海) introduces Jia She (贾赦) and Jia Zheng (贾政) - Daiyu's maternal uncles",
+    "「工部员外郎」(Vice Director of Board of Works) is Jia Zheng's official position",
+    "The commentary「一句一滴血」(each sentence a drop of blood) emphasizes the emotional weight of Daiyu leaving her father",
+    "The commentary reveals the author's deep love for Daiyu character - 'treasuring her as himself'",
+    "「宗侄」(clan nephew) - Yucun uses this title to claim kinship with the Jia family, showing his opportunism",
+    "「神京」(divine capital) refers to Beijing, the imperial capital",
+    "The commentary notes the narrative structure: Yucun is set aside to begin the main Rong-guo House narrative"
+  ],
+  "research_notes": [
+    "Jia She (赦, styled Enhou 恩侯) holds a hereditary military title - First-Class General",
+    "Jia Zheng (政, styled Cunzhou 存周) is the more upright brother, working in a civil position",
+    "The Board of Works (工部) was one of the Six Ministries in imperial Chinese government",
+    "This sets up the contrast between the two brothers that continues throughout the novel",
+    "Daiyu's journey marks the beginning of the main narrative in the Jia household"
+  ],
+  "characters_appearing": [
+    "贾雨村 (Jia Yucun)",
+    "林如海 (Lin Ruhai)",
+    "林黛玉 (Lin Daiyu)",
+    "贾赦 (Jia She) - mentioned",
+    "贾政 (Jia Zheng) - mentioned",
+    "冷子兴 (Leng Zixing) - mentioned"
+  ],
+  "total_segments": 5,
+  "manuscript_sources_on_page": ["甲戌本", "脂砚斋"]
+}

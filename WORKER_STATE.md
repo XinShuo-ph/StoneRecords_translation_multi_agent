@@ -3,14 +3,11 @@
 ## Status
 - **Branch**: cursor/hong-lou-meng-translation-0dac
 - **Short ID**: 0dac
-- **Heartbeat**: 1767410850
-- **Status**: translating
+- **Heartbeat**: 1767410916
+- **Status**: idle
 
 ## Current Work
-- **Claimed Page**: 42
-- **Page Verified Available**: yes
-- **Started At**: 1767410752
-- **Current Step**: research
+- **Claimed Page**: none
 
 ## Completed Pages
 | Page | Chapter | Completed At | Hash | Segments |
@@ -21,6 +18,7 @@
 | 34   | 第二回  | 1767410390   | a96a8306 | 6 |
 | 38   | 第二回  | 1767410580   | 58dd4a6a | 6 |
 | 40   | 第二回  | 1767410720   | fbd10216 | 4 |
+| 42   | 第三回  | 1767410916   | c2f7ceea | 5 |
 
 ## Notes
-Working on page 42.
+Completed 7 pages total across Chapters 1-3. Page 42 is the crucial beginning of Daiyu's journey to the Jia household.
