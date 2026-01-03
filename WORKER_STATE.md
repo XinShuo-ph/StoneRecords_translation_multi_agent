@@ -3,12 +3,12 @@
 ## Status
 - **Branch**: cursor/hong-lou-meng-translation-01d9
 - **Short ID**: 01d9
-- **Heartbeat**: 1767406700
+- **Heartbeat**: 1767407000
 - **Status**: translating
 
 ## Current Work
-- **Claimed Page**: 14
-- **Started At**: 1767406700
+- **Claimed Page**: 17
+- **Started At**: 1767407000
 - **Current Step**: research
 
 ## Completed Pages
@@ -24,21 +24,22 @@
 | 11   | 凡例    | 1767406400   | - | 4 |
 | 12   | 第一回  | 1767406500   | - | 3 |
 | 13   | 第一回  | 1767406650   | - | 4 |
+| 14   | 第一回  | 1767406900   | - | 3 |
 
-## Known Workers (Last Sync at 1767406200)
-| Short ID | Status | Pages Completed |
-|----------|--------|-----------------|
-| 1434     | active | 2,3,5,6,7 |
-| 342e     | active | 1-6 |
-| 381b     | active | 1-9 |
-| 6514     | active | 1,4,5,9 |
-| 6bc6     | active | 1-5 |
-| 9a1b     | active | 1-5,10,15,16 |
-| a1a9     | active | 1-5 |
-| c11a     | active | 1-8 |
-| e37a     | active | 1,4,6,7 |
-| e575     | active | 2-10 |
+## Known Workers (Last Sync at 1767407000)
+| Short ID | Pages Completed |
+|----------|-----------------|
+| 01d9     | 10 pages |
+| 1434     | 5 pages |
+| 342e     | 6 pages |
+| 381b     | 9 pages |
+| 6514     | 4 pages |
+| 6bc6     | 5 pages |
+| 9a1b     | 8 pages |
+| c11a     | 8 pages |
+| e575     | 9 pages |
+| e37a     | 4 pages |
+| a1a9     | 5 pages |
 
 ## Notes
-Completed pages 1-7, 11-13. Skipping pages 8-10 as they're being handled by other workers.
-Working on Chapter 1 (第一回) - the creation myth with the Stone's origin story.
+Completed 11 pages total. Working through Chapter 1. Skipping to page 17 as pages 15-16 may be claimed by 9a1b.
