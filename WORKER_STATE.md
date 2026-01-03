@@ -3,11 +3,14 @@
 ## Status
 - **Branch**: cursor/hong-lou-meng-translation-0dac
 - **Short ID**: 0dac
-- **Heartbeat**: 1767410586
-- **Status**: idle
+- **Heartbeat**: 1767410614
+- **Status**: translating
 
 ## Current Work
-- **Claimed Page**: none
+- **Claimed Page**: 40
+- **Page Verified Available**: yes
+- **Started At**: 1767410614
+- **Current Step**: research
 
 ## Completed Pages
 | Page | Chapter | Completed At | Hash | Segments |
@@ -16,7 +19,7 @@
 | 28   | 第一回  | 1767410025   | a691aa6f | 7 |
 | 32   | 第二回  | 1767410200   | 11902a69 | 6 |
 | 34   | 第二回  | 1767410390   | a96a8306 | 6 |
-| 38   | 第二回  | 1767410586   | 58dd4a6a | 6 |
+| 38   | 第二回  | 1767410580   | 58dd4a6a | 6 |
 
 ## Notes
-Completed 5 pages: 20, 28, 32, 34, 38. Page 38 introduces the Four Springs and Baoyu's famous reverence for women.
+Working on page 40.
