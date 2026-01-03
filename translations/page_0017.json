@@ -1,0 +1,78 @@
+{
+  "page": 17,
+  "chapter": "第一回",
+  "chapter_title": null,
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "余云叹芹，泪亦待尽。每意觅青埂峰再问石兄，奈不遇癩头和尚何！怅怅！◇今而后，惟愿造化主再出一芹一脂，是书何幸，余二人亦大快遂心于九泉矣。甲(午)[申]八(日)[月]泪笔。④",
+      "zh_modern": "我云叹息曹芹，眼泪也快要流尽了。每次想要寻觅青埂峰再去问石兄，无奈遇不到那癩头和尚，怅然怅然！◇从今往后，只愿造化主能再生出一个曹芹、一个脂砚斋，那这本书该是多么幸运，我们二人也能在九泉之下大感欣慰了。甲午年（应为甲申年）八月（应为八日）泪笔。④",
+      "en": "I, Yun, lament Qin [Cao Xueqin], and my tears are nearly exhausted. Whenever I wish to seek Qinggeng Peak to ask Brother Stone again, alas, I cannot meet that scabby-headed monk! How melancholy! ◇ From now on, I only wish that the Creator would bring forth another Qin and another Zhi [Yan Zhai]—what fortune that would be for this book, and we two would be greatly gratified in the Nine Springs below. Written with tears in the eighth month of the Jiawu [actually Jiashen] year. ④",
+      "ru": "Я, Юнь, оплакиваю Циня [Цао Сюэциня], и мои слёзы почти иссякли. Всякий раз, когда я хочу искать пик Цингэн, чтобы снова спросить брата Камня, увы, я не могу встретить того паршивого монаха! Какая тоска! ◇ Отныне я лишь желаю, чтобы Создатель произвёл на свет ещё одного Циня и ещё одного Чжи [Яньчжай] — какое счастье это было бы для этой книги, и мы двое были бы очень довольны в Девяти Источниках внизу. Написано со слезами в восьмом месяце года Цзяу [на самом деле Цзяшэнь]. ④",
+      "ja": "余、雲、芹を嘆き、涙も亦尽きんとす。青埂峰を觅めて再び石兄に問わんと意う毎に、奈んぞ癩頭和尚に遇わざるや！悵々たり！◇今より後、惟だ願わくば造化主再び一芹一脂を出ださば、是の書何ぞ幸いならん、余二人も亦九泉に於いて大いに心を遂げ快からん。甲午（申の誤り）八月（八日の誤り）涙筆。④",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "至脂砚斋甲戌抄阅再评，仍用《石头记》。",
+      "zh_modern": "至脂砚斋甲戌年抄阅再次评点，仍然使用《石头记》这个书名。",
+      "en": "When Zhiyan Zhai copied and reviewed the text again with commentary in the Jiaxu year, the title The Story of the Stone was still used.",
+      "ru": "Когда Чжияньчжай скопировал и пересмотрел текст с комментариями в год Цзясюй, название «Записки о камне» всё ещё использовалось.",
+      "ja": "脂硯斎の甲戌年の抄閲再評に至りても、仍お『石頭記』を用いたり。",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "出则⑤既明，且看石上是何故事。按那石上书云：甲以石上所记之文。当日地陷东南，这东南一隅有处曰姑苏，甲是金陵。有城曰阊门者，最是红尘中一二等富贵风流之地。甲妙极！是石头口气，情来颜不遇此石。这阊门外有个十里甲开口先云势利，是伏贾、封二姓之事。街，街内有个仁清甲又言人情，总为士隐火后伏笔。巷，巷内有个古庙，因地方窄狭，甲世路宽平者甚少。◇亦是。人皆呼作葫芦甲糊涂也，故假语从此具矣。庙，甲画的虽不依样，却是葫芦。庙旁住着一家乡宦，甲不出来国大族，先写乡宦小家，从小至大，是此书章法。姓甄，甲眉真。◇后之甄宝玉亦借此音，后不注。名费，甲废。字士隐。甲托言将真事隐去也。嫁妻封甲风。因风俗来。氏，情性贤淑，深明礼义。甲入字正是写日后之香菱，见其根源不凡。家中虽不甚富贵，然本地便也推他为望族了。甲本地推为望族，宁、荣则天推为望族，叙事有层落。因这甄士隐禀性恬淡，不以功名为念，甲自是裴皇上人，便可作是书之朝代年纪矣。总写香菱根基，原与正十二钗无异。庚伏笔。每日只以观花修竹、酌酒吟诗为乐，倒是神仙一流人品。只是一件不足：如今年已半百，膝下无儿，甲所谓「美中不足」也。只有一女，乳名英莲，甲这云「应怜」也。年方三岁。",
+      "zh_modern": "既然出处⑤已经明白，且看石上是什么故事。按那石上书写道：甲批注：以石上所记之文。当时地陷东南，在这东南一隅有个地方叫姑苏。甲批注：是金陵。有座城叫阊门的，最是红尘中一二等富贵风流的地方。甲批注：妙极！是石头的口气，情来颜不遇此石。这阊门外有条十里街。甲批注：开口先说势利，是为贾、封二姓的事埋伏笔。街内有条仁清巷。甲批注：又言人情，总为士隐火后埋下伏笔。巷内有座古庙，因地方窄狭。甲批注：世路宽平者甚少。◇亦是。人们都称作葫芦庙。甲批注：糊涂也，故假语从此开始。甲批注：画的虽然不像样，却是葫芦。庙旁住着一户乡宦人家。甲批注：不先写大家大族，先写乡宦小家，从小到大，这是此书的章法。姓甄。甲眉批：真。◇后面的甄宝玉也借用此音，以后不再注明。名费。甲批注：废。字士隐。甲批注：托言将真事隐去。娶妻封氏。甲批注：风。因风俗而来。情性贤淑，深明礼义。甲批注：入字正是写日后的香菱，见其根源不凡。家中虽不十分富贵，然而本地也推举他为望族了。甲批注：本地推为望族，宁、荣则是天下推为望族，叙事有层次。因这甄士隐禀性恬淡，不以功名为念。甲批注：自是裴皇上人，便可作是书之朝代年纪矣。总写香菱根基，原与正十二钗无异。庚批注：伏笔。每日只以观花修竹、酌酒吟诗为乐，倒是神仙一流的人品。只是一件不足：如今年已半百，膝下无儿。甲批注：所谓「美中不足」也。只有一女，乳名英莲。甲批注：这说「应怜」也。年方三岁。",
+      "en": "Now that the origins (5) are clear, let us see what story is on the stone. According to what was written on the stone: [Jiaxu: Using the text recorded on the stone.] In those days when the land subsided in the southeast, there was a place in that southeastern corner called Gusu [Suzhou]. [Jiaxu: This is Jinling.] There was a city called Changmen, the most luxurious and fashionable place in all the mortal world. [Jiaxu: Excellent! This is the stone's voice; with feeling it says it never met this stone.] Outside this Changmen gate was a street called Ten Li Street. [Jiaxu: Opening with talk of profit and power, this foreshadows the affairs of the Jia and Feng families.] On this street was an alley called Benevolent-Purity Lane. [Jiaxu: Speaking again of human sentiment, all foreshadowing for Shiyin after the fire.] In this alley was an ancient temple—because the place was cramped. [Jiaxu: Broad and level paths in the world are few. ◇ Indeed.] People all called it Gourd Temple. [Jiaxu: Meaning 'muddled'—thus the false words begin here. Though the picture doesn't quite match, it is a gourd.] Beside the temple lived a family of local gentry. [Jiaxu: Not starting with a great clan, but first writing of a small gentry family, from small to large—this is the compositional method of this book.] Their surname was Zhen. [Jiaxu top margin: True. ◇ The later Zhen Baoyu also borrows this sound; this will not be noted again.] His given name was Fei. [Jiaxu: Meaning 'abandoned/wasted.'] His style name was Shiyin. [Jiaxu: A way of saying 'true events are hidden.'] His wife was née Feng. [Jiaxu: 'Wind.' Following local custom.] She was virtuous in character and deeply versed in propriety. [Jiaxu: These words precisely describe the future Xiangling, showing her origins were not ordinary. Gengchen: Foreshadowing.] Though not extremely wealthy, the local people considered them a prominent family. [Jiaxu: Locally considered prominent; Ning-guo and Rong-guo are considered prominent throughout the realm—the narration has layers.] Because this Zhen Shiyin was of calm temperament and cared nothing for fame and fortune [Jiaxu: Being like a recluse-official, this can serve as the era and chronicle of this book. Writing of Xiangling's background, her origins are no different from the Twelve Principal Beauties.], his daily pleasures consisted only of viewing flowers and pruning bamboo, drinking wine and composing poetry—truly a person of immortal quality. There was only one deficiency: now past fifty, he had no son. [Jiaxu: The so-called 'beauty marred by imperfection.'] He had only one daughter, whose milk-name was Yinglian. [Jiaxu: This says 'should be pitied.'] She was just three years old.",
+      "ru": "Теперь, когда происхождение (5) ясно, давайте посмотрим, какая история на камне. Согласно написанному на камне: [Цзясюй: Используя текст, записанный на камне.] В те дни, когда земля опустилась на юго-востоке, в том юго-восточном углу было место под названием Гусу [Сучжоу]. [Цзясюй: Это Цзиньлин.] Был город под названием Чанмэнь, самое роскошное и модное место во всём смертном мире. [Цзясюй: Превосходно! Это голос камня; с чувством он говорит, что никогда не встречал этот камень.] За этими воротами Чанмэнь была улица под названием Улица Десяти Ли. [Цзясюй: Начиная с разговоров о выгоде и власти, это предвещает дела семей Цзя и Фэн.] На этой улице был переулок под названием Переулок Милосердной Чистоты. [Цзясюй: Снова говоря о человеческих чувствах, всё предвещая для Шиинь после пожара.] В этом переулке был древний храм — потому что место было тесным. [Цзясюй: Широких и ровных путей в мире мало. ◇ Действительно.] Люди называли его Храмом Тыквы. [Цзясюй: Значит «путаный» — так начинаются ложные слова. Хотя картина не совсем соответствует, это тыква.] Рядом с храмом жила семья местного чиновника. [Цзясюй: Не начиная с великого клана, сначала пишет о маленькой семье мелкого чиновника, от малого к большому — таков метод построения этой книги.] Их фамилия была Чжэнь. [Цзясюй верхнее поле: Истинный. ◇ Позднее Чжэнь Баоюй также заимствует это звучание; это больше не будет отмечаться.] Его имя было Фэй. [Цзясюй: Значит «заброшенный/напрасный».] Его прозвище было Шиинь. [Цзясюй: Способ сказать «истинные события скрыты».] Его жена была урождённая Фэн. [Цзясюй: «Ветер». Следуя местному обычаю.] Она была добродетельна по характеру и глубоко сведуща в приличиях. [Цзясюй: Эти слова точно описывают будущую Сянлин, показывая, что её происхождение было необычным. Гэнчэнь: Предвосхищение.] Хотя не очень богатые, местные жители считали их видной семьёй. [Цзясюй: Местно считается видной; Нинго и Жунго считаются видными по всей стране — повествование имеет слои.] Поскольку этот Чжэнь Шиинь был спокойного нрава и не заботился о славе и богатстве [Цзясюй: Будучи как отшельник-чиновник, это может служить эрой и хроникой этой книги. Пишет о происхождении Сянлин, её корни не отличаются от Двенадцати Главных Красавиц.], его ежедневные удовольствия состояли только в созерцании цветов и обрезке бамбука, питье вина и сочинении стихов — поистине человек бессмертного качества. Был только один недостаток: ему уже за пятьдесят, а сына нет. [Цзясюй: Так называемая «красота, омрачённая несовершенством».] У него была только одна дочь, молочное имя которой было Инлянь. [Цзясюй: Это говорит «должна быть пожалена».] Ей было всего три года.",
+      "ja": "出処⑤既に明らかなれば、且つ石上の何の故事なるかを看よ。彼の石上に書する所に按ずるに：甲石上に記す所の文を以てす。当日地陥りて東南に、此の東南一隅に処有り姑蘇と曰う。甲是れ金陵なり。城有り閶門と曰う者、最も是れ紅塵中一二等の富貴風流の地なり。甲妙の極み！是れ石頭の口気、情来たりて顔此の石に遇わず。此の閶門外に十里街有り。甲開口して先ず勢利を云う、是れ賈・封二姓の事を伏す。街内に仁清巷有り。甲又人情を言う、総て士隠火後の伏筆と為す。巷内に古廟有り、地方窄狭なるに因る。甲世路の寛平なる者甚だ少なし。◇亦是なり。人皆呼びて葫蘆廟と作す。甲糊塗なり、故に假語此より具わる。甲画く所様に依らずと雖も、却って葫蘆なり。廟旁に一家の郷宦住む。甲大家大族を出さずして、先ず郷宦小家を写し、小より大に至る、是れ此の書の章法なり。姓は甄。甲眉真。◇後の甄宝玉も亦此の音を借りる、後には注せず。名は費。甲廃。字は士隠。甲托言して真事を隠し去るなり。妻を嫁すは封氏。甲風。風俗に因りて来たる。情性賢淑、深く礼義を明らかにす。甲入字は正に日後の香菱を写す、其の根源の凡ならざるを見る。家中は甚だしくは富貴ならずと雖も、然れども本地に便ち也た之を推して望族と為せり。甲本地に望族と推す、寧・栄は則ち天に望族と推す、叙事に層落有り。此の甄士隠、禀性恬淡にして、功名を以て念と為さざるに因る。甲自ら是れ裴皇上の人なり、便ち是の書の朝代年紀と作すべし。総て香菱の根基を写す、原より正十二釵と異なる無し。庚伏筆。每日只花を観て竹を修め、酒を酌みて詩を吟ずるを以て楽と為す、倒って是れ神仙一流の人品なり。只だ是れ一件の不足あり：如今年已に半百、膝下に児無し。甲所謂「美中不足」なり。只だ一女有り、乳名は英蓮。甲此れ「応憐」と云うなり。年方に三歳。",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "一日，炎夏永昼。甲热日无多。士隐于书房闲坐，至手倦抛书，伏几少憩，不觉朦胧睡去。梦至一处，不辨是何地方。忽见那厢来了一僧一道，甲是方从青埂峰袖石而来也，接得无痕。且行且谈。只听道人问道：「你携了这蠢物，意欲何往？」那僧笑道：「你放",
+      "zh_modern": "一天，炎热的夏日漫长。甲批注：热日不多。士隐在书房闲坐，手倦了便抛下书本，伏在几案上稍作休息，不知不觉朦朦胧胧睡去。梦见到了一处地方，分辨不出是什么地方。忽然看见那边来了一僧一道。甲批注：正是方才从青埂峰袖石而来，衔接得天衣无缝。一边走一边交谈。只听那道人问道：「你携带了这个蠢物，打算往哪里去？」那僧人笑道：「你放",
+      "en": "One day, during the long daylight hours of a hot summer. [Jiaxu: Hot days are not many.] Shiyin was sitting idly in his study. When his hands grew weary, he cast aside his book, leaned on the desk for a brief rest, and unknowingly drifted into a drowsy sleep. He dreamed he arrived at a place, unable to tell where it was. Suddenly he saw a monk and a Taoist approaching. [Jiaxu: These are the very ones who just came from Qinggeng Peak with the stone in their sleeves—the transition is seamless.] They walked and talked as they came. He heard the Taoist ask: 'You're carrying that stupid thing—where do you intend to go?' The monk laughed and said: 'You just",
+      "ru": "Однажды, в долгие дневные часы жаркого лета. [Цзясюй: Жарких дней немного.] Шиинь сидел без дела в своём кабинете. Когда его руки устали, он отложил книгу, облокотился на стол для короткого отдыха и незаметно погрузился в сонливый сон. Ему приснилось, что он оказался в каком-то месте, не в силах понять, где это. Внезапно он увидел приближающихся монаха и даоса. [Цзясюй: Это те самые, кто только что пришёл с пика Цингэн с камнем в рукаве — переход безупречен.] Они шли и разговаривали на ходу. Он услышал, как даос спросил: «Ты несёшь эту глупую вещь — куда ты собираешься?» Монах рассмеялся и сказал: «Ты только",
+      "ja": "一日、炎夏の永き昼。甲熱日多からず。士隠、書房に閑坐し、手倦みて書を抛ち、几に伏して少しく憩い、覚えず朦朧として睡り去る。夢に一処に至るも、是れ何の地方なるかを辨ぜず。忽ち彼の廂より一僧一道の来たるを見る。甲是れ方に青埂峰より石を袖にして来たるなり、接ぎ得て痕無し。且つ行き且つ談ず。只だ道人の問いて道うを聴く：「汝此の蠢物を携え、意、何処に往かんと欲するや」と。彼の僧笑いて道う：「汝放",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline after 一僧一道",
+          "original": "是方从青埂峰袖石而来也，接得无痕。",
+          "zh_modern": "正是方才从青埂峰袖石而来，衔接得天衣无缝。",
+          "en": "These are the very ones who just came from Qinggeng Peak with the stone in their sleeves—the transition is seamless.",
+          "ru": "Это те самые, кто только что пришёл с пика Цингэн с камнем в рукаве — переход безупречен.",
+          "ja": "是れ方に青埂峰より石を袖にして来たるなり、接ぎ得て痕無し。"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "「甄士隐」(Zhen Shiyin) = 真事隐 (true events hidden); 「甄费」= 真废 (truly wasted) - names encode the author's self-criticism",
+    "「英莲」(Yinglian) = 应怜 (should be pitied) - foreshadowing the tragic fate of this character who becomes Xiangling",
+    "「封氏」(née Feng) is punned with 风 (wind), suggesting ephemerality",
+    "「葫芦庙」(Gourd Temple) = 糊涂 (muddled/confused) - a pun central to the novel's ironic worldview",
+    "「十里街」(Ten Li Street) = 势利 (power-seeking/snobbery); 「仁清巷」(Benevolent-Purity Lane) = 人情 (human sentiment/social favors)",
+    "The commentator's grief over Cao Xueqin's death and wish for 'another Qin and Zhi' reveals the intimate relationship between author and commentator",
+    "「美中不足」reappears here as commentary on Zhen Shiyin having no son - connecting to the monks' earlier warning"
+  ],
+  "research_notes": [
+    "The opening comment mourning 'Qin' and dated to the Jiawu/Jiashen year is crucial biographical evidence",
+    "「姑苏」(Gusu/Suzhou) is identified with 金陵 (Jinling/Nanjing) - the novel conflates these locales",
+    "The structure 'small family → great family' is explicitly identified as the book's compositional method (章法)",
+    "Commentary identifies Xiangling's origins as equal to the Twelve Principal Beauties - significant for her narrative importance",
+    "The seamless narrative transition from the mythic frame to Zhen Shiyin's story is praised by the commentator"
+  ],
+  "characters_appearing": ["甄士隐", "封氏", "英莲", "一僧一道"],
+  "total_segments": 4,
+  "manuscript_sources_on_page": ["甲戌本", "庚辰本"]
+}
