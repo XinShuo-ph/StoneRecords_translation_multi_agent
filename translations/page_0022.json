@@ -1,0 +1,194 @@
+{
+  "page": 22,
+  "chapter": "第一回",
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "口方，更兼剑眉星眼，直鼻权腮。这个丫鬟忙转身回避，心下乃想：“这人生得这样雄壮，却又这样褴褛，想他定是我家主人常说的什么贾雨村了，每有意帮助周济，只是没机会。我家并无这样贫穷亲友，想定是此人无疑了。怪道又说他必非久困之人。”如此想，不免又回头两次。",
+      "zh_modern": "只见他方口阔颐，又兼剑眉星目，鼻梁挺直，腮颊饱满。那丫鬟忙转身回避，心里却想：“这人长得这般雄健，却又衣衫褴褛，想来一定就是我家主人常提起的那个贾雨村了；主人总想接济扶助，只是苦无机会。我家并没有这样的穷亲友，这人必是他无疑。怪不得主人说他绝非久困之辈。”如此一想，不由得又回头看了两回。",
+      "en": "He had a square mouth and, besides, brows like drawn swords and eyes like stars, a straight nose and full cheeks. The maid hurriedly turned away to avoid him, yet thought to herself: “So strong a figure, and yet so ragged—this must be the Jia Yucun my master often speaks of. He has always meant to help him, but has never had the chance. We have no such poor relation; it must be him. No wonder my master says he cannot be one long trapped in hardship.” As she thought this, she could not help turning her head to look back twice.",
+      "ru": "Рот у него был широкий и правильный; брови — словно мечи, глаза — как звёзды; нос прямой, скулы полные. Служанка поспешно отвернулась, избегая встречи, но про себя подумала: «Такой статный, а одет в лохмотья — должно быть, это тот самый Цзя Юйцунь, о котором хозяин часто говорит. Хозяин всегда хотел помочь и поддержать его, да случая не было. У нас нет таких бедных родственников — значит, это он. Не зря хозяин говорил, что этот человек не из тех, кто надолго застревает в нужде». Подумав так, она невольно ещё дважды оглянулась.",
+      "ja": "口は四角く、さらに剣のごとき眉に星のごとき眼、鼻筋は通り、頬は豊かであった。女中はあわてて身を翻して避けたが、心中ではこう思った。「これほど雄壮な容貌なのに、衣は褴褛――きっと主人が常々語る賈雨村に違いない。いつも助けてやりたいと言っていたが、機会がなかった。我が家にこんな貧しい親類はいないのだから、この人で間違いない。主人が『久しく困窮する人ではあるまい』と言ったのも道理だ。」そう思うと、思わず二度も振り返ってしまった。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after “直鼻权腮”",
+          "original": "是妄，操造者。",
+          "zh_modern": "这是虚妄之笔，是刻意捏造出来的。",
+          "en": "This is fanciful—an artful fabrication.",
+          "ru": "Это вымысел — искусственно сочинённое.",
+          "ja": "これは虚妄なり、作りごとなり。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after “直鼻权腮”",
+          "original": "最可笑世之小说中，凡写好人则用“气宇轩昂”等语。",
+          "zh_modern": "世上的小说最可笑之处在于：一写好人，就爱用“气宇轩昂”之类的套语。",
+          "en": "What is laughable in so many novels is that whenever they describe a “good man,” they resort to stock phrases like “a commanding presence.”",
+          "ru": "Смешнее всего в мирских романах то, что стоит им писать «доброго человека», как они тотчас хватаются за штампы вроде «величавая осанка».",
+          "ja": "世の小説の笑うべきは、善人を書くとなれば決まって「気宇軒昂」などの套語を用いることなり。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "雨村见他回了头，便自为这女子心中有意于他，便狂喜不禁，自为此女子必是个巨眼英豪，风尘中之知己也。一时小童进来，雨村打听得前面留饭，不可久待，遂从夹道中自便出了门去了。士隐待客既散，知雨村自便，也不去再邀。",
+      "zh_modern": "雨村见她回了头，便自以为这女子对他有意，不由得喜从中来；又自夸这女子必是眼界极高的英豪，是红尘中难得的知己。恰有小童进来，雨村打听得前面已留了饭，不可久待，便从夹道自行出了门。士隐送客既毕，知道雨村已自便离去，也就不再相邀。",
+      "en": "Seeing her glance back, Yucun took it for a sign that she bore him some affection; he could scarcely contain his delight, and congratulated himself that she must be a heroine of great discernment—a rare kindred spirit amid the dust of the world. Just then a boy-servant came in; learning that the meal had been set out in the front, Yucun could not linger, and so made his own way out through the side passage. When Shiyin’s guests had dispersed and he learned that Yucun had left on his own, he did not send to invite him back.",
+      "ru": "Увидев, что она оглянулась, Юйцунь решил, будто служанка неравнодушна к нему, и не смог скрыть бурной радости; он тут же вообразил, что это женщина с широким взглядом и героическим духом — редкий единомышленник в мирской пыли. В эту минуту вошёл мальчик-слуга; узнав, что впереди уже оставлен обед и задерживаться нельзя, Юйцунь сам вышел через боковой проход. Сыинь, распрощавшись с гостями, узнал, что Юйцунь ушёл сам, и больше не стал звать его обратно.",
+      "ja": "雨村は彼女が振り返ったのを見ると、女中の心に自分への情があるのだと思い込み、抑えきれぬほど喜んだ。さらに「この女は眼の利く英傑で、塵世の中の知己に違いない」と独り合点する。ほどなく小童が入り、前で食事が用意されていて長居できぬと知ると、雨村は夹道を通って勝手に門を出た。士隠は客が散ったのち、雨村が自分で帰ったと知り、あえて改めて招き返しはしなかった。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after “这女子心中有意于他”",
+          "original": "这方是女儿心意中意中正文，又最恨近之小说中满纸红绣紫粲。",
+          "zh_modern": "这才是写女儿心意的正经笔法；也最可恨近世小说里满纸红绣紫粲的浮艳辞藻。",
+          "en": "This is the proper way to write a girl’s feelings; and it makes one all the more detest the gaudy, over-ornamented diction—pages of red embroidery and purple glitter—that fills so many recent romances.",
+          "ru": "Вот как следует писать о женском чувстве; тем отвратительнее кажутся новейшие романы, где страницы пестрят вычурной «красной вышивкой» и «пурпурным блеском».",
+          "ja": "これこそ女の心意を写す正文なり。ゆえに近ごろの小説に紙面いっぱいの紅や紫のけばけばしい辞があるのが、なお憎らしい。"
+        },
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline, after “这女子心中有意于他”",
+          "original": "如此才度，岂得为无情？",
+          "zh_modern": "这般才情气度，怎会是无情之人？",
+          "en": "With such talent and bearing, how could he be a man without feeling?",
+          "ru": "С такой одарённостью и статью разве может он быть бесчувственным?",
+          "ja": "かくのごとき才度を備えて、どうして無情であり得ようか。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after “自为此女子必是个巨眼英豪”",
+          "original": "令古穷酸皆含替女儿心中取中自己。",
+          "zh_modern": "写得那些自命不凡的穷酸都替女儿的心意拿来套在自己身上了。",
+          "en": "It makes every self-styled, impoverished pedant seize upon the girl’s feeling and fit it to himself.",
+          "ru": "Такое письмо заставляет всякого бедного книжника-самолюбца присваивать себе женское чувство и примерять его на себя.",
+          "ja": "古今の貧乏書生どもが、女の心意を勝手に自分へ当てはめてしまうように書いてある。"
+        },
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline, after “风尘中之知己也”",
+          "original": "在此处已把神点出。",
+          "zh_modern": "到这里已经把神髓点出来了。",
+          "en": "Here the essential spirit has already been pointed out.",
+          "ru": "Здесь уже обозначена самая суть.",
+          "ja": "ここに至って、すでに神髄が点じられている。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "一日，早又中秋佳节。士隐家宴已毕，乃又另具一席于书房，却自己步月至庙中来邀雨村。原来雨村自那日见了甄家之婢曾回头顾他两次，自为是个知己，便时时刻刻放在心上。今又正值中秋，不免对月有怀，因而口占五言一律云：",
+      "zh_modern": "一日，转眼又到中秋佳节。士隐家宴已毕，便又在书房另设一席，自己踏着月色到庙里去邀雨村。原来雨村自从那日见甄家婢女回头顾他两次，便自以为遇着知己，从此时时放在心上。如今又值中秋，对月难免有所感怀，便随口吟成一首五言律诗：",
+      "en": "One day it was again the Mid-Autumn Festival. When Shiyin’s family banquet was over, he prepared another table in his study and, walking by moonlight, went to the temple to invite Yucun. For ever since that day when he had seen a maid of the Zhen household glance back at him twice, Yucun had taken her for a kindred spirit and kept the matter constantly in his mind. Now, on Mid-Autumn night, he could not help but be moved by the moon, and so extemporized a regulated poem of five-character lines:",
+      "ru": "Однажды вновь наступил Праздник середины осени. После семейного пира Шиинь велел накрыть ещё один стол в своей книжной и сам, ступая при лунном свете, пришёл в храм пригласить Юйцуня. А тот с тех пор, как в тот день увидел, что служанка из дома Чжэнь дважды оглянулась на него, принял это за знак «взаимного понимания» и помнил об этом каждую минуту. Теперь же, в ночь середины осени, при виде луны он не мог не предаться чувствам и на ходу сложил пятисловное люйшии:",
+      "ja": "ある日、また中秋の佳節となった。士隠は家の宴を終えると、書房に別席を設け、自ら月を踏んで廟へ行き雨村を招いた。もとより雨村は、あの日甄家の女中が二度振り返って自分を見たのを「知己のしるし」だと思い込み、折に触れて胸に掛けていた。今宵は中秋、月を見ては思いに堪えず、口占して五言律詩を吟じた。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after “自己步月至庙中来邀雨村”",
+          "original": "写士隐爱才好客。",
+          "zh_modern": "写出士隐爱才、好客的性情。",
+          "en": "This shows Shiyin’s love of talent and his hospitality.",
+          "ru": "Здесь показано, как Шиинь ценит талант и любит гостей.",
+          "ja": "士隠の愛才・好客を写す。"
+        },
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline, after “便时时刻刻放在心上”",
+          "original": "也是不得不留心，不独因好色，多半感知音。",
+          "zh_modern": "他也不得不留意此事；并不只是好色，更大半是感于“知音”。",
+          "en": "He could hardly fail to dwell on it; it was not only lust—more than half of it was the feeling of having found someone who understood him.",
+          "ru": "Ему и трудно было не думать об этом: не одно лишь сладострастие — больше всего чувство, будто он встретил «знающего его» человека.",
+          "ja": "これも気に掛けずにはいられぬ。色欲ばかりではなく、むしろ半ば以上は「知音」に感じ入ったゆえである。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "poem",
+      "original": "未卜三生愿，频添一段愁。\n闷来时叹额，行去几回头。\n自顾风前影，谁堪月下俦？\n蟾光如有意，先上玉人楼。",
+      "zh_modern": "三生之愿尚未可卜，愁绪却一段段添来。\n闷时屡叹，几乎要拍额；走开了还频频回头。\n自照风前身影，谁能作我月下的伴侣？\n若月光也有情意，就先照上那“玉人”的楼吧。",
+      "en": "My vows for three lives—still unknown;\nYet sorrow comes in added measure.\nIn vexation I keep sighing, hand to brow;\nAs I walk away, how many times I turn my head.\nI watch my shadow in the wind—\nWho could be my companion beneath the moon?\nIf the moonlight has a will of its own,\nLet it first climb the tower of the jade-like beauty.",
+      "ru": "Не разгадан ещё обет трёх жизней,\nА печаль всё прибавляется вновь.\nСкука — и вздохи, ладонь ко лбу;\nУхожу — и сколько раз оглянусь.\nСмотрю на тень свою под ветром —\nКто станет мне товарищем под луной?\nЕсли лунный свет способен на чувство,\nПусть прежде взойдёт на башню «яшмовой красавицы».",
+      "ja": "三生の願いはまだ占えず、\n愁いばかりが度々添う。\n鬱すれば額を嘆き、\n去りては幾たびか振り返る。\n風前の影をひとり顧みて、\n月下の伴侶は誰ぞ堪えん。\n蟾光もし情あらば、\nまず玉人の楼に上れ。",
+      "poem_notes": {
+        "form": "五言律诗 (Five-character regulated verse)",
+        "rhyme_scheme": "律诗用韵（从句末字推定）",
+        "literary_devices": ["Allusion (三生)", "Self-reflection via shadow", "Moon-as-messenger trope"]
+      },
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after “口占五言一律云”",
+          "original": "这是第一首诗，后文香菱学诗不落空。余谓宝钗撰此书，中亦有传诗之意。",
+          "zh_modern": "这是书中第一首诗，后文香菱学诗也就有了着落。依我看，宝钗续撰此书时，其中也有“传诗”的用意。",
+          "en": "This is the first poem. It makes Xiangling’s later study of poetry not come to nothing. I would say that when Baochai went on to write this book, she too meant, in part, to transmit poetry.",
+          "ru": "Это первое стихотворение в книге; потому и последующая учёба Сянлин стихам окажется не напрасной. Я полагаю: когда Баочай продолжала писать эту книгу, у неё тоже был замысел «передать поэзию».",
+          "ja": "これは第一首の詩なり。後に香菱が詩を学ぶことも空しくならぬ。余は、宝釵がこの書を続けて撰するにあたり、そこにも詩を伝える意があると謂う。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "prose",
+      "original": "雨村吟罢，因又思及平生抱负，苦未逢时，乃又搔首对天长叹，复高吟一联云：",
+      "zh_modern": "雨村吟罢，又想起自己平生的抱负，只恨时运未至，便搔首对天长叹，又高声吟出一联：",
+      "en": "When Yucun had finished chanting the poem, he thought again of his lifelong ambitions and grieved that he had not yet met his time; scratching his head, he sighed up at the heavens and recited aloud a couplet:",
+      "ru": "Окончив стих, Юйцунь вновь вспомнил о своих жизненных стремлениях и с горечью подумал, что ему всё ещё не улыбнулась удача; почесав голову, он долго вздохнул, глядя в небо, и громко произнёс двустишие:",
+      "ja": "雨村は吟じ終えると、また平生の抱負を思い出し、時に遇わぬことを嘆いた。頭を掻きつつ天を仰いで長く嘆息し、さらに一聯を高吟した。"
+    },
+    {
+      "id": 6,
+      "type": "poem",
+      "original": "玉在匮中求善价，钗于奁内待时飞。",
+      "zh_modern": "玉藏匮中，正求一个好价；钗卧奁内，只待时机一飞冲天。",
+      "en": "A jade kept in its casket seeks a worthy price;\nA hairpin in its toilette-case awaits the time to soar.",
+      "ru": "Яшма в ларце ищет достойной цены;\nШпилька в шкатулке ждёт часа взлететь.",
+      "ja": "匮の中の玉は良き価を求め、\n奁の内の釵は時来たらんとして飛ぶを待つ。",
+      "poem_notes": {
+        "form": "对联 (Couplet)",
+        "literary_devices": ["Metaphor (talent as jade)", "Foreshadowing (玉/钗 motif)"]
+      },
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after the couplet",
+          "original": "前用二玉合传，今用二宝。",
+          "zh_modern": "前面用“两玉”合起来叙述，这里改用“二宝”。",
+          "en": "Earlier the narrative joined “two jades”; here it turns to “two treasures.”",
+          "ru": "Ранее повествование связывало «две яшмы»; теперь — «две драгоценности».",
+          "ja": "前は二玉をもって合わせ伝え、今は二宝を用う。"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "贾雨村（Jia Yucun）姓名含谐音：贾（假）＋雨村（语存）≈「假语存」，与甄士隐（真事隐）构成“真/假”元叙事对照。",
+    "庚辰、甲戌批语在此反感“气宇轩昂”等陈套，强调《红楼梦》写情写人贵在自然情理。",
+    "五言律诗中的「三生」为佛教语（前世/今生/来世之缘愿），在“中秋对月”语境下将私情与宿缘相连。",
+    "「玉在匮中…钗于奁内…」以玉、钗喻才与时运；亦暗示全书核心意象“通灵宝玉/金锁（金钗）”的对举与伏笔。"
+  ],
+  "research_notes": [
+    "Referenced project glossary for standardized names (甄士隐、贾雨村等)",
+    "Referenced commentary guide for批语类型与版本标注（甲戌本、庚辰本）"
+  ],
+  "characters_appearing": ["甄士隐", "贾雨村", "娇杏"],
+  "manuscript_sources_on_page": ["甲戌本", "庚辰本"],
+  "total_segments": 6
+}
+
