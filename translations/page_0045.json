@@ -1,0 +1,108 @@
+{
+  "page": 45,
+  "chapter": "第二回",
+  "chapter_title": {
+    "original": "贾夫人仙逝扬州城 冷子兴演说荣国府",
+    "zh_modern": "贾夫人在扬州城去世 冷子兴讲述荣国府的故事",
+    "en": "Lady Jia Passes Away in Yangzhou; Leng Zixing Discourses on the Rong Mansion",
+    "ru": "Госпожа Цзя скончалась в Янчжоу; Лэн Цзысин рассказывает о поместье Жун",
+    "ja": "賈夫人揚州城にて仙逝し、冷子興榮國府を演説す"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "另有一番高出世外的景象。黛玉忙起身迎上来见礼。【庚辰】此飞来不可少，且相称认过，大家归坐。了警们捧上茶来，不过说些黛玉之母如何得病，如何请医服药，如何送死发丧。不免贾母又伤感起来。【庚辰】妙！【庚辰】原是不妙，问答之言，不妙至此。",
+      "zh_modern": "另有一番高出世外的景象。黛玉忙起身迎上来见礼。大家寒暄认识之后，归坐。丫鬟们捧上茶来，不过说些黛玉之母如何得病，如何请医服药，如何送终发丧。不免贾母又伤感起来。",
+      "en": "There was an air of extraordinary refinement beyond the mundane world. Daiyu hastily rose to greet them with proper courtesy. After everyone exchanged pleasantries and introductions, they took their seats. Maids brought tea, and the conversation inevitably turned to how Daiyu's mother had fallen ill, how doctors had been summoned and medicine administered, and how she had been laid to rest. Grandmother Jia could not help but feel sorrowful again.",
+      "ru": "Была атмосфера необычайной утонченности, выходящая за пределы мирского. Дайюй поспешно встала, чтобы приветствовать их с должной учтивостью. После того как все обменялись любезностями и представлениями, они заняли свои места. Служанки принесли чай, и разговор неизбежно перешел к тому, как мать Дайюй заболела, как вызывали врачей и давали лекарства, и как ее похоронили. Бабушка Цзя не могла не почувствовать снова печаль.",
+      "ja": "別に一番世外に高く出づる景象有り。黛玉忙しく起身し迎え上りて見礼す。大家寒暄し認識の後、帰座す。丫鬟等茶を捧げ上ぐ、過ぎずして黛玉の母如何に病を得、如何に医を請じ薬を服し、如何に送終し発喪せしかを説く。免れず賈母又た伤感起こる。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline after 见礼",
+          "original": "此飛來不可少，且相稱認過，",
+          "zh_modern": "此飞来不可少，且相称认过，",
+          "en": "This sudden arrival is indispensable, and the mutual recognition is fitting,",
+          "ru": "Это внезапное прибытие необходимо, и взаимное признание уместно,",
+          "ja": "此の飛来少なくすべからず、且つ相称して認過す、"
+        },
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline after 伤感起来",
+          "original": "妙！",
+          "zh_modern": "妙！",
+          "en": "Wonderful!",
+          "ru": "Чудесно!",
+          "ja": "妙なり！"
+        },
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline after 妙",
+          "original": "原是不妙，問答之言，不妙至此。",
+          "zh_modern": "原是不妙，问答之言，不妙至此。",
+          "en": "Actually not wonderful, the conversation, not wonderful to this extent.",
+          "ru": "На самом деле не чудесно, разговор, не чудесно до такой степени.",
+          "ja": "原は妙ならず、問答の言、妙ならざること此に至る。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "因说：我这些儿女，所疼者惟有你母，今日一旦先舍我去了，连面也不能一见，今见了你，我怎么不伤心！说着，搂了黛玉在怀，又呜咽起来。【庚辰】不妙其也顺应是也。众人忙都宽解解劝，方略略止住。【庚辰】妙为家主且能不能割宗。",
+      "zh_modern": "因说：我这些儿女，所疼爱的惟有你母亲，今日一旦先我而去了，连面也不能一见，今见了你，我怎么不伤心！说着，搂了黛玉在怀，又呜咽起来。众人忙都宽慰劝解，方略略止住。",
+      "en": "She said: Among all my children, the one I loved most was your mother. Now she has departed before me, and I couldn't even see her one last time. Seeing you now, how can I not grieve! As she spoke, she embraced Daiyu and began weeping again. Everyone hastily offered comfort and consolation, and she gradually composed herself.",
+      "ru": "Она сказала: Среди всех моих детей я больше всего любила твою мать. Теперь она ушла раньше меня, и я даже не смогла увидеть ее в последний раз. Видя тебя сейчас, как я могу не горевать! Говоря это, она обняла Дайюй и снова начала плакать. Все поспешно предлагали утешение и утешение, и она постепенно успокоилась.",
+      "ja": "因りて説く：我が此等の兒女、疼愛する所は惟だ汝の母のみ、今日一旦我に先んじて去り、面すらも一見すること能わず、今汝を見て、我如何にして傷心せざらんや！と言いて、黛玉を懐に搂え、又た嗚咽起こる。衆人忙しく皆寛慰勧解し、方に略々止住す。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline after 呜咽起来",
+          "original": "不妙其也順應是也。",
+          "zh_modern": "不妙其也顺应是也。",
+          "en": "Not wonderful, yet it follows naturally.",
+          "ru": "Не чудесно, но это следует естественно.",
+          "ja": "妙ならずとも其れ也た順応なるは是なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline after 略略止住",
+          "original": "妙為家主且能不能割宗。",
+          "zh_modern": "妙为家主且能不能割宗。",
+          "en": "Wonderful as family head yet unable to sever familial bonds.",
+          "ru": "Чудесно как глава семьи, но неспособна разорвать семейные узы.",
+          "ja": "妙なるは家主と為りて且つ能く宗を割すること能わず。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "众人见黛玉年纪虽小，其举止言谈不俗，身体面庞虽怯弱不胜，【庚辰】每人入手如此基础，看官总得习一向各家！却有一段自然风流态度，【庚辰】为家玉写照，众人目中，只此一句分清。【庚辰】从众人目中写家玉，章法并卓。【庚辰】总是系发轩不得不脱主幸也。便知他有不足之症，因问：常服何药，如何不急为疗治？",
+      "zh_modern": "众人见黛玉年纪虽小，其举止言谈不俗，身体面庞虽怯弱不胜，却有一段自然风流的态度，便知她有不足之症，因问：常服何药，如何不急为诊治？",
+      "en": "Everyone observed that though Daiyu was young, her demeanor and conversation were refined. Though her body and countenance appeared delicate and frail, she possessed a natural grace and charm. Knowing she had a constitutional weakness, they asked: What medicine does she regularly take? Why hasn't urgent treatment been sought?",
+      "ru": "Все заметили, что хотя Дайюй была молода, ее манеры и разговор были утонченными. Хотя ее тело и лицо казались хрупкими и слабыми, она обладала естественной грацией и очарованием. Зная, что у нее была конституциональная слабость, они спросили: Какое лекарство она регулярно принимает? Почему не было предпринято срочное лечение?",
+      "ja": "衆人は黛玉の年紀小なりと雖も、其の舉止言談俗ならず、身體面龐怯弱不勝なりと雖も、却って一段の自然風流の態度有るを見、便ち彼女に不足の症有るを知り、因りて問う：常に何薬を服すか、如何にして急ぎて治療せざるや？",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "This page depicts Lin Daiyu's arrival at the Jia mansion and her first meeting with Grandmother Jia.",
+    "The commentary notes the narrative technique of describing Daiyu through the eyes of others, a sophisticated literary device.",
+    "不足之症 (constitutional weakness) - Daiyu's chronic illness is a key character trait throughout the novel."
+  ],
+  "research_notes": [
+    "This is Daiyu's introduction scene, establishing her fragile health and refined character",
+    "The emotional reunion with Grandmother Jia establishes their close bond"
+  ],
+  "characters_appearing": ["林黛玉", "贾母"],
+  "total_segments": 3,
+  "manuscript_sources_on_page": ["庚辰本"]
+}
