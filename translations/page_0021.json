@@ -320,11 +320,11 @@
       "id": 15,
       "pdf_page": 21,
       "type": "prose",
-      "original": "那甄家丫鬟撷了花，方欲走时，猛抬头见窗内有人，敝巾旧服，虽是贫窘，然生得腰圆背厚，面阔口方，更兼剑眉星眼，直鼻权腮。",
-      "zh_modern": "那甄家的丫鬟采了花，正要走时，猛然抬头看见窗内有人。那人戴着破头巾，穿着旧衣服，虽然贫穷窘迫，但生得腰圆背厚，面如满月，口若方海，更兼剑眉星眼，鼻直口方。",
-      "en": "The maid of the Zhen family had gathered her flowers and was just about to leave when she suddenly looked up and saw someone inside the window. He wore a tattered headdress and old clothes, and though he was poor, he was built with a round waist and broad back, a wide face and square mouth; moreover, he had sword-like eyebrows, star-like eyes, a straight nose, and powerful cheeks.",
-      "ru": "Служанка семьи Чжэнь, нарвав цветов, собралась было уходить, как вдруг подняла голову и увидела в окне человека. Он был в рваной повязке и старой одежде, беден и жалок, но сложен крепко: поясница круглая, спина широкая, лицо широкое, рот квадратный; к тому же брови как мечи, глаза как звезды, нос прямой, скулы властные.",
-      "ja": "その甄家の下女は花を摘み終えて立ち去ろうとした時、ふと顔を上げて窓の中に人がいるのを見た。破れた頭巾に古びた服、貧しい身なりではあるが、腰は太く背は厚く、顔は広く口は四角く、さらに剣のような眉に星のような目、鼻筋は通り頬骨は張っていた。",
+      "original": "那甄家丫鬟撷了花，方欲走时，猛抬头见窗内有人，敝巾旧服，虽是贫窘，然生得腰圆背厚，面阔",
+      "zh_modern": "那甄家的丫鬟采了花，正要走时，猛然抬头看见窗内有人。那人戴着破头巾，穿着旧衣服，虽然贫穷窘迫，但生得腰圆背厚，面阔",
+      "en": "The maid of the Zhen family had gathered her flowers and was just about to leave when she suddenly looked up and saw someone inside the window. He wore a tattered headdress and old clothes, and though he was poor, he was built with a round waist and broad back, a wide face",
+      "ru": "Служанка семьи Чжэнь, нарвав цветов, собралась было уходить, как вдруг подняла голову и увидела в окне человека. Он был в рваной повязке и старой одежде, беден и жалок, но сложен крепко: поясница круглая, спина широкая, лицо широкое",
+      "ja": "その甄家の下女は花を摘み終えて立ち去ろうとした時、ふと顔を上げて窓の中に人がいるのを見た。破れた頭巾に古びた服、貧しい身なりではあるが、腰は太く背は厚く、顔は広く",
       "commentary": []
     }
   ],
@@ -347,6 +347,7 @@
     "丫鬟 (娇杏)",
     "严老爷"
   ],
+  "total_segments": 15,
   "manuscript_sources_on_page": [
     "Zhiping"
   ]
