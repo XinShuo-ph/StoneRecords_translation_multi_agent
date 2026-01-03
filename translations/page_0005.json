@@ -1,0 +1,61 @@
+{
+  "page": 5,
+  "chapter": "电子版制作说明",
+  "chapter_title": null,
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "色。抄本中有些同一位置不止一条批语的，原以「○」或空格隔开，现统一以「◇」隔开。本书使用半角圆括号（）和半角方括号［］作为校改文字记号：（某）表示删字，［某］表示补字，（甲）［乙］表示改字。",
+      "zh_modern": "（接上页）色。抄本中有些同一位置不止一条批语的，原来以「○」或空格隔开，现在统一以「◇」符号隔开。本书使用半角圆括号（）和半角方括号［］作为校改文字的标记符号：（某）表示删除的字，［某］表示补充的字，（甲）［乙］表示改动的字（将「甲」改为「乙」）。",
+      "en": "(Continued from previous page) ...color. Where manuscripts contain multiple commentaries at the same position, originally separated by '○' or spaces, they are now uniformly separated by '◇'. This edition uses half-width parentheses ( ) and square brackets [ ] as textual emendation markers: (X) indicates a deleted character, [X] indicates an added character, and (A)[B] indicates a character change (from A to B).",
+      "ru": "(Продолжение с предыдущей страницы) ...цвет. Там, где рукописи содержат несколько комментариев в одном месте, изначально разделённых символом «○» или пробелами, они теперь единообразно разделены символом «◇». В данном издании используются полуширинные скобки ( ) и квадратные скобки [ ] в качестве маркеров текстуальных исправлений: (X) обозначает удалённый знак, [X] — добавленный знак, (A)[B] — изменённый знак (с A на B).",
+      "ja": "（前頁より続く）...色。抄本で同一位置に一条以上の批語がある場合、元は「○」または空白で区切られていましたが、現在は統一して「◇」で区切っています。本書は半角丸括弧（）と半角角括弧［］を校改文字の記号として使用しています：（某）は削除した字を表し、［某］は補った字を表し、（甲）［乙］は改めた字を表します（「甲」を「乙」に改める）。",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "本电子书自发布以来，不少网友提出了改进意见，这些建议基本上都已经采纳。现在，接受多数朋友的意见，这个版本采用 PDF 格式。本书的整理得到很多网友的帮助。早期版本曾得浪知协助覆校，订正不少错误；冰冰冰冷、云涛先后参与讨论，给我很多启发。3.0版发出之后，又承君子九思、爱如潮水、yupeng、蓝山、潇湘楚客、zhwl、liuzhoufish、娄员外、寻梦园、阿迦、梁三、影乐之声、兔子姐姐、休闲、志学斋主、daphne、rocwings 等各位指出了若干问题，统此鸣谢。",
+      "zh_modern": "本电子书自发布以来，不少网友提出了改进意见，这些建议基本上都已经采纳。现在，接受多数朋友的意见，这个版本采用 PDF 格式。本书的整理得到很多网友的帮助。早期版本曾得到浪知协助覆校，订正了不少错误；冰冰冰冷、云涛先后参与讨论，给我很多启发。3.0版发布之后，又承蒙君子九思、爱如潮水、yupeng、蓝山、潇湘楚客、zhwl、liuzhoufish、娄员外、寻梦园、阿迦、梁三、影乐之声、兔子姐姐、休闲、志学斋主、daphne、rocwings 等各位指出了若干问题，在此一并鸣谢。",
+      "en": "Since this e-book was first published, many online readers have offered suggestions for improvement, most of which have been adopted. Following the consensus, this version has been released in PDF format. This collation has benefited from the help of many online readers. Early versions were proofread with assistance from Langzhi, who corrected many errors; Bingbingbingleng and Yuntao participated in discussions and provided much inspiration. After the release of version 3.0, Junzi Jiusi, Ai Ru Chaoshui, yupeng, Lanshan, Xiaoxiang Chuke, zhwl, liuzhoufish, Lou Yuanwai, Xunmengyuan, Ajia, Liang San, Yingle Zhisheng, Tuzi Jiejie, Xiuxian, Zhixuezhaizhu, daphne, rocwings, and others pointed out various issues. I extend my sincere thanks to all of them.",
+      "ru": "С момента публикации данной электронной книги многие онлайн-читатели предложили улучшения, большинство из которых были приняты. Следуя общему мнению, эта версия выпущена в формате PDF. Составление данного издания получило помощь от многих онлайн-читателей. Ранние версии были вычитаны при содействии Ланчжи, который исправил многие ошибки; Бинбинбинлэн и Юньтао участвовали в обсуждениях и предоставили много идей. После выпуска версии 3.0 Цзюньцзы Цзюсы, Ай Жу Чаошуй, yupeng, Ланьшань, Сяосян Чукэ, zhwl, liuzhoufish, Лоу Юаньвай, Сюньмэнъюань, Ацзя, Лян Сань, Инлэ Чжишэн, Туцзы Цзецзе, Сюсянь, Чжисюэчжайчжу, daphne, rocwings и другие указали на различные проблемы. Выражаю искреннюю благодарность всем им.",
+      "ja": "本電子書籍は公開以来、多くのネットユーザーから改善意見をいただき、それらの提案はほぼ全て採用されました。多くの方々の意見を受け入れ、このバージョンはPDF形式を採用しています。本書の整理は多くのネットユーザーの協力を得ました。初期バージョンでは浪知氏の協力による覆校で多くの誤りを訂正しました。冰冰冰冷、云涛の両氏は議論に参加し、多くの示唆を与えてくださいました。3.0版公開後は、君子九思、爱如潮水、yupeng、蓝山、潇湘楚客、zhwl、liuzhoufish、娄员外、寻梦园、阿迦、梁三、影乐之声、兔子姐姐、休闲、志学斋主、daphne、rocwings等の皆様が様々な問題を指摘してくださいました。ここに感謝申し上げます。",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "由于整理者学识所限，本书虽经多次修订，存在问题必然尚多。希望朋友们在使用过程中发现错误及不妥之处，继续不吝赐教。联系方式: Email: kolistan@yahoo.com.cn, QQ: 552129470, MSN: kolistan@msn.com，或到「抚琴居红楼梦文学社区」发贴。反馈意见的朋友将会在以后本书修订时及时获得更新版本。",
+      "zh_modern": "由于整理者学识所限，本书虽然经过多次修订，存在的问题必然还有很多。希望朋友们在使用过程中如果发现错误及不妥之处，继续不吝赐教。联系方式：电子邮箱 kolistan@yahoo.com.cn，QQ号码 552129470，MSN kolistan@msn.com，或者到「抚琴居红楼梦文学社区」发帖。反馈意见的朋友将会在以后本书修订时及时获得更新版本。",
+      "en": "Due to the limited knowledge of the editor, although this book has undergone multiple revisions, many issues inevitably remain. I hope that readers who discover errors or inappropriate content during use will continue to offer their guidance. Contact: Email: kolistan@yahoo.com.cn, QQ: 552129470, MSN: kolistan@msn.com, or post at the 'Fuqinju Dream of the Red Chamber Literary Community.' Those who provide feedback will promptly receive updated versions when the book is revised.",
+      "ru": "Из-за ограниченных знаний составителя, несмотря на многочисленные редакции, в книге неизбежно остаётся много проблем. Надеюсь, что читатели, обнаружившие ошибки или неуместные места при использовании, продолжат делиться своими замечаниями. Контакты: Email: kolistan@yahoo.com.cn, QQ: 552129470, MSN: kolistan@msn.com, или оставьте сообщение в «Литературном сообществе Сна в красном тереме Фуциньцзюй». Те, кто предоставит обратную связь, своевременно получат обновлённые версии при редактировании книги.",
+      "ja": "整理者の学識の限界により、本書は何度も修訂を重ねましたが、問題は必ずまだ多く残っているはずです。ご使用中に誤りや不適切な箇所を発見されましたら、引き続きご指導いただければ幸いです。連絡先：メール kolistan@yahoo.com.cn、QQ 552129470、MSN kolistan@msn.com、または「撫琴居紅楼夢文学コミュニティ」に投稿してください。ご意見をいただいた方には、今後本書の修訂時に適時更新版をお届けします。",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "本书由 Kolistan 汇校整理、制作电子版并免费提供下载，允许在不改变其内容完整的前提下自由传播，但禁止用于商业用途。其它网站转载本书，请注明整理者联系资料，以使我们及时得到回馈意见。我们从未授权任何人对本书进行格式转换（如改为 word、htm、exe、chm、txt 等等），照搬本书内容或仅作局部改动，而变更（或删除）整理者名字另行发表者，我们保留追究的权利。Kolistan 2007.11.30.",
+      "zh_modern": "本书由 Kolistan 汇校整理、制作电子版并免费提供下载，允许在不改变其内容完整性的前提下自由传播，但禁止用于商业用途。其他网站转载本书，请注明整理者联系资料，以便我们及时得到反馈意见。我们从未授权任何人对本书进行格式转换（如改为 word、htm、exe、chm、txt 等格式），照搬本书内容或仅作局部改动而变更或删除整理者名字另行发表者，我们保留追究的权利。Kolistan 2007年11月30日",
+      "en": "This book was collated, edited, and made available for free download in electronic format by Kolistan. It may be freely distributed without altering its content, but commercial use is prohibited. Other websites reproducing this book should credit the editor's contact information so that we may receive feedback in a timely manner. We have never authorized anyone to convert this book to other formats (such as Word, HTML, EXE, CHM, TXT, etc.). We reserve the right to pursue action against anyone who reproduces this content or makes only minor modifications while changing or removing the editor's name and republishing it. Kolistan, November 30, 2007",
+      "ru": "Данная книга была составлена, отредактирована и предоставлена для бесплатного скачивания в электронном формате Колистаном. Разрешается свободное распространение без изменения содержания, но коммерческое использование запрещено. Другие веб-сайты, воспроизводящие эту книгу, должны указать контактные данные составителя, чтобы мы могли своевременно получать обратную связь. Мы никогда не давали разрешения на конвертацию этой книги в другие форматы (такие как Word, HTML, EXE, CHM, TXT и т.д.). Мы оставляем за собой право преследовать тех, кто воспроизводит это содержание или вносит лишь незначительные изменения, изменяя или удаляя имя составителя и переиздавая. Колистан, 30 ноября 2007 г.",
+      "ja": "本書はKolistanが彙校整理し、電子版を制作して無料でダウンロード提供しています。内容を改変しない限り自由に配布できますが、商業利用は禁止です。他のウェブサイトで本書を転載する場合は、整理者の連絡先を明記し、我々が適時フィードバックを受けられるようにしてください。我々は本書のフォーマット変換（word、htm、exe、chm、txt等への変換など）を誰にも許可したことはありません。本書の内容をそのまま、または一部改変して整理者名を変更・削除して発表した場合、当方は追及する権利を留保します。Kolistan 2007年11月30日",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "This page concludes the editorial introduction with acknowledgments and copyright notice",
+    "The editorial notation system (parentheses for deletions, brackets for additions) follows standard Chinese textual criticism conventions",
+    "The community-driven nature of this edition is evident in the extensive acknowledgments of online collaborators",
+    "The date of November 30, 2007 marks the original publication, with version 3.13 (July 2009) being the most recent revision"
+  ],
+  "research_notes": [
+    "The Fuqinju community represents an important example of collaborative online scholarship in Redology",
+    "The use of PDF format was adopted based on community feedback, replacing earlier digital formats"
+  ],
+  "characters_appearing": [],
+  "total_segments": 4,
+  "manuscript_sources_on_page": []
+}

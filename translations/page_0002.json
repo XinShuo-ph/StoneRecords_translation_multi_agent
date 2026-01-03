@@ -1,0 +1,60 @@
+{
+  "page": 2,
+  "chapter": "封面",
+  "chapter_title": null,
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "红楼梦脂评汇校本",
+      "zh_modern": "《红楼梦》脂砚斋评本汇校整理版",
+      "en": "Dream of the Red Chamber: Zhiping Commentary Collation",
+      "ru": "Сон в красном тереме: Сводное издание с комментариями Чжипин",
+      "ja": "紅楼夢 脂評彙校本",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "曹雪芹著／脂砚斋评",
+      "zh_modern": "曹雪芹 著作 / 脂砚斋 评点",
+      "en": "Written by Cao Xueqin / Commentary by Zhiyan Zhai",
+      "ru": "Автор: Цао Сюэцинь / Комментарии: Чжияньчжай",
+      "ja": "曹雪芹 著 / 脂硯斎 評",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "Kolistan 汇校整理、制作",
+      "zh_modern": "Kolistan 汇校整理、制作",
+      "en": "Collated and Edited by Kolistan",
+      "ru": "Составление и редактура: Колистан",
+      "ja": "Kolistan 彙校整理・制作",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "抚琴居红楼梦文学社区发布",
+      "zh_modern": "由抚琴居红楼梦文学社区发布",
+      "en": "Published by the Fuqinju Dream of the Red Chamber Literary Community",
+      "ru": "Опубликовано литературным сообществом «Сна в красном тереме» Фуциньцзюй",
+      "ja": "撫琴居紅楼夢文学コミュニティより発行",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "「抚琴居」(Fuqinju, 'The Abode Where One Plays the Qin') is an online literary community dedicated to studying Dream of the Red Chamber",
+    "This title page establishes the scholarly nature of this edition as a collation (汇校) of multiple manuscript sources with preserved commentary",
+    "「脂砚斋」(Zhiyan Zhai) is the primary historical commentator whose annotations were found on several early manuscripts"
+  ],
+  "research_notes": [
+    "The 汇校本 format brings together variant readings and commentary from multiple manuscript traditions",
+    "This electronic edition was prepared for online distribution and scholarly reference"
+  ],
+  "characters_appearing": [],
+  "total_segments": 4,
+  "manuscript_sources_on_page": []
+}

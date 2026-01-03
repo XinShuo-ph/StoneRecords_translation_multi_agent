@@ -1,0 +1,61 @@
+{
+  "page": 3,
+  "chapter": "版权页",
+  "chapter_title": null,
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "本电子版仅供网络阅读、检索之用。写文章引用务请核对相关影印本。",
+      "zh_modern": "本电子版仅供网络阅读和检索使用。如需在文章中引用，请务必核对相关影印本原文。",
+      "en": "This electronic edition is intended solely for online reading and reference. When citing in academic works, please verify against the relevant facsimile editions.",
+      "ru": "Данное электронное издание предназначено исключительно для онлайн-чтения и поиска. При цитировании в научных работах просьба сверяться с соответствующими факсимильными изданиями.",
+      "ja": "本電子版はオンライン閲覧・検索のみを目的としています。論文等で引用する際は、必ず関連する影印本と照合してください。",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "声明：本书由 Kolistan 汇校整理、制作并免费提供下载，允许在不改变其内容完整的前提下自由传播，但禁止用于商业用途。其他网站转载本书全部或部分内容时，必须注明整理者联系资料及抚琴居网址。照搬本书内容或仅作局部改动，而变更（或删除）整理者名字另行发表者，我们保留追究的权利。",
+      "zh_modern": "声明：本书由 Kolistan 汇校整理、制作，并提供免费下载。允许在不改变其内容完整性的前提下自由传播，但禁止用于商业用途。其他网站如需转载本书全部或部分内容，必须注明整理者的联系方式及抚琴居网址。如有人照搬本书内容或仅作局部改动，而变更或删除整理者名字另行发表，我们保留追究的权利。",
+      "en": "Declaration: This book was collated, edited, and made available for free download by Kolistan. It may be freely distributed without altering its content, but commercial use is prohibited. Any website reproducing all or part of this book must credit the editor's contact information and the Fuqinju website. We reserve the right to pursue action against anyone who republishes this content with only minor modifications while changing or removing the editor's name.",
+      "ru": "Заявление: Данная книга составлена и отредактирована Колистаном и предоставляется для бесплатного скачивания. Разрешается свободное распространение без изменения содержания, но коммерческое использование запрещено. При перепечатке на других сайтах необходимо указать контактные данные составителя и адрес сайта Фуциньцзюй. Мы оставляем за собой право преследовать тех, кто перепубликует содержание с незначительными изменениями, изменив или удалив имя составителя.",
+      "ja": "声明：本書は Kolistan が彙校整理・制作し、無料でダウンロード提供しているものです。内容を改変しない限り自由に配布できますが、商業利用は禁止です。他のウェブサイトで本書の全部または一部を転載する場合は、必ず整理者の連絡先と撫琴居のサイトアドレスを明記してください。本書の内容をそのまま、または一部改変して整理者名を変更・削除して発表した場合、当方は追及する権利を留保します。",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "红楼梦脂评汇校本\n版本：3.13（2009.7.20.）\n曹雪芹著／脂砚斋评\nKolistan 汇校整理、制作\n抚琴居红楼梦文学社区发布",
+      "zh_modern": "《红楼梦》脂评汇校本\n版本号：3.13（2009年7月20日）\n曹雪芹 著 / 脂砚斋 评\nKolistan 汇校整理、制作\n抚琴居红楼梦文学社区发布",
+      "en": "Dream of the Red Chamber: Zhiping Commentary Collation\nVersion: 3.13 (July 20, 2009)\nWritten by Cao Xueqin / Commentary by Zhiyan Zhai\nCollated and Edited by Kolistan\nPublished by the Fuqinju Dream of the Red Chamber Literary Community",
+      "ru": "Сон в красном тереме: Сводное издание с комментариями Чжипин\nВерсия: 3.13 (20 июля 2009 г.)\nАвтор: Цао Сюэцинь / Комментарии: Чжияньчжай\nСоставление и редактура: Колистан\nИздано литературным сообществом «Сна в красном тереме» Фуциньцзюй",
+      "ja": "紅楼夢 脂評彙校本\nバージョン：3.13（2009年7月20日）\n曹雪芹 著 / 脂硯斎 評\nKolistan 彙校整理・制作\n撫琴居紅楼夢文学コミュニティ発行",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "联系方式：\nEmail：kolistan@yahoo.com.cn\nQQ：552129470\nMSN：kolistan@msn.com\n网址：http://bbs.hlmbbs.com/",
+      "zh_modern": "联系方式：\n电子邮箱：kolistan@yahoo.com.cn\nQQ号码：552129470\nMSN：kolistan@msn.com\n网站地址：http://bbs.hlmbbs.com/",
+      "en": "Contact Information:\nEmail: kolistan@yahoo.com.cn\nQQ: 552129470\nMSN: kolistan@msn.com\nWebsite: http://bbs.hlmbbs.com/",
+      "ru": "Контактная информация:\nЭлектронная почта: kolistan@yahoo.com.cn\nQQ: 552129470\nMSN: kolistan@msn.com\nВеб-сайт: http://bbs.hlmbbs.com/",
+      "ja": "連絡先：\nメール：kolistan@yahoo.com.cn\nQQ：552129470\nMSN：kolistan@msn.com\nウェブサイト：http://bbs.hlmbbs.com/",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "This page establishes the provenance and terms of use for this scholarly edition",
+    "The version number (3.13) indicates this is a refined edition with multiple revisions",
+    "「影印本」refers to facsimile editions - photographic reproductions of original manuscripts, considered the gold standard for textual verification",
+    "The emphasis on non-commercial use reflects the scholarly, community-driven nature of this project"
+  ],
+  "research_notes": [
+    "The Fuqinju (抚琴居) community was an active online forum for Dream of the Red Chamber scholarship in the 2000s",
+    "This edition represents significant volunteer effort to collate and make accessible multiple manuscript traditions"
+  ],
+  "characters_appearing": [],
+  "total_segments": 4,
+  "manuscript_sources_on_page": []
+}
