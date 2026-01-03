@@ -1,0 +1,93 @@
+{
+  "page": 47,
+  "chapter": "第二回",
+  "chapter_title": {
+    "original": "贾夫人仙逝扬州城 冷子兴演说荣国府",
+    "zh_modern": "贾夫人在扬州城仙逝，冷子兴演说荣国府",
+    "en": "Lady Jia Ascends to the Immortals in Yangzhou City; Leng Zixing Discourses on the Rongguo Mansion",
+    "ru": "Госпожа Цзя уходит к бессмертным в городе Янчжоу; Лэн Цзысин произносит речь о дворце Жунго",
+    "ja": "贾夫人、揚州城に仙逝し、冷子興、栄国府を演説す"
+  },
+  "page_content_type": "chapter_start",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 47,
+      "type": "title",
+      "original": "第二回 贾夫人仙逝扬州城 冷子兴演说荣国府",
+      "zh_modern": "第二回 贾夫人在扬州城仙逝，冷子兴演说荣国府",
+      "en": "Chapter 2: Lady Jia Ascends to the Immortals in Yangzhou City; Leng Zixing Discourses on the Rongguo Mansion",
+      "ru": "Глава 2: Госпожа Цзя уходит к бессмертным в городе Янчжоу; Лэн Цзысин произносит речь о дворце Жунго",
+      "ja": "第二回 贾夫人、揚州城に仙逝し、冷子興、栄国府を演説す",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "pdf_page": 47,
+      "type": "prose",
+      "original": "诗云：\n一局输赢料不真，\n香销茶尽尚逡巡。\n欲知目下兴衰兆，\n须问旁观冷眼人。",
+      "zh_modern": "有诗云：\n一局棋的输赢很难预料得真切，\n香已烧完，茶已喝尽，人还在迟疑徘徊。\n要想知道眼下兴衰的征兆，\n必须去问那旁观的冷眼人。",
+      "en": "The poem says:\nThe winner and loser of a game are hard to foresee;\nThe incense burnt, the tea gone, yet still one hesitates.\nIf you wish to know the omens of rise and fall before your eyes,\nYou must ask the cold-eyed observer standing by.",
+      "ru": "Стихи гласят:\nПобеду иль пораженье в игре предвидеть нельзя,\nАромат развеялся, чай испит, но все еще медлишь ты.\nКоли хочешь знать знамения расцвета и упадка,\nСпроси того, кто смотрит со стороны холодным взором.",
+      "ja": "詩に云く：\n一局の輸贏（しゅえい）料（はか）ること真ならず、\n香は銷（き）え茶は尽きるも尚お逡巡す。\n目下の興衰の兆しを知らんと欲せば、\n須らく問うべし旁観の冷眼人を。",
+      "poem_notes": {
+        "form": "七言绝句 (Seven-character quatrain)",
+        "literary_devices": ["Metaphor (Chess/Life)", "Foreshadowing (Leng Zixing)"]
+      },
+      "commentary": [
+        {
+          "type": "甲戌眉批",
+          "source": "甲戌本",
+          "position": "top margin",
+          "original": "只此一诗，便妙极！此等用法，非高手不能。",
+          "zh_modern": "仅仅这一首诗，就妙极了！这种用法，不是高手做不到。",
+          "en": "Just this one poem is extremely wonderful! Such usage is impossible for anyone but a master.",
+          "ru": "Одно лишь это стихотворение — верх совершенства! Так использовать его может лишь мастер.",
+          "ja": "ただこの一詩、すなわち妙極まりなし！此等の用法、高手にあらざれば能わず。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "pdf_page": 47,
+      "type": "prose",
+      "original": "却说封肃因听见公差传唤，忙出来陪笑启问。",
+      "zh_modern": "话说封肃因为听见公差传唤，急忙出来陪着笑脸询问。",
+      "en": "It is told that Feng Su, hearing the official messengers summoning him, hurriedly came out with an apologetic smile to inquire.",
+      "ru": "Говорят, что Фэн Су, услышав зов казенных гонцов, поспешно вышел с подобострастной улыбкой, чтобы спросить, в чем дело.",
+      "ja": "却説（さて）、封粛は公差の伝喚するを聞くにより、忙（いそが）しく出来たり陪笑して啓問す。",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "pdf_page": 47,
+      "type": "prose",
+      "original": "那些人只嚷：“快请出甄爷来！”封肃忙陪笑道：“小人姓封，并不姓甄。只有当日小婿姓甄，今已出家一二年了，不知可是问他？”",
+      "zh_modern": "那些人只嚷道：“快请出甄爷来！”封肃忙陪笑道：“小人姓封，并不姓甄。只有当年我的女婿姓甄，如今已经出家一两年了，不知道是不是问他？”",
+      "en": "Those men only shouted: “Quickly invite Master Zhen out here!” Feng Su hurriedly smiled apologetically and said: “This humble person is named Feng, not Zhen. Only my son-in-law of formerly was named Zhen, but he left the home to become a monk one or two years ago. I do not know if you are asking for him?”",
+      "ru": "Те люди лишь кричали: «Быстро пригласи сюда господина Чжэня!» Фэн Су поспешно с улыбкой ответил: «Фамилия вашего слуги — Фэн, а вовсе не Чжэнь. Только мой бывший зять носил фамилию Чжэнь, но он ушел в монахи год или два назад. Не знаю, о нем ли вы спрашиваете?»",
+      "ja": "かの人たちはただ嚷（さけ）ぶ、「快く甄爺（しんや）を請い出したまえ！」と。封粛は忙しく陪笑して言う、「小人は姓は封にして、並びに甄と姓せず。ただ当日の小婿（しょうせい）の姓が甄なれど、今すでに家を出でて一二年なり、知らず彼を問うか？」と。",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "冷眼人 (Leng Yan Ren): Cold-eyed observer. Refers to Leng Zixing (Cold Son-Xing), who provides an objective 'outsider' view of the Jia family's decline.",
+    "荣国府 (Rongguo Fu): The Rongguo Mansion. One of the two main branches of the Jia family (the other being Ningguo).",
+    "贾夫人 (Lady Jia): Refers to Jia Min (Lin Daiyu's mother), who dies in this chapter.",
+    "封肃 (Feng Su): Shiyin's father-in-law. Represents the snobbish, worldly attitude.",
+    "一局输赢 (Yi Ju Shu Ying): Refers to the game of Go (Weiqi) or Chess, often used as a metaphor for the unpredictable changes of fate/politics."
+  ],
+  "research_notes": [
+    "This page marks the transition to Chapter 2.",
+    "The poem introduces Leng Zixing, a crucial narrative device for exposition.",
+    "Verified the Chapter Title from the Zhiping edition (some editions differ)."
+  ],
+  "characters_appearing": [
+    "Feng Su",
+    "Official Messengers",
+    "Leng Zixing (mentioned in poem/title)"
+  ],
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ]
+}
