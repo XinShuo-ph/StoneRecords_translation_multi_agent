@@ -1,0 +1,36 @@
+{
+  "page": 7,
+  "chapter": "凡例",
+  "page_content_type": "fanli",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 7,
+      "type": "prose",
+      "original": "读者看过此书，若以为真有其事，则痴矣；若以为全无其事，则亦痴矣。",
+      "zh_modern": "读者读完这本书，如果认为真有其事，那就是痴傻了；如果认为完全没有其事，那也是痴傻。",
+      "en": "If the reader, having read this book, thinks these events truly occurred, they are foolish; if they think none of these events occurred, they are also foolish.",
+      "ru": "Если читатель, прочтя эту книгу, сочтет, что описанные события подлинны, он глупец; если же он сочтет, что ничего этого не было, он также глупец.",
+      "ja": "読者この書を看過し、若し以て真にその事ありと為さば、則ち痴なり。若し以て全くその事なしと為さば、則ち亦た痴なり。",
+      "commentary": [
+        {
+          "type": "眉批",
+          "source": "庚辰本",
+          "position": "top margin",
+          "original": "假作真时真亦假。",
+          "zh_modern": "当把假的当作真的时候，真的也就成了假的。",
+          "en": "When the false is taken for true, the true becomes false.",
+          "ru": "Когда ложное принимают за истинное, истинное становится ложным.",
+          "ja": "仮を真と作る時は真も亦た仮なり。"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "Famous couplet concept introduced here."
+  ],
+  "research_notes": [],
+  "characters_appearing": [],
+  "manuscript_sources_on_page": ["庚辰本"],
+  "total_segments": 1
+}
