@@ -1,0 +1,242 @@
+{
+  "page": 20,
+  "chapter": "第一回",
+  "chapter_title": {
+    "original": "甄士隐梦幻识通灵 贾雨村风尘怀闺秀",
+    "zh_modern": "甄士隐在梦幻中认识了通灵宝玉，贾雨村在落魄时怀念闺中秀女",
+    "en": "Zhen Shiyin in a Dream Perceives the Jade of Spiritual Understanding; Jia Yucun in Humble Circumstances Thinks Fondly of a Beautiful Maiden",
+    "ru": "Чжэнь Шиинь во сне постигает волшебную яшму; Цзя Юйцунь в бедности вспоминает прекрасную деву",
+    "ja": "甄士隠、夢幻の中で通霊を識り、賈雨村、風塵にありて閨秀を懐う"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "士隐意欲也跟了过去，方举步时，忽听一声霹雳，有若山崩地陷。士隐大叫一声，定睛一看，只见烈日炎炎，芭蕉冉冉，梦中之事便忘了对半。",
+      "zh_modern": "士隐也想跟着他们过去，刚要迈步，忽然听到一声惊雷，好像山崩地陷一般。士隐大叫一声，定睛细看，只见烈日炎炎，芭蕉轻轻摇曳，梦中的事情已经忘了一大半。",
+      "en": "Shiyin wished to follow them, but just as he was about to take a step, he suddenly heard a thunderclap like mountains crumbling and the earth splitting open. Shiyin let out a great cry and, looking intently, saw only the blazing sun and the swaying banana plants. Half of what had happened in his dream was already forgotten.",
+      "ru": "Шиинь хотел последовать за ними, но едва он собрался сделать шаг, как вдруг раздался громовой удар, словно горы рушились и земля разверзалась. Шиинь вскрикнул и, пристально вглядевшись, увидел лишь палящее солнце и колышущиеся банановые листья. Половина того, что было во сне, уже забылась.",
+      "ja": "士隠もついて行こうとし、まさに足を踏み出そうとした時、突然山が崩れ地が陥るかのような雷鳴が轟いた。士隠は大声で叫び、目を凝らして見ると、ただ炎天の陽光と揺れる芭蕉があるばかりで、夢の中の出来事は半ば忘れてしまっていた。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂砚斋",
+          "position": "inline, after 定睛一看",
+          "original": "真是大警觉大转身。",
+          "zh_modern": "真是一个大警醒、大转变啊。",
+          "en": "Truly a great awakening and great transformation.",
+          "ru": "Поистине великое пробуждение и великий поворот.",
+          "ja": "まさに大いなる覚醒、大いなる転身なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 芭蕉冉冉",
+          "original": "旺得无垠，不落旧套。",
+          "zh_modern": "生机勃勃，无边无际，不落俗套。",
+          "en": "Flourishing without bounds, avoiding clichéd conventions.",
+          "ru": "Полный жизни, безграничный, избегающий избитых клише.",
+          "ja": "生気溢れて無辺、旧套に落ちず。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 便忘了对半",
+          "original": "妙极！若记得，便是俗笔了。",
+          "zh_modern": "妙极了！如果都记得，就成了俗套的写法了。",
+          "en": "Wonderfully done! If he had remembered everything, it would have been a vulgar pen.",
+          "ru": "Превосходно! Если бы он всё помнил, это было бы банальным приёмом.",
+          "ja": "妙極まれり！もし記憶していれば、俗筆となったであろう。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "又见奶娘正抱了英莲走来。士隐见女儿越发生得粉妆玉琢，乖觉可喜，便伸手接来，抱在怀中，斗他顽耍一回，又带至街前，看那过会的热闹。方欲进来时，只见从那边来了一僧一道，那僧则癞头跣足，那道则跛足蓬头，疯疯癫癫，挥霍谈笑而至。",
+      "zh_modern": "又见奶娘正抱着英莲走过来。士隐见女儿越发出落得粉妆玉琢、乖巧可爱，便伸手接过来，抱在怀中，逗她玩耍了一会儿，又带到街前，看那庙会的热闹。正要回来时，只见从那边来了一个和尚和一个道士，那和尚癞头赤脚，那道士跛足蓬头，二人疯疯癫癫、手舞足蹈地说笑着走了过来。",
+      "en": "He then saw the wet nurse approaching with Yinglian in her arms. Shiyin noticed that his daughter had grown ever more delicately beautiful, like a figure of powder and jade, clever and adorable. He reached out to take her, held her in his arms, played with her for a while, then carried her to the street to watch the bustling temple fair. Just as he was about to go back inside, he saw approaching from the other direction a Buddhist monk and a Taoist priest. The monk had a scabby head and bare feet, while the Taoist was lame and unkempt. The two came along in a crazed manner, gesticulating wildly and laughing as they walked.",
+      "ru": "Он увидел, что кормилица несёт к нему Инлянь. Шиинь заметил, что дочь стала ещё прекраснее — словно изваяние из пудры и яшмы, сообразительная и милая. Он протянул руки, взял её на руки, немного поиграл с ней, а затем вынес на улицу посмотреть на оживлённую храмовую ярмарку. Когда он собирался вернуться, с другой стороны появились буддийский монах и даосский священник. У монаха была паршивая голова и босые ноги, а даос был хромым и растрёпанным. Оба шли в каком-то безумии, размахивая руками и смеясь.",
+      "ja": "また乳母が英蓮を抱いて歩いてくるのが見えた。士隠は娘がますます粉を施し玉を琢いたように美しく、利発で可愛らしくなっているのを見て、手を伸ばして受け取り、懐に抱いてしばらく遊ばせ、それから街前に連れて行って廟会の賑わいを見せた。戻ろうとした時、向こうから一人の僧と一人の道士がやってきた。その僧は癩頭で裸足、その道士は跛足で蓬髪、二人とも狂ったように手を振り回しながら談笑してやってきた。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 一僧一道",
+          "original": "所谓「万境都如梦境看」也。",
+          "zh_modern": "这就是所说的「万境都如梦境看」啊。",
+          "en": "This is what is meant by 'viewing all realms as if they were dreams.'",
+          "ru": "Вот что имеется в виду под словами «смотреть на все миры как на сновидения».",
+          "ja": "いわゆる「万境都如梦境看」というものなり。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 跛足蓬头",
+          "original": "此则是幻像。",
+          "zh_modern": "这就是幻象。",
+          "en": "These are illusory forms.",
+          "ru": "Это иллюзорные образы.",
+          "ja": "これ即ち幻像なり。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "及至到了他门前，看见士隐抱着英莲，那僧便哭起来，又向士隐道：『施主，你把这有命无运，累及爹娘之物，抱在怀内作甚？』",
+      "zh_modern": "等到了他门前，看见士隐抱着英莲，那和尚便哭了起来，又向士隐说道：『施主，你把这个有命无运、会连累父母的东西抱在怀里做什么？』",
+      "en": "When they reached his gate and saw Shiyin holding Yinglian, the monk began to weep. He then said to Shiyin: \"Good sir, why do you hold in your arms this creature who has life but no fortune, who will bring calamity upon her parents?\"",
+      "ru": "Когда они подошли к его воротам и увидели, что Шиинь держит Инлянь, монах заплакал. Затем он обратился к Шииню: «Благодетель, зачем вы держите на руках это создание, у которого есть жизнь, но нет судьбы, которое принесёт горе своим родителям?»",
+      "ja": "彼の門前に至り、士隠が英蓮を抱いているのを見ると、その僧は泣き出し、また士隠に向かって言った。「施主よ、この命はあれど運のない、父母に災いをもたらす者を、なぜ懐に抱いておられるのか。」",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 哭起来",
+          "original": "奇怪！所谓情僧也。",
+          "zh_modern": "奇怪啊！这就是所谓的情僧。",
+          "en": "How strange! This is what is called the 'Passionate Monk.'",
+          "ru": "Как странно! Вот что называется «Монахом Страстей».",
+          "ja": "奇なるかな！いわゆる情僧なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 累及爹娘",
+          "original": "八个字屈死多少英雄？屈死多少忠臣孝子？屈死多少仁人志士？屈死多少词客骚人？今又被作者将此一把眼泪洒与闺阁之中，见得裙钗尚遭逢此数，况天下之男子乎？看他所写开卷之第一个女子便用此二语以定终身，则知托言寓意之旨，谁谓独奇兴于一「情」字耶！",
+          "zh_modern": "这八个字屈死了多少英雄？屈死了多少忠臣孝子？屈死了多少仁人志士？屈死了多少文人墨客？如今作者又把这一把眼泪洒向闺阁之中，可见连女子尚且遭遇这样的命运，何况天下的男子呢？看他所写的开卷第一个女子就用这两句话来定其终身，就知道这托言寓意的旨趣，谁说单独只是寄兴于一个「情」字呢！",
+          "en": "How many heroes have been wrongfully destroyed by these eight characters? How many loyal ministers and filial sons? How many benevolent men and noble scholars? How many poets and literati? Now the author sheds these tears into the women's chambers, showing that even women must face such fates—how much more so the men of the world! Seeing that the first woman in this opening is defined by these two phrases, one understands the purpose of this allegory. Who says it merely indulges in the word 'passion' alone!",
+          "ru": "Сколько героев погубили эти восемь иероглифов! Сколько верных сановников и почтительных сыновей! Сколько человеколюбивых и благородных мужей! Сколько поэтов и литераторов! Теперь автор проливает эти слёзы в женских покоях, показывая, что даже женщины подвержены такой судьбе — что уж говорить о мужчинах мира! Видя, что первая женщина в этом начале определена этими двумя фразами, понимаешь замысел этой аллегории. Кто скажет, что она лишь предаётся одному слову «страсть»!",
+          "ja": "この八字がどれほどの英雄を冤枉に死なせたことか。どれほどの忠臣孝子を。どれほどの仁人志士を。どれほどの詞客騒人を。今また作者はこの涙を閨閣の中に注ぎ、裙釵すらこの運命に遭うことを示す。況んや天下の男子をや。彼が書く開卷第一の女子にこの二語を以て終身を定めるを見れば、托言寓意の旨を知る。誰が独り「情」の一字に興を寄せるのみと謂わんや！"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "士隐听了，知是疯话，也不去睬他。那僧还说："舍我罢，舍我罢！"士隐不耐烦，便抱着女儿撤身进去，那僧乃指着他大笑，口内念了四句言词，道是：",
+      "zh_modern": "士隐听了，知道是疯话，也不去理睬他。那和尚还说："把她舍给我吧，舍给我吧！"士隐不耐烦了，便抱着女儿转身进去了。那和尚便指着他大笑，口中念了四句偈语，说道：",
+      "en": "Shiyin heard this and, knowing it was mad talk, paid him no heed. The monk persisted: \"Give her to me! Give her to me!\" Shiyin grew impatient and, holding his daughter, turned to go inside. The monk then pointed at him and laughed loudly, chanting four lines of verse:",
+      "ru": "Шиинь выслушал его и, понимая, что это безумные речи, не обратил на него внимания. Монах продолжал: «Отдайте её мне! Отдайте её мне!» Шиинь потерял терпение и, держа дочь на руках, повернулся, чтобы уйти. Тогда монах указал на него и громко рассмеялся, произнося четыре строки стихов:",
+      "ja": "士隠は聞いて、狂言と知り、相手にしなかった。その僧はなおも言った。「私に譲ってくれ、私に譲ってくれ！」士隠はうんざりして、娘を抱いて身を翻して中に入った。すると僧は彼を指さして大笑いし、口の中で四句の言葉を唱えた。曰く：",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂砚斋",
+          "position": "inline, after 撤身进去",
+          "original": "如果舍出，则不成幻境矣。行文至此，又不得不有此一语。",
+          "zh_modern": "如果舍给他了，就不能构成幻境了。文章写到这里，又不得不有这一句话。",
+          "en": "If he had given her up, the illusion would not have been complete. At this point in the writing, this passage was unavoidable.",
+          "ru": "Если бы он отдал её, иллюзия не сложилась бы. Дойдя до этого места, нельзя было обойтись без этих слов.",
+          "ja": "もし譲り出せば、幻境を成さず。文ここに至りて、またこの一語なくんばあらず。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "poem",
+      "original": "惯养娇生笑你痴，\n菱花空对雪澌澌。\n好防佳节元宵后，\n便是烟消火灭时。",
+      "zh_modern": "你娇生惯养她，我笑你痴心啊，\n菱花镜空对着纷纷飘落的雪花。\n好好防备那佳节元宵之后，\n便是烟消火灭、家破人亡之时。",
+      "en": "I laugh at your folly, coddling her so tenderly—\nThe water-chestnut flower faces the drifting snow in vain.\nBeware the time after the Lantern Festival's joy,\nFor then comes the moment when smoke fades and flames die.",
+      "ru": "Смеюсь над твоим безумием — так её лелеешь,\nЦветок водяного ореха напрасно глядит на падающий снег.\nОстерегайся времени после праздника Фонарей,\nИбо тогда наступит час, когда дым рассеется и пламя угаснет.",
+      "ja": "娇生惯养笑你痴、\n菱花空しく雪の紛々に対す。\n好く防げ佳節元宵の後を、\n便ち是れ煙消え火滅ぶる時なり。",
+      "poem_notes": {
+        "form": "七言絶句 (Seven-character quatrain)",
+        "rhyme_scheme": "ABAB (痴/澌/时 share similar endings)",
+        "literary_devices": [
+          "Prophecy - foretells Yinglian's abduction on Lantern Festival",
+          "Wordplay - 菱花 (water chestnut flower) puns on 英莲's later name 香菱",
+          "Imagery - snow and dying fire foreshadow destruction"
+        ]
+      },
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after first line",
+          "original": "为天下父母痴心一哭。",
+          "zh_modern": "为天下父母的痴心哭一场。",
+          "en": "One weeps for the devoted hearts of all parents in the world.",
+          "ru": "Плачу о преданных сердцах всех родителей в мире.",
+          "ja": "天下の父母の痴心の為に一哭す。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after second line",
+          "original": "生不遇时，遇又非偶。",
+          "zh_modern": "生不逢时，遇到的又不是好的姻缘。",
+          "en": "Born at the wrong time, and her encounters are all ill-fated.",
+          "ru": "Родилась не в то время, и встречи её все несчастливы.",
+          "ja": "生まれて時に遇わず、遇いてまた偶にあらず。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after third line",
+          "original": "前后一样，不直云前而云后，是讳知者。",
+          "zh_modern": "前后都一样（都有灾难），不直接说"前"而说"后"，是有所避讳的写法。",
+          "en": "Before and after are the same. Not saying 'before' but 'after' is a way of concealing for those who know.",
+          "ru": "До и после — одно и то же. Говоря «после» вместо «до», автор скрывает истину от посвящённых.",
+          "ja": "前後一様なり。直に前と云わずして後と云うは、知る者を諱むなり。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after fourth line",
+          "original": "伏后文。",
+          "zh_modern": "为后文埋下伏笔。",
+          "en": "This foreshadows later events.",
+          "ru": "Это предвосхищает дальнейшие события.",
+          "ja": "後文に伏す。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "prose",
+      "original": "士隐听得明白，心下狐疑，意欲问他们来历。只听道人说道："你我不必同行，就此分手，各干营生去罢。三劫后，",
+      "zh_modern": "士隐听得明白，心中疑惑，想问问他们的来历。只听那道士说道："你我不必同行，就此分手，各自去做自己的事吧。三劫之后，",
+      "en": "Shiyin heard and understood, but his heart was filled with doubt, and he wished to ask them where they came from. He only heard the Taoist say: \"You and I need not travel together. Let us part here and each go about our own affairs. After three kalpas,",
+      "ru": "Шиинь всё слышал и понял, но в сердце его было сомнение, и он хотел спросить, откуда они пришли. Он лишь услышал, как даос сказал: «Нам с тобой незачем идти вместе. Разойдёмся здесь и займёмся каждый своим делом. Через три кальпы",
+      "ja": "士隠は聞いて明らかに理解したが、心中疑念を抱き、彼らの来歴を問おうと思った。ただ道士が言うのを聞いた。「お前と私は同行する必要はない。ここで別れて、それぞれの生業に就こう。三劫の後、",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 三劫后",
+          "original": "佛以世谓"劫"，几三十",
+          "zh_modern": "佛教以世界为"劫"，大约三十……",
+          "en": "In Buddhism, a 'kalpa' refers to a world-age, approximately thirty...",
+          "ru": "В буддизме «кальпа» означает мировую эпоху, примерно тридцать...",
+          "ja": "仏は世を以て「劫」と謂う、およそ三十……"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "「有命无运，累及爹娘」is a crucial eight-character prophecy about Yinglian (later Xiangling) - she has 'life' (命) but no 'fortune' (运), meaning she will live but face endless suffering, and bring disaster to her parents",
+    "「一僧一道」(the Monk and the Taoist) are recurring supernatural figures representing Buddhist and Taoist wisdom, appearing at key moments throughout the novel",
+    "「菱花」(water-chestnut flower) is a deliberate pun on 香菱, the name Yinglian will later be given after her abduction",
+    "「元宵」(Lantern Festival) is when Yinglian will be abducted - this is explicit foreshadowing",
+    "「三劫」refers to Buddhist concept of cosmic time periods (kalpas); the commentary suggests this relates to approximately 30 years",
+    "The extensive commentary on the eight-character phrase shows how Cao Xueqin uses Yinglian's fate as a microcosm for all human suffering - not just women's suffering",
+    "「情僧」(Passionate Monk) is a paradoxical term - a monk who weeps with compassion despite Buddhist detachment"
+  ],
+  "research_notes": [
+    "The 甲戌本 commentary's meditation on 'how many heroes have been destroyed by fate' elevates Yinglian from a minor character to a symbol of universal tragedy",
+    "The monk and Taoist's disheveled appearance (癞头跣足, 跛足蓬头) follows traditional Chinese literary conventions for immortals in disguise",
+    "Yinglian/Xiangling is one of the most tragic figures in the novel - abducted, sold, abused, and dies young",
+    "The Lantern Festival reference is precise - in Chapter 1, Yinglian is abducted during this festival when a servant loses her"
+  ],
+  "characters_appearing": [
+    "甄士隐 (Zhen Shiyin)",
+    "甄英莲 (Zhen Yinglian / later Xiangling)",
+    "一僧一道 (The Monk and Taoist)",
+    "奶娘 (Wet nurse)"
+  ],
+  "total_segments": 6,
+  "manuscript_sources_on_page": ["甲戌本", "脂砚斋"]
+}
