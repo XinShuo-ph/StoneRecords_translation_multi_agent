@@ -1,0 +1,101 @@
+{
+  "page": 28,
+  "chapter": "第一回",
+  "chapter_title": {
+    "original": "甄士隐梦幻识通灵 贾雨村风尘怀闺秀",
+    "zh_modern": "甄士隐在梦幻中认识了通灵宝玉，贾雨村在落魄时怀念闺中秀女",
+    "en": "Zhen Shiyin in a Dream Perceives the Jade of Spiritual Understanding; Jia Yucun in Humble Circumstances Thinks Fondly of a Beautiful Maiden",
+    "ru": "Чжэнь Шиинь во сне постигает волшебную яшму; Цзя Юйцунь в бедности вспоминает прекрасную деву",
+    "ja": "甄士隠、夢幻の中で通霊を識り、賈雨村、風塵にありて閨秀を懐う"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "不知有何祸事。",
+      "zh_modern": "不知道会有什么灾祸。",
+      "en": "Not knowing what calamity would befall.",
+      "ru": "Не ведая, какое несчастье их ожидает.",
+      "ja": "いかなる禍事があるかを知らず。",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "脂砚斋总评：出口神奇，幻中不幻。文势跳跃，情里生情。借幻说法，而幻中更自多情，因情捉笔，而情里偏成痴幻。试问君家识得否，色空空色两无干。",
+      "zh_modern": "脂砚斋总评：开篇就出语神奇，在虚幻之中又有真实。行文跌宕跳跃，情感之中又生出新的情感。借用虚幻来阐说道理，而虚幻之中更是自有多情；因情动笔写作，而情感之中偏偏又变成痴迷的幻象。试问各位能否领会，色即是空、空即是色，两者其实并无分别。",
+      "en": "General commentary by Zhiyan Zhai: The opening words are miraculous—within illusion there is no illusion. The narrative momentum leaps and bounds, and within emotion, new emotion is born. Illusion is borrowed to expound truth, yet within illusion there is abundant passion. The brush is taken up because of emotion, yet within emotion arises bewildering illusion. I ask you, reader: do you understand? Form is emptiness and emptiness is form—the two are not separate.",
+      "ru": "Общий комментарий Чжияньчжая: Начальные слова чудесны — в иллюзии нет иллюзии. Повествование движется скачками, и в чувстве рождается новое чувство. Иллюзия используется для изложения истины, но в иллюзии ещё больше страсти. Перо берётся из-за чувства, но в чувстве возникает безумная иллюзия. Спрашиваю вас, читатель: понимаете ли? Форма есть пустота, пустота есть форма — они неразделимы.",
+      "ja": "脂硯斎総評：出だしから神奇にして、幻の中に幻にあらず。文勢は跳躍し、情の中に情を生ず。幻を借りて説法し、而して幻中更に自ずから多情なり。情に因りて筆を執り、而して情の中偏に痴幻と成る。試みに問う君家識り得るや否や、色即是空、空即是色、両つながら干わりなし。",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "①以上文字见于庚、戚、蒙、列、辰、舒、杨诸本，其中甲辰本为回前批，余本均为正文。此段与甲戌本凡例第五条略同，玩其文意应非正文，现作为回前批处理。",
+      "zh_modern": "①以上这段文字见于庚辰本、戚序本、蒙府本、列藏本、辰本、舒序本、杨藏本等各本，其中甲辰本将其作为回前批语，其余各本均作为正文。这段文字与甲戌本《凡例》第五条内容大体相同，从文意来看应该不是正文，现在作为回前批语处理。",
+      "en": "①This passage appears in the Gengchen, Qi-preface, Mengfu, Leningrad, Chen, Shu-preface, and Yang manuscripts. In the Jiachen manuscript it appears as a preface comment, while in other manuscripts it is part of the main text. This passage largely matches the fifth item in the Fanli (Editorial Notes) of the Jiaxu manuscript; judging by the content, it should not be main text, and is here treated as a preface comment.",
+      "ru": "①Этот отрывок присутствует в рукописях Гэнчэнь, Ци, Мэнфу, Ленинградской, Чэнь, Шу и Ян. В рукописи Цзячэнь он дан как предисловие к главе, в остальных — как основной текст. Этот отрывок в значительной степени совпадает с пятым пунктом «Фаньли» рукописи Цзясюй; судя по содержанию, это не основной текст, и здесь он рассматривается как предисловие к главе.",
+      "ja": "①以上の文字は庚辰本、戚序本、蒙府本、列蔵本、辰本、舒序本、楊蔵本等の諸本に見える。その中で甲辰本は回前批とし、余の本は皆正文とする。この段は甲戌本の凡例第五条と略同にして、その文意を玩味するに正文にあらざるべし。今は回前批として処理する。",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "②「说说笑笑……将一块大石登时变成」四百二十余字为甲戌本独有，各本皆缺，补以「来至石下，席地而坐长谈，见」数语连接下文。",
+      "zh_modern": "②「说说笑笑……将一块大石登时变成」这四百二十多个字是甲戌本独有的，其他各本都没有。其他各本用「来至石下，席地而坐长谈，见」这几句话来连接下文。",
+      "en": "②The passage 'Chatting and laughing... instantly transformed a large stone' comprising over 420 characters is unique to the Jiaxu manuscript; all other manuscripts lack it. Other manuscripts use the phrase 'Coming to the stone, sitting on the ground for a long talk, seeing...' to connect to the following text.",
+      "ru": "②Отрывок «Болтая и смеясь... мгновенно превратил большой камень», насчитывающий более 420 иероглифов, уникален для рукописи Цзясюй; во всех остальных рукописях он отсутствует. Другие рукописи используют фразу «Придя к камню, усевшись на землю для долгой беседы, увидели...» для связи с последующим текстом.",
+      "ja": "②「説説笑笑……将一塊大石登時変成」の四百二十余字は甲戌本独有にして、各本皆欠く。「来至石下、席地而坐長談、見」の数語を以て下文に連接す。",
+      "commentary": []
+    },
+    {
+      "id": 5,
+      "type": "prose",
+      "original": "③甲戌本第一至五回的夹批，全部为针对诗歌、联语的句后批。由于这些诗、联是分行排列，句与句之间又留有空格，这五回的夹批就批在行末和句间空隙处。这与其他各回夹在正文中间连抄的双行批有所不同，因此也有人认为应视为侧批。",
+      "zh_modern": "③甲戌本第一回到第五回的夹批，全部是针对诗歌、对联的句后批语。由于这些诗、对联是分行排列的，句与句之间又留有空格，所以这五回的夹批就批注在行末和句间的空隙处。这与其他各回夹在正文中间连续抄写的双行批语有所不同，因此也有人认为应该视为侧批。",
+      "en": "③The interlinear comments in Chapters 1-5 of the Jiaxu manuscript are all post-line comments on poetry and couplets. Because these poems and couplets are arranged in separate lines with spaces between sentences, the interlinear comments in these five chapters appear at line ends and in the gaps between sentences. This differs from the double-line comments in other chapters that are copied continuously within the main text, so some scholars argue they should be considered marginal comments.",
+      "ru": "③Междустрочные комментарии в главах 1-5 рукописи Цзясюй представляют собой послестрочные примечания к стихам и парным надписям. Поскольку эти стихи и надписи расположены отдельными строками с пробелами между предложениями, междустрочные комментарии в этих пяти главах появляются в конце строк и в промежутках между предложениями. Это отличается от двустрочных комментариев в других главах, которые переписаны непрерывно внутри основного текста, поэтому некоторые учёные считают, что их следует рассматривать как боковые комментарии.",
+      "ja": "③甲戌本の第一回より第五回の夾批は、全て詩歌・聯語に対する句後批なり。これらの詩・聯は分行排列にして、句と句の間に又空格を留むるが故に、この五回の夾批は行末と句間の空隙処に批す。これは其の他の各回の正文中間に連抄する双行批と異なる所あり、故に側批と視すべしと認むる人も有り。",
+      "commentary": []
+    },
+    {
+      "id": 6,
+      "type": "prose",
+      "original": "④著名批语。以前著作引录此批多将「壬午除夕」断归下句，作「书未成，芹为泪尽而逝」的时间定语，并因此成为曹雪芹卒年「壬午说」的主要证据。但「壬午说」并不能解决现存文献资料中的矛盾。香港梅节先生认为此处应系两批连抄，「壬午除夕」是前一条批语的作批时间，而不是芹逝时间。其说理由充分，今从之。",
+      "zh_modern": "④这是著名的批语。以前的著作引用这条批语时，多把「壬午除夕」断句归入下句，作为「书未成，芹为泪尽而逝」的时间状语，并因此成为曹雪芹卒年「壬午说」（即认为曹雪芹死于壬午年）的主要证据。但是「壬午说」并不能解决现存文献资料中的矛盾。香港学者梅节先生认为，此处应该是两条批语连抄在一起，「壬午除夕」是前一条批语写作的时间，而不是曹芹去世的时间。他的说法理由充分，现在采用他的观点。",
+      "en": "④This is a famous commentary. Previous scholars who cited this comment often parsed 'New Year's Eve of Renwo year' as belonging to the following clause, making it the temporal modifier for 'the book unfinished, Qin died with tears exhausted,' thus becoming the main evidence for the 'Renwo theory' of Cao Xueqin's death year. However, the 'Renwo theory' cannot resolve contradictions in existing documentary evidence. Hong Kong scholar Mr. Mei Jie argues that this should be two comments copied together, with 'New Year's Eve of Renwo year' being the date when the first comment was written, not the time of Cao Qin's death. His reasoning is well-founded, and we follow his interpretation here.",
+      "ru": "④Это знаменитый комментарий. Ранее учёные, цитировавшие его, часто относили «канун Нового года в году Жэньу» к следующему предложению, делая его временным определением к фразе «книга не завершена, Цинь умер, истощив слёзы», что стало главным доказательством «теории Жэньу» о годе смерти Цао Сюэциня. Однако «теория Жэньу» не может разрешить противоречия в существующих документальных свидетельствах. Гонконгский учёный г-н Мэй Цзе считает, что здесь два комментария переписаны вместе, и «канун Нового года в году Жэньу» — это дата написания первого комментария, а не время смерти Цао Циня. Его аргументация убедительна, и мы следуем его интерпретации.",
+      "ja": "④著名な批語なり。以前の著作はこの批を引録する際、多く「壬午除夕」を下句に断帰し、「書未成、芹為涙尽而逝」の時間定語と作し、因って曹雪芹卒年「壬午説」の主要証拠と成れり。但し「壬午説」は現存の文献資料中の矛盾を解決すること能わず。香港の梅節先生は此処は応に両批連抄と為すべしと認め、「壬午除夕」は前一条の批語の作批時間にして、芹逝の時間にあらずと。其の説理由充分なり、今之に従う。",
+      "commentary": []
+    },
+    {
+      "id": 7,
+      "type": "prose",
+      "original": "⑤「出则」，甲辰本作「出处」，余本均同甲戌本。吴恩裕认为「则」字系「处」字简写的草书形讹，近是。",
+      "zh_modern": "⑤「出则」，甲辰本写作「出处」，其余各本都与甲戌本相同。吴恩裕认为「则」字是「处」字草书简写的形讹，这个说法比较接近事实。",
+      "en": "⑤The phrase 'chu ze' (出则): the Jiachen manuscript writes 'chu chu' (出处), while other manuscripts match the Jiaxu manuscript. Wu Enyu believes the character 'ze' (则) is a graphic error from the cursive abbreviation of 'chu' (处). This explanation is probably correct.",
+      "ru": "⑤Фраза «чу цзэ» (出则): в рукописи Цзячэнь написано «чу чу» (出处), остальные рукописи совпадают с Цзясюй. У Эньюй считает, что иероглиф «цзэ» (则) — это графическая ошибка из скорописного сокращения иероглифа «чу» (处). Это объяснение, вероятно, верно.",
+      "ja": "⑤「出則」、甲辰本は「出処」に作り、余本は皆甲戌本に同じ。呉恩裕は「則」字は「処」字の草書簡写の形訛と認む。近しきなり。",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "This page contains a major philosophical commentary by Zhiyan Zhai on the novel's approach to illusion (幻) and emotion (情)",
+    "The phrase「色空空色两无干」references the Heart Sutra (般若心经): 'Form is emptiness, emptiness is form'",
+    "「幻中不幻」(within illusion there is no illusion) expresses the paradoxical nature of fiction as truth",
+    "The scholarly notes discuss textual variants between different manuscript sources (甲戌本、庚辰本、甲辰本, etc.)",
+    "Note ④ discusses the famous debate about Cao Xueqin's death date - whether '壬午除夕' (New Year's Eve of Renwo, 1763) refers to when he died or when the commentary was written",
+    "The Zhiyan Zhai commentary encapsulates the novel's Buddhist-influenced philosophy: passion leads to illusion, yet through illusion truth is expressed"
+  ],
+  "research_notes": [
+    "The 'Renwo theory' (壬午说) places Cao Xueqin's death at New Year's Eve 1763; alternative theories exist",
+    "Mei Jie's interpretation (mentioned in note ④) separates the date from the death notice, suggesting the date refers to when Zhiyan Zhai wrote the comment",
+    "The various manuscript sources mentioned (庚、戚、蒙、列、辰、舒、杨) represent different early manuscript traditions of the novel",
+    "This page shows how the 脂评汇校本 edition combines critical apparatus with the literary text"
+  ],
+  "characters_appearing": [],
+  "total_segments": 7,
+  "manuscript_sources_on_page": ["甲戌本", "庚辰本", "戚序本", "蒙府本", "列藏本", "辰本", "舒序本", "杨藏本", "甲辰本", "脂砚斋"]
+}

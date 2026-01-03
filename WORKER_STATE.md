@@ -3,30 +3,26 @@
 ## ⚠️ SYNC DAEMON STATUS (CHECK FIRST!)
 
 - **Daemon Running**: yes
-- **Last Full Sync**: 1767409892
-- **Global Completed Count**: 26
+- **Last Full Sync**: 1767410026
+- **Global Completed Count**: 27+
 
 ## Status
 - **Branch**: cursor/hong-lou-meng-translation-0dac
 - **Short ID**: 0dac
-- **Heartbeat**: 1767409947
-- **Status**: translating
+- **Heartbeat**: 1767410026
+- **Status**: idle
 
 ## Current Work
-- **Claimed Page**: 28
-- **Page Verified Available**: yes
-- **Started At**: 1767409892
-- **Current Step**: research
+- **Claimed Page**: none
+- **Page Verified Available**: -
+- **Started At**: -
+- **Current Step**: -
 
 ## Completed Pages
 | Page | Chapter | Completed At | Hash | Segments |
 |------|---------|--------------|------|----------|
 | 20   | 第一回  | 1767409850   | 43d18827 | 6 |
-
-## Known Workers (Last Sync - Auto-Updated by Daemon)
-| Short ID | Status | Claimed Page | Completed | Last Heartbeat |
-|----------|--------|--------------|-----------|----------------|
-| Multiple workers online working on various pages |
+| 28   | 第一回  | 1767410026   | a691aa6f | 7 |
 
 ## Notes
-Completed page 20. Now working on page 28.
+Completed pages 20 and 28. Page 28 contains the famous Zhiyan Zhai general commentary and editorial apparatus.
