@@ -1,0 +1,71 @@
+{
+  "page": 42,
+  "chapter": "第三回",
+  "chapter_title": {
+    "original": "贾雨村夤缘复旧职 林黛玉抛父进京都",
+    "zh_modern": "贾雨村攀附关系官复原职，林黛玉辞别父亲进入京城",
+    "en": "Jia Yucun Is Reinstated Through Influence; Lin Daiyu Leaves Her Father and Enters the Capital",
+    "ru": "Цзя Юйцунь благодаря связям восстанавливается в должности; Линь Дайюй, покинув отца, прибывает в столицу",
+    "ja": "賈雨村、夤縁（いんえん）して旧職に復し、林黛玉、父を抛（す）てて京都に進む"
+  },
+  "page_content_type": "chapter_start",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 42,
+      "type": "prose",
+      "original": "一日来了京都，雨村先整了衣冠，带着小童，拿着宗侄的名帖，至荣府的门前投了。彼时贾政已看了妹丈之书，即忙请入相会。",
+      "zh_modern": "这一天到了京城，雨村先整理了衣冠，带着小书童，拿着作为宗侄的名帖，到荣国府门前投递。那时贾政已经看了妹夫（林如海）的信，立刻忙着请他进去相见。",
+      "en": "One day they arrived in the capital. Yucun first straightened his official cap and robes, and taking his servant boy, he presented his visiting card as a 'kinsman-nephew' at the gate of the Rong mansion. By that time, Jia Zheng had already read his brother-in-law's letter and immediately invited him in for a meeting.",
+      "ru": "В один из дней они прибыли в столицу. Юйцунь сначала привел в порядок одежду и шапку, взял мальчика-слугу и с визитной карточкой «племянника по клану» направился к воротам дворца Жунго. В то время Цзя Чжэн уже прочел письмо зятя и тут же поспешил пригласить его войти.",
+      "ja": "一日京都に来たり、雨村先ず衣冠を整え、小童を帯し、宗姪の名帖を持ち、栄府の門前に至りて投ず。彼（か）の時、賈政已に妹丈の書を見て、即ち忙ぎ請い入れて相会す。"
+    },
+    {
+      "id": 2,
+      "pdf_page": 42,
+      "type": "prose",
+      "original": "见雨村相貌魁伟，言语不俗，且又有妹丈之荐，因优待雨村，更又竭力内中协助，题奏之日，轻轻谋了一个复职候缺。不上两个月，金陵应天府缺出，便谋补了此缺，拜辞了贾政，择日上任去了。不在话下。",
+      "zh_modern": "贾政见雨村相貌魁梧奇伟，谈吐不俗，况且又有妹夫的推荐，因此优待雨村，更是在朝廷内部竭力协助，在题奏的日子，轻轻地帮他谋划了一个复职候补的资格。不到两个月，金陵应天府出现了空缺，便谋到了这个职位，拜别了贾政，选择吉日上任去了。这事暂且不提。",
+      "en": "Seeing that Yucun was of imposing appearance and spoke with distinction, and moreover had his brother-in-law's recommendation, Jia Zheng treated him with marked courtesy and did his utmost to assist him from within. On the day of presenting memorials, he easily arranged for Yucun to be reinstated and await a vacancy. In less than two months, the post of Prefect of Yingtian in Jinling became vacant; he secured this position for Yucun. Yucun took leave of Jia Zheng and selected a day to assume his office. No more need be said of this.",
+      "ru": "Видя, что Юйцунь обладает внушительной внешностью и речь его незаурядна, да к тому же имея рекомендацию зятя, Цзя Чжэн оказал Юйцуню теплый прием и приложил все усилия, чтобы помочь ему. В день подачи докладов он без труда добился для него восстановления в должности с ожиданием вакансии. Не прошло и двух месяцев, как открылась вакансия правителя области Интянь в Цзиньлине, и он получил это место. Простившись с Цзя Чжэном, он выбрал день и отправился к месту службы. Об этом больше говорить не будем.",
+      "ja": "雨村の相貌魁偉にして、言語俗ならず、且つまた妹丈の薦め有るを見、因って雨村を優待し、更にまた竭力（力をつく）して内中にて協助し、題奏の日、軽く一個の復職候缺を謀り了（おわ）んぬ。二ヶ月に上らずして、金陵応天府の缺出で、便ち謀りて此の缺を補い、賈政に拝辞し、日を択んで任に上り去りぬ。話下（いう）に在らず。"
+    },
+    {
+      "id": 3,
+      "pdf_page": 42,
+      "type": "prose",
+      "original": "且说黛玉自那日弃舟登岸时，便有荣国府打发了轿子并拉行李的车辆久候了。这林黛玉常听得母亲说过，他外祖母家与别家不同。他近日所见的这几个三等仆妇，吃穿用度，已是不凡了，何况今至其家。",
+      "zh_modern": "再说黛玉自从那天弃船上岸时，就有荣国府派来的轿子和拉行李的车辆早已等候多时了。这林黛玉常听母亲说过，她外祖母家与别家不同。她这几天所见的这几个三等仆妇，吃穿用度，已经是不凡了，何况今天到了她们家。",
+      "en": "To speak of Daiyu: from the day she abandoned the boat and went ashore, sedans and luggage carts sent by the Rongguo Mansion had been waiting for a long time. Lin Daiyu had often heard her mother say that her maternal grandmother's house was unlike any other. The few third-rank servant women she had seen in recent days were already extraordinary in their dress, diet, and expenses; how much more so now that she was arriving at their home.",
+      "ru": "Вернемся к Дайюй. В тот день, когда она сошла с корабля на берег, паланкины и повозки для багажа, присланные из дворца Жунго, уже давно ждали её. Линь Дайюй часто слышала от матери, что дом её бабушки не чета другим. Даже те несколько служанок третьего ранга, которых она видела в последние дни, одевались и питались необыкновенно, что уж говорить о самом доме.",
+      "ja": "且（しばら）く説く、黛玉那（か）の日舟を棄てて岸に登る時より、便ち栄国府より打発せる轎子（かご）ならびに行李を拉（ひ）く車両久しく候（ま）てり。この林黛玉、常に母親の説くを聴くに、彼の外祖母の家は別家と不同なりと。彼近日見る所のこの幾個の三等僕婦すら、吃穿用度、已に是れ不凡なり、況んや今其の家に至るをや。"
+    },
+    {
+      "id": 4,
+      "pdf_page": 42,
+      "type": "prose",
+      "original": "因此步步留心，时时在意，不肯轻易多说一句话，多行一步路，惟恐被人耻笑了他去。自上了轿，进入城中，从纱窗向外瞧了一瞧，其街市之繁华，人烟之阜盛，自与别处不同。",
+      "zh_modern": "因此她步步留心，时时在意，不肯轻易多说一句话，多走一步路，唯恐被人耻笑。自从上了轿子，进入城中，从纱窗向外看了一看，那街市的繁华，人烟的稠密，自然与别处不同。",
+      "en": "Therefore, she was careful with every step and attentive at every moment, unwilling to speak a single extra word or take a single wrong step, fearing that people would laugh at her. After entering the sedan and entering the city, she peeked out through the gauze window. The bustle of the markets and the density of the population were naturally different from other places.",
+      "ru": "Поэтому она следила за каждым своим шагом, была внимательна каждое мгновение, не смея сказать лишнего слова или сделать лишнего шага, боясь, что над ней посмеются. Сев в паланкин и въехав в город, она выглянула в марлевое окно: процветание улиц и обилие людей, конечно, отличались от других мест.",
+      "ja": "此に因りて歩歩心を留め、時時意に在り、肯えて軽易に一句の話を多く説かず、一步の路を多く行かず、惟（ただ）人の彼を恥笑するを恐る。轎に上りてより、城中に入り、紗窓より向外（そと）を一瞧（み）するに、其の街市の繁華、人煙の阜盛（ふせい）、自ら別処と不同なり。"
+    }
+  ],
+  "translator_notes": [
+    "Jia Yucun's rapid reinstatement and promotion to Prefect of Yingtian (Nanjing) illustrates the power of the Jia-Wang network.",
+    "Daiyu's mindset ('Careful with every step... fearing laughter') defines her character: sensitive, proud, and acutely aware of her precarious position as an orphan in a wealthy house.",
+    "The description of the servant women establishes the immense wealth of the Rongguo House—even the lowest servants live better than ordinary people."
+  ],
+  "research_notes": [
+    "Prefect of Yingtian (应天府尹) was a very powerful post, governing the southern capital area.",
+    "Reference to 'Kinsman-nephew' (宗侄): Yucun claims connection to the Jia clan based on the same surname, though no close blood relation exists."
+  ],
+  "characters_appearing": [
+    "贾雨村",
+    "贾政",
+    "林黛玉"
+  ],
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ]
+}
