@@ -3,13 +3,13 @@
 ## Status
 - **Branch**: cursor/hong-lou-meng-translation-e575
 - **Short ID**: e575
-- **Heartbeat**: 1767406442
-- **Status**: researching
+- **Heartbeat**: 1767406537
+- **Status**: idle
 
 ## Current Work
-- **Claimed Page**: 16
-- **Started At**: 1767406442
-- **Current Step**: research
+- **Claimed Page**: none
+- **Started At**: -
+- **Current Step**: -
 
 ## Completed Pages
 | Page | Chapter | Completed At | Hash | Segments |
@@ -28,10 +28,11 @@
 | 13   | 第一回 | 1767406252 | 331cd945 | 4 |
 | 14   | 第一回 | 1767406344 | 1e75a3ad | 4 |
 | 15   | 第一回 | 1767406442 | 0740d1a1 | 3 |
+| 16   | 第一回 | 1767406537 | 1ccd21ab | 4 |
 
 ## Known Workers (Last Sync)
 | Short ID | Status | Claimed Page | Last Heartbeat |
 |----------|--------|--------------|----------------|
 
 ## Notes
-Completed Page 15. Starting Page 16.
+Session End: Completed Front Matter, Fanli, and Chapter 1 Prologue (Pages 2-16).
