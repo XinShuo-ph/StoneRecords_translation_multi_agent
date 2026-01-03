@@ -1,0 +1,94 @@
+{
+  "page": 61,
+  "chapter": "第二回",
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 61,
+      "type": "prose",
+      "original": "雨村道：“你方才所说的这政老，既有一子一女，怎么只说一女？这长女何名？”",
+      "zh_modern": "雨村道：“你刚才所说的这位贾政老爹，既然有一子一女，怎么只说有一个女儿？这长女叫什么名字？”",
+      "en": "Yucun said: “You mentioned earlier that this Master Zheng has both a son and a daughter. Why did you only speak of the daughter? What is the name of this eldest daughter?”",
+      "ru": "Юйцунь сказал: «Ты только что говорил, что у этого старика Чжэна есть сын и дочь. Почему же ты упомянул только дочь? Как зовут старшую дочь?»",
+      "ja": "雨村言う、「汝方才（さっき）説くところのこの政老、既に一子一女有りとせば、怎么（いか）に只だ一女を説く？この長女は何と名づく？」と。",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "pdf_page": 61,
+      "type": "prose",
+      "original": "子兴道：“长女名元春，现因贤孝才德，选入宫作女史去了。次子乃胞弟，名宝玉，听见说，因他有这顽意儿，怕不便，遂取名叫作宝玉。",
+      "zh_modern": "冷子兴道：“长女名叫元春，现在因为贤惠孝顺、才德兼备，被选入宫中做女史去了。次子是她的同胞弟弟，名叫宝玉，听说是因他生下来有那块顽石（通灵宝玉），怕不方便，于是取名叫作宝玉。",
+      "en": "Zixing said: “The eldest daughter is named Yuanchun. Because of her virtue, filial piety, and talent, she has been selected to enter the palace as a Lady Official. The second child is her full brother, named Baoyu. I heard it said that because he had that 'plaything' (the jade), they feared it might be inconvenient [to give another name], so they named him Baoyu (Precious Jade).",
+      "ru": "Цзысин сказал: «Старшую дочь зовут Юаньчунь. За ее добродетель, почтительность и таланты она была избрана во дворец в качестве фрейлины. Второй ребенок — ее родной брат по имени Баоюй. Я слышал, что из-за этой „штуковины“ (яшмы) они побоялись дать другое имя, поэтому и назвали его Баоюй».",
+      "ja": "子興言う、「長女は名は元春、現に賢孝才徳なるに因り、宮に選入せられて女史を作（な）し去けり。次子は乃ち胞弟（ほうてい）、名は宝玉、聴き及ぶ説に、彼にこの頑意児（おもちゃ）有るに因り、便ならざるを怕（おそ）れ、遂に名を取って宝玉と作（な）すと。",
+      "commentary": [
+        {
+          "type": "甲戌侧批",
+          "source": "甲戌本",
+          "position": "right margin",
+          "original": "妙！古今小说中，并未见此等称呼。",
+          "zh_modern": "妙！古今小说中，从未见过这种称呼（指把玉称为顽意儿）。",
+          "en": "Wonderful! In novels past and present, such a term (referring to the jade as a 'plaything') has never been seen.",
+          "ru": "Чудесно! В романах прошлого и настоящего такого названия не встречалось.",
+          "ja": "妙なり！古今の小説中、並びに未だ此等の称呼を見ず。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "pdf_page": 61,
+      "type": "prose",
+      "original": "更有个极希罕的事：只这政老，并未有名。子兴叹道：“老姊妹四个，这一个是极小的，又没了。长一辈的姊妹，一个也没了。只看这小一辈的，将来之东床如何呢。”",
+      "zh_modern": "还有件极稀罕的事：只有这位贾政老爹，并没有别的名号。（这里原文似乎有脱漏或语意跳跃，接下来说姊妹）冷子兴叹道：“老姊妹四个，这一个（贾敏）是最小的，又去世了。长一辈的姊妹，一个也没了。只看这小一辈的，将来的女婿（东床）如何呢。”",
+      "en": "There is another extremely rare thing... (Text seems disjointed here, jumping to sisters). Zixing sighed: “Of the four old sisters, this one (Jia Min) was the youngest, and she is gone too. The sisters of the older generation are all gone. We can only see how the future sons-in-law of this younger generation will be.”",
+      "ru": "Есть еще одно крайне редкое дело... Цзысин вздохнул: «Из четырех сестер старшего поколения эта (Цзя Минь) была самой младшей, и ее тоже не стало. Сестер старшего поколения никого не осталось. Посмотрим, какими будут зятья этого младшего поколения».",
+      "ja": "更に一箇の極めて希罕（きかん）の事有り：只だこの政老、並びに名未だ有らず。子興嘆じて言う、「老姉妹四個、この一箇は是れ極めて小なるに、又た没（な）くなりぬ。長（ちょう）一輩の姉妹、一箇も没くなりぬ。只だこの小一輩の、将来の東床如何を見るのみ」と。",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "pdf_page": 61,
+      "type": "prose",
+      "original": "雨村道：“更妙在今之宁、荣二府，奇虽奇，然亦系世禄之家，得名号为‘贾’字，也还使得；那现今如海，系这政老之妹夫，也便罢了；那政老之夫人，岂无娘家，如何亦系‘贾’氏？这不犯了重名么？”",
+      "zh_modern": "雨村道：“更奇妙的是如今的宁、荣二府，奇虽然奇，但毕竟是世袭俸禄的人家，取名号为‘贾’字，也还说得过去；那现在的林如海，是这贾政老爹的妹夫，也就算了；那贾政老爹的夫人（王夫人），难道没有娘家，怎么也姓‘贾’（这里雨村听错了或原文有误，王夫人姓王）？这不就犯了重名吗？” \n(注：此处原文可能有误或雨村误解，王夫人姓王。或者雨村是指贾敏嫁给林家，林黛玉母亲姓贾，为何又说贾政夫人姓贾？雨村困惑的是‘贾’姓的普遍性？)",
+      "en": "Yucun said: “What is even more wonderful is that in the Ning and Rong mansions today... although strange, they are hereditary noble families, so having the name 'Jia' (False) is acceptable. And this Lin Ruhai is Master Zheng's brother-in-law, that is fine. But Master Zheng's wife, does she not have a maiden family? How is she also named 'Jia'? Doesn't that violate the taboo on repeating names?” (Note: This dialogue is confusing in the original text, as Lady Wang is not named Jia. Yucun might be confused or referring to something else).",
+      "ru": "Юйцунь сказал: «Еще удивительнее то, что в нынешних дворцах Нин и Жун... хоть это и странно, но они потомственная знать, так что имя „Цзя“ (Ложный) им подходит. А этот Линь Жухай — зять господина Чжэна, ну и ладно. Но жена господина Чжэна, разве у нее нет девичьей семьи? Почему она тоже „Цзя“? Разве это не нарушение запрета на одинаковые имена?»",
+      "ja": "雨村言う、「更に妙なるは今の寧・栄二府に在り、奇は奇なりといえども、然れども亦た世禄の家に係わり、名号を得て『贾』の字と為すは、也た還お使得（よ）し；那（か）の現今如海は、この政老の妹夫に係わるは、也た便ち罷（や）みぬ；那の政老の夫人、豈に娘家無からんや、如何ぞ亦た『贾』氏に係わる？這れ重名を犯せるにあらずや？」と。",
+      "commentary": []
+    },
+    {
+      "id": 5,
+      "pdf_page": 61,
+      "type": "prose",
+      "original": "子兴笑道：“那一位夫人原是金陵王家的二小姐。你道这王家是谁？便是当年太尉王公的儿孙。这政老，也是老夫人的内侄。因王家也是世交，故此结了亲。这政老的长女名元春，因贤孝才德，选入宫作女史去了。",
+      "zh_modern": "冷子兴笑道：“那位夫人原来是金陵王家的二小姐。你知道这王家是谁？就是当年太尉王公的儿孙。这位贾政老爹，也是老夫人（王太尉夫人？）的内侄（此处关系混乱，贾政娶王夫人，王夫人是王子腾之妹）。因为王家也是世交，所以结了亲。这贾政的长女叫元春，因为贤惠孝顺、才德兼备，被选入宫中做女史去了。",
+      "en": "Zixing laughed: “That lady was originally the second daughter of the Wang family of Jinling. Do you know who this Wang family is? They are the descendants of the Grand Marshal Duke Wang of former years. This Master Zheng is also the nephew of the Old Lady (?). Because the Wang family is also an old acquaintance, they formed a marriage alliance. Master Zheng's eldest daughter is named Yuanchun...",
+      "ru": "Цзысин рассмеялся: «Та госпожа была второй дочерью из семьи Ван в Цзиньлине. Знаешь, кто эта семья Ван? Это потомки того самого Тайвэя (Верховного главнокомандующего) Ван-гуна. Этот господин Чжэн также племянник старой госпожи. Так как семья Ван — старые друзья, они и породнились...",
+      "ja": "子興は笑いて言う、「那の一位の夫人は原（もと）是れ金陵王家の二小姐なり。汝道（い）えこの王家は是れ誰ぞ？便ち当年太尉王公の児孫なり。この政老も、亦た老夫人の内姪なり。王家も亦た世交なるに因り、故に此（かく）のごとく親を結べり。",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "女史 (Nu Shi): Lady Official/Palace Scribe. A low-ranking court position, often a stepping stone for concubines.",
+    "顽意儿 (Wan Yi Er): Plaything/Trifle. A colloquial, slightly dismissive term for the jade, highlighting its material nature versus its spiritual significance.",
+    "东床 (Dong Chuang): Eastern Bed. Idiom for 'son-in-law' (from the story of Calligrapher Wang Xizhi).",
+    "王家 (Wang Jia): The Wang family. One of the 'Big Four' families (Jia, Shi, Wang, Xue).",
+    "Textual Confusion: The dialogue about 'Mrs. Jia' and 'repeating names' in segment 4/5 is notoriously confusing in many editions. It likely stems from Yucun misunderstanding or a textual corruption where he confuses Jia Min (Ruhai's wife) with Lady Wang (Zheng's wife), or questions why so many 'Jia' connections exist. The translation reflects the source text's ambiguity while noting it."
+  ],
+  "research_notes": [
+    "This page introduces the Wang family connection, crucial for the power dynamics in the Rongguo Mansion (Lady Wang and Wang Xifeng).",
+    "Yuanchun's entry into the palace is the foundation of the family's current political prestige.",
+    "The text here has some well-known inconsistencies or confusing phrasings regarding family relations, which scholars often debate."
+  ],
+  "characters_appearing": [
+    "Leng Zixing",
+    "Jia Yucun",
+    "Jia Yuanchun (mentioned)",
+    "Lady Wang (mentioned as Wang family 2nd daughter)"
+  ],
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ]
+}
