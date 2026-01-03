@@ -1,0 +1,69 @@
+{
+  "page": 4,
+  "chapter": "凡例",
+  "chapter_title": {
+    "original": "电子版制作说明",
+    "zh_modern": "电子版制作说明",
+    "en": "Electronic Edition Production Notes",
+    "ru": "Примечания по созданию электронного издания",
+    "ja": "電子版制作説明"
+  },
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "type": "preface",
+      "original": "《红楼梦脂评汇校本》电子版，系以甲戌本、己卯本、庚辰本等早期脂本为底本，汇集了藏库（有正）本、蒙府本等其他脂批本的部分脂批，并参考、吸收若干新校点本及脂批辑本的校点成果整理而成，其中从红研所校戚校注本中获益尤多。对前人意见有分歧的，略参己意而取舍，力求既不人云亦云，也不标新立异，整理成为一个方便阅读和检索的网络普及本。",
+      "zh_modern": "《红楼梦脂评汇校本》电子版，是以甲戌本、己卯本、庚辰本等早期脂本为底本，汇集了藏库（有正）本、蒙府本等其他脂批本的部分脂批，并参考、吸收了若干新校点本及脂批辑本的校点成果整理而成，其中从红研所校戚校注本中获益尤多。对前人意见有分歧的，略参己意而取舍，力求既不人云亦云，也不标新立异，整理成为一个方便阅读和检索的网络普及本。",
+      "en": "This electronic edition of Dream of the Red Chamber with Zhiping Commentary - Collated Edition is based primarily on early Zhi-commentary manuscripts such as the Jiaxu, Jimao, and Gengchen editions. It incorporates selected Zhi-commentary from other editions including the Cangku (Youzheng) and Mengfu manuscripts, and references the collation results of various modern annotated editions and Zhi-commentary compilations. The edition has particularly benefited from the Red Studies Institute's collated Qi edition with annotations. Where previous scholars' opinions diverge, I have exercised modest judgment in selecting between them, striving neither to blindly follow convention nor to arbitrarily innovate, with the goal of producing an accessible online edition convenient for reading and reference.",
+      "ru": "Это электронное издание «Сна в красном тереме с комментариями Чжипин - Сводное издание» основано главным образом на ранних рукописях с комментариями Чжи, таких как издания Цзясюй, Цзимао и Гэнчэнь. Оно включает избранные комментарии Чжи из других изданий, включая рукописи Цанку (Ючжэн) и Мэнфу, и опирается на результаты сверки различных современных аннотированных изданий и компиляций комментариев Чжи. Издание особенно многим обязано сверенному изданию Ци с аннотациями Института красноведения. В случаях расхождения мнений предыдущих учёных я применял скромное суждение при выборе между ними, стремясь ни слепо следовать условностям, ни произвольно вводить новшества, с целью создания доступного онлайн-издания, удобного для чтения и справки.",
+      "ja": "『紅楼夢脂評彙校本』電子版は、甲戌本・己卯本・庚辰本などの早期脂本を底本とし、蔵庫（有正）本・蒙府本など他の脂批本の部分的な脂批を集め、かつ若干の新しい校点本及び脂批輯本の校点成果を参考・吸収して整理したものである。その中でも紅研所校戚校注本から得るところが特に多かった。先人の意見に分岐がある場合は、わずかに己の意見を参じて取捨し、人云亦云に陥らず、また標新立異を避け、閲読と検索に便利なネット普及版として整理したものである。",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "type": "preface",
+      "original": "本书正文以甲戌本及庚辰本为底本（第六十四、六十七回以列藏本为底本），以其他各脂本参校。甲戌本所存者十六回，又字大大体千他本，基本原文照录，只在确有必要时改动少量字词；庚辰本内容比较完整，惜抄写草率，错误甚多，不得不参照已卯本等本子校改大量字句。第六十七回两种版本文字差异过大，无法互校，一并附录。",
+      "zh_modern": "本书正文以甲戌本及庚辰本为底本（第六十四、六十七回以列藏本为底本），以其他各脂本参校。甲戌本所存的十六回，文字大体优于他本，基本原文照录，只在确有必要时改动少量字词；庚辰本内容比较完整，可惜抄写草率，错误甚多，不得不参照己卯本等本子校改大量字句。第六十七回两种版本文字差异过大，无法互校，一并附录。",
+      "en": "The main text of this book uses the Jiaxu and Gengchen manuscripts as base texts (with the Liezhang manuscript as the base for chapters 64 and 67), cross-referenced with other Zhi-commentary editions. The sixteen chapters preserved in the Jiaxu manuscript generally have superior textual quality compared to other editions, so the original text is largely retained, with only minor character modifications where absolutely necessary. While the Gengchen manuscript is relatively complete in content, it was unfortunately copied carelessly with numerous errors, necessitating extensive corrections based on the Jimao and other editions. Chapter 67 shows such significant textual divergence between versions that cross-collation was impossible, so both versions are appended.",
+      "ru": "Основной текст данной книги использует рукописи Цзясюй и Гэнчэнь в качестве базовых текстов (с рукописью Лецзан в качестве базы для глав 64 и 67), сверенные с другими изданиями с комментариями Чжи. Шестнадцать глав, сохранившихся в рукописи Цзясюй, в целом превосходят по качеству текста другие издания, поэтому оригинальный текст в основном сохранён, с лишь незначительными изменениями отдельных иероглифов там, где это абсолютно необходимо. Хотя рукопись Гэнчэнь относительно полна по содержанию, она, к сожалению, была небрежно переписана с многочисленными ошибками, что потребовало обширных исправлений на основе изданий Цзимао и других. Глава 67 показывает настолько значительные текстовые расхождения между версиями, что перекрёстная сверка оказалась невозможной, поэтому обе версии приведены в приложении.",
+      "ja": "本書の正文は甲戌本及び庚辰本を底本とし（第六十四回・六十七回は列蔵本を底本とする）、その他の各脂本と参校した。甲戌本に存する十六回は、文字が大体において他本より優れており、基本的に原文をそのまま録し、確かに必要な場合のみ少量の字句を改めた。庚辰本は内容が比較的完全であるが、惜しくも抄写が粗略で誤りが甚だ多く、已卯本等の本子を参照して大量の字句を校改せざるを得なかった。第六十七回は両種の版本で文字の差異が過大で互校することができず、一併して附録とした。",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "type": "preface",
+      "original": "本书批语按以下顺序辑录：甲戌本、己卯本、庚辰本、戚序本、蒙府本、列藏本、甲辰本。为节省篇幅，后出版本的批语与前面某本文字相同的，不再列出；有个别文字差异的，只据以参校，也不单独列出。",
+      "zh_modern": "本书批语按以下顺序辑录：甲戌本、己卯本、庚辰本、戚序本、蒙府本、列藏本、甲辰本。为节省篇幅，后出版本的批语与前面某本文字相同的，不再列出；有个别文字差异的，只据以参校，也不单独列出。",
+      "en": "The commentary in this book is compiled in the following order: Jiaxu, Jimao, Gengchen, Qixu, Mengfu, Liezhang, and Jiachen editions. To save space, commentary from later editions that duplicates earlier versions is not repeated. Where there are minor textual differences, these are used for cross-reference but not listed separately.",
+      "ru": "Комментарии в этой книге собраны в следующем порядке: издания Цзясюй, Цзимао, Гэнчэнь, Цисюй, Мэнфу, Лецзан и Цзячэнь. Для экономии места комментарии из более поздних изданий, дублирующие более ранние версии, не повторяются. При наличии незначительных текстовых различий они используются для перекрёстной ссылки, но не перечисляются отдельно.",
+      "ja": "本書の批語は以下の順序で輯録した：甲戌本・己卯本・庚辰本・戚序本・蒙府本・列蔵本・甲辰本。紙幅を節約するため、後出の版本の批語が前のある本と文字が同じものは再掲しない。個別の文字に差異がある場合は、それに拠って参校するが単独では列挙しない。",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "type": "preface",
+      "original": "为节省篇幅，本书辑录批语使用略号，意义如下：甲（甲戌本）、乙（己卯本）、庚（庚辰本）、戚（戚序本）、蒙（蒙府本）、列（列藏本）、辰（杨藏本）、晨（甲辰本）；[甲]（眉批。原抄在页眉[正文上边]的批语）、[庚]（侧批。原抄在正文右侧的批语）、[夹]（夹批。原抄在正文中间的双行批语）。为醒目起见，本书正文排为繁体字，批语排为楷体字并采用不同颜色标示：甲、庚本的朱批仿标示为红色，甲、乙、庚本的墨批标示为墨绿色；其余各本的批语全部为墨批，则标示为深蓝",
+      "zh_modern": "为节省篇幅，本书辑录批语使用略号，意义如下：甲（甲戌本）、乙（己卯本）、庚（庚辰本）、戚（戚序本）、蒙（蒙府本）、列（列藏本）、辰（杨藏本）、晨（甲辰本）；[甲]（眉批。原抄在页眉[正文上边]的批语）、[庚]（侧批。原抄在正文右侧的批语）、[夹]（夹批。原抄在正文中间的双行批语）。为醒目起见，本书正文排为繁体字，批语排为楷体字并采用不同颜色标示：甲、庚本的朱批仿标示为红色，甲、乙、庚本的墨批标示为墨绿色；其余各本的批语全部为墨批，则标示为深蓝色。",
+      "en": "To save space, this book uses abbreviations for commentary citations, with the following meanings: 甲 (Jiaxu edition), 乙 (Jimao edition), 庚 (Gengchen edition), 戚 (Qixu edition), 蒙 (Mengfu edition), 列 (Liezhang edition), 辰 (Yang collection), 晨 (Jiachen edition); [甲] (marginal note at top - commentary originally written in the header above the main text), [庚] (side note - commentary originally written to the right of the main text), [夹] (interlinear note - commentary originally written in double-row format within the main text). For clarity, the main text is typeset in traditional characters, while commentary is set in regular script with different color coding: red ink commentary (zhupi) from the Jiaxu and Gengchen editions is marked in red, black ink commentary (mopi) from the Jiaxu, Jimao, and Gengchen editions is marked in dark green, and all commentary from other editions (all in black ink) is marked in dark blue.",
+      "ru": "Для экономии места в этой книге используются сокращения для цитирования комментариев со следующими значениями: 甲 (издание Цзясюй), 乙 (издание Цзимао), 庚 (издание Гэнчэнь), 戚 (издание Цисюй), 蒙 (издание Мэнфу), 列 (издание Лецзан), 辰 (коллекция Ян), 晨 (издание Цзячэнь); [甲] (маргиналия сверху - комментарий, первоначально написанный в заголовке над основным текстом), [庚] (боковая заметка - комментарий, первоначально написанный справа от основного текста), [夹] (междустрочная заметка - комментарий, первоначально написанный в двухрядном формате внутри основного текста). Для ясности основной текст набран традиционными иероглифами, а комментарии - обычным шрифтом с различной цветовой кодировкой: комментарии красными чернилами (чжупи) из изданий Цзясюй и Гэнчэнь отмечены красным, комментарии чёрными чернилами (мопи) из изданий Цзясюй, Цзимао и Гэнчэнь отмечены тёмно-зелёным, а все комментарии из других изданий (все чёрными чернилами) отмечены тёмно-синим.",
+      "ja": "紙幅を節約するため、本書の批語輯録には略号を使用し、その意味は以下の通り：甲（甲戌本）、乙（己卯本）、庚（庚辰本）、戚（戚序本）、蒙（蒙府本）、列（列蔵本）、辰（楊蔵本）、晨（甲辰本）；[甲]（眉批。原抄が頁眉[正文の上辺]にある批語）、[庚]（側批。原抄が正文の右側にある批語）、[夾]（夾批。原抄が正文中間の双行にある批語）。醒目のため、本書の正文は繁体字に組み、批語は楷体字に組み、異なる色で標示する：甲・庚本の朱批は赤色で標示し、甲・乙・庚本の墨批は墨緑色で標示し、その余の各本の批語は全て墨批であり、深藍色で標示する。",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "This page explains the editorial methodology used in creating this collated edition",
+    "Multiple manuscript sources are cross-referenced: 甲戌本 (Jiaxu, 1754), 己卯本 (Jimao, 1759), 庚辰本 (Gengchen, 1760), etc.",
+    "Color coding system distinguishes different manuscript sources and types of ink used (red vs. black)",
+    "Three types of commentary positioning: 眉批 (top margin), 側批 (side margin), 夾批 (interlinear)",
+    "The editor acknowledges building on previous scholarly work, particularly the Red Studies Institute's collated edition"
+  ],
+  "research_notes": [
+    "This is critical methodological information for understanding how the text was compiled",
+    "Shows sophisticated textual scholarship combining multiple early manuscripts",
+    "The page number '1' at bottom indicates this is page 1 of the front matter proper"
+  ],
+  "characters_appearing": [],
+  "total_segments": 4,
+  "manuscript_sources_on_page": []
+}
