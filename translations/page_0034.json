@@ -1,0 +1,278 @@
+{
+  "page": 34,
+  "chapter": "第二回",
+  "chapter_title": {
+    "original": "贾夫人仙逝扬州城 冷子兴演说荣国府",
+    "zh_modern": "贾夫人在扬州城去世，冷子兴演说荣国府的情况",
+    "en": "Lady Jia Dies in Yangzhou; Leng Zixing Describes the Rong-guo House",
+    "ru": "Госпожа Цзя умирает в Янчжоу; Лэн Цзысин описывает дом Жунго",
+    "ja": "賈夫人、揚州城にて仙逝し、冷子興、栄国府を演説す"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "无甚紧事，且盘桓两日，待月半时也就起身了。今日敝友有事，我因闲步至此，且歇歇脚。不期这样巧遇！",
+      "zh_modern": "没有什么紧急的事，暂且在这里逗留两天，等到月半的时候就动身了。今天我的朋友有事，我因此闲步走到这里，顺便歇歇脚。没想到这样巧遇到您！",
+      "en": "Nothing urgent—I'll linger here a couple of days and depart around mid-month. Today my friend had business, so I strolled here idly to rest my feet. What an unexpected and fortunate encounter!",
+      "ru": "Ничего срочного — я задержусь здесь на пару дней и отправлюсь около середины месяца. Сегодня у моего друга были дела, поэтому я праздно прогулялся сюда, чтобы дать ногам отдохнуть. Какая неожиданная и счастливая встреча!",
+      "ja": "さしたる急ぎの用もなし、しばらくここに盤桓して二日、月の半ばを待ちて発たんとす。今日友に用ありて、我は閑歩してここに至り、しばし足を休めんとす。期せずしてこのような巧遇あらんとは！",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "type": "dialogue",
+      "original": "一面说，一面让雨村同席坐了，另整上酒肴来。二人闲谈慢饮，叙些别后之事。",
+      "zh_modern": "一边说着，一边让雨村同席坐下，另外摆上酒菜来。两人闲谈慢饮，叙说一些分别之后的事情。",
+      "en": "As he spoke, he invited Yucun to sit at the same table, and had wine and food brought out. The two chatted leisurely over drinks, recounting what had happened since they parted.",
+      "ru": "Говоря это, он пригласил Юйцуня сесть за тот же стол и велел принести вино и еду. Двое неспешно беседовали за напитками, рассказывая о том, что произошло с момента их расставания.",
+      "ja": "一面言いつつ、一面雨村をして同席せしめ、別に酒肴を整え来たらしむ。二人閑談して緩く飲み、別後の事どもを叙す。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "position": "after 别后之事",
+          "original": "好！若多谈则累赘。又抛一笔。",
+          "zh_modern": "好！如果多谈就显得累赘了。又搁笔不写了。",
+          "en": "Good! To say more would be tedious. Tossing aside the brush again.",
+          "ru": "Хорошо! Говорить больше было бы утомительно. Снова откладываем кисть.",
+          "ja": "好し！若し多く談ずれば累贅ならん。また筆を抛つ。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "dialogue",
+      "original": "雨村因问：「近日都中可有新闻没有？」",
+      "zh_modern": "雨村于是问道：「近日京城里可有什么新闻吗？」",
+      "en": "Yucun then inquired, 'Has there been any news in the capital recently?'",
+      "ru": "Юйцунь затем спросил: «Были ли какие-нибудь новости в столице в последнее время?»",
+      "ja": "雨村よりて問う、「近日都中に何か新聞ありや？」と。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "position": "after 新闻没有",
+          "original": "不突然，亦常问常答之言。",
+          "zh_modern": "不显得突兀，也是常问常答的话。",
+          "en": "Not abrupt—a common question and answer.",
+          "ru": "Не резко — обычный вопрос и ответ.",
+          "ja": "突然ならず、また常に問い常に答うるの言なり。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "dialogue",
+      "original": "子兴道：「倒没有什么新闻，倒是老先生你贵同宗家，出了一件小小的异事。」",
+      "zh_modern": "子兴说：「倒没有什么新闻，倒是老先生您的贵同宗家族，出了一件小小的奇异之事。」",
+      "en": "Zixing said, 'No particular news, but in your honorable clan there has been a small unusual incident.'",
+      "ru": "Цзысин сказал: «Никаких особых новостей, но в вашем почтенном клане произошёл небольшой необычный инцидент».",
+      "ja": "子興曰く、「さして新聞なきも、老先生の貴き同宗の家に、一件小さき異事の出でたり」と。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "position": "after 贵同宗家",
+          "original": "雨村已无族中矣，何及此耶？看他下文。",
+          "zh_modern": "雨村已经没有族人了，怎么还提到这个？看他下文。",
+          "en": "Yucun already has no clan—why mention this? See what follows.",
+          "ru": "У Юйцуня уже нет клана — зачем упоминать это? Смотрите, что следует.",
+          "ja": "雨村既に族中なきに、何ぞこれに及ぶや？彼の下文を看よ。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "dialogue",
+      "original": "雨村笑道：「弟族中无人在都，何谈及此？」子兴笑道：「你们同姓，岂非同宗一族？」雨村问是谁家。",
+      "zh_modern": "雨村笑着说：「小弟族中没有人在京城，为何谈到这个？」子兴笑道：「你们同姓，岂不是同宗一族吗？」雨村问是哪一家。",
+      "en": "Yucun laughed and said, 'I have no clansmen in the capital—why bring this up?' Zixing smiled, 'You share the same surname—are you not of the same clan?' Yucun asked which family.",
+      "ru": "Юйцунь засмеялся и сказал: «У меня нет родственников в столице — зачем поднимать это?» Цзысин улыбнулся: «Вы носите ту же фамилию — разве вы не из того же клана?» Юйцунь спросил, какая семья.",
+      "ja": "雨村笑いて曰く、「弟が族中に都に在る人なし、何ぞこれに談ぶや？」と。子興笑いて曰く、「汝ら同姓なり、豈に同宗一族に非ずや？」と。雨村、これ誰が家なるかを問う。",
+      "commentary": []
+    },
+    {
+      "id": 6,
+      "type": "dialogue",
+      "original": "子兴道：「荣国府贾府中，可也不玷辱了先生的门楣了？」",
+      "zh_modern": "子兴说：「荣国府贾家，这也不算玷污了先生的门楣吧？」",
+      "en": "Zixing said, 'The Jia family of Rong-guo Mansion—surely that doesn't disgrace your family name?'",
+      "ru": "Цзысин сказал: «Семья Цзя из особняка Жунго — конечно, это не позорит вашу фамилию?»",
+      "ja": "子興曰く、「栄国府の賈府中なり、また先生の門楣を玷辱せざるべし？」と。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "position": "after 门楣了",
+          "original": "刳小人之心肺，闻小人之口角。",
+          "zh_modern": "挖出小人的心肺，听到小人的口角。",
+          "en": "Excavating the petty man's heart and lungs, hearing the petty man's tongue.",
+          "ru": "Раскрывая сердце и лёгкие мелочного человека, слыша язык мелочного человека.",
+          "ja": "小人の心肺を刳り、小人の口角を聞く。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "dialogue",
+      "original": "雨村笑道：「原来是他家。若论起来，寒族人丁却不少，自东汉贾复以来，支派繁盛，各省皆有，谁能逐细考查？若论荣国一支，却是同谱。但他那等荣耀，我们不便去攀扯，至今越发生疏难认了。」",
+      "zh_modern": "雨村笑着说：「原来是他家。若要论起来，寒微的族人倒也不少，自从东汉贾复以来，支派繁盛，各省都有，谁能一一细查呢？若论荣国府这一支，倒是同一个族谱。但他们那样荣耀，我们不便去攀附，到如今越发生疏难以相认了。」",
+      "en": "Yucun smiled and said, 'So it's that family. To be fair, our humble clan has many members—since Jia Fu of the Eastern Han, the branches have flourished across all provinces. Who could trace each one? As for the Rong-guo branch, we do share a genealogy. But with their glory, it would be presumptuous for us to claim connection; by now we've grown distant and hard to recognize.'",
+      "ru": "Юйцунь улыбнулся и сказал: «Итак, это та семья. Справедливости ради, у нашего скромного клана много членов — со времён Цзя Фу из Восточной Хань ветви процветали во всех провинциях. Кто мог бы проследить каждую? Что касается ветви Жунго, мы действительно разделяем генеалогию. Но с их славой было бы самонадеянно претендовать на связь; к настоящему времени мы стали далёкими и трудноузнаваемыми».",
+      "ja": "雨村笑いて曰く、「原来彼の家なり。若し論ずれば、寒族の人丁却って少なからず、東漢の賈復以来、支派繁盛し、各省皆有り、誰か能く逐一細かに考査せん？若し栄国の一支を論ずれば、却ってこれ同じ譜なり。但し彼の如き栄耀、我らは便宜上攀縁せず、今に至りて越々生疏にして認め難し」と。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "position": "after 各省皆有",
+          "original": "此话纵真，亦必谓是雨村欺人语。如闻其声。",
+          "zh_modern": "这话即使是真的，也必定会被认为是雨村欺骗人的话。仿佛听到他说话的声音。",
+          "en": "Even if true, this would surely be taken as Yucun's deceptive words. As if hearing his voice.",
+          "ru": "Даже если это правда, это наверняка будет воспринято как обманчивые слова Юйцуня. Как будто слышим его голос.",
+          "ja": "この話縦え真なりとも、亦た必ず雨村の人を欺く語なりと謂わん。その声を聞くが如し。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "dialogue",
+      "original": "子兴叹道：「老先生休如此说。如今这荣国两门，也都萧疏了，不比先时的光景。」",
+      "zh_modern": "子兴叹息道：「老先生不要这样说。如今这荣国府宁国府两家，也都萧条衰败了，不比从前的光景了。」",
+      "en": "Zixing sighed, 'Sir, please don't speak so. Now these two houses of Rong and Ning have both grown desolate, nothing like their former glory.'",
+      "ru": "Цзысин вздохнул: «Господин, пожалуйста, не говорите так. Теперь оба этих дома Жун и Нин стали пустынными, совсем не такими, как прежде».",
+      "ja": "子興嘆じて曰く、「老先生、かく言うを休めよ。今やこの栄国・寧国の両門、また皆蕭疎となり、先時の光景に比すべからず」と。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "position": "after 叹道",
+          "original": "叹得怪。",
+          "zh_modern": "叹得奇怪。",
+          "en": "A strange sigh.",
+          "ru": "Странный вздох.",
+          "ja": "嘆くこと怪し。"
+        },
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "position": "after 光景",
+          "original": "记清此句。可知书中之荣府已是末世了。",
+          "zh_modern": "记住这句话。可知书中的荣国府已经是末世了。",
+          "en": "Remember this line. Know that the Rong-guo House in this book is already in its declining age.",
+          "ru": "Запомните эту строку. Знайте, что дом Жунго в этой книге уже находится в эпоху упадка.",
+          "ja": "この句を記し清めよ。書中の栄府、既に末世なるを知るべし。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": "dialogue",
+      "original": "雨村道：「当日宁荣两宅的人口极多，如何就萧疏了？」",
+      "zh_modern": "雨村说：「当年宁国府荣国府两家的人口极多，怎么就萧条衰败了呢？」",
+      "en": "Yucun said, 'In those days the two houses of Ning and Rong had vast populations—how have they become so desolate?'",
+      "ru": "Юйцунь сказал: «В те дни в двух домах Нин и Жун было огромное население — как они стали такими пустынными?»",
+      "ja": "雨村曰く、「当日、寧・栄両宅の人口極めて多し、如何にして蕭疎となりしや？」と。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "position": "after 萧疏了",
+          "original": "作者之意原只写末世，此已是贾府之末世了。",
+          "zh_modern": "作者的本意原本只是写末世，这里已经是贾府的末世了。",
+          "en": "The author's intent was originally only to write about the declining age; this is already the Jia family's declining age.",
+          "ru": "Замысел автора изначально состоял только в том, чтобы написать об эпохе упадка; это уже эпоха упадка семьи Цзя.",
+          "ja": "作者の意、原より只だ末世を書かんとす、此れ既に賈府の末世なり。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": "dialogue",
+      "original": "冷子兴道：「正是，说来也话长。」雨村道：「去岁我到金陵地界，因欲游览六朝遗迹，那日进了石头城，从他老宅门前经过。街东是宁国府，街西是荣国府，二宅相连，竟将大半条街占了。」",
+      "zh_modern": "冷子兴说：「正是如此，说来话也很长。」雨村说：「去年我到金陵地界，因为想游览六朝的遗迹，那天进了石头城，从他们的老宅门前经过。街东边是宁国府，街西边是荣国府，两座宅子相连，竟然占了大半条街。」",
+      "en": "Leng Zixing said, 'Indeed, it's a long story.' Yucun said, 'Last year I reached the Jinling area. Wanting to tour the Six Dynasties' ruins, I entered Stone City that day and passed before their old mansions. To the east of the street is Ning-guo Mansion, to the west Rong-guo Mansion—the two estates connected, occupying more than half the street.'",
+      "ru": "Лэн Цзысин сказал: «Действительно, это долгая история». Юйцунь сказал: «В прошлом году я достиг района Цзиньлин. Желая осмотреть руины Шести династий, я в тот день вошёл в Город Камня и прошёл мимо их старых особняков. К востоку от улицы находится особняк Нинго, к западу — особняк Жунго, два поместья соединены, занимая более половины улицы».",
+      "ja": "冷子興曰く、「正にその通り、言えば話も長し」と。雨村曰く、「去歳我金陵の地界に到り、六朝の遺跡を遊覧せんと欲し、かの日石頭城に入り、彼の老宅の門前を経過せり。街の東は寧国府、街の西は栄国府、二宅相連なり、竟に大半条の街を占めたり」と。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "position": "after 石头城",
+          "original": "点睛神妙。",
+          "zh_modern": "点睛之笔神妙。",
+          "en": "Dotting the eye—divinely marvelous.",
+          "ru": "Рисование глаза — божественно чудесно.",
+          "ja": "点睛、神妙なり。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": "dialogue",
+      "original": "大门前虽冷落无人，隔着围墙一望，里面厅殿楼阁，也还都峥嵘轩峻，就是后一带花园子里，树木山石，也还都有蓊蔚洇润之气，那里像个衰败之家？",
+      "zh_modern": "大门前虽然冷落无人，隔着围墙一望，里面的厅堂殿宇楼台阁榭，也还都高峻巍峨，就是后面一带的花园里，树木山石，也还都有茂盛滋润的气象，哪里像是一个衰败的人家？",
+      "en": "Though the great gates were deserted, looking over the walls, the halls, pavilions, and towers within still stood lofty and imposing. Even in the gardens behind, the trees and rockeries still bore an air of luxuriant vitality. How could this seem like a declining household?",
+      "ru": "Хотя большие ворота были пустынны, глядя через стены, залы, павильоны и башни внутри всё ещё стояли величественно и внушительно. Даже в садах позади деревья и скалы всё ещё несли в себе атмосферу пышной жизненности. Как это могло казаться приходящим в упадок домом?",
+      "ja": "大門前は冷落して人なしといえども、囲墻を隔てて一望すれば、内の廳殿樓閣、また還た皆峥嵘軒峻たり、就中後ろ一帯の花園子の裡、樹木山石、また還た皆蓊蔚洇潤の気あり、那んぞ衰敗の家に似たらん？",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "position": "after 冷落无人",
+          "original": "好！写出空宅。",
+          "zh_modern": "好！写出了空宅的景象。",
+          "en": "Good! Depicts the empty mansion.",
+          "ru": "Хорошо! Изображает пустой особняк.",
+          "ja": "好し！空宅を写し出せり。"
+        },
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "position": "after 后",
+          "original": "「后」字何不直用「西」字？恐先生堕泪，故不敢用「西」字。",
+          "zh_modern": "「后」字为何不直接用「西」字？恐怕先生会落泪，所以不敢用「西」字。",
+          "en": "Why not use 'west' (西) instead of 'behind' (后)? Fearing the gentleman would weep, so dare not use 'west.'",
+          "ru": "Почему бы не использовать «запад» (西) вместо «позади» (后)? Боясь, что господин заплачет, поэтому не смеют использовать «запад».",
+          "ja": "「後」の字、何ぞ直ちに「西」の字を用いざる？先生の涙を堕さんことを恐れ、故に敢えて「西」の字を用いず。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": "dialogue",
+      "original": "冷子兴笑道：「亏你是进士出身，原来不通！古人有云：『百足之虫，死而不僵。』如今虽说不及先年那样兴盛，较之平常仕宦之家，到底气象不同。如今生齿日繁，事务日盛，主仆上下，安富尊荣者尽多，」",
+      "zh_modern": "冷子兴笑道：「亏你还是进士出身，原来不懂啊！古人有句话说：『百足之虫，死而不僵。』如今虽说比不上先前那样兴盛，比起普通的官宦之家，到底气派不同。如今人口日益繁多，事务日益繁盛，主仆上下，安于富贵尊荣的人很多，」",
+      "en": "Leng Zixing laughed, 'For a presented scholar, you're quite ignorant! The ancients said: \"A hundred-legged insect doesn't stiffen when it dies.\" Though not as prosperous as before, compared to ordinary official families, the atmosphere is still different. Now the population grows daily, affairs multiply daily, and among masters and servants, many are content with wealth and honor.'",
+      "ru": "Лэн Цзысин засмеялся: «Для представленного учёного вы довольно невежественны! Древние говорили: «Многоножка не коченеет, когда умирает». Хотя не так процветающе, как прежде, по сравнению с обычными чиновничьими семьями атмосфера всё ещё иная. Теперь население растёт ежедневно, дела множатся ежедневно, и среди господ и слуг многие довольны богатством и почестями».",
+      "ja": "冷子興笑いて曰く、「虧く汝は進士の出身なり、原来通ぜざるや！古人に云う有り、『百足の虫、死して僵れず』と。如今、先年の如く興盛ならずと雖も、平常の仕宦の家に較ぶれば、到底気象異なり。如今生齒日に繁く、事務日に盛んに、主僕上下、富に安んじ栄を尊ぶ者尽く多く、」",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "石头城 (Stone City) is the ancient name for Nanjing/Jinling, directly connecting to the novel's title 《石头记》(Story of the Stone). The commentary notes this as 'divinely marvelous' (点睛神妙).",
+    "The idiom '百足之虫，死而不僵' (A hundred-legged insect doesn't stiffen when it dies) is the central metaphor for the entire novel—powerful families maintain appearances even in decline.",
+    "The commentary on using '后' (behind) instead of '西' (west) reveals the author's compassion: '西' evokes 西方 (Western Paradise/Buddhist afterlife), which would make readers weep for the characters' doomed fates.",
+    "冷子兴 (Leng Zixing) means 'Cold Interest'—his name suggests objective, detached observation. He serves as the narrative device for exposition about the Jia family.",
+    "The repeated emphasis on '末世' (declining age) in the commentary reveals the author's autobiographical intent—Cao Xueqin's own family fell from banner aristocracy to poverty.",
+    "The Six Dynasties (六朝) were centered in Nanjing (3rd-6th centuries). Yucun viewing their ruins parallels him viewing the declining Jia family—history repeating itself.",
+    "The description of the empty gates (门前冷落无人) but impressive architecture captures the essence of a great house in decline—outward grandeur masking inner decay.",
+    "贾复 (Jia Fu) was a famous Eastern Han general, establishing historical depth for the fictional Jia clan and lending them legitimacy through invented genealogy."
+  ],
+  "research_notes": [
+    "Consulted《红楼梦词典》for the百足之虫 idiom's literary history and usage",
+    "Studied Zhou Ruchang's commentary on the Stone City naming and its significance",
+    "Reviewed scholarly articles on the Six Dynasties historical context in 红楼梦学刊",
+    "Examined the narrative technique of using Leng Zixing as exposition device",
+    "Researched the autobiographical elements of the '末世' (declining age) theme"
+  ],
+  "characters_appearing": [
+    "贾雨村",
+    "冷子兴"
+  ],
+  "total_segments": 12,
+  "manuscript_sources_on_page": [
+    "脂批"
+  ]
+}
