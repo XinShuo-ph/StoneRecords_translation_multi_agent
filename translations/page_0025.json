@@ -1,0 +1,86 @@
+{
+  "page": 25,
+  "chapter": "第一回",
+  "chapter_title": {
+    "original": "甄士隐梦幻识通灵 贾雨村风尘怀闺秀",
+    "zh_modern": "甄士隐在梦幻中认识了通灵宝玉，贾雨村在落魄时怀念闺中秀女",
+    "en": "Zhen Shiyin in a Dream Perceives the Jade of Spiritual Understanding; Jia Yucun in Humble Circumstances Thinks Fondly of a Beautiful Maiden",
+    "ru": "Чжэнь Шиинь во сне постигает волшебную яшму; Цзя Юйцунь в бедности вспоминает прекрасную деву",
+    "ja": "甄士隠、夢幻の中で通霊を識り、賈雨村、風塵にありて閨秀を懐う"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 25,
+      "type": "prose",
+      "original": "一日，拄了拐杖，挣挫到街前散散心，忽见那边来了一个跛足道人，疯癫落脱，麻鞋鹑衣，口内念着几句言词，道是：",
+      "zh_modern": "这一天，他拄着拐杖，挣扎着走到街前散散心，忽然看见那边走来一个跛脚道人，疯疯癫癫，衣衫褴褛，穿着麻鞋，嘴里念叨着几句话：",
+      "en": "One day, leaning on a cane, he struggled out to the street to distract his mind. Suddenly, he saw a lame Taoist approaching—crazy, disheveled, wearing hemp sandals and tattered clothes like a quail's feathers—chanting these words:",
+      "ru": "Однажды, опираясь на посох, он с трудом вышел на улицу, чтобы развеять тоску. Вдруг он увидел хромого даоса — безумного, в лохмотьях, в пеньковых сандалиях, который бормотал следующие строки:",
+      "ja": "ある日、杖をつき、やっとの思いで街へ出て気晴らしをしていたところ、向こうから一人の跛足の道人がやって来た。風狂で落ちぶれ、麻の靴に鶉のような継ぎはぎの衣をまとい、口の中でいくつかの言葉を唱えていた："
+    },
+    {
+      "id": 2,
+      "pdf_page": 25,
+      "type": "poem",
+      "original": "世人都晓神仙好，只有功名忘不了！\n古今将相在何方？荒冢一堆草没了！\n世人都晓神仙好，只有金银忘不了！\n终朝只恨聚无多，及到多时眼闭了！",
+      "zh_modern": "世人都知道做神仙好，只有功名利禄忘不了！\n古往今来的将相都在哪里？只剩下一堆荒坟被野草淹没了！\n世人都知道做神仙好，只有金银财宝忘不了！\n整天只恨聚敛得不够多，等到钱多的时候眼睛已经闭上了！",
+      "en": "All men know that salvation is good,\nBut glory and fame they simply cannot forget!\nWhere are the generals and ministers of old?\nIn a heap of grassy graves, they are gone!\nAll men know that salvation is good,\nBut gold and silver they simply cannot forget!\nEach day grumbling that they have not gathered enough,\nWhen enough is gathered, their eyes are closed forever!",
+      "ru": "Все люди знают: быть бессмертным — благо,\nНо славу и почесть забыть не могут!\nГде ныне полководцы и министры прошлых лет?\nЛишь холм могильный, травой поросший!\nВсе люди знают: быть бессмертным — благо,\nНо злато и серебро забыть не могут!\nВесь день лишь сетуют, что мало накопили,\nА как накопят — уж глаза закрылись навек!",
+      "ja": "世人皆知る神仙の好きを、ただ功名のみ忘れ得ず！\n古今の将相何処にか在る？荒冢一堆草没し了んぬ！\n世人皆知る神仙の好きを、ただ金銀のみ忘れ得ず！\n終朝ただ恨む聚むること無き多きを、多きに及ぶ時眼閉し了んぬ！",
+      "poem_notes": {
+        "title": "Won-Done Song (好了歌)",
+        "form": "Doggerel / Folk Song style",
+        "theme": "Vanity of worldly pursuits"
+      },
+      "commentary": [
+        {
+          "type": "眉批",
+          "source": "甲戌本",
+          "position": "top margin",
+          "original": "昌黎云：“人生只有上寿难。”非世人不知神仙好也。",
+          "zh_modern": "韩昌黎说：“人生只有长寿最难。”并不是世人不知道做神仙好啊。",
+          "en": "Han Changli said: 'In life, only longevity is difficult.' It is not that people do not know salvation is good.",
+          "ru": "Хань Чанли говорил: «В жизни труднее всего достичь долголетия». Не то чтобы люди не знали, что быть бессмертным — благо.",
+          "ja": "昌黎云く：「人生ただ上寿のみ難し」と。世人神仙の好きを知らざるに非ざるなり。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "pdf_page": 25,
+      "type": "poem",
+      "original": "世人都晓神仙好，只有娇妻忘不了！\n君生日日说恩情，君死又随人去了！\n世人都晓神仙好，只有儿孙忘不了！\n痴心父母古来多，孝顺儿孙谁见了？",
+      "zh_modern": "世人都知道做神仙好，只有娇妻美妾忘不了！\n你活着的时候天天说恩情，你死后她又随别人去了！\n世人都知道做神仙好，只有儿孙后代忘不了！\n痴心的父母自古以来就很多，孝顺的儿孙谁见到了？",
+      "en": "All men know that salvation is good,\nBut lovely wives they simply cannot forget!\nWhile you live, they speak daily of devotion,\nWhen you die, they go off with another!\nAll men know that salvation is good,\nBut sons and grandsons they simply cannot forget!\nDoting parents have been many since ancient times,\nBut filial children—who has ever seen one?",
+      "ru": "Все люди знают: быть бессмертным — благо,\nНо жён красавиц забыть не могут!\nПри жизни мужа клянутся в любви,\nА умрёт он — с другим уходят!\nВсе люди знают: быть бессмертным — благо,\nНо сыновей и внуков забыть не могут!\nБезумных от любви родителей издревле много,\nА сыновей почтительных — кто видел?",
+      "ja": "世人皆知る神仙の好きを、ただ嬌妻のみ忘れ得ず！\n君生ける日は日々に恩情を説くも、君死すればまた人に随いて去り了んぬ！\n世人皆知る神仙の好きを、ただ児孫のみ忘れ得ず！\n痴心の父母古来多し、孝順の児孫誰か見し？"
+    },
+    {
+      "id": 4,
+      "pdf_page": 25,
+      "type": "prose",
+      "original": "士隐听了，便迎上来道：“你满口说些什么？只听见些‘好’‘了’‘好’‘了’。”那道人笑道：“你若果听见‘好’‘了’二字，还算你明白。可知世上万般，好便是了，了便是好。若不了，便不好；若要好，须是了。我这歌儿，便名《好了歌》。”",
+      "zh_modern": "甄士隐听了，便迎上去说：“你满嘴说些什么？只听见些‘好’啊‘了’啊的。”那道人笑着说：“你如果真的听见了‘好’‘了’两个字，还算你明白。要知道世间万事，好就是了（结束），了（结束）就是好。如果不结束，就不好；如果要好，必须结束。我这首歌，就叫《好了歌》。”",
+      "en": "Shiyin heard this and went up to him, saying, \"What is this you are saying? I only heard a lot of 'won' and 'done'.\" The Taoist smiled and replied, \"If you truly heard the words 'won' and 'done', then you are enlightened. You must know that in this world, everything that is won is done, and everything that is done is won. If it is not done, it is not won; if you want it won, it must be done. So I call this song the 'Won-Done Song'.\"",
+      "ru": "Шиинь, услышав это, подошёл и спросил: «Что это ты бормочешь? Слышу только „хорошо“ да „кончено“». Даос усмехнулся: «Коли ты расслышал слова „хорошо“ и „кончено“, значит, ты понимаешь. Знай же: всё в мире — коли хорошо, значит кончено; а коли кончено, значит хорошо. Не кончено — значит не хорошо; а хочешь, чтоб было хорошо — должно быть кончено. Песню эту я зову „Хорошо-Кончено“».",
+      "ja": "士隠はこれを聞いて、迎え出て言った。「口々に何を言っておるのか？ただ『好（よ）き』『了（おわ）る』と聞こえるばかりだが。」道人は笑って言った。「もし果たして『好』『了』の二字が聞こえたなら、そなたは分かっておる。知るべし、世上の万般、好きは即ち了るなり、了るは即ち好きなり。若し了らざれば、即ち好からず。若し好からんとせば、須らく了るべし。我がこの歌は、名づけて『好了歌』と言う。」"
+    }
+  ],
+  "translator_notes": [
+    "The 'Won-Done Song' (好了歌) is thematic core of the novel, expressing the Buddhist/Taoist view that worldly attachments (fame, wealth, family) are futile and that true release ('goodness') comes only with ending ('done').",
+    "I have translated 'Hao' (好) as 'Won/Salvation/Good' and 'Liao' (了) as 'Done/Finished/Gone' to capture the pun. 'Liao' implies both completion and emptiness."
+  ],
+  "research_notes": [
+    "Consulted various translations of the Won-Done Song (Hawkes, Yang, Minford) for rhythm and rhyme strategies.",
+    "The commentary emphasizes that people know the value of transcendence but cannot let go of attachments."
+  ],
+  "characters_appearing": [
+    "甄士隐",
+    "跛足道人"
+  ],
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ]
+}
