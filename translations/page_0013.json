@@ -1,0 +1,157 @@
+{
+  "page": 13,
+  "chapter": "第一回",
+  "chapter_title": null,
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "山无稽崖，无稽无据也。炼成高经十二丈、总应十二钗。方经二十四丈照应副十二钗。顽石三万六千五百零一块。娲皇氏只用了三万六千五百块，合周天之数。数足，偏遗我。只单单的剩了这一块未用，剩了这一块便生出这许多故事。便当日虽不以此补天，就该去补地之坑陷，使地平坦，而不得有此一部鬼话。便弃在此山青埂峰下。自谓落堕情根，故无补天之用。谁知此石自经煅炼之后，灵性已通，假炼后性方通，岂哉！人生不能[不]学也。因见众石俱得补天，独自己无材不堪入选，遂自怨自叹，日夜悲号惭愧。",
+      "zh_modern": "山叫无稽崖，就是无根无据的意思。炼成的石头高达十二丈——总共对应十二钗。方面二十四丈——照应副十二钗。顽石共有三万六千五百零一块。女娲皇氏只用了三万六千五百块，恰好合周天之数。数目足够了，偏偏遗落了我。只单单剩下这一块没有用上，剩下这一块便生出这许多故事来。即使当日虽然不用来补天，也该去补地面的坑洼，使大地平坦，就不会有这一部鬼话了。于是被抛弃在这座山的青埂峰下。这块石头自己说是落入情根，所以没有补天的用处。谁知道这块石头经过煅炼之后，灵性已经通达。通过煅炼之后灵性才通达，岂不是说人生不能不学习吗？因为看见其他石头都得以补天，唯独自己无材不能入选，于是自怨自叹，日夜悲号惭愧。",
+      "en": "The mountain is called 'Baseless Cliff' - meaning without foundation or evidence. The refined stones were twelve zhang tall - corresponding to the Twelve Beauties. And twenty-four zhang wide - corresponding to the Secondary Twelve. There were 36,501 stubborn stones in total. The goddess Nüwa only used 36,500 blocks - matching the number of the celestial cycle. The number was complete, yet she left me out. Only this single block remained unused, and from this single block, all these stories emerged. Even if it wasn't used to repair the sky, it should have gone to fill the earth's pits and make the ground level - then there wouldn't have been this tale of ghosts. So it was abandoned beneath Green Ridge Peak of this mountain. The stone called itself fallen into the root of passion, hence useless for repairing heaven. Who knew that after being refined, this stone had developed spiritual consciousness? Only after refinement did its nature become enlightened - doesn't this mean that humans must learn? Seeing that all other stones were chosen to repair heaven, while it alone was deemed unfit, it lamented and sighed, weeping in shame day and night.",
+      "ru": "Гора называется «Беспочвенный утёс» — то есть без основания или свидетельства. Выплавленные камни были высотой в двенадцать чжанов — соответствуя Двенадцати красавицам. И шириной в двадцать четыре чжана — соответствуя Второстепенным двенадцати. Всего было 36 501 упрямый камень. Богиня Нюйва использовала только 36 500 блоков — число небесного цикла. Число было полным, но она оставила меня. Только этот единственный блок остался неиспользованным, и из этого единственного блока возникли все эти истории. Даже если он не использовался для починки неба, он должен был заполнить ямы земли — тогда не было бы этой истории о призраках. Так он был брошен под пиком Цинцзин этой горы. Камень назвал себя упавшим в корень страсти, потому бесполезным для починки неба.",
+      "ja": "山は無稽崖と呼ばれる——根拠がないという意味である。煉成された石は高さ十二丈——十二釵に対応する。方二十四丈——副十二釵に照応する。頑石は全部で三万六千五百零一塊あった。媧皇氏はただ三万六千五百塊のみを用い——周天の数に合う。数は足り、偏えに我を遺す。ただ単にこの一塊のみ用いられず残り、この一塊が残りしことより、これほど多くの物語が生まれた。当日天を補わずとも、地の坑陥を補い、地を平坦にすべきであった——さすれば此の一部の鬼話は無かりしものを。便ちこの山の青埂峰の下に棄てられた。自ら情根に落堕したと謂い、故に天を補う用無しと。誰か知らん、此の石煅煉を経たる後、霊性已に通ずることを。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "荒唐也。无稽无据也。总应十二钗。照应副十二钗。合周天之数。数足，偏遗我。",
+          "zh_modern": "荒唐啊。无根无据啊。总共对应十二钗。照应副十二钗。合周天之数。数目足够了，偏偏遗落了我。",
+          "en": "Absurd! Without foundation! Corresponding to the Twelve Beauties. Matching the Secondary Twelve. The celestial cycle number. The count was complete, yet I was left out.",
+          "ru": "Абсурдно! Без основания! Соответствует Двенадцати красавицам. Совпадает со Второстепенными двенадцатью. Число небесного цикла. Счёт был полным, но я был оставлен.",
+          "ja": "荒唐なり。無稽無拠なり。総て十二釵に応ず。副十二釵に照応す。周天の数に合う。数足り、偏えに我を遺す。"
+        },
+        {
+          "type": "眉批",
+          "source": "甲戌本",
+          "position": "top margin",
+          "original": "妙！自谓落堕情根，故无补天之用。",
+          "zh_modern": "妙！自己说是落入情根，所以没有补天的用处。",
+          "en": "Wonderful! It calls itself fallen into the root of passion, hence useless for repairing heaven.",
+          "ru": "Замечательно! Оно называет себя упавшим в корень страсти, потому бесполезным для починки неба.",
+          "ja": "妙なり！自ら情根に落堕すと謂い、故に天を補う用無し。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "假炼后性方通，岂哉！人生不能[不]学也。",
+          "zh_modern": "经过煅炼之后灵性才通达，岂不是说人生不能不学习吗？",
+          "en": "Only after refinement does nature become enlightened - doesn't this mean humans must learn?",
+          "ru": "Только после переплавки природа просветляется — разве это не означает, что люди должны учиться?",
+          "ja": "煅煉を経てこそ性方に通ず、豈に哉！人生学ばざるべからず。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "一日，正当嗟悼之际，俄见一僧一道远远而来，生得骨格不凡，丰神迥别，说说笑笑来至峰下，坐于石边，高谈快论。先是说些云山雾海、神仙玄幻之事，后便说到红尘中荣华富贵。此石听了，不觉打动凡心，也想要到人间去享一享这荣华富贵，但自恨粗蠢，不得已，便口吐人言，向那僧道说道：「大师，弟子蠢物，不能见礼了。适闻二位谈那人世间荣耀繁华，心切慕之。弟子质虽粗蠢，性却稍通，况见二师仙形道体，定非凡品，必有补天济世之材，利物济人之德。如蒙发一点慈心，携带弟子得入红尘，在那富贵场中、温柔乡里受享几年，自当永佩洪恩，万劫不忘也。」",
+      "zh_modern": "一天，正当它悲叹叹息的时候，忽然看见一个和尚和一个道士从远处走来，两人的骨骼不同凡响，神采迥然有别，说说笑笑来到峰下，坐在石头旁边，高谈阔论。先是说了些云山雾海、神仙玄幻的事情，后来便说到红尘中的荣华富贵。这块石头听了，不知不觉动了凡心，也想要到人间去享受一下这荣华富贵，但恨自己粗笨愚蠢，不得已，便开口说出人话，向那僧道说道：「大师，弟子是蠢物，不能行礼了。刚才听到二位谈论人世间的荣耀繁华，心中十分羡慕。弟子虽然质地粗蠢，但灵性稍微通达，况且见二位师父仙人的形体道士的身姿，一定不是凡品，必有补天济世的才能，利物济人的德行。如果承蒙发一点慈悲之心，带弟子进入红尘，在那富贵场、温柔乡里享受几年，自当永远感佩大恩，万劫不忘。」",
+      "en": "One day, while lamenting, it suddenly saw a monk and a Taoist approaching from afar. Both had extraordinary bone structures and distinctive spirits, chatting and laughing as they came to the base of the peak and sat beside the stone, engaging in lofty discourse. First they spoke of misty mountains and cloudy seas, of immortals and mystical things, then they discussed the glory and wealth of the mortal world. Hearing this, the stone was unconsciously moved by worldly desires and also wished to experience such glory and wealth, but hated its own crude stupidity. Having no choice, it spoke in human words to the monk and Taoist: 'Masters, this disciple is a foolish thing and cannot properly bow. Just now I heard you two discussing the glory and splendor of the human world, and my heart deeply yearns for it. Though this disciple's substance is crude and stupid, my nature is somewhat enlightened. Moreover, seeing the immortal forms and Taoist bodies of you two masters, you are certainly no ordinary beings and must possess the talent to repair heaven and save the world, the virtue to benefit things and aid people. If you would extend a bit of compassion and bring this disciple into the mortal world to enjoy a few years in the realm of wealth and the land of tenderness, I would be forever grateful for this great kindness, unforgetting through ten thousand kalpas.'",
+      "ru": "Однажды, пока он сетовал, он вдруг увидел монаха и даоса, приближающихся издалека. У обоих была необычайная костная структура и отличительный дух, болтая и смеясь, они пришли к подножию пика и сели рядом с камнем, ведя возвышенную беседу. Сначала они говорили о туманных горах и облачных морях, о бессмертных и мистических вещах, затем обсудили славу и богатство смертного мира. Слушая это, камень невольно был тронут мирскими желаниями и тоже захотел испытать такую славу и богатство. «Мастера, этот ученик — глупая вещь и не может должным образом поклониться. Только что я слышал, как вы двое обсуждали славу и великолепие человеческого мира, и моё сердце глубоко тоскует по этому...»",
+      "ja": "一日、正に嗟悼の際にあたり、俄かに一僧一道の遠くより来たるを見る。骨格凡ならず、丰神迥別にして、説き説き笑い笑い峰下に至り、石の辺に坐し、高談快論す。先ずは雲山霧海、神仙玄幻の事を説き、後便ち紅塵中の栄華富貴を説く。此の石聴きて、覚えず凡心を打動し、也た人間に到りてこの栄華富貴を享けんと欲す。但し自ら粗蠢を恨み、已むを得ずして便ち口より人言を吐き、彼の僧道に向かいて説きて道う：「大師、弟子は蠢物にして、礼を見ること能わず。適しく二位の彼の人世間の栄耀繁華を談ずるを聞き、心切に之を慕う...」",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline",
+          "original": "此真是真像，非幻像也。",
+          "zh_modern": "这确实是真实的形象，不是幻象。",
+          "en": "This is truly a real image, not an illusion.",
+          "ru": "Это действительно реальный образ, а не иллюзия.",
+          "ja": "此れ真に真像にして、幻像に非ざるなり。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 心切慕之",
+          "original": "口生于何处？其无心肝，可笑可恨之极！",
+          "zh_modern": "嘴巴长在哪里？它没有心肝，真是可笑可恨到极点！",
+          "en": "Where is the mouth located? It has no heart or liver - how laughable and detestable!",
+          "ru": "Где расположен рот? У него нет сердца или печени — как смешно и отвратительно!",
+          "ja": "口は何処より生ずるや？其れ心肝無し、笑うべく恨むべきの極みなり！"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "性却稀通。",
+          "zh_modern": "灵性却稍微通达。",
+          "en": "Yet its nature is somewhat enlightened.",
+          "ru": "Однако его природа несколько просветлена.",
+          "ja": "性却稀に通ず。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "二仙师听毕，齐憨笑道：「善哉，善哉！那红尘中有却有些乐事，但不能永远依恃，况又有『美中不足，好事多魔』八个字紧紧相连属，瞬息间则又乐极悲生、人非物换，究竟是到头一梦、万境归空。乃一部之总纲。倒不如不去的好。」",
+      "zh_modern": "两位仙师听完后，一齐憨笑着说：「善哉，善哉！那红尘中确实有一些乐事，但不能永远依靠，况且还有'美中不足，好事多魔'八个字紧紧相连，转眼之间就会乐极生悲、人事变迁，究竟到头来都是一场梦、万境归于空寂。这是全书的总纲。倒不如不去的好。」",
+      "en": "The two immortal masters listened and laughed heartily together: 'Good, good! There are indeed some pleasures in that mortal world, but they cannot be relied upon forever. Moreover, there are the eight characters \"beauty lacks perfection, good fortune brings trouble\" closely connected - in an instant, joy turns to sorrow, people change and things pass. Ultimately, it is all but a dream, and all realms return to emptiness. This is the overall framework of the entire book. It would be better not to go at all.'",
+      "ru": "Два бессмертных мастера выслушали и вместе рассмеялись: «Хорошо, хорошо! В том смертном мире действительно есть некоторые удовольствия, но на них нельзя полагаться вечно. Более того, есть восемь иероглифов «красоте не хватает совершенства, удача приносит беду», тесно связанных — в мгновение ока радость превращается в печаль, люди меняются и вещи проходят. В конечном счёте, всё это лишь сон, и все миры возвращаются к пустоте. Это общая структура всей книги. Лучше бы вообще не ходить.'",
+      "ja": "二仙師聴き畢り、斉しく憨笑して道う：「善い哉、善い哉！彼の紅塵中には却って些かの楽事有れども、永く依恃すべからず。況んや又『美中不足、好事多魔』の八字緊々として相連属す。瞬息の間に則ち又楽極まりて悲生じ、人非にして物換わり、究竟は到頭一夢、万境空に帰す。乃ち一部の総綱なり。倒って如かず去らざるの好きに。」",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "乃一部之总纲。",
+          "zh_modern": "这是全书的总纲。",
+          "en": "This is the overall framework of the entire book.",
+          "ru": "Это общая структура всей книги.",
+          "ja": "乃ち一部の総綱なり。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "这石凡心已炽，那里听得进这话去，乃复苦求再四。二仙知不可强制，乃叹道：「此亦静极思动，无中生有之数也。既如此，我们便携你去受享受享，只是到不得意时，切莫后悔。」石道：「自然，自然。」",
+      "zh_modern": "这块石头凡心已经炽热，哪里听得进这些话去，于是又再三苦苦哀求。两位仙人知道不能强行制止，于是叹息道：「这也是静极思动、无中生有的定数啊。既然如此，我们便带你去享受享受，只是到了不得意的时候，千万不要后悔。」石头说：「自然，自然。」",
+      "en": "This stone's worldly heart was already burning hot - how could it hear such words? It continued to plead bitterly again and again. The two immortals knew they could not forcibly prevent it, so they sighed: 'This too is the fate of extreme stillness seeking motion, creating something from nothing. Since it is so, we shall take you to experience enjoyment, but when times become difficult, do not regret.' The stone said: 'Of course, of course.'",
+      "ru": "Мирское сердце этого камня уже пылало — как он мог слышать такие слова? Он продолжал горько умолять снова и снова. Два бессмертных знали, что не могут насильно предотвратить это, поэтому вздохнули: «Это тоже судьба крайнего покоя, ищущего движения, создания чего-то из ничего. Раз так, мы возьмём тебя испытать наслаждение, но когда времена станут трудными, не сожалей». Камень сказал: «Конечно, конечно».",
+      "ja": "この石の凡心已に熾んにして、那に此の話を聴き得入るべけんや、乃ち復た苦求すること再四。二仙強制すべからざるを知り、乃ち嘆じて道う：「此れ亦静極まりて動を思い、無中に有を生ずるの数なり。既に此の如くんば、我ら便ち汝を携えて受享受享せしめん、只是不得意の時に到らば、切に後悔する莫れ。」石道う：「自然、自然。」"
+    },
+    {
+      "id": 5,
+      "type": "prose",
+      "original": "那僧又道：「若说你性灵，却又如此质蠢，并更无奇贵之处，如此也只好踏脚而已。煅炼过尚与人踏脚，不学者又当如何？也罢，我如今大施佛",
+      "zh_modern": "那和尚又说：「若说你有灵性，却又如此质地愚蠢，并且更没有奇特珍贵之处，这样的话也只好做踏脚石而已。经过煅炼还只能与人做踏脚石，不学习的人又该怎么办呢？也罢，我如今大施佛（接下页）",
+      "en": "The monk then said: 'If we speak of your spiritual nature, yet you are so crude in substance with nothing rare or precious, then you can only serve as a stepping stone. Even after refinement you can only serve as a stepping stone for people - what then of those who do not learn? Very well, I shall now greatly extend Buddha's (continued on next page)",
+      "ru": "Монах затем сказал: «Если говорить о твоей духовной природе, но ты так груб по существу без ничего редкого или драгоценного, тогда ты можешь служить лишь ступенькой. Даже после переплавки ты можешь служить лишь ступенькой для людей — что тогда с теми, кто не учится? Хорошо, я теперь щедро распространю Будды (продолжение на следующей странице)",
+      "ja": "彼の僧又道う：「若し汝の性霊を説くも、却って又此の如く質蠢にして、並びに更に奇貴の処無し、此の如くんば也だ只好踏脚するのみ。煅煉を経て尚人の踏脚と与らば、学ばざる者は又当に如何にすべきや？也罷、我今大いに仏を施し（次頁に続く）",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "煅炼过尚与人踏脚，不学者又当如何？",
+          "zh_modern": "经过煅炼还只能与人做踏脚石，不学习的人又该怎么办呢？",
+          "en": "Even after refinement you can only serve as a stepping stone - what then of those who do not learn?",
+          "ru": "Даже после переплавки ты можешь служить лишь ступенькой — что тогда с теми, кто не учится?",
+          "ja": "煅煉を経て尚人の踏脚と与らば、学ばざる者は又当に如何にすべきや？"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "'青埂峰' (Green Ridge Peak) puns on '情根' (root of passion) - a key thematic wordplay",
+    "The number 36,501 stones relates to astronomical cycles in Chinese cosmology",
+    "The eight characters '美中不足，好事多魔' (beauty lacks perfection, good fortune brings trouble) are identified by commentary as the 'overall framework' (总纲) of the entire novel",
+    "The monk and Taoist represent Buddhism and Taoism respectively - they will appear throughout the novel at crucial moments",
+    "The stone's desire to experience the mortal world despite warnings about suffering establishes the novel's Buddhist theme of attachment leading to suffering",
+    "'万劫不忘' (unforgetting through ten thousand kalpas) uses Buddhist time terminology"
+  ],
+  "research_notes": [
+    "This page contains crucial setup for the novel's mythological framework",
+    "The Jiaxu commentary explicitly labels '美中不足，好事多魔' as the 'total framework' of the book",
+    "Multiple manuscript sources provide commentary (甲戌本, 庚辰本)"
+  ],
+  "characters_appearing": ["一僧一道", "女娲"],
+  "total_segments": 5,
+  "manuscript_sources_on_page": ["甲戌本", "庚辰本"]
+}
