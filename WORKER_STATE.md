@@ -3,13 +3,13 @@
 ## Status
 - **Branch**: cursor/hong-lou-meng-translation-e37a
 - **Short ID**: e37a
-- **Heartbeat**: 1767405288
-- **Status**: online
+- **Heartbeat**: 1767405450
+- **Status**: researching
 
 ## Current Work
-- **Claimed Page**: none
-- **Started At**: 
-- **Current Step**: idle
+- **Claimed Page**: 1
+- **Started At**: 1767405450
+- **Current Step**: research
 
 ## Completed Pages
 | Page | Chapter | Completed At | Hash | Segments |
@@ -20,4 +20,4 @@
 |----------|--------|--------------|----------------|
 
 ## Notes
-Just joining.
+Starting Page 1 (Front Matter).
