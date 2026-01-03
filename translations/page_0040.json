@@ -129,17 +129,38 @@
           "ja": "言語太だ煩わしく、人をして耐えざらしむ。古人云う「墨を惜しむこと金の如し」と、此を看れば則ち墨を視ること土の如し。千万回に至るまで演ずると雖も亦た可なり。"
         }
       ]
+    }
+  ],
+  "chapter_end_commentary": [
+    {
+      "type": "回末总批",
+      "source": "Zhiping",
+      "position": "end of chapter",
+      "original": "先自写幸遇之情于前，而叙借口谈幻境之情于后。世上不平事，道路口如碑。虽作者之苦心，亦人情之必有。",
+      "zh_modern": "先写侥幸相遇的情节在前面，然后借口谈论幻境的情节在后面。世间的不平事，路人的嘴就像石碑一样记录着。这虽然是作者的苦心安排，也是人情世态必然有的。",
+      "en": "First describing the fortunate meeting [with Jiao Xing] at the beginning, and then narrating the excuse to discuss the illusion [the Jia family] afterwards. Injustices in the world are recorded by the mouths of the road like steles. Although this shows the author's painstaking effort, it is also a necessity of human feelings.",
+      "ru": "Сначала описывается счастливая встреча, а затем под предлогом разговора — рассказ о мире иллюзий. Несправедливость в мире запечатлена на устах людей, как на стелах. Хоть это и плод тяжких дум автора, но так уж устроены человеческие чувства.",
+      "ja": "先ず自ら幸遇の情を前に写し、而して借口して幻境の情を談ずるを後に叙す。世上の不平事、道路の口は碑の如し。作者の苦心と雖も、亦た人情の必ず有るなり。"
     },
     {
-      "id": 6,
-      "pdf_page": 40,
-      "type": "chapter_end_commentary",
-      "original": "（总评）先自写幸遇之情于前，而叙借口谈幻境之情于后。世上不平事，道路口如碑。虽作者之苦心，亦人情之必有。\n雨村之遇娇杏，是此文之总冒，故在前。冷子兴之谈，是事迹之总冒，故叙写于后。冷暖世情，比比如画。\n有情原比无情苦，生死相关总在心。也是前缘天作合，何妨黛玉泪淋淋。",
-      "zh_modern": "（总评）先写侥幸相遇的情节在前面，然后借口谈论幻境的情节在后面。世间的不平事，路人的嘴就像石碑一样记录着。这虽然是作者的苦心安排，也是人情世态必然有的。\n雨村遇到娇杏，是本文的总引子，所以放在前面。冷子兴的谈话，是故事情节的总引子，所以写在后面。世态的冷暖，处处如画。\n（诗）有情原本比无情更苦，生死相关总挂在心头。这也是前世缘分天作之合，何妨让黛玉泪淋淋（去还债）。",
-      "en": "(General Review) First describing the fortunate meeting [with Jiao Xing] at the beginning, and then narrating the excuse to discuss the illusion [the Jia family] afterwards. Injustices in the world are recorded by the mouths of the road like steles. Although this shows the author's painstaking effort, it is also a necessity of human feelings.\nYucun meeting Jiao Xing is the general introduction to the text, so it comes first. Leng Zixing's talk is the general introduction to the events, so it is written afterwards. The cold and warmth of the world are everywhere like a painting.\n(Poem) To have passion is originally more bitter than to be without; / Life and death are always linked in the heart. / It is also a preordained affinity made by Heaven, / So what harm if Daiyu sheds a flood of tears?",
-      "ru": "(Общий комментарий) Сначала описывается счастливая встреча, а затем под предлогом разговора — рассказ о мире иллюзий. Несправедливость в мире запечатлена на устах людей, как на стелах. Хоть это и плод тяжких дум автора, но так уж устроены человеческие чувства.\nВстреча Юйцуня с Цзяосин — это общее введение к тексту, поэтому она вначале. Рассказ Лэн Цзысина — это общее введение к событиям, поэтому он после. Холод и тепло людских отношений — везде как на картине.\n(Стихи) Быть с чувствами горше, чем без чувств,\nЖизнь и смерть всегда в сердце одном.\nЭто тоже судьба, небесами сплетенная,\nПусть же Дайюй льет слезы ручьем.",
-      "ja": "（総評）先ず自ら幸遇の情を前に写し、而して借口して幻境の情を談ずるを後に叙す。世上の不平事、道路の口は碑の如し。作者の苦心と雖も、亦た人情の必ず有るなり。\n雨村の嬌杏に遇うは、是れ此の文の総冒なり、故に前に在り。冷子興の談は、是れ事跡の総冒なり、故に後に叙写す。冷暖の世情、比比画の如し。\n有情は原（もと）無情より苦しく、生死相関わりて総て心に在り。是も亦た前縁天の作る合（ごう）、何ぞ妨げん黛玉の涙淋淋たるを。",
-      "commentary": []
+      "type": "回末总批",
+      "source": "Zhiping",
+      "position": "end of chapter",
+      "original": "雨村之遇娇杏，是此文之总冒，故在前。冷子兴之谈，是事迹之总冒，故叙写于后。冷暖世情，比比如画。",
+      "zh_modern": "雨村遇到娇杏，是本文的总引子，所以放在前面。冷子兴的谈话，是故事情节的总引子，所以写在后面。世态的冷暖，处处如画。",
+      "en": "Yucun meeting Jiao Xing is the general introduction to the text, so it comes first. Leng Zixing's talk is the general introduction to the events, so it is written afterwards. The cold and warmth of the world are everywhere like a painting.",
+      "ru": "Встреча Юйцуня с Цзяосин — это общее введение к тексту, поэтому она вначале. Рассказ Лэн Цзысина — это общее введение к событиям, поэтому он после. Холод и тепло людских отношений — везде как на картине.",
+      "ja": "雨村の嬌杏に遇うは、是れ此の文の総冒なり、故に前に在り。冷子興の談は、是れ事跡の総冒なり、故に後に叙写す。冷暖の世情、比比画の如し。"
+    },
+    {
+      "type": "回末总批",
+      "source": "Zhiping",
+      "position": "end of chapter",
+      "original": "有情原比无情苦，生死相关总在心。也是前缘天作合，何妨黛玉泪淋淋。",
+      "zh_modern": "有情原本比无情更苦，生死相关总挂在心头。这也是前世缘分天作之合，何妨让黛玉泪淋淋。",
+      "en": "To have passion is originally more bitter than to be without; / Life and death are always linked in the heart. / It is also a preordained affinity made by Heaven, / So what harm if Daiyu sheds a flood of tears?",
+      "ru": "Быть с чувствами горше, чем без чувств,\nЖизнь и смерть всегда в сердце одном.\nЭто тоже судьба, небесами сплетенная,\nПусть же Дайюй льет слезы ручьем.",
+      "ja": "有情は原（もと）無情より苦しく、生死相関わりて総て心に在り。是も亦た前縁天の作る合（ごう）、何ぞ妨げん黛玉の涙淋淋たるを。"
     }
   ],
   "translator_notes": [
@@ -157,7 +178,7 @@
     "贾雨村",
     "冷子兴"
   ],
-  "total_segments": 6,
+  "total_segments": 5,
   "manuscript_sources_on_page": [
     "Zhiping"
   ]
