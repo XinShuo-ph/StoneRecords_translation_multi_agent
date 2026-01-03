@@ -1,0 +1,243 @@
+{
+  "page": 27,
+  "chapter": "第一回",
+  "chapter_title": {
+    "original": "甄士隐梦幻识通灵 贾雨村风尘怀闺秀",
+    "zh_modern": "甄士隐在梦幻中认识了通灵宝玉，贾雨村在落魄时怀念闺中秀女",
+    "en": "Zhen Shiyin in a Dream Perceives the Jade of Spiritual Understanding; Jia Yucun in Humble Circumstances Thinks Fondly of a Beautiful Maiden",
+    "ru": "Чжэнь Шиинь во сне постигает волшебную яшму; Цзя Юйцунь в бедности вспоминает прекрасную деву",
+    "ja": "甄士隠、夢幻の中で通霊を識り、賈雨村、風塵にありて閨秀を懐う"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 27,
+      "type": "poem",
+      "original": "因嫌纱帽小，致使锁枷扛，甲戌贾赦、雨村一千人。\n昨怜破袄寒，今嫌紫蟒长。甲戌贾兰、贾菌一千人。甲戌一段功名升黜无时，强夺苦争，喜惧不了。",
+      "zh_modern": "因为嫌乌纱帽小，结果落得枷锁加身，（指贾赦、雨村等人。）\n昨天还可怜自己破袄御寒，今天又嫌紫蟒袍太长。（指贾兰、贾菌等人。一段功名升降无常，强夺苦争，喜惧不已。）",
+      "en": "Because they thought their official caps too small, they ended up bearing cangues and chains, [Referring to Jia She, Yucun, and others.]\nYesterday they pitied themselves in torn cotton jackets against the cold; today they find the purple python robes too long. [Referring to Jia Lan, Jia Jun, and others. A passage on the ups and downs of career without pattern, struggling and fighting, with endless joy and fear.]",
+      "ru": "Потому что считали свои чиновничьи шапки слишком маленькими, они оказались в колодках и цепях, [Имеется в виду Цзя Шэ, Юйцунь и другие.]\nВчера они жалели себя в рваных ватниках от холода; сегодня им длинны пурпурные мантии с питонами. [Имеется в виду Цзя Лань, Цзя Цзюнь и другие. Отрывок о взлётах и падениях карьеры без закономерности, борьбе и соперничестве, с бесконечной радостью и страхом.]",
+      "ja": "紗帽の小なるを嫌うが故に、枷鎖を担うに至る、（賈赦・雨村らを指す。）\n昨日は破れた袄の寒きを憐れみしが、今日は紫蟒の長きを嫌う。（賈蘭・賈菌らを指す。一段の功名升黜時無く、強奪苦争、喜惧尽きず。）",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 锁枷扛",
+          "original": "贾赦、雨村一千人。",
+          "zh_modern": "指贾赦、雨村等人。",
+          "en": "Referring to Jia She, Yucun, and others.",
+          "ru": "Имеется в виду Цзя Шэ, Юйцунь и другие.",
+          "ja": "賈赦・雨村らを指す。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 紫蟒长",
+          "original": "贾兰、贾菌一千人。",
+          "zh_modern": "指贾兰、贾菌等人。",
+          "en": "Referring to Jia Lan, Jia Jun, and others.",
+          "ru": "Имеется в виду Цзя Лань, Цзя Цзюнь и другие.",
+          "ja": "賈蘭・賈菌らを指す。"
+        },
+        {
+          "type": "眉批",
+          "source": "甲戌本",
+          "position": "top margin",
+          "original": "一段功名升黜无时，强夺苦争，喜惧不了。",
+          "zh_modern": "一段功名升降无常，强夺苦争，喜惧不已。",
+          "en": "A passage on the ups and downs of career without pattern, struggling and fighting, with endless joy and fear.",
+          "ru": "Отрывок о взлётах и падениях карьеры без закономерности, борьбе и соперничестве, с бесконечной радостью и страхом.",
+          "ja": "一段の功名升黜時無く、強奪苦争、喜惧尽きず。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pdf_page": 27,
+      "type": "poem",
+      "original": "乱烘烘你方唱罢我登场，甲戌总收。甲戌总收古今亿兆痴人，共历幻场，此幻事扰扰纷纷，无日可了。\n反认他乡是故乡。甲戌太虚幻境青埂峰一并结住。\n甚荒唐，到头来都是为他人作嫁衣裳！甲戌语虽旧句，用于此妥极是极，甲戌此等歌谣原不宜太雅，恐其不能通俗，故只此便妙极。其说得痛切处，又非一味俗语可到。甲戌先谁不解得世事如此，有龙象力者方能放得下。",
+      "zh_modern": "乱哄哄你方唱罢我登场，（总收。总收古今亿万痴人，共历幻场，此幻事扰扰纷纷，无日可了。）\n反认他乡是故乡。（太虚幻境青埂峰一并结住。）\n甚荒唐，到头来都是为他人作嫁衣裳！（语虽旧句，用于此妥极是极。此等歌谣原不宜太雅，恐其不能通俗，故只此便妙极。其说得痛切处，又非一味俗语可到。先谁不解得世事如此，有龙象力者方能放得下。）",
+      "en": "In chaotic clamor, you finish singing and I take the stage, [Summation. Summing up billions of foolish people through all ages, all experiencing the stage of illusion; these illusory affairs are confused and tangled, with no end in sight.]\nMistaking another place for home. [The Land of Illusion and Greensickness Peak are tied together here.]\nHow absurd! In the end, all are merely making wedding clothes for others! [Though the phrase is old, using it here is most fitting. Such songs should not be too elegant, lest they fail to be understood by common folk; thus this is wonderfully done. Where it speaks most painfully, mere vulgar words cannot reach. Who does not understand that the world is thus? Only those with the strength of dragons and elephants can truly let go.]",
+      "ru": "В хаотичном гомоне ты заканчиваешь петь, и я выхожу на сцену, [Резюме. Суммируя миллиарды глупцов всех времён, все переживающие сцену иллюзий; эти иллюзорные дела запутаны и переплетены, без конца в виду.]\nПринимая чужбину за родной дом. [Царство Иллюзий и Пик Зелёной Болезни связаны здесь воедино.]\nКак абсурдно! В конце концов, все лишь шьют свадебные платья для других! [Хотя фраза старая, использование её здесь наиболее уместно. Такие песни не должны быть слишком изящными, чтобы не быть непонятными простому народу; поэтому это прекрасно сделано. Где говорится наиболее болезненно, простые вульгарные слова не могут достичь. Кто не понимает, что мир таков? Только те, у кого сила драконов и слонов, могут по-настоящему отпустить.]",
+      "ja": "乱哄哄と汝歌い罢えて我登場す、（総収。古今億兆の痴人を総収し、共に幻場を歴す、この幻事は擾々紛々として、了する日無し。）\n反って他郷を認めて故郷と為す。（太虚幻境青埂峰を一併に結び住む。）\n甚だ荒唐なり、到頭来皆他人の為に嫁衣裳を作るのみ！（語は旧句なれども、此処に用いては妥当至極なり。此等の歌謡は元より太雅に宜しからず、恐らくは通俗ならざるを恐れ、故に只此れにて妙極まれり。その痛切を説く処、又一味の俗語にては到り得ず。先ず誰か世事の此の如きを解せざらん、龍象の力有る者のみ方に放ち得るなり。）",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 我登场",
+          "original": "总收。",
+          "zh_modern": "总收。",
+          "en": "Summation.",
+          "ru": "Резюме.",
+          "ja": "総収。"
+        },
+        {
+          "type": "眉批",
+          "source": "甲戌本",
+          "position": "top margin, after 总收",
+          "original": "总收古今亿兆痴人，共历幻场，此幻事扰扰纷纷，无日可了。",
+          "zh_modern": "总收古今亿万痴人，共历幻场，此幻事扰扰纷纷，无日可了。",
+          "en": "Summing up billions of foolish people through all ages, all experiencing the stage of illusion; these illusory affairs are confused and tangled, with no end in sight.",
+          "ru": "Суммируя миллиарды глупцов всех времён, все переживающие сцену иллюзий; эти иллюзорные дела запутаны и переплетены, без конца в виду.",
+          "ja": "古今億兆の痴人を総収し、共に幻場を歴す、この幻事は擾々紛々として、了する日無し。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 是故乡",
+          "original": "太虚幻境青埂峰一并结住。",
+          "zh_modern": "太虚幻境青埂峰一并结住。",
+          "en": "The Land of Illusion and Greensickness Peak are tied together here.",
+          "ru": "Царство Иллюзий и Пик Зелёной Болезни связаны здесь воедино.",
+          "ja": "太虚幻境青埂峰を一併に結び住む。"
+        },
+        {
+          "type": "眉批",
+          "source": "甲戌本",
+          "position": "top margin, at end",
+          "original": "语虽旧句，用于此妥极是极。此等歌谣原不宜太雅，恐其不能通俗，故只此便妙极。其说得痛切处，又非一味俗语可到。先谁不解得世事如此，有龙象力者方能放得下。",
+          "zh_modern": "语虽旧句，用于此妥极是极。此等歌谣原不宜太雅，恐其不能通俗，故只此便妙极。其说得痛切处，又非一味俗语可到。先谁不解得世事如此，有龙象力者方能放得下。",
+          "en": "Though the phrase is old, using it here is most fitting. Such songs should not be too elegant, lest they fail to reach common folk; thus this is wonderful. Where it speaks most painfully, mere vulgar words cannot reach. Who does not understand the world is thus? Only those with great strength can truly let go.",
+          "ru": "Хотя фраза старая, использование её здесь наиболее уместно. Такие песни не должны быть слишком изящными, чтобы не быть непонятными простому народу; поэтому это прекрасно. Где говорится наиболее болезненно, простые вульгарные слова не могут достичь. Кто не понимает, что мир таков? Только те, у кого великая сила, могут по-настоящему отпустить.",
+          "ja": "語は旧句なれども、此処に用いては妥当至極なり。此等の歌謡は元より太雅に宜しからず、恐らくは通俗ならざるを恐れ、故に只此れにて妙極まれり。その痛切を説く処、又一味の俗語にては到り得ず。先ず誰か世事の此の如きを解せざらん、龍象の力有る者のみ方に放ち得るなり。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "pdf_page": 27,
+      "type": "prose",
+      "original": "那疯跛道人听了，拍掌笑道：\"解得切，解得切！\"士隐便笑一声\"走罢！\"甲戌如闻如见。甲戌\"走罢\"二字真悬崖撒手，若个能行？甲戌一转念间登彼岸。将道人肩上褡裢抢了过来背着，竟不回家，同了疯道人飘飘而去。",
+      "zh_modern": "那疯癫跛足道人听了，拍掌笑道：\"解得切，解得切！\"士隐便笑一声\"走吧！\"（如闻如见。\"走罢\"二字真是悬崖撒手，谁人能行？一转念间登彼岸。）便将道人肩上的褡裢抢了过来背着，竟然不回家，同了那疯道人飘飘而去。",
+      "en": "The mad, lame Taoist heard this, clapped his hands and laughed: 'Well interpreted, well interpreted!' Shiyin laughed and said: 'Let's go!' [As if one could hear and see it. The words 'Let's go' are truly like letting go at a cliff's edge—who could do this? In a single turning of thought, he reaches the other shore.] He then grabbed the Taoist's shoulder bag and slung it over his own back. Without returning home, he drifted away with the mad Taoist.",
+      "ru": "Безумный хромой даос услышал это, захлопал в ладоши и рассмеялся: «Прекрасно истолковано, прекрасно истолковано!» Шиинь засмеялся и сказал: «Пойдём!» [Как будто можно услышать и увидеть. Слова «Пойдём» — это поистине как отпустить на краю обрыва — кто мог бы это сделать? В один поворот мысли он достигает другого берега.] Затем он схватил сумку даоса с плеча и повесил её на себя. Не вернувшись домой, он уплыл прочь с безумным даосом.",
+      "ja": "その狂った跛足の道人はこれを聞いて、手を叩いて笑った：「解得切、解得切！」士隠はにっこり笑って「行こう！」と言った。（如く聞き如く見る。「走罷」の二字は真に懸崖撒手、誰か能く行わん？一念を転ずる間に彼岸に登る。）そして道人の肩の袋を奪い取って背負い、家に帰ることもなく、狂った道人と共に飄々と去っていった。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 走罢",
+          "original": "如闻如见。",
+          "zh_modern": "如闻如见。",
+          "en": "As if one could hear and see it.",
+          "ru": "Как будто можно услышать и увидеть.",
+          "ja": "如く聞き如く見る。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 如闻如见",
+          "original": "\"走罢\"二字真悬崖撒手，若个能行？",
+          "zh_modern": "\"走罢\"二字真是悬崖撒手，谁人能行？",
+          "en": "The words 'Let's go' are truly like letting go at a cliff's edge—who could do this?",
+          "ru": "Слова «Пойдём» — это поистине как отпустить на краю обрыва — кто мог бы это сделать?",
+          "ja": "「走罷」の二字は真に懸崖撒手、誰か能く行わん？"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 若个能行",
+          "original": "一转念间登彼岸。",
+          "zh_modern": "一转念间登彼岸。",
+          "en": "In a single turning of thought, he reaches the other shore.",
+          "ru": "В один поворот мысли он достигает другого берега.",
+          "ja": "一念を転ずる間に彼岸に登る。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "pdf_page": 27,
+      "type": "prose",
+      "original": "当下烘动街坊，众人当作一件新闻传说。封氏闻得此信，哭个死去活来，只得与父亲商议，遣人各处访寻，那讨音信？无奈何，少不得依靠着他父母度日。幸而身边还有两个旧日的丫鬟伏侍，主仆三人，日夜作些个针线发卖，帮着父亲用度。那封肃虽然日日抱怨，也无可奈何了。",
+      "zh_modern": "当下轰动了街坊，众人当作一件新闻传说。封氏听到这个消息，哭得死去活来，只好和父亲商议，派人四处寻访，但哪里有音讯？无奈之下，少不得依靠着父母度日。幸而身边还有两个以前的丫鬟伺候，主仆三人，日夜做些针线活发卖，帮衬着父亲的开销。那封肃虽然天天抱怨，也无可奈何了。",
+      "en": "This caused a sensation in the neighborhood, and everyone treated it as a piece of news to tell. When Madam Feng heard this news, she wept inconsolably. She had no choice but to discuss with her father and send people everywhere to search, but where could they find any news? Helpless, she had to depend on her parents to get by. Fortunately, she still had two former maidservants to attend her. The three of them, mistress and servants, worked day and night on needlework to sell, helping with her father's expenses. Though Feng Su complained daily, there was nothing he could do about it.",
+      "ru": "Это вызвало сенсацию в округе, и все передавали это как новость. Когда госпожа Фэн услышала эту новость, она безутешно рыдала. Ей ничего не оставалось, как обсудить с отцом и послать людей повсюду искать, но где они могли найти какие-либо вести? Беспомощная, она вынуждена была зависеть от родителей. К счастью, у неё ещё оставались две бывшие служанки, чтобы прислуживать ей. Втроём, госпожа и служанки, они работали день и ночь над рукоделием для продажи, помогая с расходами отца. Хотя Фэн Су ежедневно жаловался, он ничего не мог с этим поделать.",
+      "ja": "これは街坊を沸かせ、皆が新聞として伝え合った。封氏はこの知らせを聞いて、死んだり生き返ったりするほど泣いた。仕方なく父親と相談し、人を遣わしてあちこち探させたが、どこに消息があろうか。やむを得ず、両親に頼って暮らすしかなかった。幸い、傍にはまだ以前の丫鬟が二人いて仕えてくれた。主従三人で、日夜針仕事をして売り、父親の出費の足しにした。封肃は毎日愚痴を言っていたが、どうしようもなかった。",
+      "commentary": []
+    },
+    {
+      "id": 5,
+      "pdf_page": 27,
+      "type": "prose",
+      "original": "这日，那甄家的大丫鬟在门前买线，忽听得街上喝道之声，众人都说新太爷到任。丫鬟于是隐在门内看时，只见军牢快手，一对一对的过去，俄而大轿内抬着一个乌帽猩袍的官府过去。甲戌雨村别来无恙否？可贺可贺。甲戌所谓\"乱哄哄，你方唱罢我登场\"是也。丫鬟倒发了个忡，自思这官好面善，倒像在那里见过的。于是进入房中，也就丢过，不在心上。甲戌是无儿女之情，故有夫人之分。甲戌起初到底有心乎？无心乎？至晚间，正该歇息之时，忽听一片声打的门响，许多人乱嚷，说：\"本府太爷差人来传人问话。\"甲戌不忘情的先写出头一位来了。封肃听了，唬得目瞪口呆，",
+      "zh_modern": "这一天，那甄家的大丫鬟在门前买线，忽然听见街上有喝道之声，众人都说新太爷到任。丫鬟于是躲在门内看时，只见军牢快手，一对一对地过去，不一会儿大轿里抬着一个戴乌帽、穿猩红袍的官员过去。（雨村别来无恙否？可贺可贺。所谓\"乱哄哄，你方唱罢我登场\"是也。）丫鬟倒愣了一下，心想这官员好面熟，倒像在哪里见过似的。于是进入房中，也就忘了，没放在心上。（是无儿女之情，故有夫人之分。起初到底有心乎？无心乎？）到了晚间，正该歇息之时，忽然听见一片声响打门，许多人乱嚷，说：\"本府太爷差人来传人问话。\"（不忘情的先写出头一位来了。）封肃听了，吓得目瞪口呆，",
+      "en": "On this day, the head maidservant of the Zhen family was buying thread at the gate when she suddenly heard the sound of runners clearing the road. Everyone said the new magistrate had arrived to take up his post. The maidservant hid inside the gate to watch. She saw prison guards and runners passing by in pairs, and soon a large sedan chair bearing an official in a black cap and scarlet robe passed by. [Has Yucun been well since we parted? Congratulations, congratulations! This is what is meant by 'In chaotic clamor, you finish singing and I take the stage.'] The maidservant was startled, thinking that this official looked familiar—she seemed to have seen him somewhere before. She then went into the house and forgot about it, not taking it to heart. [Because she had no romantic feelings, she was destined to become his wife. Was there intention at first? Or not?] That evening, just when it was time to rest, she suddenly heard a loud knocking at the door, with many people shouting: 'The Prefecture Magistrate has sent someone to summon you for questioning.' [The one who did not forget his feelings is the first to be written about.] Feng Su heard this and was so frightened his eyes went wide and his mouth hung open,",
+      "ru": "В этот день старшая служанка семьи Чжэнь покупала нитки у ворот, когда вдруг услышала звук расчищающих дорогу бегунов. Все говорили, что новый магистрат прибыл вступить в должность. Служанка спряталась за воротами, чтобы посмотреть. Она видела, как тюремные охранники и бегуны проходили парами, и вскоре мимо проехал большой паланкин с чиновником в чёрной шапке и алом халате. [Был ли Юйцунь в добром здравии с нашей разлуки? Поздравления, поздравления! Вот что значит «В хаотичном гомоне ты заканчиваешь петь, и я выхожу на сцену».] Служанка была поражена, думая, что этот чиновник выглядит знакомо — она, казалось, видела его где-то раньше. Затем она вошла в дом и забыла об этом, не приняв близко к сердцу. [Поскольку у неё не было романтических чувств, ей суждено было стать его женой. Было ли намерение сначала? Или нет?] Тем вечером, когда пришло время отдыхать, она вдруг услышала громкий стук в дверь, множество людей кричали: «Магистрат префектуры послал кого-то вызвать вас для допроса». [Тот, кто не забыл своих чувств, первым о ком написано.] Фэн Су услышал это и так испугался, что глаза его расширились, а рот раскрылся,",
+      "ja": "この日、甄家の大丫鬟が門前で糸を買っていると、ふと街から喝道の声が聞こえ、皆が新しい太爷が着任したと言っていた。丫鬟は門の中に隠れて見ていると、軍牢や快手が対になって通り過ぎ、やがて大きな轎に乗った烏帽子に猩々袍の官吏が通り過ぎた。（雨村は別れてから無事であったか？めでたいめでたい。いわゆる「乱哄哄と汝歌い罢えて我登場す」とはこのことである。）丫鬟はふと驚いて、この官吏は顔見知りのような、どこかで見たことがあるような気がした。そして部屋に入り、忘れてしまい、気にも留めなかった。（児女の情が無いゆえに、夫人の分が有る。最初は心有りや？心無しや？）夕方、そろそろ休む時刻になって、突然ドンドンと門を叩く音がして、大勢の人が騒いで言った：「本府の太爷が人を遣わして問話に来た。」（情を忘れぬ者から先に書き出す。）封肃はこれを聞いて、びっくりして目を丸くし、",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 官府过去",
+          "original": "雨村别来无恙否？可贺可贺。",
+          "zh_modern": "雨村别来无恙否？可贺可贺。",
+          "en": "Has Yucun been well since we parted? Congratulations, congratulations!",
+          "ru": "Был ли Юйцунь в добром здравии с нашей разлуки? Поздравления, поздравления!",
+          "ja": "雨村は別れてから無事であったか？めでたいめでたい。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 可贺可贺",
+          "original": "所谓\"乱哄哄，你方唱罢我登场\"是也。",
+          "zh_modern": "所谓\"乱哄哄，你方唱罢我登场\"是也。",
+          "en": "This is what is meant by 'In chaotic clamor, you finish singing and I take the stage.'",
+          "ru": "Вот что значит «В хаотичном гомоне ты заканчиваешь петь, и я выхожу на сцену».",
+          "ja": "いわゆる「乱哄哄と汝歌い罢えて我登場す」とはこのことである。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 不在心上",
+          "original": "是无儿女之情，故有夫人之分。",
+          "zh_modern": "是无儿女之情，故有夫人之分。",
+          "en": "Because she had no romantic feelings, she was destined to become his wife.",
+          "ru": "Поскольку у неё не было романтических чувств, ей суждено было стать его женой.",
+          "ja": "児女の情が無いゆえに、夫人の分が有る。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 夫人之分",
+          "original": "起初到底有心乎？无心乎？",
+          "zh_modern": "起初到底有心乎？无心乎？",
+          "en": "Was there intention at first? Or not?",
+          "ru": "Было ли намерение сначала? Или нет?",
+          "ja": "最初は心有りや？心無しや？"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 传人问话",
+          "original": "不忘情的先写出头一位来了。",
+          "zh_modern": "不忘情的先写出头一位来了。",
+          "en": "The one who did not forget his feelings is the first to be written about.",
+          "ru": "Тот, кто не забыл своих чувств, первым о ком написано.",
+          "ja": "情を忘れぬ者から先に書き出す。"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "「纱帽」(official cap) - literally 'gauze cap', worn by officials; the line suggests greed for higher office leads to imprisonment",
+    "「紫蟒」(purple python robe) - ceremonial robe worn by high officials, suggesting sudden rise to prominence",
+    "「悬崖撒手」(letting go at a cliff's edge) - Buddhist metaphor for complete renunciation of worldly attachments",
+    "「彼岸」(the other shore) - Buddhist term for nirvana/enlightenment",
+    "「为他人作嫁衣裳」(making wedding clothes for others) - idiom meaning one's efforts benefit others, not oneself",
+    "「龙象力」(strength of dragons and elephants) - Buddhist term for immense spiritual power needed to achieve enlightenment",
+    "The commentary explicitly links back to the 好了歌: '乱哄哄你方唱罢我登场' is quoted when Jia Yucun arrives as magistrate",
+    "娇杏's fate fulfills the earlier foreshadowing - she who glanced back becomes Jia Yucun's wife"
+  ],
+  "research_notes": [
+    "The 好了歌注 concludes here with explicit character identifications",
+    "Zhen Shiyin's enlightenment and departure represents the Buddhist theme of renunciation",
+    "The narrative returns to 娇杏 (Jiaoxing), completing her story arc from earlier in the chapter",
+    "The commentary notes '无儿女之情，故有夫人之分' - her lack of romantic feeling paradoxically leads to becoming a wife"
+  ],
+  "characters_appearing": ["甄士隐", "跛足道人", "封氏", "封肃", "娇杏", "贾雨村"],
+  "characters_referenced": ["贾赦", "贾兰", "贾菌"],
+  "total_segments": 5,
+  "manuscript_sources_on_page": ["甲戌本"]
+}
