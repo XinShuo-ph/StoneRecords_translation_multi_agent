@@ -1,0 +1,258 @@
+{
+  "page": 6,
+  "chapter": "Front Matter",
+  "chapter_title": null,
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 6,
+      "type": "title",
+      "original": "红楼梦脂评汇校本目录",
+      "zh_modern": "红楼梦脂评汇校本目录",
+      "en": "Table of Contents",
+      "ru": "Оглавление",
+      "ja": "目次",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "pdf_page": 6,
+      "type": "prose",
+      "original": "脂砚斋重评石头记凡例",
+      "zh_modern": "脂砚斋重评石头记凡例",
+      "en": "General Principles of the Zhiyan Zhai Re-commented Story of the Stone",
+      "ru": "Основные принципы «Записок о камне» с повторными комментариями Чжияньчжая",
+      "ja": "脂硯斎重評石頭記凡例",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "pdf_page": 6,
+      "type": "toc_entry",
+      "original": "第 一 回 甄士隐梦幻识通灵 贾雨村风尘怀闺秀",
+      "zh_modern": "第一回 甄士隐梦幻识通灵 贾雨村风尘怀闺秀",
+      "en": "Chapter 1: Zhen Shiyin in a Dream Perceives the Spiritual Jade; Jia Yucun in the Red Dust Thinks of a Lady of the Chambers",
+      "ru": "Глава 1: Чжэнь Шиинь во сне постигает природу Волшебной Яшмы; Цзя Юйцунь в суете мира вспоминает о прекрасной деве",
+      "ja": "第一回 甄士隠夢幻に通霊を識り 賈雨村風塵に閨秀を懐う",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "pdf_page": 6,
+      "type": "toc_entry",
+      "original": "第 二 回 贾夫人仙逝扬州城 冷子兴演说荣国府",
+      "zh_modern": "第二回 贾夫人仙逝扬州城 冷子兴演说荣国府",
+      "en": "Chapter 2: Lady Jia Dies in the City of Yangzhou; Leng Zixing Discourses on the Rongguo Mansion",
+      "ru": "Глава 2: Госпожа Цзя отходит в мир иной в городе Янчжоу; Лэн Цзысин ведет рассказ о дворце Жунго",
+      "ja": "第二回 賈夫人仙逝して揚州城を去り 冷子興演説して栄国府を語る",
+      "commentary": []
+    },
+    {
+      "id": 5,
+      "pdf_page": 6,
+      "type": "toc_entry",
+      "original": "第 三 回 金陵城起复贾雨村 荣国府收养林黛玉",
+      "zh_modern": "第三回 金陵城起复贾雨村 荣国府收养林黛玉",
+      "en": "Chapter 3: Jia Yucun Is Restored to Office in Jinling City; Lin Daiyu Is Taken into the Rongguo Mansion",
+      "ru": "Глава 3: В городе Цзиньлин восстанавливают в должности Цзя Юйцуня; Во дворце Жунго приютят Линь Дайюй",
+      "ja": "第三回 金陵城に賈雨村を起復し 栄国府に林黛玉を収養す",
+      "commentary": []
+    },
+    {
+      "id": 6,
+      "pdf_page": 6,
+      "type": "toc_entry",
+      "original": "第 四 回 薄命女偏逢薄命郎 葫芦僧乱判葫芦案",
+      "zh_modern": "第四回 薄命女偏逢薄命郎 葫芦僧乱判葫芦案",
+      "en": "Chapter 4: An Ill-fated Girl Meets an Ill-fated Youth; A Muddle-headed Monk Settles a Muddled Case",
+      "ru": "Глава 4: Злосчастная дева встречает злосчастного юношу; Монах из тыквы-горлянки судит запутанное дело",
+      "ja": "第四回 薄命女偏に薄命郎に逢い 葫芦僧乱に葫芦案を判ず",
+      "commentary": []
+    },
+    {
+      "id": 7,
+      "pdf_page": 6,
+      "type": "toc_entry",
+      "original": "第 五 回 开生面梦演红楼梦 立新场情传幻境情",
+      "zh_modern": "第五回 开生面梦演红楼梦 立新场情传幻境情",
+      "en": "Chapter 5: Opening a New Vista, the Dream of the Red Chamber Is Performed; Establishing a New Stage, Passion Is Conveyed in the Illusory Realm",
+      "ru": "Глава 5: Открывая новые горизонты, во сне разыгрывается «Сон в красном тереме»; Утверждая новые порядки, в Иллюзорном мире передаются чувства",
+      "ja": "第五回 生面を開いて夢に紅楼夢を演じ 新場を立てて情は幻境の情を伝う",
+      "commentary": []
+    },
+    {
+      "id": 8,
+      "pdf_page": 6,
+      "type": "toc_entry",
+      "original": "第 六 回 贾宝玉初试云雨情 刘姥姥一进荣国府",
+      "zh_modern": "第六回 贾宝玉初试云雨情 刘姥姥一进荣国府",
+      "en": "Chapter 6: Jia Baoyu Tastes the First Fruits of Passion; Granny Liu Pays Her First Visit to the Rongguo Mansion",
+      "ru": "Глава 6: Цзя Баоюй впервые познает облака и дождь; Бабушка Лю впервые входит во дворец Жунго",
+      "ja": "第六回 賈宝玉初めて雲雨の情を試み 劉姥姥一たび栄国府に進む",
+      "commentary": []
+    },
+    {
+      "id": 9,
+      "pdf_page": 6,
+      "type": "toc_entry",
+      "original": "第 七 回 送宫花周瑞叹英莲 谈肄业秦钟结宝玉",
+      "zh_modern": "第七回 送宫花周瑞叹英莲 谈肄业秦钟结宝玉",
+      "en": "Chapter 7: Delivering Palace Flowers, Zhou Rui's Wife Sighs Over Yinglian; Discussing Studies, Qin Zhong Befriends Baoyu",
+      "ru": "Глава 7: Доставляя дворцовые цветы, Чжоу Жуй вздыхает о Инлянь; Обсуждая учебу, Цинь Чжун заводит дружбу с Баоюем",
+      "ja": "第七回 宮花を送りて周瑞英蓮を歎き 肄業を談じて秦鐘宝玉を結ぶ",
+      "commentary": []
+    },
+    {
+      "id": 10,
+      "pdf_page": 6,
+      "type": "toc_entry",
+      "original": "第 八 回 薛宝钗小恙梨香院 贾宝玉大醉绛芸轩",
+      "zh_modern": "第八回 薛宝钗小恙梨香院 贾宝玉大醉绛芸轩",
+      "en": "Chapter 8: Xue Baochai Suffers a Slight Illness in Pear Scent Court; Jia Baoyu Gets Thoroughly Drunk in Crimson Rue Study",
+      "ru": "Глава 8: Сюэ Баочай слегка нездоровится в Дворике аромата груш; Цзя Баоюй сильно пьян в Кабинете алой руты",
+      "ja": "第八回 薛宝釵梨香院に小恙あり 賈宝玉絳芸軒に大酔す",
+      "commentary": []
+    },
+    {
+      "id": 11,
+      "pdf_page": 6,
+      "type": "toc_entry",
+      "original": "第 九 回 恋风流情友入家塾 起嫌疑顽童闹学堂",
+      "zh_modern": "第九回 恋风流情友入家塾 起嫌疑顽童闹学堂",
+      "en": "Chapter 9: Attached to Romantic Friendship, Two Youths Enter the Family School; Suspecting Evil, Mischievous Boys Raise a Ruckus in the Schoolroom",
+      "ru": "Глава 9: Предаваясь романтической дружбе, приятели поступают в домашнюю школу; Из-за подозрений озорники устраивают переполох в классе",
+      "ja": "第九回 風流を恋いて情友家塾に入り 嫌疑を起こして頑童学堂を騒がす",
+      "commentary": []
+    },
+    {
+      "id": 12,
+      "pdf_page": 6,
+      "type": "toc_entry",
+      "original": "第 十 回 金寡妇贪利权受辱 张太医论病细穷源",
+      "zh_modern": "第十回 金寡妇贪利权受辱 张太医论病细穷源",
+      "en": "Chapter 10: Widow Jin, Greedily Seeking Gain, Suffers Humiliation; Doctor Zhang, Discussing Illness, Minutely Examines the Cause",
+      "ru": "Глава 10: Вдова Цзинь, погнавшись за выгодой, терпит унижение; Лекарь Чжан, обсуждая болезнь, тщательно исследует ее истоки",
+      "ja": "第十回 金寡婦利を貪りて権（かり）に辱めを受け 張太医病を論じて細（つぶさ）に源を窮む",
+      "commentary": []
+    },
+    {
+      "id": 13,
+      "pdf_page": 6,
+      "type": "toc_entry",
+      "original": "第 十一 回 庆寿辰宁府排家宴 见熙凤贾瑞起淫心",
+      "zh_modern": "第十一回 庆寿辰宁府排家宴 见熙凤贾瑞起淫心",
+      "en": "Chapter 11: Celebrating a Birthday, the Ningguo Mansion Arranges a Family Banquet; Meeting Xifeng, Jia Rui Conceives Lustful Thoughts",
+      "ru": "Глава 11: Празднуя день рождения, во дворце Нинго устраивают семейный пир; Встретив Сифэн, Цзя Жуй воспылал похотью",
+      "ja": "第十一回 寿辰を慶して寧府家宴を排し 熙鳳を見て賈瑞淫心を起こす",
+      "commentary": []
+    },
+    {
+      "id": 14,
+      "pdf_page": 6,
+      "type": "toc_entry",
+      "original": "第 十二 回 王熙凤毒设相思局 贾天祥正照风月鉴",
+      "zh_modern": "第十二回 王熙凤毒设相思局 贾天祥正照风月鉴",
+      "en": "Chapter 12: Wang Xifeng Venomously Sets a Trap of Lovesickness; Jia Tianxiang Looks into the Mirror of Romance",
+      "ru": "Глава 12: Ван Сифэн коварно расставляет сети любовной тоски; Цзя Тяньсян смотрится в Зеркало ветра и луны",
+      "ja": "第十二回 王熙鳳毒して相思局を設け 賈天祥正に風月鑑を照らす",
+      "commentary": []
+    },
+    {
+      "id": 15,
+      "pdf_page": 6,
+      "type": "toc_entry",
+      "original": "第 十三 回 秦可卿死封龙禁尉 王熙凤协理宁国府",
+      "zh_modern": "第十三回 秦可卿死封龙禁尉 王熙凤协理宁国府",
+      "en": "Chapter 13: Qin Keqing Dies, and a Dragon Guard Captaincy Is Bestowed; Wang Xifeng Helps Manage the Ningguo Mansion",
+      "ru": "Глава 13: Цинь Кэцин умирает, и пожалован титул капитана Драконьей стражи; Ван Сифэн помогает управлять дворцом Нинго",
+      "ja": "第十三回 秦可卿死して竜禁尉を封ぜられ 王熙鳳寧国府を協理す",
+      "commentary": []
+    },
+    {
+      "id": 16,
+      "pdf_page": 6,
+      "type": "toc_entry",
+      "original": "第 十四 回 林如海捐馆扬州城 贾宝玉路谒北静王",
+      "zh_modern": "第十四回 林如海捐馆扬州城 贾宝玉路谒北静王",
+      "en": "Chapter 14: Lin Ruhai Passes Away in Yangzhou City; Jia Baoyu Pays Respects to the Prince of Beijing on the Road",
+      "ru": "Глава 14: Линь Жухай скончался в городе Янчжоу; Цзя Баоюй по дороге приветствует князя Бэйцзина",
+      "ja": "第十四回 林如海館を捐（す）てて揚州城に死し 賈宝玉路に北静王に謁す",
+      "commentary": []
+    },
+    {
+      "id": 17,
+      "pdf_page": 6,
+      "type": "toc_entry",
+      "original": "第 十五 回 王熙凤弄权铁槛寺 秦鲸卿得趣馒头庵",
+      "zh_modern": "第十五回 王熙凤弄权铁槛寺 秦鲸卿得趣馒头庵",
+      "en": "Chapter 15: Wang Xifeng Abuses Her Power at Iron Threshold Temple; Qin Jingqing Finds Amusement at Steamed Bun Nunnery",
+      "ru": "Глава 15: Ван Сифэн злоупотребляет властью в храме Железного порога; Цинь Цзинцин развлекается в монастыре Маньтоу",
+      "ja": "第十五回 王熙鳳権を弄して鉄檻寺にあり 秦鯨卿趣を得て饅頭庵にあり",
+      "commentary": []
+    },
+    {
+      "id": 18,
+      "pdf_page": 6,
+      "type": "toc_entry",
+      "original": "第 十六 回 贾元春才选凤藻宫 秦鲸卿夭逝黄泉路",
+      "zh_modern": "第十六回 贾元春才选凤藻宫 秦鲸卿夭逝黄泉路",
+      "en": "Chapter 16: Jia Yuanchun Is Selected for Her Talent to Phoenix Herb Palace; Qin Jingqing Dies Prematurely on the Road to the Yellow Springs",
+      "ru": "Глава 16: Цзя Юаньчунь избрана за таланты во дворец Фэнцзао; Цинь Цзинцин безвременно уходит на дорогу Желтых источников",
+      "ja": "第十六回 賈元春才をもって鳳藻宮に選ばれ 秦鯨卿夭逝して黄泉路にあり",
+      "commentary": []
+    },
+    {
+      "id": 19,
+      "pdf_page": 6,
+      "type": "toc_entry",
+      "original": "第 十七 回 大观园试才题对额 荣国府归省庆元宵",
+      "zh_modern": "第十七回 大观园试才题对额 荣国府归省庆元宵",
+      "en": "Chapter 17: In Grand View Garden, Talent Is Tested by Composing Couplets; At Rongguo Mansion, the Homecoming Is Celebrated on Lantern Festival",
+      "ru": "Глава 17: В Саду Роскошных Зрелищ испытывают таланты, сочиняя парные надписи; Во дворце Жунго празднуют визит домой в Праздник фонарей",
+      "ja": "第十七回 大観園才を試みて対額を題し 栄国府帰省して元宵を慶す",
+      "commentary": []
+    },
+    {
+      "id": 20,
+      "pdf_page": 6,
+      "type": "toc_entry",
+      "original": "第 十八 回 大观园试才题对额 荣国府归省庆元宵（续）",
+      "zh_modern": "第十八回 大观园试才题对额 荣国府归省庆元宵（续）",
+      "en": "Chapter 18: In Grand View Garden, Talent Is Tested by Composing Couplets; At Rongguo Mansion, the Homecoming Is Celebrated on Lantern Festival (Continued)",
+      "ru": "Глава 18: В Саду Роскошных Зрелищ испытывают таланты, сочиняя парные надписи; Во дворце Жунго празднуют визит домой в Праздник фонарей (Продолжение)",
+      "ja": "第十八回 大観園才を試みて対額を題し 栄国府帰省して元宵を慶す（続）",
+      "commentary": []
+    },
+    {
+      "id": 21,
+      "pdf_page": 6,
+      "type": "toc_entry",
+      "original": "第 十九 回 情切切良宵花解语 意绵绵静日玉生香",
+      "zh_modern": "第十九回 情切切良宵花解语 意绵绵静日玉生香",
+      "en": "Chapter 19: Deep in Love, on a Fine Night the Flower Understands Speech; Soft in Thoughts, on a Quiet Day the Jade Generates Fragrance",
+      "ru": "Глава 19: В глубокой любви, прекрасной ночью цветок понимает речь; В нежных думах, тихим днем яшма источает аромат",
+      "ja": "第十九回 情切切として良宵花語を解し 意綿綿として静日玉香を生ず",
+      "commentary": []
+    },
+    {
+      "id": 22,
+      "pdf_page": 6,
+      "type": "toc_entry",
+      "original": "第 二十 回 王熙凤正言弹妒意 林黛玉俏语谑娇音",
+      "zh_modern": "第二十回 王熙凤正言弹妒意 林黛玉俏语谑娇音",
+      "en": "Chapter 20: Wang Xifeng with Stern Words Rebukes Jealousy; Lin Daiyu with Witty Remarks Mocks a Charming Voice",
+      "ru": "Глава 20: Ван Сифэн прямыми словами обличает ревность; Линь Дайюй остроумными речами подшучивает над жеманным голосом",
+      "ja": "第二十回 王熙鳳正言して妬意を弾じ 林黛玉俏語して嬌音を虐（からか）う",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "This page is the Table of Contents for Chapters 1-20.",
+    "Chapter 17 and 18 share the same title, with Chapter 18 marked as 'Continued' (续), reflecting the textual history where these were sometimes combined."
+  ],
+  "research_notes": [],
+  "characters_appearing": [],
+  "total_segments": 22,
+  "manuscript_sources_on_page": []
+}
