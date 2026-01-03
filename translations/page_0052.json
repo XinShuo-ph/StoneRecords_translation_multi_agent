@@ -1,0 +1,200 @@
+{
+  "page": 52,
+  "chapter": "第三回",
+  "chapter_title": {
+    "original": "金陵城起复贾雨村 荣国府收养林黛玉",
+    "zh_modern": "金陵城里贾雨村被起用复职，荣国府收养林黛玉",
+    "en": "Jia Yucun Is Reinstated in Jinling; Rong-guo House Takes In Lin Daiyu",
+    "ru": "Цзя Юйцунь восстановлен в должности в Цзиньлине; Дом Жунго принимает Линь Дайюй",
+    "ja": "金陵城にて賈雨村起復し、栄国府にて林黛玉を収養す"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "都垂手侍立。王夫人遂携黛玉穿过一个东西穿堂，便是贾母的后院了。于是，进入后房门，已有多人在此伺候，见王夫人来了，方安设桌椅。贾珠之妻李氏捧饭，熙凤安箸，王夫人进羹。贾母正面榻上独坐，两边四张空椅，熙凤忙拉了黛玉在左边第一张椅上坐了，黛玉十分推让。贾母笑道：「你舅母和嫂子们不在这里吃饭。你是客，原应如此坐的。」黛玉方告了座，坐了。贾母命王夫人坐了。迎春姊妹三个告了座，方上来。迎春便坐右手第一，探春左第二，惜春右第二。",
+      "zh_modern": "都垂手侍立。王夫人于是携着黛玉穿过一个东西穿堂，便是贾母的后院了。于是，进入后房门，已有多人在此伺候，见王夫人来了，才安设桌椅。贾珠的妻子李氏捧饭，熙凤安放筷子，王夫人进羹。贾母正面榻上独坐，两边四张空椅，熙凤忙拉了黛玉在左边第一张椅上坐了，黛玉十分推让。贾母笑着说：「你舅母和嫂子们不在这里吃饭。你是客人，原本应该如此坐的。」黛玉才告了座，坐了。贾母命王夫人坐了。迎春姐妹三个告了座，才上来。迎春便坐右手第一，探春左第二，惜春右第二。",
+      "en": "All stood respectfully with hands at their sides. Lady Wang then led Daiyu through an east-west passageway, and they arrived at Grandmother Jia's rear courtyard. Entering through the rear door, there were already many people waiting in attendance; seeing Lady Wang arrive, they set up the tables and chairs. Jia Zhu's wife Li Wan served the rice, Xifeng placed the chopsticks, and Lady Wang served the soup. Grandmother Jia sat alone on the central couch, with four empty chairs on either side. Xifeng hurriedly pulled Daiyu to sit in the first chair on the left, but Daiyu declined modestly. Grandmother Jia smiled and said: 'Your aunts and sisters-in-law don't eat here. You are a guest, so you should naturally sit there.' Only then did Daiyu take her seat. Grandmother Jia ordered Lady Wang to sit. The three sisters Yingchun then asked permission before coming forward. Yingchun sat in the first seat on the right, Tanchun second on the left, and Xichun second on the right.",
+      "ru": "Все стояли почтительно со сложенными руками. Госпожа Ван затем провела Дайюй через проход с востока на запад, и они прибыли на задний двор бабушки Цзя. Войдя через заднюю дверь, там уже было много людей, ожидающих прислуживать; увидев госпожу Ван, они расставили столы и стулья. Жена Цзя Чжу Ли Вань подала рис, Сифэн положила палочки, а госпожа Ван подала суп. Бабушка Цзя сидела одна на центральной кушетке с четырьмя пустыми стульями по обеим сторонам. Сифэн поспешно усадила Дайюй на первый стул слева, но Дайюй скромно отказалась. Бабушка Цзя улыбнулась и сказала: «Твои тёти и невестки не едят здесь. Ты гостья, так что тебе естественно сидеть там.» Только тогда Дайюй заняла своё место. Бабушка Цзя приказала госпоже Ван сесть. Три сестры Инчунь затем попросили разрешения, прежде чем выйти вперёд. Инчунь села на первое место справа, Таньчунь на второе слева, а Сичунь на второе справа.",
+      "ja": "都垂手して侍立す。王夫人遂に黛玉を携えて一個の東西穿堂を穿ち過ぎれば、便ち賈母の後院なり。是に於て、後房門に進入すれば、已に多人此に在りて伺候す、王夫人の来るを見て、方に桌椅を安設す。賈珠の妻李氏飯を捧げ、熙鳳箸を安じ、王夫人羹を進む。賈母正面の榻上に独坐す、両辺四張の空椅あり、熙鳳忙しく黛玉を拉して左辺第一張の椅上に坐せしむ、黛玉十分推讓す。賈母笑いて道う：「汝の舅母と嫂子等此処に在りて吃飯せず。汝は客なり、原より応に此の如く坐すべきなり。」黛玉方に座を告し、坐せり。賈母王夫人をして坐らしむ。迎春姊妹三個座を告して、方に上り来る。迎春便ち右手第一に坐し、探春左第二、惜春右第二なり。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 东西穿堂",
+          "original": "这正是贾母正室后之穿堂也，与前穿堂是一带之屋，中一带乃贾母之下室也。记清。",
+          "zh_modern": "这正是贾母正室后的穿堂，与前穿堂是一带的房屋，中间一带是贾母的下室。记清楚。",
+          "en": "This is indeed the passageway behind Grandmother Jia's main room; it connects with the front passageway as one row of buildings, with the middle section being Grandmother Jia's lower chambers. Remember this clearly.",
+          "ru": "Это действительно проход за главной комнатой бабушки Цзя; он соединяется с передним проходом как один ряд зданий, со средней частью, являющейся нижними покоями бабушки Цзя. Запомните это чётко.",
+          "ja": "這れ正に賈母正室後の穿堂なり、前穿堂と是れ一帯の屋にして、中一帯乃ち賈母の下室なり。記清せよ。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 方安设桌椅",
+          "original": "不是待王夫人用膳，是恐彼王夫人有失侍膳之礼耳。",
+          "zh_modern": "不是等待王夫人用膳，是怕王夫人失了侍膳的礼节。",
+          "en": "This is not waiting for Lady Wang to dine, but rather fearing that Lady Wang might miss her duty of attending to the meal service.",
+          "ru": "Это не ожидание того, что госпожа Ван будет обедать, а скорее опасение, что госпожа Ван может упустить свой долг прислуживать за едой.",
+          "ja": "王夫人の用膳を待つに非ず、彼の王夫人の侍膳の礼を失うを恐るるのみ。"
+        },
+        {
+          "type": "夹批",
+          "source": "脂砚斋",
+          "position": "inline, after 贾珠之妻李氏捧饭",
+          "original": "大人家规矩礼法。",
+          "zh_modern": "大人家的规矩礼法。",
+          "en": "The rules and etiquette of a great household.",
+          "ru": "Правила и этикет большого дома.",
+          "ja": "大人家の規矩礼法なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 一丝不错",
+          "original": "写得清，一丝不错。",
+          "zh_modern": "写得清楚，一丝不差。",
+          "en": "Written clearly, without the slightest error.",
+          "ru": "Написано чётко, без малейшей ошибки.",
+          "ja": "写すこと清し、一糸も錯わず。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "旁边丫鬟执着拂尘、漱盂、巾帕。李、凤二人立于案旁布让。外间伺候之媳妇丫鬟虽多，却连一声咳嗽不闻。寂然饭毕，各有丫鬟用小茶盘捧上茶来。当日林如海教女以惜福养身，云饭后务待饭粒咽尽，过一时再吃茶，方不伤脾胃。今黛玉见了这里许多事情不合家中之式，不得不随的，少不得一一的改过来，因而接了茶。早见人又捧过漱盂来，黛玉也照样漱了口。然后盥手毕，又捧上茶来，方是吃的茶。",
+      "zh_modern": "旁边的丫鬟拿着拂尘、漱盂、巾帕。李纨、凤姐二人立于案旁布让。外间伺候的媳妇丫鬟虽然很多，却连一声咳嗽都听不到。静悄悄地吃完了饭，各有丫鬟用小茶盘捧上茶来。当日林如海教导女儿以惜福养身，说饭后一定要等饭粒咽尽，过一会儿再喝茶，才不伤脾胃。今天黛玉见了这里许多事情不合家中的习惯，不得不随从的，少不得一一地改过来，因而接了茶。早看见有人又捧过漱盂来，黛玉也照样漱了口。然后洗了手毕，又捧上茶来，这才是喝的茶。",
+      "en": "Beside them stood maids holding dusters, rinse basins, and hand towels. Li Wan and Xifeng stood by the table serving. Though there were many servant women and maids attending outside, not even a single cough was heard. When the silent meal was finished, maids brought tea on small trays. In the past, Lin Ruhai had taught his daughter to cherish blessings and nurture her health, saying that after meals one must wait until all the rice is swallowed, then wait a while before drinking tea, so as not to harm the spleen and stomach. Today Daiyu saw that many things here did not match her family's ways, and since she had no choice but to follow along, she would have to change her habits one by one, so she accepted the tea. Soon she saw someone bring over a rinse basin, and Daiyu likewise rinsed her mouth. Then after washing her hands, tea was served again—this was the tea for actual drinking.",
+      "ru": "Рядом с ними стояли служанки с метёлками, ополаскивающими тазами и полотенцами. Ли Вань и Сифэн стояли у стола, прислуживая. Хотя снаружи было много служанок и прислужниц, не было слышно даже кашля. Когда тихая трапеза закончилась, служанки принесли чай на маленьких подносах. В прошлом Линь Жухай учил свою дочь беречь благословения и заботиться о здоровье, говоря, что после еды нужно подождать, пока весь рис проглочен, затем подождать некоторое время перед тем, как пить чай, чтобы не навредить селезёнке и желудку. Сегодня Дайюй увидела, что многое здесь не соответствует обычаям её семьи, и поскольку у неё не было выбора, кроме как следовать, ей придётся менять свои привычки одну за другой, поэтому она приняла чай. Вскоре она увидела, как кто-то принёс ополаскивающий таз, и Дайюй также прополоскала рот. Затем, после мытья рук, снова подали чай — это был чай для питья.",
+      "ja": "旁辺の丫鬟拂塵、漱盂、巾帕を執る。李、鳳二人案旁に立ちて布讓す。外間に伺候する媳婦丫鬟多しと雖も、却って連に一声の咳嗽も聞えず。寂然として飯畢り、各丫鬟有りて小茶盤を用いて茶を捧上し来る。当日林如海女を教えるに惜福養身を以てし、云く飯後務めて飯粒咽尽するを待ち、一時を過ぎて再び茶を吃すれば、方に脾胃を傷つけずと。今黛玉此処の許多の事情の家中の式に合わざるを見、随わざるを得ざれば、一一改め過ぐること少なきを得ず、因りて茶を接す。早く人の又漱盂を捧げ過ぎ来るを見、黛玉も照様に口を漱ぐ。然る後盥手畢り、又茶を捧上し来る、方に是れ吃すの茶なり。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂砚斋",
+          "position": "inline, after 当日林如海教女以惜福养身",
+          "original": "作者非身履其境过，不能如此细密完足。",
+          "zh_modern": "作者如非亲身经历过，不能写得如此细密完足。",
+          "en": "If the author had not personally experienced this environment, he could not have written so meticulously and completely.",
+          "ru": "Если бы автор лично не пережил эту обстановку, он не смог бы написать так тщательно и полно.",
+          "ja": "作者身を其の境に履み過ぐるに非ざれば、能く此の如く細密完足ならず。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 方不伤脾胃",
+          "original": "夹写如海一派书气，最妙！",
+          "zh_modern": "夹带着写出林如海一派书卷气，最妙！",
+          "en": "Inserting a description of Lin Ruhai's scholarly manner—most wonderful!",
+          "ru": "Вставляя описание учёной манеры Линь Жухая — превосходно!",
+          "ja": "夾みて如海一派の書気を写す、最妙なり！"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "贾母便说：「你们去罢，让我们自在说话儿。」王夫人听了，忙起身，又说了两句闲话，方引李、凤二人去了。贾母因问黛玉念何书。黛玉道：「只刚念了《四书》。」贾母又问姊妹们读何书。黛玉道：「读的是什么书，不过是认得两个字，不是睁眼的瞎子罢了！」",
+      "zh_modern": "贾母便说：「你们去吧，让我们自在地说话儿。」王夫人听了，忙起身，又说了两句闲话，才引着李纨、凤姐二人去了。贾母因而问黛玉念什么书。黛玉道：「只刚念了《四书》。」贾母又问姐妹们读什么书。黛玉道：「读的是什么书，不过是认得两个字，不是睁眼的瞎子罢了！」",
+      "en": "Grandmother Jia then said: 'You may all leave now; let us talk freely.' Hearing this, Lady Wang quickly rose, exchanged a few casual words, and then led Li Wan and Xifeng away. Grandmother Jia then asked Daiyu what books she had studied. Daiyu said: 'I have just been reading the Four Books.' Grandmother Jia then asked what books her sisters were reading. Daiyu said: 'What books have I read? I merely know a few characters—at least I'm not a blind person with open eyes!'",
+      "ru": "Бабушка Цзя затем сказала: «Вы можете уйти; давайте поговорим свободно.» Услышав это, госпожа Ван быстро встала, обменялась несколькими словами и затем увела Ли Вань и Сифэн. Бабушка Цзя затем спросила Дайюй, какие книги она изучала. Дайюй сказала: «Я только что читала Четырёхкнижие.» Бабушка Цзя затем спросила, какие книги читают её сёстры. Дайюй сказала: «Какие книги я читала? Я просто знаю несколько иероглифов — по крайней мере, я не слепая с открытыми глазами!»",
+      "ja": "賈母便ち説う：「汝等去れ、我等をして自在に話を説かしめよ。」王夫人聴き了りて、忙しく起身し、又両句の閑話を説き、方に李、鳳二人を引きて去れり。賈母因りて黛玉に何の書を念ずるやを問う。黛玉道う：「只刚に《四書》を念じ了れり。」賈母又姊妹等の何の書を讀むやを問う。黛玉道う：「讀むは是れ什麼の書、過ぐること両個の字を認め得るのみ、是れ睜眼の瞎子に非ざるのみ！」",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 只刚念了四书",
+          "original": "好极！禅宗专用「腹隐五车书」者来看。",
+          "zh_modern": "好极了！禅宗专用「腹隐五车书」的人来看看。",
+          "en": "Excellent! Let those Zen scholars who pride themselves on 'hiding five cart-loads of books in their bellies' come see this.",
+          "ru": "Отлично! Пусть те дзен-учёные, которые гордятся «сокрытием пяти телег книг в животе», придут посмотреть на это.",
+          "ja": "好極なり！禅宗専ら「腹に五車の書を隠す」者来りて看よ。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 总写黛玉以后之事",
+          "original": "故只以此一件小事略为一表也。今看至此，故想日前所闘「王教初尚公主，登即时不知蒙养用来，教辅取而咏之，早为官人耶谓多矣」。今黛玉若不漱此茶，或饮一口，不为荣婿所讪乎？观此则知黛玉平生之心思过人。",
+          "zh_modern": "所以只以此一件小事略作表述。今看到此处，便想起日前所闘「王教初尚公主」......今黛玉若不漱此茶，或饮一口，不被荣府人所讥笑吗？观此则知黛玉平生心思过人。",
+          "en": "So this one small matter is briefly presented as an example. Reading to this point now, one thinks of what was said before... If Daiyu had not rinsed with this tea, or had drunk a sip, would she not have been mocked by the Rong household? Observing this, one knows that Daiyu's mind has always been extraordinary.",
+          "ru": "Так что этот один маленький случай кратко представлен как пример. Читая до этого места, вспоминается, что было сказано раньше... Если бы Дайюй не прополоскала рот этим чаем или выпила глоток, разве над ней не посмеялись бы в доме Жун? Наблюдая это, понимаешь, что ум Дайюй всегда был необыкновенным.",
+          "ja": "故に只此の一件の小事を以て略ぼ一表と為すなり。今此に看至りて、故に日前の闘う所「王教初め公主を尚す」......今黛玉若し此の茶を漱がず、或は一口を飲めば、荣婿に讪われざるか？此を観れば則ち黛玉平生の心思人に過ぎるを知る。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "一语未了，只听院外一阵脚步响，丫鬟进来笑道：「宝玉来了！」黛玉心中",
+      "zh_modern": "一句话还没说完，只听院外一阵脚步响，丫鬟进来笑着说：「宝玉来了！」黛玉心中",
+      "en": "Before she had finished speaking, footsteps were heard from outside the courtyard. A maid came in smiling and announced: 'Baoyu has arrived!' In Daiyu's heart—",
+      "ru": "Не успела она договорить, как со двора послышались шаги. Служанка вошла с улыбкой и объявила: «Баоюй прибыл!» В сердце Дайюй—",
+      "ja": "一語未だ了らず、只院外に一陣の脚步の響くを聴き、丫鬟進み来りて笑いて道う：「寶玉来れり！」黛玉心中",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 宝玉来了",
+          "original": "与阿凤之来相映而不相犯。",
+          "zh_modern": "与阿凤之来相映而不相犯。",
+          "en": "This contrasts with Xifeng's entrance, echoing but not duplicating it.",
+          "ru": "Это контрастирует с появлением Сифэн, перекликаясь, но не повторяя его.",
+          "ja": "阿鳳の来ると相映じて相犯さず。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 宝玉来了",
+          "original": "余为一乐。",
+          "zh_modern": "我为此感到一乐。",
+          "en": "I find joy in this.",
+          "ru": "Я нахожу радость в этом.",
+          "ja": "余一楽と為す。"
+        },
+        {
+          "type": "夹批",
+          "source": "脂砚斋",
+          "position": "inline, after 黛玉心中",
+          "original": "形容出妓养神。",
+          "zh_modern": "形容出其养神。",
+          "en": "Describing her inner composure.",
+          "ru": "Описывая её внутреннее спокойствие.",
+          "ja": "形容して妓養神を出す。"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "This page builds up to Baoyu's first appearance - one of the most anticipated moments in the novel",
+    "The meal scene shows the strict hierarchy and etiquette of the Jia household",
+    "Daiyu's adaptation to different customs (the tea-rinsing ritual) shows her intelligence and adaptability",
+    "Her father Lin Ruhai's health teachings contrast with the Jia household's customs",
+    "Daiyu's modest answer about her education (只刚念了《四书》 - just read the Four Books) shows her humility",
+    "Her self-deprecating reply about 'not being a blind person with open eyes' is typical of her wit",
+    "The commentary notes that Baoyu's entrance mirrors but does not repeat Xifeng's dramatic entrance",
+    "《四书》(Four Books) refers to the Confucian classics: Great Learning, Doctrine of the Mean, Analerta, and Mencius"
+  ],
+  "research_notes": [
+    "The elaborate tea ritual (first for rinsing, then for drinking) was standard practice in aristocratic households",
+    "拂尘 (fúchén) - a duster, used for ceremonial purposes in wealthy households",
+    "漱盂 (shùyú) - rinse basin for mouth rinsing after meals",
+    "The seating arrangement reflects strict hierarchical order: Grandmother Jia at center, guests on the left (place of honor)",
+    "林如海's health advice about waiting before drinking tea after meals reflects traditional Chinese medicine principles",
+    "The phrase '睁眼的瞎子' (blind person with open eyes) means an illiterate person",
+    "Daiyu's immediate observation and adaptation shows her acute awareness of her precarious position as a dependent relative"
+  ],
+  "characters_appearing": [
+    "林黛玉 (Lin Daiyu)",
+    "贾母 (Grandmother Jia)",
+    "王夫人 (Lady Wang)",
+    "王熙凤 (Wang Xifeng)",
+    "李纨 (Li Wan)",
+    "贾迎春 (Jia Yingchun)",
+    "贾探春 (Jia Tanchun)",
+    "贾惜春 (Jia Xichun)",
+    "贾宝玉 (Jia Baoyu - announced but not yet appearing)"
+  ],
+  "total_segments": 4,
+  "manuscript_sources_on_page": ["甲戌本", "脂砚斋"]
+}
