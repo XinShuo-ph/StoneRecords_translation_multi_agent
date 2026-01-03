@@ -1,0 +1,95 @@
+{
+  "page": 61,
+  "chapter": "第四回",
+  "chapter_title": {
+    "original": "薄命女偏逢薄命郎 葫芦僧乱判葫芦案",
+    "zh_modern": "薄命女偏逢薄命郎，葫芦僧胡乱判断葫芦案",
+    "en": "The Ill-Fated Girl by Chance Meets an Ill-Fated Man; The Monk from the Gourd Temple Judgmentally Settles the Gourd Case",
+    "ru": "Несчастная дева встречает несчастного юношу; Монах из тыквы судит дело о тыкве",
+    "ja": "薄命の女は偏（ひとえ）に薄命の郎（おとこ）に逢い、葫芦（ころ）の僧は乱りに葫芦の案を判ず"
+  },
+  "page_content_type": "prose",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 61,
+      "type": "prose",
+      "original": "门子递过一张纸来。雨村接来看时，上面写着“护官符”三字。",
+      "zh_modern": "门子递过一张纸来。雨村接过来一看，上面写着“护官符”三个字。",
+      "en": "The attendant handed over a piece of paper. Yucun took it and looked; on it were written the three characters \"Protective Talisman.\"",
+      "ru": "Привратник передал ему листок бумаги. Юйцунь взял его и увидел написанные на нем три иероглифа: «Охранная грамота чиновника».",
+      "ja": "門子は一枚の紙を递（わた）し来た。雨村が接（う）け取りて看る時、上面に「護官符」の三字を書いていた。"
+    },
+    {
+      "id": 2,
+      "pdf_page": 61,
+      "type": "poem",
+      "original": "下面写着：\n贾不假，白玉为堂金作马。（宁国、荣国二公之后，共二十房分，除宁、荣亲派八房在都外，现原籍住者十二房。）\n阿房宫，三百里，住不下金陵一个史。（保龄侯尚书令史公之后，房分共十八，都中现住者十房，原籍现居八房。）\n东海缺少白玉床，龙王来请金陵王。（都太尉统制县伯王公之后，共十二房，都中二房，余在籍。）\n丰年好大雪，珍珠如土金如铁。（紫薇舍人薛公之后，现领内府帑银行商，共八房分。）",
+      "zh_modern": "下面写着：\n贾家不假，白玉做堂金做马。（宁国公、荣国公两家的后代，共二十房分支，除了宁、荣二公的亲派八房在京城外，现在原籍居住的有十二房。）\n阿房宫，三百里长，也住不下金陵的一个史家。（保龄侯尚书令史公的后代，分支共十八房，在京城居住的有十房，原籍居住的有八房。）\n东海龙王缺少白玉床，都要来请金陵的王家。（都太尉统制县伯王公的后代，共十二房，在京城的有二房，其余在原籍。）\n丰收年景好大雪（薛），珍珠如土金如铁。（紫薇舍人薛公的后代，现领内务府库银的皇商，共八房分支。）",
+      "en": "Below was written:\nThe Jia are not 'jia' [false]; white jade forms their hall, of gold their horse.\n(Descendants of the Dukes of Ningguo and Rongguo. Twenty branches in all. Aside from the eight branches of the direct Ning and Rong lines in the capital, twelve branches currently reside in their ancestral home.)\n\nThe Efang Palace, three hundred li, cannot hold a single Jinling Shi.\n(Descendants of Duke Shi, the Marquis of Baoling and Director of the Department of State Affairs. Eighteen branches in all. Ten branches currently reside in the capital, eight in their ancestral home.)\n\nThe Eastern Ocean lacks a white jade bed; the Dragon King comes to invite the Jinling Wang.\n(Descendants of Duke Wang, the Commander-in-Chief and Count. Twelve branches in all. Two branches in the capital, the rest in their ancestral home.)\n\nA heavy snow [Xue] in a year of plenty; pearls are like earth and gold like iron.\n(Descendants of Duke Xue, Secretariat Drafter. Currently Imperial Merchants managing the Inner Court treasury. Eight branches in all.)",
+      "ru": "Ниже было написано:\nЦзя не ложны; белый нефрит служит им залом, золото — конем.\n(Потомки Гунов Нинго и Жунго. Всего двадцать ветвей. Кроме восьми прямых ветвей Нин и Жун в столице, двенадцать ветвей ныне живут на родине предков.)\n\nДворец Эпан, триста ли, не вместит и одного Ши из Цзиньлина.\n(Потомки Гуна Ши, Хоу Баолина и Начальника императорской канцелярии. Всего восемнадцать ветвей. В столице ныне живут десять, на родине предков — восемь.)\n\nВ Восточном море не хватает ложа из белого нефрита; Царь Драконов приходит просить Вана из Цзиньлина.\n(Потомки Гуна Вана, Верховного главнокомандующего и Графа. Всего двенадцать ветвей. В столице две ветви, остальные — на родине.)\n\nВ урожайный год обильный снег [Сюэ]; жемчуг — как грязь, золото — как железо.\n(Потомки Гуна Сюэ, Секретаря Императорской канцелярии. Ныне императорские купцы, управляющие казной Внутреннего двора. Всего восемь ветвей.)",
+      "ja": "下面（しも）に書いて曰く：\n賈は仮（いつわり）ならず、白玉を堂と為し金を馬と作（な）す。（寧国・栄国二公の後、共に二十房分、寧・栄の親派八房の都に在るの外、現に原籍に住する者十二房。）\n阿房宮、三百里、金陵の一個の史を住ましめ下（えず）。（保齢侯尚書令史公の後、房分共に十八、都中に現に住する者十房、原籍に現居するは八房。）\n東海に白玉の床（とこ）を欠き、竜王来りて金陵の王を請う。（都太尉統制県伯王公の後、共に十二房、都中二房、余は籍に在り。）\n豊年好（よ）き大雪（薛）、珍珠は土の如く金は鉄の如し。（紫薇舎人薛公の後、現に内府の帑銀を領する行商、共に八房分。）"
+    },
+    {
+      "id": 3,
+      "pdf_page": 61,
+      "type": "prose",
+      "original": "雨村详看毕，问：“这四家皆连络有亲，一损皆损，一荣皆荣，扶持遮饰，俱有照应的。”",
+      "zh_modern": "雨村仔细看完了，问道：“这四家都联络有亲戚关系，一家受损都受损，一家荣耀都荣耀，互相扶持掩饰，都是有照应的。”",
+      "en": "Yucun finished examining it carefully and asked, \"These four families are all connected by marriage. If one is harmed, all are harmed; if one is honored, all are honored. They support and cover for each other, looking out for one another.\"",
+      "ru": "Юйцунь, внимательно прочитав, спросил: «Эти четыре семьи связаны родственными узами. Ущерб одной — ущерб всем, слава одной — слава всем. Они поддерживают и покрывают друг друга, заботясь друг о друге».",
+      "ja": "雨村は詳らかに看（み）畢（おわ）りて、問うて曰く、「この四家は皆連絡して親有り、一損すれば皆損し、一栄すれば皆栄し、扶持し遮飾して、倶（とも）に照応有るなり。」"
+    }
+  ],
+  "commentary": [
+    {
+      "type": "interlinear",
+      "source": "Zhiping",
+      "original": "上面写着“护官符”三字（甲戌侧批：三字极妙，可谓官场中秘密大法。）",
+      "translation_en": "(Jiaxu Side Note: These three characters are extremely subtle; they can be called the secret great method in officialdom.)",
+      "position": "segment_1"
+    },
+    {
+      "type": "interlinear",
+      "source": "Zhiping",
+      "original": "丰年好大雪（甲戌侧批：隐“薛”字。）",
+      "translation_en": "(Jiaxu Side Note: Hides the character 'Xue'.)",
+      "position": "segment_2"
+    }
+  ],
+  "translator_notes": [
+    {
+      "original_term": "护官符",
+      "english_translation": "Protective Talisman for Officials",
+      "explanation": "A satirical name for the list of powerful local families. An official must know this list to avoid offending them and thus 'protect' their position."
+    },
+    {
+      "original_term": "阿房宫",
+      "english_translation": "Efang Palace",
+      "explanation": "A legendary palace built by the First Emperor of Qin, known for its immense size. Used here to exaggerate the wealth and size of the Shi family."
+    },
+    {
+      "original_term": "紫薇舍人",
+      "english_translation": "Secretariat Drafter",
+      "explanation": "An official title. 'Ziwei' refers to the Lagerstroemia flower, associated with the Grand Secretariat."
+    }
+  ],
+  "research_notes": [
+    {
+      "topic": "The Four Families (四大家族)",
+      "content": "This section introduces the central power structure of the novel: the interlinked Jia, Shi, Wang, and Xue families. Their rise and fall is the backdrop of the story."
+    },
+    {
+      "topic": "Political Satire",
+      "content": "The 'Protective Talisman' is a biting satire of the corruption and nepotism in the feudal bureaucratic system, where law is secondary to power networks."
+    }
+  ],
+  "characters_appearing": [
+    "Jia Yucun (贾雨村)",
+    "The Attendant (门子)"
+  ],
+  "manuscript_sources_on_page": [
+    "Jiaxu (甲戌本)",
+    "Gengchen (庚辰本)"
+  ]
+}
