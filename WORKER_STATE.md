@@ -3,12 +3,12 @@
 ## Status
 - **Branch**: cursor/hong-lou-meng-translation-381b
 - **Short ID**: 381b
-- **Heartbeat**: 1767405900
+- **Heartbeat**: 1767406000
 - **Status**: online
 
 ## Current Work
-- **Claimed Page**: 5
-- **Started At**: 1767405900
+- **Claimed Page**: 6
+- **Started At**: 1767406000
 - **Current Step**: research
 
 ## Completed Pages
@@ -18,6 +18,7 @@
 | 2    | 前言    | 1767405700   | bf08e0d3 | 4 |
 | 3    | 前言    | 1767405800   | 8730c186 | 8 |
 | 4    | 凡例    | 1767405900   | 69da6f9f | 5 |
+| 5    | 凡例    | 1767406000   | 81969092 | 7 |
 
 ## Known Workers (Last Sync)
 | Short ID | Status | Claimed Page | Last Heartbeat |

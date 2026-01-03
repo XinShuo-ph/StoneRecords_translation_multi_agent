@@ -1,0 +1,89 @@
+{
+  "page": 5,
+  "chapter": "凡例",
+  "chapter_title": null,
+  "page_content_type": "fanli",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "色。抄本中有些同一位置不止一条批语的，原以○或空格隔开，现统一以◇隔开。",
+      "zh_modern": "色。抄本中有些同一位置不止一条批语的，原以○或空格隔开，现统一以◇隔开。",
+      "en": "When multiple pieces of commentary appear at the same location in the manuscripts, originally separated by circles or spaces, they are now uniformly separated by diamonds.",
+      "ru": "Когда в рукописях в одном и том же месте появляется несколько комментариев, первоначально разделенных кружками или пробелами, теперь они единообразно разделяются ромбами.",
+      "ja": "色。抄本中、同一位置に複数の批語がある場合、原本では○または空白で隔てられていたが、現在は統一して◇で隔てている。",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "本书使用半角圆括号和半角方括号作为校改文字记号：(某)表示删字，[某]表示补字，(甲)[乙]表示改字。",
+      "zh_modern": "本书使用半角圆括号( )和半角方括号[ ]作为校改文字记号：(某)表示删字，[某]表示补字，(甲)[乙]表示改字。",
+      "en": "This book uses half-width parentheses and square brackets as textual emendation marks: (X) indicates deleted characters, [X] indicates inserted characters, (A)[B] indicates character substitution.",
+      "ru": "В этой книге используются круглые скобки и квадратные скобки половинной ширины в качестве знаков текстуальных исправлений.",
+      "ja": "本書は半角丸括弧と半角角括弧を校改文字記号として使用する。",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "本电子书自发布以来，不少网友提出了改进意见，这些建议基本上都已经采纳。现在，接受多数朋友的意见，这个版本采用 PDF 格式。",
+      "zh_modern": "本电子书自发布以来，不少网友提出了改进意见，这些建议基本上都已经采纳。现在，接受多数朋友的意见，这个版本采用 PDF 格式。",
+      "en": "Since this e-book was first published, many online friends have offered suggestions for improvement, and most have been adopted. This version is now provided in PDF format based on user feedback.",
+      "ru": "С момента первой публикации этой электронной книги многие друзья в сети предлагали улучшения, и большинство были приняты. Эта версия представлена в формате PDF.",
+      "ja": "この電子書籍が発布されて以来、多くのネット友達から改善意見が提出され、これらの提案は基本的に全て採納された。",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "本书的整理得到很多网友的帮助。统此鸣谢各位贡献者。由于整理者学识所限，本书虽经多次修订，存在问题仍然尚多。",
+      "zh_modern": "本书的整理得到很多网友的帮助。在此向各位贡献者鸣谢。由于整理者学识所限，本书虽经多次修订，存在的问题仍然尚多。",
+      "en": "The compilation of this book has benefited from the assistance of many online friends. We express our gratitude to all contributors. Due to the compiler's limited knowledge, despite multiple revisions, many problems still remain.",
+      "ru": "Составление этой книги получило помощь от многих друзей в сети. Мы выражаем нашу благодарность всем участникам.",
+      "ja": "本書の整理は多くのネット友達の助けを得た。ここに各位貢献者に謝意を表す。",
+      "commentary": []
+    },
+    {
+      "id": 5,
+      "type": "prose",
+      "original": "联系方式：Email: kolistan@yahoo.com.cn, QQ: 552129470, MSN: kolistan@msn.com",
+      "zh_modern": "联系方式：Email: kolistan@yahoo.com.cn, QQ: 552129470, MSN: kolistan@msn.com",
+      "en": "Contact: Email: kolistan@yahoo.com.cn, QQ: 552129470, MSN: kolistan@msn.com",
+      "ru": "Контакты: Email: kolistan@yahoo.com.cn, QQ: 552129470, MSN: kolistan@msn.com",
+      "ja": "連絡先：Email: kolistan@yahoo.com.cn, QQ: 552129470, MSN: kolistan@msn.com",
+      "commentary": []
+    },
+    {
+      "id": 6,
+      "type": "prose",
+      "original": "本书由 Kolistan 汇校整理、制作电子版并免费提供下载，允许在不改变其内容完整的前提下自由传播，但禁止用于商业用途。",
+      "zh_modern": "本书由 Kolistan 汇校整理、制作电子版并免费提供下载，允许在不改变其内容完整性的前提下自由传播，但禁止用于商业用途。",
+      "en": "This book was compiled by Kolistan and is freely available for download. Free distribution is permitted if content remains unaltered, but commercial use is prohibited.",
+      "ru": "Эта книга была составлена Kolistan и распространяется бесплатно. Свободное распространение разрешено при сохранении содержания, но коммерческое использование запрещено.",
+      "ja": "本書は Kolistan により彙校整理され、電子版が制作され無料でダウンロード提供されている。",
+      "commentary": []
+    },
+    {
+      "id": 7,
+      "type": "prose",
+      "original": "Kolistan  2007.11.30.",
+      "zh_modern": "Kolistan  2007年11月30日",
+      "en": "Kolistan, November 30, 2007",
+      "ru": "Kolistan, 30 ноября 2007 г.",
+      "ja": "Kolistan  2007年11月30日",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "This page concludes the editorial preface section",
+    "Technical symbols are used for textual notation",
+    "Acknowledgments reflect collaborative digital scholarship"
+  ],
+  "research_notes": [
+    "Version history shows iterative improvements"
+  ],
+  "characters_appearing": [],
+  "total_segments": 7,
+  "manuscript_sources_on_page": []
+}
