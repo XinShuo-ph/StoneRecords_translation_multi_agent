@@ -1,0 +1,113 @@
+{
+  "page": 23,
+  "chapter": "第一回",
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 23,
+      "type": "prose",
+      "original": "那僧便念咒书符，大展幻术，将一块大石登时变成一块鲜明莹洁的美玉，且又缩成扇坠大小的可佩可拿。",
+      "zh_modern": "那僧人便念诵咒语、画写符箓，大展幻术，将那块大石头顿时变成了一块鲜明莹洁的美玉，而且又缩成扇坠般大小，可以佩戴也可以拿在手中。",
+      "en": "The monk chanted spells and wrote charms, displaying great magic, and instantly turned the large stone into a piece of bright, translucent, beautiful jade, shrinking it to the size of a fan pendant that could be worn or held.",
+      "ru": "Монах прочел заклинания и начертал талисманы, явив великое волшебство, и вмиг превратил огромный камень в кусок яркой, прозрачной и чистой яшмы, уменьшив его до размера подвески для веера, которую можно носить или держать в руке.",
+      "ja": "僧はすなわち呪を念じ符を書し、大いに幻術を展じ、一塊の大石を登時に変じて一塊の鮮明瑩潔なる美玉となし、かつまた縮めて扇墜の大小となし、佩くべく取るべからしむ。",
+      "commentary": [
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "position": "right margin",
+          "original": "奇诡！",
+          "zh_modern": "奇特怪异！",
+          "en": "Strange and uncanny!",
+          "ru": "Странно и таинственно!",
+          "ja": "奇詭なり！"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pdf_page": 23,
+      "type": "prose",
+      "original": "那僧托于掌上，笑道：“形体倒也是个宝物了！还只没有实在的好处，须得再镌上数字，使人一见便知是奇物方妙。然后携你到那昌明隆盛之邦，诗礼簪缨之族，花柳繁华地，温柔富贵乡去安身乐业。”",
+      "zh_modern": "那僧人将玉托在掌上，笑道：“外形倒也是件宝物了！只是还没有实在的好处，必须再刻上几个字，让人一见就知道是奇物才妙。然后带你到那昌明隆盛的国家，诗礼簪缨的望族，花柳繁华的地方，温柔富贵的乡里去安身乐业。”",
+      "en": "The monk held it in his palm and laughed: “The form is indeed a treasure now! But it still lacks real benefits; I must engrave a few characters on it so that anyone seeing it will know it is a marvelous object. Then I shall take you to a prosperous and enlightened state, a family of poetry and rites with hairpin and tassel, a place of flowers and willows and splendor, a land of gentleness and wealth, to settle down and enjoy life.”",
+      "ru": "Монах, держа ее на ладони, усмехнулся: «Облик-то поистине как у сокровища! Но реальной пользы пока нет, нужно выгравировать еще несколько иероглифов, чтобы люди с первого взгляда понимали, что это чудо — вот тогда будет славно. А затем я отнесу тебя в процветающую и сияющую страну, в род, чтящий поэзию и ритуалы, носящий шпильки и кисти, в место цветения цветов и ив, в край нежности и богатства, чтобы ты там обосновался и жил в радости».",
+      "ja": "僧は掌の上に托し、笑いて言う、「形体はかえってまた一個の宝物たり！ただいまだ実在の好処なく、すべからくまた数字を镌（え）り、人をして一見してすなわち奇物なるを知らしめてまさに妙なり。しかるのち汝を携えてかの昌明隆盛の邦、詩礼簪纓の族、花柳繁華の地、温柔富貴の郷に到りて安身楽業せしめん」と。",
+      "commentary": [
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "position": "right margin",
+          "original": "这是写金陵。",
+          "zh_modern": "这是写金陵（南京）。",
+          "en": "This writes of Jinling.",
+          "ru": "Это написано о Цзиньлине.",
+          "ja": "これは金陵を写す。"
+        },
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "position": "right margin",
+          "original": "这是写贾府。",
+          "zh_modern": "这是写贾府。",
+          "en": "This writes of the Jia family.",
+          "ru": "Это написано о доме Цзя.",
+          "ja": "これは贾府を写す。"
+        },
+         {
+          "type": "侧批",
+          "source": "甲戌本",
+          "position": "right margin",
+          "original": "这是写大观园。",
+          "zh_modern": "这是写大观园。",
+          "en": "This writes of the Grand View Garden.",
+          "ru": "Это написано о Саде Роскошных Зрелищ.",
+          "ja": "これは大観園を写す。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "pdf_page": 23,
+      "type": "prose",
+      "original": "石头听了，喜不能禁，乃问：“不知赐了弟子那几件好处，又不知携了弟子到何方？望乞明示，使弟子不惑。”",
+      "zh_modern": "石头听了，欢喜得忍不住，便问：“不知道赐给了弟子哪几件好处，又不知道带弟子到什么地方？希望能明白指示，让弟子不再困惑。”",
+      "en": "The stone heard this and could not contain its joy, so it asked: “I do not know what benefits you have bestowed upon your disciple, nor do I know where you will take me. I beg you to explain clearly so that your disciple will not be confused.”",
+      "ru": "Камень, услышав это, не мог сдержать радости и спросил: «Не ведаю, какие блага дарованы ученику, и не ведаю, в какие края заберете ученика? Прошу, укажите ясно, чтобы ученик не пребывал в сомнениях».",
+      "ja": "石は聴きて、喜び禁ずることあたわず、すなわち問う、「知らず弟子に那（いか）なる幾件の好処を賜い、また知らず弟子を携えて何方の地に到るや？望むらくは明示を乞い、弟子をして惑わざらしめよ」と。",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "pdf_page": 23,
+      "type": "prose",
+      "original": "那僧笑道：“你且莫问，日后自然明白的。”说着，便袖了这石，同那道人飘然而去，竟不知投向何方。",
+      "zh_modern": "那僧人笑道：“你暂且别问，日后自然会明白的。”说着，便把这石头放进袖子里，同那道人飘然而去，竟然不知道去了哪里。",
+      "en": "The monk laughed: “Do not ask for now; you will understand in due time.” Saying this, he tucked the stone into his sleeve and, with the Taoist, drifted away, vanishing who knows where.",
+      "ru": "Монах усмехнулся: «Ты пока не спрашивай, в будущем само станет ясно». Сказав это, он спрятал камень в рукав и вместе с даосом уплыл прочь, и неведомо, куда они направились.",
+      "ja": "僧は笑いて言う、「汝しばらく問うなかれ、日後自然に明白ならん」と。言いいおわり、すなわちこの石を袖にし、かの道人と同（とも）に飄然として去り、ついに何方へ投じしかを知らず。",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "扇坠 (Fan pendant): A small decorative item, usually jade or precious stone, hung from the handle of a folding fan.",
+    "昌明隆盛 (Changming Longsheng): Prosperous and enlightened. A stock phrase for a golden age.",
+    "诗礼簪缨 (Shili Zanying): 'Poetry and Rites' (culture/education) and 'Hairpin and Tassel' (nobility/office). Refers to an aristocratic family of high culture and status.",
+    "花柳 (Hua Liu): Flowers and willows. Can imply a red-light district, but here implies the bustling beauty and worldly pleasures of the Grand View Garden and the city.",
+    "温柔富贵乡 (Wenrou Fugui Xiang): A land of gentleness and wealth. A place of comfort and luxury."
+  ],
+  "research_notes": [
+    "Verified the Zhiping commentary identifying the three locations: Jinling, Jia Household, and Grand View Garden.",
+    "The phrase 'Poetry and Rites' comes from the Analects (studying poetry and rites to establish oneself).",
+    "Confirmed the transformation from Stone to Jade happens here, setting up the physical object of the novel."
+  ],
+  "characters_appearing": [
+    "Monk (Mangmang Daoshi)",
+    "Taoist (Miaomiao Zhenren)",
+    "Stone (as Jade)"
+  ],
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ]
+}
