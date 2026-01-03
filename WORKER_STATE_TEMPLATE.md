@@ -1,5 +1,16 @@
 # Worker: [SHORT_ID]
 
+## ⚠️ SYNC DAEMON STATUS (CHECK FIRST!)
+
+> **CRITICAL**: Start the sync daemon BEFORE doing any work!
+> ```bash
+> python3 tools/sync_daemon.py --start &
+> ```
+
+- **Daemon Running**: [yes/no] ← MUST BE "yes" BEFORE CLAIMING
+- **Last Full Sync**: [UNIX_TIMESTAMP]
+- **Global Completed Count**: [from daemon]
+
 ## Status
 - **Branch**: [YOUR_FULL_BRANCH_NAME]
 - **Short ID**: [LAST_4_CHARS]
@@ -8,6 +19,7 @@
 
 ## Current Work
 - **Claimed Page**: none
+- **Page Verified Available**: [yes/no] ← MUST run `sync_daemon.py --check-page N` first!
 - **Started At**: -
 - **Current Step**: - (research | translate | polish)
 
@@ -15,9 +27,14 @@
 | Page | Chapter | Completed At | Hash | Segments |
 |------|---------|--------------|------|----------|
 
-## Known Workers (Last Sync)
-| Short ID | Status | Claimed Page | Last Heartbeat |
-|----------|--------|--------------|----------------|
+## Known Workers (Last Sync - Auto-Updated by Daemon)
+| Short ID | Status | Claimed Page | Completed | Last Heartbeat |
+|----------|--------|--------------|-----------|----------------|
+
+## Other Workers' Completed Pages (From Daemon Scan)
+<!-- This section helps prevent duplicate work -->
+| Worker | Completed Pages |
+|--------|----------------|
 
 ## Notes
 Ready to begin translation.
@@ -26,33 +43,50 @@ Ready to begin translation.
 
 ## How to Use This Template
 
-1. **Copy this file** to `WORKER_STATE.md`:
-   ```bash
-   cp WORKER_STATE_TEMPLATE.md WORKER_STATE.md
-   ```
+### Step 0: START THE SYNC DAEMON FIRST! ⚠️
 
-2. **Get your identity**:
-   ```bash
-   MY_BRANCH=$(git branch --show-current)
-   MY_SHORT_ID=$(echo "$MY_BRANCH" | grep -oE '[^-]+$' | tail -c 5)
-   echo "Branch: $MY_BRANCH"
-   echo "Short ID: $MY_SHORT_ID"
-   ```
+```bash
+# THIS IS MANDATORY - DO THIS FIRST
+python3 tools/sync_daemon.py --start &
+sleep 30  # Wait for initial sync to complete
+```
 
-3. **Fill in your details**:
-   - Replace `[YOUR_FULL_BRANCH_NAME]` with your branch
-   - Replace `[LAST_4_CHARS]` with your short ID
-   - Replace `[UNIX_TIMESTAMP]` with `$(date +%s)`
+### Step 1: Copy this file to `WORKER_STATE.md`
+```bash
+cp WORKER_STATE_TEMPLATE.md WORKER_STATE.md
+```
 
-4. **Commit and push** (this registers you!):
-   ```bash
-   git add WORKER_STATE.md
-   git commit -m "[$MY_SHORT_ID] SYNC: Registering as active worker
-   HEARTBEAT: $(date +%s)"
-   git push origin HEAD
-   ```
+### Step 2: Get your identity
+```bash
+MY_BRANCH=$(git branch --show-current)
+MY_SHORT_ID=$(echo "$MY_BRANCH" | grep -oE '[^-]+$' | tail -c 5)
+echo "Branch: $MY_BRANCH"
+echo "Short ID: $MY_SHORT_ID"
+```
 
-5. **Delete this "How to Use" section** from your WORKER_STATE.md
+### Step 3: Fill in your details
+- Replace `[YOUR_FULL_BRANCH_NAME]` with your branch
+- Replace `[LAST_4_CHARS]` with your short ID
+- Replace `[UNIX_TIMESTAMP]` with `$(date +%s)`
+- Set `Daemon Running` to `yes`
+
+### Step 4: Check what pages are available (FROM DAEMON!)
+```bash
+# MANDATORY: Use daemon to find available pages
+python3 tools/sync_daemon.py --status  # See global progress
+NEXT_PAGE=$(python3 tools/sync_daemon.py --next-page)  # Get next available
+echo "Next available page: $NEXT_PAGE"
+```
+
+### Step 5: Commit and push (this registers you!)
+```bash
+git add WORKER_STATE.md
+git commit -m "[$MY_SHORT_ID] SYNC: Registering as active worker
+HEARTBEAT: $(date +%s)"
+git push origin HEAD
+```
+
+### Step 6: Delete this "How to Use" section from your WORKER_STATE.md
 
 ---
 
