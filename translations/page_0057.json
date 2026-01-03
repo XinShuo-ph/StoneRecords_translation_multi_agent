@@ -1,0 +1,207 @@
+{
+  "page": 57,
+  "chapter": "第三回",
+  "chapter_title": {
+    "original": "金陵城起复贾雨村 荣国府收养林黛玉",
+    "zh_modern": "金陵城里贾雨村被起用复职，荣国府收养林黛玉",
+    "en": "Jia Yucun Is Reinstated in Jinling; Rong-guo House Takes In Lin Daiyu",
+    "ru": "Цзя Юйцунь восстановлен в должности в Цзиньлине; Дом Жунго принимает Линь Дайюй",
+    "ja": "金陵城にて賈雨村起復し、栄国府にて林黛玉を収養す"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "人，此诚为能爱人者，非世俗之爱也。宝玉因知他本姓花，又曾见旧人诗句上有「花气袭人」之句，遂回明贾母，即更名袭人。这袭人亦有些痴处：伏侍贾母时，心中眼中只有一个贾母，今与了宝玉，心中眼中又只有个宝玉。只因宝玉性情乖僻，每每规谏，宝玉不听，心中着实忧郁。",
+      "zh_modern": "这个人，这确实是能够爱人的人，不是世俗之爱。宝玉因为知道她本姓花，又曾见旧人诗句上有「花气袭人」的句子，便回明贾母，就改名袭人。这袭人也有些痴处：伏侍贾母时，心中眼中只有一个贾母，如今跟了宝玉，心中眼中又只有一个宝玉。只因宝玉性情乖僻，每每规劝，宝玉不听，心中着实忧郁。",
+      "en": "—this person was truly one who could love others, not with worldly love. Baoyu, knowing her original surname was Hua (Flower), and having seen the line 'the fragrance of flowers assails one' in an old poem, reported to Grandmother Jia and changed her name to Xiren (Assails One). This Xiren also had her devoted ways: when serving Grandmother Jia, her heart and eyes were only on Grandmother Jia; now given to Baoyu, her heart and eyes were only on Baoyu. Because Baoyu's temperament was perverse, she often admonished him, but Baoyu wouldn't listen, and her heart was truly troubled.",
+      "ru": "— этот человек был действительно способен любить других, не мирской любовью. Баоюй, зная, что её изначальная фамилия была Хуа (Цветок), и увидев строку «аромат цветов обволакивает человека» в старом стихотворении, доложил бабушке Цзя и изменил её имя на Сижэнь (Обволакивающая). У этой Сижэнь тоже были свои преданные качества: служа бабушке Цзя, её сердце и глаза были только на бабушке Цзя; теперь, отданная Баоюю, её сердце и глаза были только на Баоюе. Поскольку характер Баоюя был своенравным, она часто увещевала его, но Баоюй не слушал, и её сердце было действительно обеспокоено.",
+      "ja": "人、此れ誠に人を能く愛する者なり、世俗の愛に非ず。寶玉彼の本姓花なるを知るに因り、又曾て旧人の詩句上に「花気人を襲う」の句有るを見、遂に賈母に回明し、即ち更名して襲人と為す。這の襲人も亦些かの痴処有り：賈母に伏侍する時、心中眼中に只一個の賈母有るのみ、今寶玉に与えられて、心中眼中に又只一個の寶玉有るのみ。只寶玉の性情乖僻なるに因り、每每規諫すれども、寶玉聴かず、心中着実に憂郁す。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 花气袭人",
+          "original": "只如此写又好极！最厌近之小说中，满纸「千伶百俐」「这妮子亦通文墨」等语。",
+          "zh_modern": "只如此写又好极了！最厌近来的小说中，满纸「千伶百俐」「这妮子亦通文墨」等语。",
+          "en": "Writing it just like this is excellent! Most annoying are recent novels full of phrases like 'clever and sharp' and 'this girl also knows literature.'",
+          "ru": "Писать именно так превосходно! Больше всего раздражают недавние романы, полные фраз вроде «умная и острая» и «эта девушка тоже знает литературу».",
+          "ja": "只此の如く写すは又好極なり！最も厌うは近来の小説中、満紙「千伶百俐」「這の妮子も亦文墨に通ず」等の語あり。"
+        },
+        {
+          "type": "夹批",
+          "source": "脂砚斋",
+          "position": "inline, after 心中眼中只有一个贾母",
+          "original": "世人有职任的，能如袭人，则天下事毕。",
+          "zh_modern": "世人有职任的，若能像袭人，则天下事毕。",
+          "en": "If people with responsibilities could be like Xiren, all affairs under heaven would be accomplished.",
+          "ru": "Если бы люди с обязанностями могли быть как Сижэнь, все дела под небом были бы выполнены.",
+          "ja": "世人の職任有る者、能く襲人の如くんば、則ち天下の事畢る。"
+        },
+        {
+          "type": "夹批",
+          "source": "脂砚斋",
+          "position": "inline, after 心中着实忧郁",
+          "original": "我欲读至此，不觉放声大哭。",
+          "zh_modern": "我欲读至此，不觉放声大哭。",
+          "en": "Reading to this point, I couldn't help but weep aloud.",
+          "ru": "Читая до этого места, я не мог удержаться от громкого плача.",
+          "ja": "我此処に読み至らんと欲すれば、覚えず声を放ちて大いに哭す。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "是晚，宝玉、李嬷嬷已睡了，他见里面黛玉和鹦哥犹未安息，他自卸了妆，悄悄进来，笑问：「姑娘怎么还不安息？」黛玉忙笑让：「姐姐请坐。」袭人在床沿上坐了。鹦哥笑道：「林姑娘正在这里伤心，自己淌眼抹泪的说：『今儿才来了，就惹出你家哥儿的狂病来，倘或摔坏了那玉，岂不是因我之过！』因此便伤心，我好容易劝好了。」袭人道：「姑娘快休如此，将来只怕比这个更奇怪的笑话儿还有呢！若为他这种行止，你多心伤感，只怕你伤感不了呢。快别多心！」",
+      "zh_modern": "这天晚上，宝玉、李嬷嬷已经睡了，她见里面黛玉和鹦哥还没有安息，她自己卸了妆，悄悄进来，笑着问：「姑娘怎么还不安息？」黛玉忙笑着让：「姐姐请坐。」袭人在床沿上坐了。鹦哥笑着说：「林姑娘正在这里伤心呢，自己淌眼抹泪地说：『今天刚来，就惹出你家哥儿的狂病来，倘若摔坏了那玉，岂不是因我之过！』因此便伤心，我好容易才劝好了。」袭人道：「姑娘快别这样，将来只怕比这个更奇怪的笑话儿还有呢！若为他这种行止，你多心伤感，只怕你伤感不了呢。快别多心！」",
+      "en": "That evening, Baoyu and Nanny Li had already gone to sleep. Seeing that Daiyu and Yingge (Parrot) inside were not yet resting, she removed her makeup and quietly came in, asking with a smile: 'Why hasn't Miss gone to sleep yet?' Daiyu quickly smiled and offered: 'Please sit, sister.' Xiren sat on the edge of the bed. Yingge said with a smile: 'Miss Lin is here feeling sad. She was shedding tears saying: \"I just arrived today and already provoked your young master's mad fit. If that jade had been damaged, wouldn't it have been my fault!\" That's why she's sad—I had such a hard time consoling her.' Xiren said: 'Miss, please stop this at once. In the future, there will probably be even stranger laughable incidents than this! If you take his behavior to heart and feel sad, I'm afraid you'll never stop feeling sad. Please stop worrying!'",
+      "ru": "В тот вечер Баоюй и няня Ли уже спали. Видя, что Дайюй и Инге (Попугай) внутри ещё не отдыхали, она сняла макияж и тихо вошла, спросив с улыбкой: «Почему барышня ещё не спит?» Дайюй быстро улыбнулась и предложила: «Пожалуйста, садитесь, сестра.» Сижэнь села на край кровати. Инге сказала с улыбкой: «Барышня Линь здесь грустит. Она проливала слёзы, говоря: «Я только сегодня приехала и уже спровоцировала безумный припадок вашего молодого господина. Если бы эта яшма была повреждена, разве это не была бы моя вина!» Вот почему она грустит — мне было так трудно её утешить.» Сижэнь сказала: «Барышня, пожалуйста, прекратите это немедленно. В будущем, вероятно, будут ещё более странные смешные случаи! Если вы будете принимать его поведение близко к сердцу и грустить, боюсь, вам никогда не прекратить грустить. Пожалуйста, перестаньте беспокоиться!»",
+      "ja": "是の晚、寶玉、李嬷嬷已に睡れり、彼裏面の黛玉と鸚哥の猶未だ安息せざるを見、彼自ら妆を卸し、悄悄と進み来り、笑いて問う：「姑娘怎んぞ還た安息せざる？」黛玉忙しく笑いて讓す：「姐姐請いて坐せよ。」襲人床沿上に坐せり。鸚哥笑いて道う：「林姑娘正に這里に在りて傷心す、自ら眼を淌し涙を抹して説う：『今児才来りて、就ち汝の家の哥児の狂病を惹出す、倘若彼の玉を摔壊せば、豈我の過に因るに非ざらんや！』因りて此れ便ち傷心す、我好容易にして劝好せり。」襲人道う：「姑娘快く此の如くするを休めよ、将来只恐らくは此れより更に奇怪なる笑話児還た有らん！若し彼の這の種の行止の為に、汝多心して傷感せば、只恐らくは汝傷感し了らざらん。快く多心するなかれ！」",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 自己淌眼抹泪",
+          "original": "黛玉第一次哭却如此写来。前文反明写宝玉之哭，今却反如此写黛玉，这是第一次算还，不知下剩还该多少？",
+          "zh_modern": "黛玉第一次哭却如此写来。前文反而明写宝玉之哭，今却反而如此写黛玉，这是第一次算还，不知下剩还该多少？",
+          "en": "Daiyu's first crying is written like this. Earlier, Baoyu's crying was written openly, but now Daiyu's is written indirectly—this is the first repayment. Who knows how many more are left?",
+          "ru": "Первый плач Дайюй написан так. Ранее плач Баоюя был написан открыто, но теперь плач Дайюй написан косвенно — это первая выплата. Кто знает, сколько ещё осталось?",
+          "ja": "黛玉の第一次の哭却て此の如く写し来る。前文反て明らかに寶玉の哭を写し、今却て反て此の如く黛玉を写す、這れは第一次の算還なり、知らず下剩還た該に多少なるべきを？"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 几被作者瞒过",
+          "original": "几被作者瞒过，这是第一次算还，不知下剩还该多少？",
+          "zh_modern": "几被作者瞒过，这是第一次算还，不知下剩还该多少？",
+          "en": "Almost fooled by the author. This is the first repayment—who knows how many more are left?",
+          "ru": "Почти обманут автором. Это первая выплата — кто знает, сколько ещё осталось?",
+          "ja": "幾ど作者に瞞き過ぎらる、這れは第一次の算還なり、知らず下剩還た該に多少なるべきを？"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 今儿才来了",
+          "original": "所谓宝玉知己，全用体贴功夫。",
+          "zh_modern": "所谓宝玉知己，全用体贴功夫。",
+          "en": "This is what makes Baoyu a true friend—all through the effort of being considerate.",
+          "ru": "Вот что делает Баоюя настоящим другом — всё благодаря усилиям быть внимательным.",
+          "ja": "謂う所の寶玉の知己、全く体貼の功夫を用う。"
+        },
+        {
+          "type": "夹批",
+          "source": "脂砚斋",
+          "position": "inline, after 快别多心",
+          "original": "我也心疼，它独罄罄！",
+          "zh_modern": "我也心疼，它独颦颦！",
+          "en": "I too feel heartache—she alone keeps frowning!",
+          "ru": "Мне тоже больно — она одна продолжает хмуриться!",
+          "ja": "我も亦心疼す、彼独り顰顰たり！"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "dialogue",
+      "original": "「月上窗纱入到墙，窗上影儿先进来」，笔未到而境先到矣。黛玉道：「姐姐们说的，我记着就是了。究竟不知那玉是怎么个来历？上头还有字迹？」袭人道：「连一家也不知来历。听得说，落草时从他口里掏出，上头有现成的穿眼。天生带来美玉，有现成可穿之眼，岂不可爱，岂不可惜！让我拿来你看便知。」黛玉忙止道：「罢了，此刻夜深，明日再看也不迟。」大家又叙了一回，方才安歇。",
+      "zh_modern": "「月上窗纱入到墙，窗上影儿先进来」，笔未到而境先到了。黛玉道：「姐姐们说的，我记着就是了。究竟不知那玉是怎么个来历？上头还有字迹？」袭人道：「连一家人也不知来历。听说，落草时从他口里掏出来的，上头有现成的穿眼。天生带来美玉，有现成可穿的眼，岂不可爱，岂不可惜！让我拿来给你看便知。」黛玉忙止道：「罢了，此刻夜深，明日再看也不迟。」大家又叙了一回，才安歇。",
+      "en": "'The moon rises above the window gauze reaching to the wall, the shadow on the window enters first'—the brush hasn't arrived but the scene has. Daiyu said: 'I'll remember what you sisters have said. But I don't know what the history of that jade is? Does it have writing on it?' Xiren said: 'Not even the family knows its history. They say when he was born, it was taken from his mouth, and it already had a hole for a cord. Born with a beautiful jade that already had a hole for threading—how precious, how remarkable! Let me bring it for you to see and you'll understand.' Daiyu quickly stopped her: 'Never mind, it's late at night now. Tomorrow will be soon enough to see it.' They talked a while longer before finally going to rest.",
+      "ru": "«Луна поднимается над оконной марлей, достигая стены, тень на окне входит первой» — кисть не прибыла, но сцена уже здесь. Дайюй сказала: «Я запомню, что вы, сёстры, сказали. Но я не знаю историю этой яшмы? На ней есть надписи?» Сижэнь сказала: «Даже семья не знает её историю. Говорят, когда он родился, её вынули из его рта, и в ней уже было отверстие для шнурка. Родиться с прекрасной яшмой, в которой уже есть отверстие для продевания — как драгоценно, как замечательно! Позвольте мне принести её для вас, и вы поймёте.» Дайюй быстро остановила её: «Не надо, сейчас поздняя ночь. Завтра будет достаточно рано, чтобы посмотреть.» Они поговорили ещё немного, прежде чем наконец пойти отдыхать.",
+      "ja": "「月窗紗に上りて墻に入り到り、窗上の影児先に進み来る」、筆未だ到らずして境先に到れり。黛玉道う：「姐姐等の説く所、我記して就ち是なり。究竟彼の玉は是れ怎の個の来歴なるを知らず？上頭に還た字跡有りや？」襲人道う：「連に一家も来歴を知らず。聴き得たるに説う、落草の時彼の口裏より掏出す、上頭に現成の穿眼有りと。天生にして美玉を帯び来り、現成に穿うべきの眼有り、豈可愛に非ざらんや、豈可惜に非ざらんや！我をして持ち来りて汝に看せしめよ便ち知らん。」黛玉忙しく止めて道う：「罷了、此刻夜深し、明日再び看るも亦遅からず。」大家又一回叙し、方に安歇せり。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 后百十回黛玉之泪",
+          "original": "总不能出此二语。",
+          "zh_modern": "总不能出此二语。",
+          "en": "Cannot possibly exceed these two sentences.",
+          "ru": "Невозможно превзойти эти два предложения.",
+          "ja": "総て此の二語を出づる能わず。"
+        },
+        {
+          "type": "夹批",
+          "source": "脂砚斋",
+          "position": "inline, after 月上窗纱入到墙",
+          "original": "应如此非伤感，未还甘露水也。",
+          "zh_modern": "应如此非伤感，未还甘露水也。",
+          "en": "It should be like this—not mere sadness, but the yet-to-be-repaid sweet dew.",
+          "ru": "Так и должно быть — не просто грусть, а ещё не возвращённая сладкая роса.",
+          "ja": "応に此の如く傷感に非ず、未だ甘露水を還さざるなり。"
+        },
+        {
+          "type": "夹批",
+          "source": "脂砚斋",
+          "position": "inline, after 天生带来美玉",
+          "original": "幽微偷幻术亦太奇矣。",
+          "zh_modern": "幽微偷幻术亦太奇矣。",
+          "en": "The subtle illusion technique is also extremely wondrous.",
+          "ru": "Тонкая техника иллюзии тоже чрезвычайно удивительна.",
+          "ja": "幽微偷幻の術も亦太だ奇なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 罢了此刻夜深",
+          "original": "总是体贴，不肯多事。",
+          "zh_modern": "总是体贴，不肯多事。",
+          "en": "Always considerate, unwilling to cause trouble.",
+          "ru": "Всегда внимательна, не желая причинять беспокойство.",
+          "ja": "総て体貼にして、多事を肯んぜず。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "次日起来，省过贾母，因往王夫人处来，正值王夫人与熙凤在一处拆金陵来的书信看，又有王夫人之兄嫂处遣了两个媳妇来说话的。黛玉虽不知原委，探春等却都晓得是议论金陵城中所居的薛家姨母之子、姨",
+      "zh_modern": "次日起来，向贾母请过安，因而往王夫人处来，正值王夫人与熙凤在一处拆看金陵来的书信，又有王夫人之兄嫂处遣了两个媳妇来说话的。黛玉虽不知原委，探春等却都晓得是议论金陵城中所居的薛家姨母之子、姨",
+      "en": "The next day after rising, she paid her respects to Grandmother Jia, then went to Lady Wang's quarters. It happened that Lady Wang and Xifeng were reading a letter from Jinling together, and Lady Wang's brother and sister-in-law had also sent two servant women to deliver a message. Though Daiyu didn't know the details, Tanchun and the others all knew they were discussing Aunt Xue's son, who lived in Jinling—the cousin",
+      "ru": "На следующий день после пробуждения она выразила почтение бабушке Цзя, затем пошла к госпоже Ван. Случилось так, что госпожа Ван и Сифэн вместе читали письмо из Цзиньлина, а брат и невестка госпожи Ван также прислали двух служанок передать сообщение. Хотя Дайюй не знала подробностей, Таньчунь и другие все знали, что они обсуждали сына тёти Сюэ, который жил в Цзиньлине — кузена",
+      "ja": "次日起き来りて、賈母に省過し、因りて王夫人の処に往き来る、正に王夫人と熙鳳の一処に在りて金陵より来れる書信を拆き看る時に値し、又王夫人の兄嫂の処より両個の媳婦を遣して来りて話を説わしむるあり。黛玉原委を知らずと雖も、探春等は却て都晓り得たり是れ金陵城中に所居する薛家の姨母の子、姨を議論するを",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂砚斋",
+          "position": "inline, after 他天生带来的美玉",
+          "original": "他自己不爱惜，遇知己替他爱惜，连我看书的人也看着伤心怕他损了，不觉背人一哭，以谢作者。",
+          "zh_modern": "他自己不爱惜，遇知己替他爱惜，连我看书的人也看着伤心怕他损了，不觉背人一哭，以谢作者。",
+          "en": "He himself doesn't cherish it, but when he meets a kindred spirit who cherishes it for him, even I as a reader feel sad fearing it might be damaged—I couldn't help but weep in private to thank the author.",
+          "ru": "Он сам не ценит её, но когда встречает родственную душу, которая ценит её за него, даже я как читатель чувствую грусть, боясь, что она может быть повреждена — я не мог не заплакать втайне, чтобы поблагодарить автора.",
+          "ja": "彼自ら愛惜せず、知己に遇いて彼の為に愛惜す、連に我書を看る者も看て傷心し彼の損するを恐る、覚えず人を背にして一哭し、以て作者に謝す。"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "The maid Xiren (袭人) is named after the classical poem line '花气袭人' (the fragrance of flowers assails one)",
+    "Her original surname Hua (花) means 'flower', making the name a poetic connection",
+    "Daiyu's tears on her first night are described indirectly through Yingge's report - a subtle narrative technique",
+    "The commentary's reference to 'repayment' (算还) alludes to the mythological debt of tears Daiyu owes to Baoyu",
+    "甘露水 (sweet dew) refers to the Crimson Pearl Grass being watered by the Divine Luminescent Stone-in-Waiting in the heavenly prelude",
+    "鹦哥 (Yingge/Parrot) is a maid who will later be renamed 紫鹃 (Zijuan/Purple Cuckoo)",
+    "The jade's 'hole for threading' shows it was born with Baoyu as a magical artifact"
+  ],
+  "research_notes": [
+    "袭人 is one of the most important maids in the novel, assigned to Baoyu",
+    "Her devotion and practical nature contrast with Daiyu's sensitivity",
+    "The poetic line '花气袭人' comes from Lu You's poem about spring nights",
+    "Daiyu's curiosity about the jade's inscription foreshadows later plot developments",
+    "This page introduces the Xue family visit that will bring Xue Baochai and Xue Pan to the Jia household",
+    "The letter from Jinling sets up Chapter 4's introduction of the Xue family"
+  ],
+  "characters_appearing": [
+    "林黛玉 (Lin Daiyu)",
+    "袭人/花珍珠 (Xiren/Hua Zhenzhu)",
+    "鹦哥/紫鹃 (Yingge/Zijuan - future name)",
+    "贾宝玉 (Jia Baoyu - mentioned sleeping)",
+    "李嬷嬷 (Nanny Li)",
+    "王夫人 (Lady Wang)",
+    "王熙凤 (Wang Xifeng)",
+    "贾探春 (Jia Tanchun)"
+  ],
+  "total_segments": 4,
+  "manuscript_sources_on_page": ["甲戌本", "脂砚斋"]
+}
