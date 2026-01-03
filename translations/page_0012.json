@@ -1,0 +1,104 @@
+{
+  "page": 12,
+  "chapter": "第一回",
+  "chapter_title": {
+    "original": "甄士隐梦幻识通灵　贾雨村风尘怀闺秀",
+    "zh_modern": "甄士隐在梦幻中认识了通灵宝玉，贾雨村在落魄风尘中思念闺中秀女",
+    "en": "Zhen Shiyin in a Dream Perceives the Jade of Spiritual Understanding; Jia Yucun in Worldly Dust Thinks Fondly of a Lovely Maiden",
+    "ru": "Чжэнь Шиинь во сне постигает волшебную яшму познания; Цзя Юйцунь в бренном мире вспоминает прекрасную деву",
+    "ja": "甄士隠、夢幻の中で通霊を識り、賈雨村、風塵にありて閨秀を懐う"
+  },
+  "page_content_type": "chapter_start",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "此开卷第一回也。作者自云：因曾历过一番梦幻之后，故将真事隐去，而借「通灵」之说，撰此《石头记》一书也。故曰「甄士隐」云云。但书中所记何事何人？自又云：「今风尘碌碌，一事无成，忽念及当日所有之女子，一一细考较去，觉其行止见识皆出于我之上。何我堂堂须眉，诚不若此裙钗哉？」",
+      "zh_modern": "这是开卷的第一回。作者自己说：因为曾经历过一番梦幻般的经历之后，所以将真实的事情隐藏起来，借用「通灵宝玉」的传说，撰写了这部《石头记》一书。所以说「甄士隐」云云。但书中记述的是什么事、什么人呢？作者又说：「如今在尘世中忙碌奔波，一事无成，忽然想起当年所认识的那些女子，一一仔细考较下来，觉得她们的行为举止、见识才能都在我之上。为什么我堂堂男子汉，竟然不如这些女子呢？」",
+      "en": "This is the first chapter of the opening. The author himself says: Having once passed through a dreamlike experience, he concealed the true events and, borrowing the tale of the 'Jade of Spiritual Understanding,' composed this book called The Story of the Stone. Hence the name 'Zhen Shiyin' (True Events Hidden) and so forth. But what events and people does the book record? He further says: 'Now, busy toiling in the dust of the world with nothing accomplished, I suddenly recalled all the women I once knew. Examining them one by one, I found that their conduct and understanding all surpassed my own. Why is it that I, a proper man, am truly inferior to these women?'",
+      "ru": "Это первая глава книги. Автор сам говорит: пережив некогда сновидческий опыт, он скрыл истинные события и, позаимствовав легенду о «Яшме Духовного Познания», написал эту книгу под названием «Записки о Камне». Отсюда имя «Чжэнь Шиинь» (Истинные События Скрыты) и так далее. Но какие события и люди записаны в книге? Он далее говорит: «Ныне, занятый суетой в мирской пыли, ничего не достигнув, я внезапно вспомнил всех женщин, которых когда-то знал. Рассматривая их одну за другой, я обнаружил, что их поведение и понимание превосходили мои собственные. Почему же я, настоящий мужчина, поистине уступаю этим женщинам?'",
+      "ja": "これが開巻の第一回である。作者自ら言う：かつて夢幻の如き経験を経た後、真実の出来事を隠し、「通霊」の説を借りて、この『石頭記』一書を著したと。故に「甄士隠」云々と言う。但し書中に記すは何事何人か？また自ら言う：「今、風塵に碌々として、一事成ることなく、忽ち当日の所有の女子を念い起こし、一々細かに考較し去れば、その行止見識、皆我が上に出づるを覚ゆ。何ぞ我、堂々たる鬚眉にして、誠にこの裙釵に若かざるや」と。",
+      "commentary": [
+        {
+          "type": "眉批",
+          "source": "庚辰本",
+          "position": "top margin",
+          "original": "何非梦幻，何不通灵？作者托言，原当有自。受气清浊，本无男女之别。",
+          "zh_modern": "什么不是梦幻，什么不是通灵？作者的托言，本来自有出处。接受清浊之气，本来没有男女之分。",
+          "en": "What is not a dream? What does not possess spiritual understanding? The author's borrowed words originally have their source. In receiving the clear and turbid vital essences, there is fundamentally no distinction between men and women.",
+          "ru": "Что не является сном? Что не обладает духовным пониманием? Заимствованные слова автора изначально имеют свой источник. В получении чистых и мутных жизненных сущностей нет принципиального различия между мужчинами и женщинами.",
+          "ja": "何ぞ夢幻に非ざらん、何ぞ通霊ならざらん。作者の托言、原より自ずから出処あり。気を受くるに清濁あれど、本より男女の別なし。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline after 编述一集，以告普天下人",
+          "original": "实愧则有余，悔又无益之大无可如何之日也！当此，则自欲将已往所赖天恩祖德，锦衣纨绔之时，饫甘餍肥之日，背父兄教育之恩，负师友规谈之德，以至今日一技无成、半生潦倒之罪，编述一集，以告天下人。",
+          "zh_modern": "实在是惭愧有余，后悔也无济于事的大无可奈何之日啊！在这样的时候，便想要将以往所依赖的天恩祖德、锦衣华服之时、饱食甘美之日、辜负父兄教育之恩、有负师友规劝之德，以至于今日一技无成、半生落魄的罪过，编述成一集，以告知天下人。",
+          "en": "It is truly a day of excessive shame, when regret serves no purpose and there is nothing to be done! At such a time, one wishes to compile a record of all that was relied upon in the past—the grace of Heaven and virtue of ancestors, the days of silk garments, the times of rich food, the betrayal of parents' and brothers' nurturing, the failure to uphold teachers' and friends' guidance—all leading to today's state of having mastered nothing and a lifetime half-spent in destitution, to tell all under heaven.",
+          "ru": "Это поистине день чрезмерного стыда, когда сожаление бесполезно и ничего нельзя поделать! В такое время хочется составить запись обо всём, на что полагался в прошлом — милость Неба и добродетель предков, дни шёлковых одежд, времена изысканной пищи, предательство родительской и братской заботы, неисполнение наставлений учителей и друзей — всё это привело к сегодняшнему состоянию, когда ничего не освоено и полжизни проведено в нищете, чтобы рассказать всем под небесами.",
+          "ja": "実に愧ずるところ余りあり、悔いても益なき大いに如何ともし難き日なり！この時に当たり、すなわち已往の頼みたる天恩祖徳、錦衣紈袴の時、甘きを飫き肥えたるを餍く日、父兄の教育の恩に背き、師友の規談の徳に負い、ついに今日一技も成らず、半生落魄の罪を、編述して一集と成し、天下の人に告げんと欲す。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "列位看官，你道此书从何而来？说起根由虽近荒唐，◇自首荒唐，妙！细谙则深有趣味。待在下将此来历注明，方使阅者了然不惑。",
+      "zh_modern": "各位看官，你们说这本书从哪里来的？说起根由虽然近乎荒唐，◇自称荒唐，妙！但细细体会则深有趣味。待在下将此来历注明清楚，方能使读者了然于心、不再疑惑。",
+      "en": "Dear readers, where do you suppose this book came from? Though its origins may seem absurd, ◇[Commentary: To call itself absurd—wonderful!] when examined closely, there is deep meaning to savor. Allow me to explain its history clearly, so that readers may understand without confusion.",
+      "ru": "Дорогие читатели, как вы думаете, откуда взялась эта книга? Хотя её происхождение может показаться абсурдным, ◇[Комментарий: Называть себя абсурдной — чудесно!] при внимательном рассмотрении в ней обнаруживается глубокий смысл. Позвольте мне ясно изложить её историю, чтобы читатели могли понять без затруднений.",
+      "ja": "列位の看官よ、汝らはこの書が何処より来たるかを道うか？根由を説き起こせば荒唐に近しといえども、◇自ら荒唐と首す、妙なり！細かに諳ずれば深く趣味あり。下に此の来歴を注明するを待ちて、方に閲者をして了然として惑わざらしめん。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline after 虽近荒唐",
+          "original": "自首荒唐，妙！",
+          "zh_modern": "自称荒唐，妙！",
+          "en": "To call itself absurd—wonderful!",
+          "ru": "Называть себя абсурдной — чудесно!",
+          "ja": "自ら荒唐と首す、妙なり！"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "原来，女娲氏炼石补天之时，◇补天济世，勿认真，用常言。于大荒",
+      "zh_modern": "原来，当女娲氏炼石补天的时候，◇补天济世，不要认真看待，这是用的常见说法。在大荒",
+      "en": "Originally, when the goddess Nüwa was smelting stones to repair the sky, ◇[Commentary: 'Repairing the sky and saving the world'—don't take it seriously, this uses common expressions.] In the Great Wasteland",
+      "ru": "Изначально, когда богиня Нюйва плавила камни для починки неба, ◇[Комментарий: «Чинить небо и спасать мир» — не воспринимайте серьёзно, это использует обычные выражения.] В Великой Пустоши",
+      "ja": "原来、女媧氏、石を煉りて天を補う時、◇天を補い世を済う、真に認むることなかれ、常言を用いたり。大荒に於いて",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline after 补天之时",
+          "original": "补天济世，勿认真，用常言。",
+          "zh_modern": "补天济世，不要认真，这是用的常见说法。",
+          "en": "'Repairing the sky and saving the world'—don't take it seriously, this uses common expressions.",
+          "ru": "«Чинить небо и спасать мир» — не воспринимайте серьёзно, это использует обычные выражения.",
+          "ja": "天を補い世を済う、真に認むることなかれ、常言を用いたり。"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "「甄士隐」(Zhen Shiyin) is explicitly a pun on 真事隐 (true events hidden) - the author's statement that real events are concealed in fiction",
+    "「通灵」(tongling) means 'spiritual understanding' or 'supernatural communication' - referring to the jade that gives Baoyu his name",
+    "「石头记」(Story of the Stone) is the original title, predating 红楼梦 (Dream of the Red Chamber)",
+    "The commentary ◇ marker indicates where the original text had interlinear notes - the green text is from 庚辰本, red from 甲戌本",
+    "「女娲补天」(Nüwa repairing the sky) is a fundamental Chinese creation myth - the unused stone becomes the protagonist",
+    "The author's self-deprecation about being inferior to women is characteristic of the novel's proto-feminist themes"
+  ],
+  "research_notes": [
+    "This page shows the complex interplay of main text and commentary that characterizes the Zhiping manuscripts",
+    "The different colored commentaries indicate different manuscript sources - crucial for textual criticism",
+    "The 庚辰本 comment about 'no distinction between men and women' in receiving vital essence reflects Daoist philosophy",
+    "The extended 甲戌本 commentary mirrors and expands the main text, showing how commentators engaged with the work"
+  ],
+  "characters_appearing": ["女娲"],
+  "total_segments": 3,
+  "manuscript_sources_on_page": ["甲戌本", "庚辰本"]
+}

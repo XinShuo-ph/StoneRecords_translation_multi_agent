@@ -3,12 +3,12 @@
 ## Status
 - **Branch**: cursor/hong-lou-meng-translation-01d9
 - **Short ID**: 01d9
-- **Heartbeat**: 1767406200
+- **Heartbeat**: 1767406700
 - **Status**: translating
 
 ## Current Work
-- **Claimed Page**: 11
-- **Started At**: 1767406200
+- **Claimed Page**: 14
+- **Started At**: 1767406700
 - **Current Step**: research
 
 ## Completed Pages
@@ -21,6 +21,9 @@
 | 5    | 电子版制作说明 | 1767405740 | - | 4 |
 | 6    | 目录    | 1767406000   | - | 21 |
 | 7    | 目录    | 1767406100   | - | 27 |
+| 11   | 凡例    | 1767406400   | - | 4 |
+| 12   | 第一回  | 1767406500   | - | 3 |
+| 13   | 第一回  | 1767406650   | - | 4 |
 
 ## Known Workers (Last Sync at 1767406200)
 | Short ID | Status | Pages Completed |
@@ -37,4 +40,5 @@
 | e575     | active | 2-10 |
 
 ## Notes
-Completed pages 1-7 (front matter + TOC). Skipping to page 11 (start of 凡例) since pages 1-10 are well covered by other workers.
+Completed pages 1-7, 11-13. Skipping pages 8-10 as they're being handled by other workers.
+Working on Chapter 1 (第一回) - the creation myth with the Stone's origin story.
