@@ -1,0 +1,65 @@
+{
+  "page": 9,
+  "chapter": "目录",
+  "chapter_title": {
+    "original": "红楼梦脂评汇校本目录（续完）",
+    "zh_modern": "红楼梦脂评汇校本目录（续完）",
+    "en": "Table of Contents (conclusion)",
+    "ru": "Оглавление (завершение)",
+    "ja": "目次（続完）"
+  },
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 9,
+      "type": "preface",
+      "original": "第七十五回 开夜宴异兆发悲音 赏中秋新词得佳谶\n第七十六回 凸碧堂品笛感凄清 凹晶馆联诗悲寂寞\n第七十七回 俏丫鬟抱屈夭风流 美优伶斩情归水月\n第七十八回 老学士闲征姽婳词 痴公子杜撰芙蓉诔\n第七十九回 薛文龙悔娶河东狮 贾迎春误嫁中山狼\n第八十回 薛文龙悔娶河东狮 贾迎春误嫁中山狼（续）",
+      "zh_modern": "第七十五回 开夜宴异兆发悲音，赏中秋新词得佳谶\n第七十六回 凸碧堂品笛感凄清，凹晶馆联诗悲寂寞\n第七十七回 俏丫鬟抱屈夭风流，美优伶斩情归水月\n第七十八回 老学士闲征姽婳词，痴公子杜撰芙蓉诔\n第七十九回 薛文龙悔娶河东狮，贾迎春误嫁中山狼\n第八十回 薛文龙悔娶河东狮，贾迎春误嫁中山狼（续）",
+      "en": "Chapter 75: Opening a Night Banquet, Strange Omens Emit Mournful Sounds; Appreciating Mid-Autumn Festival New Verses, They Obtain Auspicious Prophecies\nChapter 76: At Convex Jade Hall Savoring the Flute They Feel Desolation; At Concave Crystal Pavilion Linking Poems They Lament Loneliness\nChapter 77: A Pretty Maid Suffers Injustice and Dies Young; A Beautiful Actor Severs Passion and Returns to Water and Moon\nChapter 78: An Old Scholar Leisurely Solicits Verses on Loyal Maidens; An Infatuated Young Master Composes a Hibiscus Elegy\nChapter 79: Xue Wenlong Regrets Marrying a Hedong Lioness; Jia Yingchun Mistakenly Weds a Zhongshan Wolf\nChapter 80: Xue Wenlong Regrets Marrying a Hedong Lioness; Jia Yingchun Mistakenly Weds a Zhongshan Wolf (continued)",
+      "ru": "Глава 75: Открывая ночной банкет, странные предзнаменования издают скорбные звуки; наслаждаясь новыми стихами праздника середины осени, они получают благоприятные пророчества\nГлава 76: В выпуклом нефритовом зале, смакуя флейту, они чувствуют опустошение; в вогнутом хрустальном павильоне, связывая стихи, они оплакивают одиночество\nГлава 77: Хорошенькая служанка терпит несправедливость и умирает молодой; красивый актер разрывает страсть и возвращается к воде и луне\nГлава 78: Старый ученый небрежно просит стихи о верных девах; влюбленный молодой мастер сочиняет элегию гибискуса\nГлава 79: Сюэ Вэньлун сожалеет о женитьбе на львице Хэдун; Цзя Инчунь ошибочно выходит замуж за волка Чжуншань\nГлава 80: Сюэ Вэньлун сожалеет о женитьбе на львице Хэдун; Цзя Инчунь ошибочно выходит замуж за волка Чжуншань (продолжение)",
+      "ja": "第七十五回：夜宴を開き異兆悲音を発し、中秋を賞して新詞佳讖を得\n第七十六回：凸碧堂、笛を品して凄清を感じ、凹晶館、詩を聯ねて寂寞を悲しむ\n第七十七回：俏丫鬟、屈を抱き風流に夭し、美優伶、情を斬りて水月に帰す\n第七十八回：老学士、閑に姽嫿の詞を徴し、痴公子、芙蓉の誄を杜撰す\n第七十九回：薛文龍、河東の獅を娶るを悔い、賈迎春、中山の狼に嫁するを誤る\n第八十回：薛文龍、河東の獅を娶るを悔い、賈迎春、中山の狼に嫁するを誤る（続）",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "pdf_page": 9,
+      "type": "preface",
+      "original": "附录一 《红楼梦》各抄本收藏者序跋\n附录二 存世脂评系统《红楼梦》版本简介\n附录三 毛国瑶抄录靖藏本批语一百五十条",
+      "zh_modern": "附录一 《红楼梦》各抄本收藏者序跋\n附录二 存世脂评系统《红楼梦》版本简介\n附录三 毛国瑶抄录靖藏本批语一百五十条",
+      "en": "Appendix 1: Prefaces and Postscripts by Collectors of Various Dream of the Red Chamber Manuscripts\nAppendix 2: Brief Introduction to Extant Zhiping Commentary System Editions of Dream of the Red Chamber\nAppendix 3: 150 Commentaries from the Jing Collection Transcribed by Mao Guoyao",
+      "ru": "Приложение 1: Предисловия и послесловия коллекционеров различных рукописей «Сна в красном тереме»\nПриложение 2: Краткое введение в существующие издания «Сна в красном тереме» с комментариями системы Чжипин\nПриложение 3: 150 комментариев из коллекции Цзин, переписанные Мао Гояо",
+      "ja": "附録一：『紅楼夢』各写本収蔵者の序跋\n附録二：現存脂評系統『紅楼夢』版本簡介\n附録三：毛国瑶抄録靖蔵本批語百五十条",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "pdf_page": 9,
+      "type": "preface",
+      "original": "《红楼梦脂评汇校本》电子版校读札记",
+      "zh_modern": "《红楼梦脂评汇校本》电子版校读札记",
+      "en": "Proofreading Notes on the Digital Edition of Dream of the Red Chamber: Collated Edition with Zhiping Commentary",
+      "ru": "Примечания по корректуре электронного издания «Сна в красном тереме: Сводное издание с комментариями Чжипин»",
+      "ja": "『紅楼夢脂評彙校本』電子版校読札記",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "This page concludes the table of contents with the final chapters (75-80) of Cao Xueqin's authentic 80-chapter version",
+    "Chapters 79-80 are split, indicating they may have been particularly long or complex in the source manuscripts",
+    "The inclusion of three substantial appendices indicates this is a scholarly edition with extensive supplementary materials",
+    "河东狮 (Hedong lioness) is a traditional Chinese idiom for a domineering wife",
+    "中山狼 (Zhongshan wolf) comes from a classical fable about an ungrateful wolf, metaphor for a cruel, ungrateful person",
+    "The appendices include important manuscript history and commentary materials essential for textual scholarship",
+    "The final item 'Proofreading Notes' suggests ongoing scholarly work on the digital edition"
+  ],
+  "research_notes": [
+    "The 80-chapter version represents Cao Xueqin's authentic text; the common 120-chapter version includes 40 chapters by later continuators",
+    "These final chapters show the family's complete decline and multiple tragic outcomes",
+    "The Jing Collection manuscript (靖藏本) mentioned in Appendix 3 is particularly important but no longer extant; Mao Guoyao's transcriptions preserve its unique commentaries",
+    "The division of Chapter 79-80 may reflect manuscript page breaks or narrative complexity"
+  ],
+  "characters_appearing": [],
+  "total_segments": 3,
+  "manuscript_sources_on_page": []
+}

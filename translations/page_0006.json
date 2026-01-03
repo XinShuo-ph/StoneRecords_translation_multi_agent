@@ -1,0 +1,62 @@
+{
+  "page": 6,
+  "chapter": "目录",
+  "chapter_title": {
+    "original": "红楼梦脂评汇校本目录",
+    "zh_modern": "红楼梦脂评汇校本目录",
+    "en": "Table of Contents: Dream of the Red Chamber - Collated Edition with Zhiping Commentary",
+    "ru": "Оглавление: Сон в красном тереме - Сводное издание с комментариями Чжипин",
+    "ja": "紅楼夢脂評彙校本目次"
+  },
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 6,
+      "type": "title",
+      "original": "红楼梦脂评汇校本目录",
+      "zh_modern": "红楼梦脂评汇校本目录",
+      "en": "Table of Contents: Dream of the Red Chamber - Collated Edition with Zhiping Commentary",
+      "ru": "Оглавление: Сон в красном тереме - Сводное издание с комментариями Чжипин",
+      "ja": "紅楼夢脂評彙校本目次",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "pdf_page": 6,
+      "type": "preface",
+      "original": "脂砚斋重评石头记凡例",
+      "zh_modern": "脂砚斋重评石头记凡例",
+      "en": "Zhiyan Zhai's Revised Commentary on The Story of the Stone: Editorial Principles",
+      "ru": "Пересмотренные комментарии Чжиянь Чжая к «Запискам о камне»: Редакционные принципы",
+      "ja": "脂硯斎重評石頭記凡例",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "pdf_page": 6,
+      "type": "preface",
+      "original": "第一回 甄士隐梦幻识通灵 贾雨村风尘怀闺秀\n第二回 贾夫人仙逝扬州城 冷子兴演说荣国府\n第三回 金陵城起复贾雨村 荣国府收养林黛玉\n第四回 薄命女偏逢薄命郎 葫芦僧乱判葫芦案\n第五回 开生面梦演红楼梦 立新场情传幻境情\n第六回 贾宝玉初试云雨情 刘姥姥一进荣国府\n第七回 送宫花周瑞叹英莲 谈肄业秦钟结宝玉\n第八回 薛宝钗小恙梨香院 贾宝玉大醉绛芸轩\n第九回 恋风流情友入家塾 起嫌疑顽童闹学堂\n第十回 金寡妇贪利权受辱 张太医论病细穷源\n第十一回 庆寿辰宁府排家宴 见熙凤贾瑞起淫心\n第十二回 王熙凤毒设相思局 贾天祥正照风月鉴\n第十三回 秦可卿死封龙禁尉 王熙凤协理宁国府\n第十四回 林如海捐馆扬州城 贾宝玉路谒北静王\n第十五回 王熙凤弄权铁槛寺 秦鲸卿得趣馒头庵\n第十六回 贾元春才选凤藻宫 秦鲸卿夭逝黄泉路\n第十七回 大观园试才题对额 荣国府归省庆元宵\n第十八回 大观园试才题对额 荣国府归省庆元宵（续）\n第十九回 情切切良宵花解语 意绵绵静日玉生香\n第二十回 王熙凤正言弹妒意 林黛玉俏语谑娇音",
+      "zh_modern": "第一回 甄士隐在梦幻中认识通灵宝玉，贾雨村在风尘中怀念闺秀\n第二回 贾夫人仙逝扬州城，冷子兴演说荣国府\n第三回 金陵城起复贾雨村，荣国府收养林黛玉\n第四回 薄命女偏逢薄命郎，葫芦僧乱判葫芦案\n第五回 开生面梦演红楼梦，立新场情传幻境情\n第六回 贾宝玉初试云雨情，刘姥姥一进荣国府\n第七回 送宫花周瑞叹英莲，谈肄业秦钟结宝玉\n第八回 薛宝钗小恙梨香院，贾宝玉大醉绛芸轩\n第九回 恋风流情友入家塾，起嫌疑顽童闹学堂\n第十回 金寡妇贪利权受辱，张太医论病细穷源\n第十一回 庆寿辰宁府排家宴，见熙凤贾瑞起淫心\n第十二回 王熙凤毒设相思局，贾天祥正照风月鉴\n第十三回 秦可卿死封龙禁尉，王熙凤协理宁国府\n第十四回 林如海捐馆扬州城，贾宝玉路谒北静王\n第十五回 王熙凤弄权铁槛寺，秦鲸卿得趣馒头庵\n第十六回 贾元春才选凤藻宫，秦鲸卿夭逝黄泉路\n第十七回 大观园试才题对额，荣国府归省庆元宵\n第十八回 大观园试才题对额，荣国府归省庆元宵（续）\n第十九回 情切切良宵花解语，意绵绵静日玉生香\n第二十回 王熙凤正言弹妒意，林黛玉俏语谑娇音",
+      "en": "Chapter 1: Zhen Shiyin in a Dream Perceives the Jade of Spiritual Understanding; Jia Yucun in Humble Circumstances Thinks Fondly of a Beautiful Maiden\nChapter 2: Lady Jia Passes Away in Yangzhou; Leng Zixing Discourses on the Rong Mansion\nChapter 3: Jia Yucun Is Restored to Office in Jinling; The Rong Mansion Takes in Lin Daiyu\nChapter 4: An Ill-Fated Girl Meets an Ill-Fated Youth; A Muddled Monk Misjudges a Muddled Case\nChapter 5: A Fresh Scene Opens as the Dream演 the Dream of the Red Chamber; A New Stage Is Set as Passion Transmits the Passion of the Illusory Realm\nChapter 6: Jia Baoyu Makes His First Trial of Cloud and Rain; Grannie Liu Enters the Rong Mansion for the First Time\nChapter 7: Delivering Palace Flowers, Zhou Rui Sighs for Yinglian; Discussing Studies, Qin Zhong Befriends Baoyu\nChapter 8: Xue Baochai Falls Slightly Ill at Pear Fragrance Court; Jia Baoyu Gets Thoroughly Drunk at the Crimson Clouds Pavilion\nChapter 9: A Romantic Friend Enters the Family School; A Mischievous Boy Creates Havoc in the Study Hall\nChapter 10: The Golden Widow Suffers Humiliation from Greed for Power; Doctor Zhang Diagnoses Illness and Traces Its Source\nChapter 11: Celebrating a Birthday, the Ning Mansion Arranges a Family Feast; Meeting Xi-feng, Jia Rui Conceives Lustful Thoughts\nChapter 12: Wang Xi-feng Wickedly Lays a Lovesickness Trap; Jia Tianxiang Gazes into the Mirror of风月\nChapter 13: Qin Keqing Dies and Is Posthumously Enfeoffed; Wang Xi-feng Assists in Managing the Ning Mansion\nChapter 14: Lin Ruhai Passes Away in Yangzhou; Jia Baoyu on the Road Pays Respects to Prince Beijing\nChapter 15: Wang Xi-feng Abuses Her Authority at Iron Threshold Temple; Qin Jingqing Finds Pleasure at Steamed Bun Nunnery\nChapter 16: Jia Yuanchun Is Selected for the Phoenix-藻 Palace; Qin Jingqing Dies Young on the Road to the Yellow Springs\nChapter 17: The Grand View Garden—Testing Talent in Composing Couplets for Plaques; The Rong Mansion—Homecoming Visit to Celebrate the Lantern Festival\nChapter 18: The Grand View Garden—Testing Talent in Composing Couplets for Plaques; The Rong Mansion—Homecoming Visit to Celebrate the Lantern Festival (continued)\nChapter 19: With Tender Affection on a Fine Night, Flowers Understand Words; With Lingering Feelings on a Quiet Day, Jade Produces Fragrance\nChapter 20: Wang Xi-feng Speaks Frankly to Combat Jealousy; Lin Daiyu Uses Clever Banter to Tease a Charming Voice",
+      "ru": "Глава 1: Чжэнь Шиинь во сне постигает яшму духовного познания; Цзя Юйцунь в бедности вспоминает прекрасную деву\nГлава 2: Госпожа Цзя скончалась в Янчжоу; Лэн Цзысин рассказывает о доме Жун\nГлава 3: Цзя Юйцунь восстановлен в должности в Цзиньлине; дом Жун принимает Линь Дайюй\nГлава 4: Несчастная девушка встречает несчастного юношу; запутавшийся монах неверно судит запутанное дело\nГлава 5: Открывается новая сцена, когда сон воплощает Сон в красном тереме; устанавливается новая арена, когда страсть передает страсть призрачной обители\nГлава 6: Цзя Баоюй впервые пробует облака и дождь; бабушка Лю впервые входит в дом Жун\nГлава 7: Доставляя дворцовые цветы, Чжоу Жуй вздыхает об Инлянь; обсуждая учебу, Цинь Чжун подружился с Баоюем\nГлава 8: Сюэ Баочай слегка занемогла во дворе грушевого аромата; Цзя Баоюй сильно опьянел в павильоне алых облаков\nГлава 9: Романтический друг входит в семейную школу; озорной мальчик устраивает беспорядок в учебном зале\nГлава 10: Золотая вдова терпит унижение из-за жадности к власти; доктор Чжан ставит диагноз и выявляет источник болезни\nГлава 11: Празднуя день рождения, дом Нин устраивает семейный пир; встретив Сифэн, Цзя Жуй зачал похотливые мысли\nГлава 12: Ван Сифэн злонамеренно устраивает ловушку любовной тоски; Цзя Тяньсян смотрит в зеркало ветра и луны\nГлава 13: Цинь Кэцин умирает и посмертно пожалована; Ван Сифэн помогает управлять домом Нин\nГлава 14: Линь Жухай скончался в Янчжоу; Цзя Баоюй в дороге платит дань уважения принцу Бэйцзину\nГлава 15: Ван Сифэн злоупотребляет властью в храме железного порога; Цинь Цзинцин находит удовольствие в монастыре паровых булочек\nГлава 16: Цзя Юаньчунь избрана во дворец феникса и водорослей; Цинь Цзинцин умирает молодым на пути к желтым источникам\nГлава 17: Сад великого вида—испытание таланта в сочинении куплетов для табличек; дом Жун—визит возвращения домой для празднования праздника фонарей\nГлава 18: Сад великого вида—испытание таланта в сочинении куплетов для табличек; дом Жун—визит возвращения домой для празднования праздника фонарей (продолжение)\nГлава 19: С нежной привязанностью прекрасной ночью цветы понимают слова; с затяжными чувствами тихого дня яшма производит аромат\nГлава 20: Ван Сифэн говорит откровенно, чтобы бороться с ревностью; Линь Дайюй использует умное подтрунивание, чтобы дразнить очаровательный голос",
+      "ja": "第一回：甄士隠、夢幻の中で通霊を識り、賈雨村、風塵にありて閨秀を懐う\n第二回：賈夫人、揚州城に仙逝し、冷子興、栄国府を演説す\n第三回：金陵城、賈雨村を起復し、栄国府、林黛玉を収養す\n第四回：薄命の女、偏に薄命の郎に逢い、葫蘆僧、葫蘆の案を乱判す\n第五回：生面を開き夢に紅楼夢を演じ、新場を立て情に幻境の情を伝う\n第六回：賈宝玉、初めて雲雨の情を試み、劉姥姥、一たび栄国府に進む\n第七回：宮花を送り周瑞英蓮を嘆き、肄業を談じ秦鐘宝玉と結ぶ\n第八回：薛宝釵、梨香院に小恙あり、賈宝玉、絳芸軒に大いに酔う\n第九回：風流を恋う情友、家塾に入り、嫌疑を起す頑童、学堂を鬧がす\n第十回：金の寡婦、利権を貪り辱めを受け、張太医、病を論じ細かに源を窮む\n第十一回：寿辰を慶び寧府家宴を排し、熙鳳を見て賈瑞淫心を起す\n第十二回：王熙鳳、毒に相思の局を設け、賈天祥、正しく風月の鑑を照らす\n第十三回：秦可卿、死して龍禁尉に封ぜられ、王熙鳳、寧国府を協理す\n第十四回：林如海、揚州城に捐館し、賈宝玉、路にて北静王に謁す\n第十五回：王熙鳳、鉄檻寺に権を弄し、秦鯨卿、饅頭庵に趣を得\n第十六回：賈元春、才もて鳳藻宮に選ばれ、秦鯨卿、夭として黄泉の路に逝く\n第十七回：大観園にて才を試み対額に題し、栄国府にて省に帰り元宵を慶ぶ\n第十八回：大観園にて才を試み対額に題し、栄国府にて省に帰り元宵を慶ぶ（続）\n第十九回：情切切たる良宵に花は語を解し、意綿綿たる静日に玉は香を生ず\n第二十回：王熙鳳、正言もて妒意を弾き、林黛玉、俏語もて嬌音を謔る",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "This is the table of contents showing the first 20 chapters of the 80-chapter authentic version",
+    "Each chapter title is a couplet (對聯) that summarizes the chapter's two main plot threads",
+    "The 凡例 (Editorial Principles) that precedes Chapter 1 is an important paratext explaining the work's approach",
+    "Chapter titles often contain puns and wordplay that convey multiple layers of meaning",
+    "The translation preserves character names in Pinyin romanization for consistency with scholarly conventions"
+  ],
+  "research_notes": [
+    "Consulted existing translations (Hawkes, Yang) for chapter title approaches",
+    "Chapter titles require balance between literal accuracy and literary elegance",
+    "The dual structure of chapter titles reflects the novel's complex narrative weaving"
+  ],
+  "characters_appearing": [],
+  "total_segments": 3,
+  "manuscript_sources_on_page": []
+}

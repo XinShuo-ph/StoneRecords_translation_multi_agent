@@ -1,0 +1,72 @@
+{
+  "page": 2,
+  "chapter": "扉页",
+  "chapter_title": {
+    "original": "红楼梦脂评匯校本",
+    "zh_modern": "红楼梦脂评汇校本",
+    "en": "Dream of the Red Chamber: Collated Edition with Zhiping Commentary",
+    "ru": "Сон в красном тереме: Сводное издание с комментариями Чжипин",
+    "ja": "紅楼夢脂評彙校本"
+  },
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 2,
+      "type": "title",
+      "original": "红楼梦脂评匯校本",
+      "zh_modern": "红楼梦脂评汇校本",
+      "en": "Dream of the Red Chamber: Collated Edition with Zhiping Commentary",
+      "ru": "Сон в красном тереме: Сводное издание с комментариями Чжипин",
+      "ja": "紅楼夢脂評彙校本",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "pdf_page": 2,
+      "type": "preface",
+      "original": "曹雪芹著／脂砚斋评",
+      "zh_modern": "曹雪芹著，脂砚斋评",
+      "en": "Written by Cao Xueqin / Commentary by Zhiyan Zhai",
+      "ru": "Написано Цао Сюэцинем / Комментарии Чжиянь Чжая",
+      "ja": "曹雪芹著・脂硯斎評",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "pdf_page": 2,
+      "type": "preface",
+      "original": "Kolistan 汇校整理、制作",
+      "zh_modern": "Kolistan 汇校整理、制作",
+      "en": "Collated and produced by Kolistan",
+      "ru": "Составлено и подготовлено Kolistan",
+      "ja": "Kolistan 彙校整理・制作",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "pdf_page": 2,
+      "type": "preface",
+      "original": "抚琴居红楼梦文学社区发布",
+      "zh_modern": "抚琴居红楼梦文学社区发布",
+      "en": "Published by Fuqinju Dream of the Red Chamber Literary Community",
+      "ru": "Опубликовано литературным сообществом «Фуциньцзюй» по изучению «Сна в красном тереме»",
+      "ja": "撫琴居紅楼夢文学コミュニティ発行",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "This is the formal inner title page (扉页) with publication details",
+    "抚琴居 (Fuqinju) literally means 'Zither-Stroking Dwelling' - a scholarly literary name",
+    "The use of traditional characters 匯 (hui) instead of simplified 汇 on the cover reflects the classical nature of the text",
+    "Kolistan appears to be the compiler/editor who created this collated digital edition"
+  ],
+  "research_notes": [
+    "This page provides formal bibliographic information for the digital edition",
+    "The community-based publication reflects modern collaborative scholarship on 红楼梦",
+    "Digital collated editions have become important resources for comparative textual study"
+  ],
+  "characters_appearing": [],
+  "total_segments": 4,
+  "manuscript_sources_on_page": []
+}
