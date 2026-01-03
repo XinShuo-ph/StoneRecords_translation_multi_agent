@@ -1,0 +1,96 @@
+{
+  "page": 48,
+  "chapter": "第二回",
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 48,
+      "type": "prose",
+      "original": "公差笑道：“正问他。今有新太爷到任，传唤他问话。既是出家去了，你是他岳丈，也须过去回明太爷才好。”",
+      "zh_modern": "公差笑道：“正是问他。今天新太爷到任，传唤他问话。既然出家去了，你是他的岳丈，也必须过去向太爷回禀明白才好。”",
+      "en": "The messenger laughed: “It is precisely him we are asking for. The new magistrate has arrived today and summons him for questioning. Since he has become a monk, you are his father-in-law, so you must go and report clearly to the magistrate.”",
+      "ru": "Гонец усмехнулся: «Именно о нем и спрашиваем. Сегодня прибыл новый судья и вызывает его для расспросов. Раз он ушел в монахи, ты, как его тесть, должен пойти и доложить об этом судье».",
+      "ja": "公差は笑いて言う、「正に彼を問う。今、新太爺（しんたいや）任に到り、彼を伝喚して話を問わんとす。既に家を出で去らば、汝はこれ彼の岳丈なれば、またすべからく過去（ゆ）きて太爺に回明してはじめて好し」と。",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "pdf_page": 48,
+      "type": "prose",
+      "original": "封肃听了，唬得目瞪口呆，只得勉强陪着公差到衙门去。",
+      "zh_modern": "封肃听了，吓得目瞪口呆，只得勉强陪着公差到衙门去。",
+      "en": "Hearing this, Feng Su was frightened dumbstruck, but he had no choice but to force himself to accompany the messengers to the yamen.",
+      "ru": "Фэн Су, услышав это, остолбенел от испуга, но был вынужден через силу сопровождать гонцов в ямэнь.",
+      "ja": "封粛は聴き、唬（おど）ろかされて目瞪（みは）り口呆（あ）き、することを得ず強いて公差に陪して衙門（がもん）へ去く。",
+      "commentary": [
+        {
+          "type": "甲戌侧批",
+          "source": "甲戌本",
+          "position": "right margin",
+          "original": "写得如画。",
+          "zh_modern": "写得像画一样生动。",
+          "en": "Written as vividly as a painting.",
+          "ru": "Написано живо, как картина.",
+          "ja": "写すこと画のごとし。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "pdf_page": 48,
+      "type": "prose",
+      "original": "只见大堂上威仪森严，那太爷坐在上面，你看他怎生模样？\n敝巾旧服虽潜身，\n到底才高气不群。\n眼底又看翻覆事，\n心头更想往来人。",
+      "zh_modern": "只见大堂上威风凛凛、仪仗森严，那位太爷坐在上面，你看他是怎样的模样？\n虽然穿着破旧的头巾衣服隐身在市井，\n到底才华高超、气质不凡。\n眼中又看惯了世事翻覆无常，\n心头更是想念着往来的故人。",
+      "en": "He saw the great hall was stern and majestic in its dignity. The magistrate sat above. Look, what was his appearance?\nThough hiding in worn turban and old clothes,\nHis high talent and spirit stood apart from the crowd.\nHaving seen the overturning of worldly affairs before his eyes,\nHis heart thought even more of the people from his past.",
+      "ru": "Он увидел, что в главном зале царит суровое величие. Судья восседал наверху. Взгляните, каков же был его облик?\nХоть скрывался в ветхой шапке и старых одеждах,\nНо талант высок и дух его необычаен.\nВ глазах видал он превратностей круговорот,\nА в сердце думал о людях, что встречались в пути.",
+      "ja": "只だ見る大堂の上、威儀森厳にして、かの太爺は上面に坐す。汝看よ、彼は怎生（いか）なる模樣ぞ？\n敝巾（へいきん）旧服、身を潜むといえども、\n到底才高く気は群ならず。\n眼底また見る翻覆の事、\n心頭更に想う往来の人。",
+      "poem_notes": {
+        "form": "Poem/Verse",
+        "literary_devices": ["Description of Yucun", "Recall of past kindness"]
+      },
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "pdf_page": 48,
+      "type": "prose",
+      "original": "原来这新官不是别人，就是那大如州葫芦庙内寄居的贾雨村。",
+      "zh_modern": "原来这位新官不是别人，就是那个曾在姑苏大如州葫芦庙内寄居的贾雨村。",
+      "en": "It turned out this new official was none other than Jia Yucun, who had lodged in the Gourd Temple in Daruzhou.",
+      "ru": "Оказалось, что этот новый чиновник был не кто иной, как Цзя Юйцунь, что жил в Храме Тыквы в Дажучжоу.",
+      "ja": "元来この新官は別人にあらず、すなわちかの大如州の葫蘆廟内に寄居せし贾雨村なり。",
+      "commentary": [
+        {
+          "type": "甲戌侧批",
+          "source": "甲戌本",
+          "position": "right margin",
+          "original": "热中人每每如是。",
+          "zh_modern": "热衷功名的人往往都是这样。",
+          "en": "People eager for fame/advancement are often like this.",
+          "ru": "Люди, жаждущие славы, часто таковы.",
+          "ja": "熱中人（ねっちゅうじん）、每每（つねづね）是（か）くのごとし。"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "太爷 (Taiye): Honorific for a district magistrate.",
+    "岳丈 (Yuezhang): Father-in-law.",
+    "贾雨村 (Jia Yucun): Revealed to be the new magistrate. He has passed the examinations and returned to office, fulfilling the prediction.",
+    "翻覆事 (Fan Fu Shi): Overturning affairs. Refers to the rapid changes in fortune (Shiyin's fall, Yucun's rise).",
+    "大如州 (Daruzhou): A place name, likely fictional or a pun, associated with the Gourd Temple."
+  ],
+  "research_notes": [
+    "This scene completes the cycle of 'Reciprocity'. Shiyin helped Yucun when Yucun was poor; now Yucun is powerful and (presumably) will help Shiyin's family (or fail to, revealing his character).",
+    "Verified the poem describing Yucun."
+  ],
+  "characters_appearing": [
+    "Feng Su",
+    "Official Messenger",
+    "Jia Yucun"
+  ],
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ]
+}
