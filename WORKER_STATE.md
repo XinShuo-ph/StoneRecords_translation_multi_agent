@@ -13,10 +13,10 @@
 - **Status**: online
 
 ## Current Work
-- **Claimed Page**: none
-- **Page Verified Available**: -
-- **Started At**: -
-- **Current Step**: -
+- **Claimed Page**: 37
+- **Page Verified Available**: yes
+- **Started At**: 1735874700
+- **Current Step**: translating
 
 ## Completed Pages
 | Page | Chapter | Completed At | Hash | Segments |
