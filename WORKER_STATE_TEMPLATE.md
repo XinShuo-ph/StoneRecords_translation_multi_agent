@@ -7,16 +7,17 @@
 - **Status**: online
 
 ## Current Work
-- **Claimed Chapter**: none
+- **Claimed Page**: none
 - **Started At**: -
+- **Current Step**: - (research | translate | polish)
 
-## Completed Chapters
-| Chapter | Completed At | Hash | Segments |
-|---------|--------------|------|----------|
+## Completed Pages
+| Page | Chapter | Completed At | Hash | Segments |
+|------|---------|--------------|------|----------|
 
 ## Known Workers (Last Sync)
-| Short ID | Status | Claimed Chapter | Last Heartbeat |
-|----------|--------|-----------------|----------------|
+| Short ID | Status | Claimed Page | Last Heartbeat |
+|----------|--------|--------------|----------------|
 
 ## Notes
 Ready to begin translation.
@@ -61,32 +62,33 @@ Ready to begin translation.
 # Worker: d0e5
 
 ## Status
-- **Branch**: cursor/dream-of-the-red-chamber-translation-plan-d0e5
+- **Branch**: cursor/honglou-translation-d0e5
 - **Short ID**: d0e5
 - **Heartbeat**: 1735689600
 - **Status**: translating
 
 ## Current Work
-- **Claimed Chapter**: 5
+- **Claimed Page**: 25
 - **Started At**: 1735689500
+- **Current Step**: polish
 
-## Completed Chapters
-| Chapter | Completed At | Hash | Segments |
-|---------|--------------|------|----------|
-| 1       | 1735686400   | a8f3b2c1 | 52 |
-| 2       | 1735687200   | c9d4e5f6 | 45 |
-| 3       | 1735688100   | 12ab34cd | 38 |
-| 4       | 1735689000   | ef567890 | 41 |
+## Completed Pages
+| Page | Chapter | Completed At | Hash | Segments |
+|------|---------|--------------|------|----------|
+| 21   | 第一回  | 1735686400   | a8f3b2c1 | 5 |
+| 22   | 第一回  | 1735687200   | c9d4e5f6 | 4 |
+| 23   | 第一回  | 1735688100   | 12ab34cd | 6 |
+| 24   | 第一回  | 1735689000   | ef567890 | 4 |
 
 ## Known Workers (Last Sync)
-| Short ID | Status | Claimed Chapter | Last Heartbeat |
-|----------|--------|-----------------|----------------|
-| c3d4     | online | 6               | 1735689550     |
-| e5f6     | online | 7               | 1735689500     |
-| g7h8     | offline| 8               | 1735685000     |
+| Short ID | Status | Claimed Page | Last Heartbeat |
+|----------|--------|--------------|----------------|
+| c3d4     | online | 26           | 1735689550     |
+| e5f6     | online | 27           | 1735689500     |
+| g7h8     | offline| 28           | 1735685000     |
 
 ## Notes
-Currently working on Chapter 5 (太虚幻境). This chapter has many poems - taking extra care.
+Page 25 has dense 甲戌本 commentary. Researched 女娲补天 allusion in detail.
 Synced at 1735689600.
 ```
 
@@ -94,16 +96,23 @@ Synced at 1735689600.
 
 ## Updating Your State
 
-### When Claiming a Chapter
+### When Claiming a Page
 ```markdown
 ## Current Work
-- **Claimed Chapter**: 5
+- **Claimed Page**: 25
 - **Started At**: 1735689500
+- **Current Step**: research
 ```
 
-### When Completing a Chapter
-1. Move chapter to "Completed Chapters" table
-2. Set "Claimed Chapter" to `none` (or next claim)
+### When Progressing Through Steps
+Update the **Current Step** as you work:
+- `research` → researching the content
+- `translate` → translating to 4 languages
+- `polish` → improving/polishing translations
+
+### When Completing a Page
+1. Move page to "Completed Pages" table
+2. Set "Claimed Page" to `none` (or next claim)
 3. Update heartbeat
 
 ### After Syncing
@@ -113,7 +122,7 @@ Update the "Known Workers" table with what you found.
 Even if just working, push a commit every 5 minutes:
 ```bash
 git add WORKER_STATE.md
-git commit -m "[$MY_SHORT_ID] PROGRESS: Working on chapter 5
+git commit -m "[$MY_SHORT_ID] PROGRESS: Working on page 25 (polish step)
 HEARTBEAT: $(date +%s)"
 git push origin HEAD
 ```

@@ -131,32 +131,40 @@ tools/
 
 ---
 
+## Work Organization
+
+**Work is organized by PDF PAGE, not by chapter.**
+
+The 脂评汇校本 contains 80 chapters plus front/back matter. Each PDF page is translated into one JSON file following the workflow:
+
+```
+RESEARCH → TRANSLATE → POLISH (润色)
+```
+
 ## Translation Output Format
 
-Each chapter becomes a JSON file with segments in 5 languages:
+Each **PDF page** becomes a JSON file:
 
 ```json
 {
-  "chapter": 1,
-  "chapter_title": {
-    "original": "甄士隐梦幻识通灵...",
-    "zh_modern": "甄士隐在梦幻中...",
-    "en": "Zhen Shiyin in a Dream...",
-    "ru": "Чжэнь Шиинь во сне...",
-    "ja": "甄士隠、夢幻の中で..."
-  },
+  "page": 15,
+  "chapter": "第一回",
+  "chapter_title": {...},
+  "page_content_type": "chapter_start",
   "segments": [
     {
       "id": 1,
       "type": "prose",
       "original": "Classical Chinese text...",
-      "zh_modern": "Modern Chinese translation...",
-      "en": "English translation...",
-      "ru": "Russian translation...",
-      "ja": "Japanese translation..."
+      "zh_modern": "Modern Chinese (polished)...",
+      "en": "English (polished)...",
+      "ru": "Russian (polished)...",
+      "ja": "Japanese (polished)...",
+      "commentary": [...]
     }
   ],
-  "translator_notes": ["Context and explanations"]
+  "translator_notes": ["Research findings - required!"],
+  "research_notes": ["Sources consulted"]
 }
 ```
 

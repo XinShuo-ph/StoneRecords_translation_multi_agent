@@ -29,11 +29,20 @@ done
 ## Book Information
 
 - **Title**: 红楼梦脂评汇校本 (Dream of the Red Chamber with Zhiping Commentary Collation)
-- **Author**: 曹雪芹 (Cao Xueqin), continuation attributed to 高鹗 (Gao E)
-- **Era**: Qing Dynasty, mid-18th century (c. 1740-1791)
-- **Total Chapters**: 120 chapters
+- **Author**: 曹雪芹 (Cao Xueqin)
+- **Era**: Qing Dynasty, mid-18th century
+- **Total Content**: **80 chapters (八十回)** plus front matter and appendices
 - **Genre**: Classical Chinese novel, one of the Four Great Classical Novels
-- **Commentary**: 脂砚斋 (Zhiyan Zhai) and others
+- **Commentary**: 脂砚斋 (Zhiyan Zhai), 畸笏叟, and others from multiple manuscript sources
+
+**NOTE**: This is the authentic 80-chapter version with Zhiping commentary, NOT the 120-chapter Cheng-Gao edition.
+
+## Work Organization
+
+**Work is organized by PDF PAGE, not by chapter.**
+- One JSON file per PDF page: `translations/page_XXXX.json`
+- Workers claim individual pages
+- Each page goes through: RESEARCH → TRANSLATE → POLISH
 
 ---
 
@@ -49,31 +58,26 @@ done
 
 ---
 
-## Chapter Structure
+## PDF Structure
 
-### 前八十回 (First 80 Chapters - Cao Xueqin)
+| Section | Content | Notes |
+|---------|---------|-------|
+| Front Matter | 凡例, prefaces, editorial notes | First pages |
+| 第一回 - 第八十回 | The 80 chapters with commentary | Main body |
+| Appendices | Variant readings, scholarly notes | End section |
 
-| Chapter Range | Content Summary |
-|--------------|-----------------|
-| 1-5 | Frame narrative: Stone's origin, Zhen Shiyin, Jia Yucun introduction |
-| 6-12 | Lin Daiyu arrives at Jia mansion, family introductions |
-| 13-18 | Qin Keqing's death, Grand View Garden construction begins |
-| 19-25 | Garden life begins, Daiyu-Baoyu relationship deepens |
-| 26-33 | Poetry and daily life in Grand View Garden |
-| 34-40 | Lady Wang's management, various incidents |
-| 41-50 | Concubine Zhao's schemes, social gatherings |
-| 51-60 | Wang Xifeng's power, family tensions |
-| 61-70 | Decline begins, deaths and departures |
-| 71-80 | Deepening sorrows, foreshadowing of doom |
-
-### 后四十回 (Last 40 Chapters - attributed to Gao E)
+### Chapter Overview (八十回)
 
 | Chapter Range | Content Summary |
 |--------------|-----------------|
-| 81-90 | Examinations, decline continues |
-| 91-100 | Marriage plot against Baoyu, tensions rise |
-| 101-110 | Lin Daiyu's death, Baoyu weds Baochai |
-| 111-120 | Family collapse, Baoyu becomes monk |
+| 1-5 | Frame narrative: Stone's origin, Zhen Shiyin, Jia Yucun |
+| 6-12 | Lin Daiyu arrives, family introductions |
+| 13-18 | Qin Keqing's death, Grand View Garden |
+| 19-27 | Garden life, Daiyu-Baoyu relationship |
+| 28-40 | Poetry clubs, festivals, peak prosperity |
+| 41-54 | Social gatherings, Xue Pan's troubles |
+| 55-70 | Decline begins, deaths and departures |
+| 71-80 | Deepening sorrows, foreshadowing
 
 ---
 

@@ -2,9 +2,11 @@
 
 ## Overview
 
-This protocol enables multiple AI agents to work **collaboratively** on translating 红楼梦 (Dream of the Red Chamber). Workers communicate via git, share progress, and dynamically distribute workload. The protocol is designed to be robust against worker disconnection and reconnection.
+This protocol enables multiple AI agents to work **collaboratively** on translating 红楼梦脂评汇校本 (Dream of the Red Chamber). Workers communicate via git, share progress, and dynamically distribute workload. The protocol is designed to be robust against worker disconnection and reconnection.
 
-**Key Philosophy**: Workers are a team, not isolated freelancers. They know who else is working, what chapters are claimed, and can adapt when workers join or leave.
+**Key Philosophy**: Workers are a team, not isolated freelancers. They know who else is working, what **PDF pages** are claimed, and can adapt when workers join or leave.
+
+**Work Unit**: Individual PDF pages (not chapters). One JSON file = one PDF page translated.
 
 ---
 
@@ -38,7 +40,7 @@ Every worker follows this loop continuously:
 │  1. SYNC: Fetch all branches, discover active workers       │
 │  2. BUILD PICTURE: Who's online? What chapters are claimed? │
 │  3. CLAIM: If I need a chapter, claim the lowest available  │
-│  4. TRANSLATE: Work on my claimed chapter                   │
+│  4. TRANSLATE: Work on my claimed page                   │
 │  5. BROADCAST: Commit & push my progress                    │
 │  6. REPEAT every 2-3 minutes                                │
 └─────────────────────────────────────────────────────────────┘
@@ -80,42 +82,43 @@ Workers with heartbeats older than 10 minutes are considered **offline** (may ha
 
 ---
 
-## Chapter Assignment
+## Page Assignment
 
-### Simple Rule: Claim the Lowest Available Chapter
+### Simple Rule: Claim the Lowest Available PDF Page
 
 ```python
-# Pseudocode for chapter claiming
-def get_next_chapter():
-    all_chapters = set(range(1, 121))  # Chapters 1-120
+# Pseudocode for page claiming
+def get_next_page():
+    # Total pages in PDF (check your specific PDF)
+    all_pages = set(range(1, TOTAL_PAGES + 1))
     
     # Read all active workers' states
-    claimed = set()      # Chapters currently being translated
-    completed = set()    # Chapters already done (translation exists)
+    claimed = set()      # Pages currently being worked on
+    completed = set()    # Pages already done
     
     for worker in active_workers:
-        claimed.update(worker.claimed_chapters)
-        completed.update(worker.completed_chapters)
+        claimed.update(worker.claimed_pages)
+        completed.update(worker.completed_pages)
     
     # Also check translations/ directory for completed work
-    for file in translations/*.json:
-        completed.add(file.chapter_number)
+    for file in translations/page_*.json:
+        completed.add(file.page_number)
     
-    available = sorted(all_chapters - claimed - completed)
+    available = sorted(all_pages - claimed - completed)
     return available[0] if available else None
 ```
 
 ### Claim Protocol
 
 1. **Sync first**: Always fetch and read other workers' states before claiming
-2. **Claim one chapter**: Update WORKER_STATE.md with your claimed chapter
+2. **Claim one page**: Update WORKER_STATE.md with your claimed PDF page
 3. **Push immediately**: Make your claim visible to others
 4. **Verify**: Re-fetch to check for conflicts (rare but possible)
 
 ### Conflict Resolution
-If two workers claim the same chapter (race condition):
+If two workers claim the same page (race condition):
 - **Earlier timestamp wins** (commit timestamp)
-- Losing worker should re-sync and claim next available chapter
+- Losing worker should re-sync and claim next available page
 - This is rare with proper sync discipline
 
 ---
@@ -131,24 +134,25 @@ Each worker maintains this file on their branch:
 - **Branch**: [full branch name]
 - **Short ID**: [4 chars]
 - **Heartbeat**: [Unix timestamp]
-- **Status**: online | translating | idle
+- **Status**: online | researching | translating | polishing | idle
 
 ## Current Work
-- **Claimed Chapter**: [chapter number or "none"]
-- **Started At**: [timestamp when started this chapter]
+- **Claimed Page**: [PDF page number or "none"]
+- **Started At**: [timestamp when started this page]
+- **Current Step**: [research | translate | polish]
 
-## Completed Chapters
-| Chapter | Completed At | Hash | Segments |
-|---------|--------------|------|----------|
-| 1       | 1735689600   | a8f3b2c1 | 45 |
-| 2       | 1735690200   | c9d4e5f6 | 38 |
+## Completed Pages
+| Page | Chapter | Completed At | Hash | Segments |
+|------|---------|--------------|------|----------|
+| 15   | 第一回  | 1735689600   | a8f3b2c1 | 5 |
+| 16   | 第一回  | 1735690200   | c9d4e5f6 | 4 |
 
 ## Known Workers (Last Sync)
-| Short ID | Status | Claimed Chapter | Last Heartbeat |
-|----------|--------|-----------------|----------------|
-| abc1     | online | 3               | 1735689900     |
-| def2     | online | 4               | 1735689850     |
-| ghi3     | offline| 5               | 1735685000     |
+| Short ID | Status | Claimed Page | Last Heartbeat |
+|----------|--------|--------------|----------------|
+| abc1     | online | 17           | 1735689900     |
+| def2     | online | 18           | 1735689850     |
+| ghi3     | offline| 19           | 1735685000     |
 
 ## Notes
 [Any messages for the team]
@@ -171,10 +175,10 @@ fi
 ```
 
 ### Reclaiming Chapters from Offline Workers
-If a worker has been offline for **15+ minutes** and has a claimed chapter:
+If a worker has been offline for **15+ minutes** and has a claimed page:
 1. Their chapter becomes available for reclaiming
 2. Any online worker can claim it
-3. Note in your WORKER_STATE.md: "Reclaimed chapter X from [offline_worker]"
+3. Note in your WORKER_STATE.md: "Reclaimed page X from [offline_worker]"
 
 ### What the Returning Worker Should Do
 When a worker comes back online after being disconnected:
@@ -358,7 +362,7 @@ for branch in $(git branch -r | grep 'origin/cursor/' | sed 's|origin/||' | tr -
 done
 ```
 
-### Claim a Chapter
+### Claim a Page
 ```bash
 # Update WORKER_STATE.md with your claim
 # Then:
@@ -368,7 +372,7 @@ HEARTBEAT: $(date +%s)"
 git push origin HEAD
 ```
 
-### Complete a Chapter
+### Complete a Page
 ```bash
 git add translations/chapter_015.json WORKER_STATE.md
 git commit -m "[$MY_SHORT_ID] DONE: Completed chapter 15
@@ -400,7 +404,7 @@ git push origin HEAD
 | Skip syncing before claiming | Always sync first |
 | Forget to push claims | Push immediately after claiming |
 | Let heartbeat go stale | Commit at least every 5 min |
-| Ignore offline workers | Reclaim their chapters after 15 min |
+| Ignore offline workers | Reclaim their pages after 15 min |
 | Work in isolation | Sync regularly, share progress |
 
 ---

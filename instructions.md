@@ -12,13 +12,24 @@ The final output presents each original Classical Chinese sentence followed by t
 
 ---
 
+## Source Material Structure
+
+**IMPORTANT**: The 脂评汇校本 contains:
+- **Front matter**: Title pages, prefaces, editorial notes (凡例), etc.
+- **80 chapters** (八十回): The authentic Cao Xueqin text with Zhiping commentary
+- **Appendices**: Additional scholarly materials, variant readings, etc.
+
+This is NOT the 120-chapter version. Work is organized by **PDF page**, not by chapter.
+
+---
+
 ## Multi-Agent Collaborative Execution
 
 **THIS PROJECT USES MULTIPLE AI AGENTS WORKING COLLABORATIVELY**
 
 You are part of a team of workers translating this classic in parallel. You will:
 1. **Discover** other workers and know who's online
-2. **Claim** chapters to translate (one at a time)
+2. **Claim** PDF pages to translate (one at a time)
 3. **Sync** regularly to stay coordinated
 4. **Share** your translations via git
 
@@ -27,8 +38,8 @@ See `PROTOCOL.md` for the complete communication protocol.
 ### Key Principles
 
 - **Collaborative, not isolated**: You know who else is working and what they're doing
-- **Simple workload**: Each worker claims chapters (lowest available first)
-- **Robust**: If workers disconnect, others can reclaim their chapters
+- **Page-based workload**: Each worker claims PDF pages (lowest available first)
+- **Robust**: If workers disconnect, others can reclaim their pages
 - **Sync regularly**: Fetch other workers' states every 2-3 minutes
 
 ---
@@ -66,26 +77,38 @@ HEARTBEAT: $(date +%s)"
 git push origin HEAD
 ```
 
-### Step 5: Claim a Chapter and Start Translating
-1. Find the lowest chapter number not claimed or completed
+### Step 5: Claim a PDF Page and Start Working
+1. Find the lowest PDF page number not claimed or completed
 2. Update WORKER_STATE.md with your claim
 3. Push immediately
-4. Start translating!
+4. Start the research-translate-polish workflow!
 
 ---
 
 ## Source Material
 
 **Source Text**: 红楼梦脂评汇校本 (Dream of the Red Chamber with Zhiping Commentary Collation)
-- **Author**: 曹雪芹 (Cao Xueqin), with continuation attributed to 高鹗 (Gao E)
+- **Author**: 曹雪芹 (Cao Xueqin)
 - **Era**: Qing Dynasty, mid-18th century
-- **Total Chapters**: 120 chapters (前80回 by Cao Xueqin, 后40回 traditionally attributed to Gao E)
-- **Genre**: Classical Chinese novel, considered one of the Four Great Classical Novels of Chinese literature
-- **Commentary**: Multiple commentary sources collated (脂砚斋、畸笏叟、etc.)
+- **Total Content**: **80 chapters (八十回)** plus front matter and appendices
+- **Genre**: Classical Chinese novel, one of the Four Great Classical Novels
+- **Commentary**: Multiple manuscript sources collated (脂砚斋、畸笏叟、etc.)
+
+**NOTE**: This is the authentic 80-chapter version, NOT the 120-chapter Cheng-Gao edition.
+
+### PDF Structure
+
+The source PDF `红楼梦脂评汇校本_有书签目录_v3.13.pdf` contains:
+
+| Section | Content | Approximate Pages |
+|---------|---------|-------------------|
+| Front Matter | 凡例, prefaces, editorial notes | First ~10-15 pages |
+| 第一回 - 第八十回 | The 80 chapters with commentary | Main body |
+| Appendices | Variant readings, scholarly notes | End section |
 
 ### Working Directly from PDF Pages
 
-**IMPORTANT**: Due to the complex formatting of 脂评汇校本 with multiple commentary sources and various annotation tags, workers should work **directly from PDF pages or screenshots** rather than extracted plain text.
+**IMPORTANT**: Due to the complex formatting with multiple commentary sources and annotation tags, workers must work **directly from PDF pages or screenshots**.
 
 The source PDF contains:
 - **Main text** (正文): The novel's narrative
@@ -101,14 +124,11 @@ The source PDF contains:
 4. Avoids OCR errors in classical Chinese
 5. Workers can see the full context visually
 
-### PDF Page Organization
+### Work Units: PDF Pages
 
-The source PDF `红楼梦脂评汇校本_有书签目录_v3.13.pdf` contains:
-- Front matter (目录, preface, etc.)
-- 120 chapters across ~1000+ pages
-- Each chapter spans multiple PDF pages
+**Work is organized by PDF PAGE, not by chapter.**
 
-Workers claim **PDF page ranges** corresponding to chapters or chapter sections.
+Each worker claims individual PDF pages. One JSON file = one PDF page translated.
 
 ---
 
@@ -121,16 +141,16 @@ workspace/
 ├── STATE.md                  # Global project state
 ├── WORKER_STATE.md           # YOUR worker state (update frequently!)
 ├── WORKER_STATE_TEMPLATE.md  # Template for new workers
-├── 红楼梦脂评汇校本_有书签目录_v3.13.pdf  # Original source PDF
+├── 红楼梦脂评汇校本_有书签目录_v3.13.pdf  # Original source PDF (80回 + front/back matter)
 │
 ├── source_pages/             # PDF PAGES AS IMAGES (for direct viewing)
 │   ├── page_0001.png         # Individual page screenshots
 │   ├── page_0002.png
 │   └── ...                   # Workers can also read PDF directly
 │
-├── research/                 # BACKGROUND RESEARCH
+├── research/                 # GENERAL REFERENCE (use as starting point)
 │   ├── glossary.md           # Character names & terminology
-│   ├── chapter_structure.md  # Chapter titles, summaries, PAGE RANGES
+│   ├── chapter_structure.md  # Chapter titles and summaries
 │   ├── cultural_context.md   # Qing Dynasty context
 │   ├── character_guide.md    # Main character profiles
 │   ├── poetry_guide.md       # Approach to poetry translation
@@ -138,122 +158,202 @@ workspace/
 │   └── existing_translations.md  # Reference to existing works
 │
 ├── examples/                 # FORMAT EXAMPLES
-│   ├── chapter_001_example.json
 │   └── page_example.json     # Single page translation example
 │
 ├── tools/                    # PROCESSING TOOLS
-│   ├── compile_chapters.py   # JSON → PDF compiler
+│   ├── compile_pages.py      # JSON → PDF compiler
 │   ├── pdf_to_images.py      # Extract PDF pages as images
 │   ├── validate_json.py      # Validate translation JSON
 │   └── README.md
 │
-├── translations/             # YOUR OUTPUT (translations go here)
-│   ├── chapter_001.json      # Full chapter translations
-│   ├── chapter_002.json
+├── translations/             # YOUR OUTPUT (one JSON per PDF page)
+│   ├── page_0001.json        # Front matter page 1
+│   ├── page_0002.json        # Front matter page 2
+│   ├── ...
+│   ├── page_0015.json        # First page of 第一回
 │   └── ...
 │
 └── output/                   # GENERATED PDFs
-    ├── chapter_001.pdf
     └── ...
 ```
 
 ---
 
-## Your Task: TRANSLATE
+## Your Task: RESEARCH → TRANSLATE → POLISH
 
 ### The Workflow
+
+**This is a scholarly translation of one of world literature's greatest masterpieces. Every sentence is highly nuanced and requires careful study.**
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │  1. SYNC: Fetch all branches, see who's online              │
-│  2. CLAIM: Take the lowest available chapter                │
-│  3. VIEW: Open the PDF pages for your claimed chapter       │
-│     - Use PDF reader OR page images in source_pages/        │
-│  4. READ: Carefully read the page, noting:                  │
-│     - Main text (正文)                                       │
-│     - All commentary types (夹批/眉批/侧批/回末批)            │
-│     - Source manuscript tags 【甲戌】【庚辰】etc.            │
-│  5. TRANSLATE: Classical Chinese → Modern Chinese,          │
-│               English, Russian, Japanese                    │
-│  6. PRESERVE: Maintain commentary structure in JSON         │
-│  7. ANNOTATE: Add scholarly notes for cultural references   │
-│  8. SAVE: Write translations/chapter_XXX.json               │
+│  2. CLAIM: Take the lowest available PDF page               │
+│  3. VIEW: Open the PDF page (reader or image)               │
+│  4. READ: Carefully read the page, noting all content       │
+│  5. RESEARCH: For EACH sentence:                            │
+│     - Search online for scholarly interpretations           │
+│     - Study literary allusions and historical context       │
+│     - Understand the nuanced meaning                        │
+│     - Document non-trivial findings                         │
+│  6. TRANSLATE: Only after research, translate to 4 langs   │
+│  7. POLISH (润色): Improve translations for:                │
+│     - Literary and artistic quality                         │
+│     - Cultural fit for each target audience                 │
+│     - Preservation of original artistry                     │
+│  8. SAVE: Write translations/page_XXXX.json                 │
 │  9. BROADCAST: Commit & push, update WORKER_STATE.md        │
-│  10. REPEAT: Claim next chapter                             │
+│  10. REPEAT: Claim next page                                │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-### Step-by-Step for Each Chapter
+---
 
-#### 1. Locate Your Chapter's PDF Pages
+## Step-by-Step for Each PDF Page
 
-Check `research/chapter_structure.md` for page ranges:
-```
-Chapter 1 (第一回): PDF pages 15-28
-Chapter 2 (第二回): PDF pages 29-42
-...
-```
-
-#### 2. View the PDF Pages Directly
+### Step 1: View the PDF Page
 
 **Option A**: Open the PDF directly
 ```bash
-# Use any PDF reader to navigate to your chapter's pages
+# Use any PDF reader to navigate to your claimed page
 # The PDF has bookmarks for easy navigation
 ```
 
 **Option B**: Use pre-extracted page images
 ```bash
-# View page images in source_pages/ directory
 ls source_pages/page_00*.png
 ```
 
-**Option C**: Have AI read the PDF pages directly
-- AI workers can read PDF pages as images
-- This preserves all formatting and commentary structure
+**Option C**: AI workers can read PDF pages as images directly
 
-#### 3. Identify Content on Each Page
+### Step 2: Identify All Content
 
 For each PDF page, identify:
 
 | Element | Description | How to Recognize |
 |---------|-------------|------------------|
 | **正文** (Main text) | The novel's narrative | Larger font, main body |
-| **夹批** (Interlinear) | Comments within text lines | Smaller font inline, often in【】 |
-| **眉批** (Top marginal) | Comments at page top | Smaller font, top margin |
-| **侧批** (Side marginal) | Comments at page sides | Smaller font, side margins |
-| **回末批** (Chapter-end) | Comments after chapter | After "正文完" or similar |
+| **夹批** (Interlinear) | Comments within text | Smaller font inline, often in【】 |
+| **眉批** (Top marginal) | Comments at page top | Top margin |
+| **侧批** (Side marginal) | Comments at sides | Side margins |
+| **回末批** (Chapter-end) | Comments after chapter | After chapter conclusion |
 | **Source tags** | Manuscript indicators | 【甲戌】【庚辰】【己卯】【蒙府】etc. |
 
-#### 4. Translate Each Element
+---
 
-For each text segment AND each commentary:
+### Step 3: RESEARCH (Critical Step - Do Not Skip!)
+
+**红楼梦 has the highest literary value in Chinese literature. Every sentence is carefully crafted with multiple layers of meaning.**
+
+For EACH sentence on the page:
+
+#### 3a. Online Research
+- Search for scholarly interpretations of the specific passage
+- Look up classical allusions (典故) referenced
+- Find historical context for events/customs mentioned
+- Check existing translations' approaches (for reference only)
+
+#### 3b. Literary Analysis
+- Identify wordplay and puns (谐音, 双关)
+- Note symbolic meanings (names, objects, numbers)
+- Understand the emotional undertones
+- Recognize foreshadowing (伏笔) and callbacks (照应)
+
+#### 3c. Commentary Study
+- Read ALL commentary on the page carefully
+- The 脂评 often reveals hidden meanings
+- Note which manuscript source provides each comment
+- Commentary itself requires research
+
+#### 3d. Document Findings
+**If research discovers anything non-trivial, add it to `translator_notes` field:**
+- Hidden meanings in names
+- Historical/cultural context needed for understanding
+- Literary allusions and their significance
+- Connections to other parts of the novel
+- Scholarly debates about interpretation
+
+**Example research note:**
+```json
+"translator_notes": [
+  "「青埂峰」is a pun on「情根」(root of passion) - 甲戌本 commentary confirms this",
+  "The number 36,501 stones relates to the astronomical cycle - see Chen Yinke's research",
+  "「荒唐」here echoes Zhuangzi's use of the term for transcendent truth"
+]
+```
+
+---
+
+### Step 4: TRANSLATE
+
+**Only after thorough research**, translate each segment into all 4 languages:
+
 - **Modern Chinese (简体)**: Clear, accessible modern Mandarin
-- **English**: Scholarly literary English
-- **Russian**: Literary Russian
-- **Japanese**: Literary Japanese with classical influences
+- **English**: Scholarly literary English  
+- **Russian (Русский)**: Literary Russian
+- **Japanese (日本語)**: Literary Japanese with classical influences
 
-**Important**: Translate ALL commentary, not just main text!
+**Translate ALL content**: main text AND all commentary!
 
-#### 5. Preserve Commentary Structure
+---
 
-In your JSON output, clearly mark:
-- Which text the commentary refers to
-- The type of commentary (夹批/眉批/侧批/回末批)
-- The source manuscript when indicated
+### Step 5: POLISH (润色) - Critical for Quality
 
-#### 6. Save as JSON
-Save to `translations/chapter_XXX.json` using the exact format below.
+**After initial translation, systematically improve each translation:**
+
+#### 5a. Literary Quality Review
+- Does the translation capture the artistic beauty?
+- Is the rhythm and flow preserved where possible?
+- For poetry: is the structure and emotional impact maintained?
+- Does it read as literature, not just accurate text?
+
+#### 5b. Cultural Adaptation by Language
+
+**Modern Chinese (简体中文)**:
+- 确保现代读者能理解古典意涵
+- 保留原文的文学韵味
+- 注释难懂的典故和词汇
+
+**English**:
+- Consider Western literary traditions
+- Maintain scholarly register without being dry
+- Poetry should feel like poetry to English readers
+- Cultural footnotes for concepts with no English equivalent
+
+**Russian (Русский)**:
+- Draw on Russian classical literature traditions
+- Adapt to Russian literary conventions
+- Consider how 19th-century Russian novels handled similar themes
+- Use appropriate register for aristocratic settings
+
+**Japanese (日本語)**:
+- Leverage shared classical Chinese literary heritage
+- Use appropriate 文語 elements for literary effect
+- Consider how classical Japanese literature handles similar themes
+- Poetry translation should resonate with Japanese poetic traditions
+
+#### 5c. Final Polish
+- Read each translation aloud (mentally) - does it flow?
+- Check consistency with glossary terms
+- Verify no meaning was lost in pursuit of style
+- Ensure all four translations convey the same core meaning
+
+---
+
+### Step 6: Save as JSON
+
+Save to `translations/page_XXXX.json` (4-digit page number).
 
 ---
 
 ## JSON Output Format (MANDATORY)
 
-Every chapter translation MUST follow this structure. **Note the detailed commentary handling with source attribution**:
+**One JSON file per PDF page.** File naming: `page_XXXX.json` (4-digit page number)
 
 ```json
 {
-  "chapter": 1,
+  "page": 15,
+  "chapter": "第一回",
   "chapter_title": {
     "original": "甄士隐梦幻识通灵 贾雨村风尘怀闺秀",
     "zh_modern": "甄士隐在梦幻中认识了通灵宝玉，贾雨村在落魄时怀念闺中秀女",
@@ -261,11 +361,7 @@ Every chapter translation MUST follow this structure. **Note the detailed commen
     "ru": "Чжэнь Шиинь во сне постигает волшебную яшму; Цзя Юйцунь в бедности вспоминает прекрасную деву",
     "ja": "甄士隠、夢幻の中で通霊を識り、賈雨村、風塵にありて閨秀を懐う"
   },
-  "pdf_page_range": {
-    "start": 15,
-    "end": 28,
-    "note": "PDF pages in source file for this chapter"
-  },
+  "page_content_type": "chapter_body",
   "segments": [
     {
       "id": 1,
@@ -327,30 +423,19 @@ Every chapter translation MUST follow this structure. **Note the detailed commen
       ]
     }
   ],
-  "chapter_end_commentary": [
-    {
-      "type": "回末总批",
-      "source": "甲戌本",
-      "original": "此回声色货利四大魔障...",
-      "zh_modern": "本回描写声色货利四大魔障...",
-      "en": "This chapter depicts the four great demons of sound, beauty, wealth, and profit...",
-      "ru": "Эта глава изображает четырёх великих демонов звука, красоты, богатства и выгоды...",
-      "ja": "此の回は声色貨利の四大魔障を描く..."
-    }
-  ],
   "translator_notes": [
-    "Chapter 1 establishes the frame narrative with the Stone's origin story",
-    "甄士隐 (Zhen Shiyin) is a pun: 真事隐 (true events hidden)",
-    "贾雨村 (Jia Yucun) is a pun: 假语村 (false words exist)",
-    "Multiple manuscript sources: 甲戌本 has earliest/most detailed commentary"
+    "「青埂峰」is a pun on「情根」(root of passion) - confirmed by 甲戌本 commentary",
+    "甄士隐 (Zhen Shiyin) = 真事隐 (true events hidden)",
+    "Research: Chen Yinke's commentary suggests Stone = author's self-portrait"
   ],
-  "character_appearances": ["甄士隐", "贾雨村", "甄英莲", "封氏", "娇杏"],
+  "research_notes": [
+    "Consulted 红楼梦学刊 for scholarly interpretation",
+    "Checked Zhou Ruchang's detailed annotation edition",
+    "Reviewed online commentary at 红楼品茗 forum"
+  ],
+  "characters_appearing": ["甄士隐"],
   "total_segments": 2,
-  "segment_types": {
-    "prose": 1,
-    "poem": 1
-  },
-  "manuscript_sources_used": ["甲戌本", "庚辰本", "己卯本"]
+  "manuscript_sources_on_page": ["甲戌本", "庚辰本"]
 }
 ```
 
@@ -358,23 +443,23 @@ Every chapter translation MUST follow this structure. **Note the detailed commen
 
 | Field | Type | Description |
 |-------|------|-------------|
-| `chapter` | int | Chapter number (1-120) |
-| `chapter_title` | object | Title in all languages |
-| `pdf_page_range` | object | Start/end PDF pages in source file |
+| `page` | int | PDF page number in source file |
+| `chapter` | string | "前言", "凡例", "第一回", "第二回", ... "第八十回", "附录" etc. |
+| `chapter_title` | object | Title in all languages (if this page starts a chapter) |
+| `page_content_type` | string | "front_matter", "fanli", "chapter_start", "chapter_body", "chapter_end", "appendix" |
 | `segments` | array | Array of segment objects |
-| `segments[].id` | int | Sequential ID (1, 2, 3, ...) |
-| `segments[].pdf_page` | int | PDF page where this segment appears |
-| `segments[].type` | string | "prose", "poem", "dialogue" |
+| `segments[].id` | int | Sequential ID within this page (1, 2, 3, ...) |
+| `segments[].type` | string | "prose", "poem", "dialogue", "title", "preface" |
 | `segments[].original` | string | Original Classical Chinese text |
-| `segments[].zh_modern` | string | Modern Chinese translation |
-| `segments[].en` | string | English translation |
-| `segments[].ru` | string | Russian translation |
-| `segments[].ja` | string | Japanese translation |
-| `segments[].commentary` | array | Array of commentary objects (see below) |
-| `chapter_end_commentary` | array | Chapter-end comments (回末批) |
-| `translator_notes` | array | Context, cultural notes |
-| `character_appearances` | array | Characters in this chapter |
-| `manuscript_sources_used` | array | Which manuscript sources appear in this chapter |
+| `segments[].zh_modern` | string | **Polished** Modern Chinese translation |
+| `segments[].en` | string | **Polished** English translation |
+| `segments[].ru` | string | **Polished** Russian translation |
+| `segments[].ja` | string | **Polished** Japanese translation |
+| `segments[].commentary` | array | Array of commentary objects |
+| `translator_notes` | array | **Non-trivial findings from research** - required! |
+| `research_notes` | array | Sources consulted during research |
+| `characters_appearing` | array | Characters appearing on this page |
+| `manuscript_sources_on_page` | array | Manuscript sources cited on this page |
 
 ### Commentary Object Fields
 

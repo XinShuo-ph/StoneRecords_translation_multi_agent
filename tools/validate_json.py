@@ -12,21 +12,20 @@ import sys
 import os
 from pathlib import Path
 
-# Required fields for chapter JSON
-REQUIRED_CHAPTER_FIELDS = [
+# Required fields for page JSON
+REQUIRED_PAGE_FIELDS = [
+    "page",
     "chapter",
-    "chapter_title",
-    "pdf_page_range",
     "segments",
     "translator_notes",
     "total_segments"
 ]
 
-# Required fields for chapter title
+# Required fields for chapter title (optional, only if chapter_title present)
 REQUIRED_TITLE_FIELDS = ["original", "zh_modern", "en", "ru", "ja"]
 
 # Required fields for each segment
-REQUIRED_SEGMENT_FIELDS = ["id", "pdf_page", "type", "original", "zh_modern", "en", "ru", "ja"]
+REQUIRED_SEGMENT_FIELDS = ["id", "type", "original", "zh_modern", "en", "ru", "ja"]
 
 # Valid segment types
 VALID_SEGMENT_TYPES = ["prose", "poem", "dialogue"]
@@ -60,23 +59,32 @@ def validate_chapter(filepath: str) -> tuple[bool, list[str]]:
     except UnicodeDecodeError as e:
         return False, [f"Encoding error (must be UTF-8): {e}"]
     
-    # Check required chapter fields
-    for field in REQUIRED_CHAPTER_FIELDS:
+    # Check required page fields
+    for field in REQUIRED_PAGE_FIELDS:
         if field not in data:
             errors.append(f"Missing required field: {field}")
+    
+    # Check page is an integer
+    if "page" in data and not isinstance(data["page"], int):
+        errors.append("'page' must be an integer")
+    
+    # Check chapter is a string
+    if "chapter" in data and not isinstance(data["chapter"], str):
+        errors.append("'chapter' must be a string (e.g., '第一回', '凡例', '附录')")
     
     if errors:
         return False, errors
     
-    # Check chapter title
-    if isinstance(data.get("chapter_title"), dict):
-        for field in REQUIRED_TITLE_FIELDS:
-            if field not in data["chapter_title"]:
-                errors.append(f"Missing title field: chapter_title.{field}")
-            elif not data["chapter_title"][field]:
-                errors.append(f"Empty title field: chapter_title.{field}")
-    else:
-        errors.append("chapter_title must be an object")
+    # Check chapter title (optional - only required if present)
+    if "chapter_title" in data and data["chapter_title"]:
+        if isinstance(data.get("chapter_title"), dict):
+            for field in REQUIRED_TITLE_FIELDS:
+                if field not in data["chapter_title"]:
+                    errors.append(f"Missing title field: chapter_title.{field}")
+                elif not data["chapter_title"][field]:
+                    errors.append(f"Empty title field: chapter_title.{field}")
+        else:
+            errors.append("chapter_title must be an object if provided")
     
     # Check segments
     segments = data.get("segments", [])
@@ -143,13 +151,11 @@ def validate_chapter(filepath: str) -> tuple[bool, list[str]]:
     if not isinstance(data.get("translator_notes"), list):
         errors.append("translator_notes must be an array")
     
-    # Check pdf_page_range if present
-    if "pdf_page_range" in data:
-        page_range = data["pdf_page_range"]
-        if not isinstance(page_range, dict):
-            errors.append("pdf_page_range must be an object")
-        elif "start" not in page_range or "end" not in page_range:
-            errors.append("pdf_page_range must have 'start' and 'end' fields")
+    # Check page_content_type if present
+    valid_content_types = ["front_matter", "fanli", "chapter_start", "chapter_body", "chapter_end", "appendix"]
+    if "page_content_type" in data:
+        if data["page_content_type"] not in valid_content_types:
+            errors.append(f"page_content_type must be one of {valid_content_types}")
     
     # Check chapter_end_commentary if present
     if "chapter_end_commentary" in data and data["chapter_end_commentary"]:
@@ -172,10 +178,13 @@ def validate_directory(dirpath: str) -> dict:
     results = {}
     
     path = Path(dirpath)
-    json_files = sorted(path.glob("chapter_*.json"))
+    # Look for both page_*.json and any .json files
+    json_files = sorted(path.glob("page_*.json"))
+    if not json_files:
+        json_files = sorted(path.glob("*.json"))
     
     if not json_files:
-        print(f"No chapter_*.json files found in {dirpath}")
+        print(f"No JSON files found in {dirpath}")
         return results
     
     for filepath in json_files:
