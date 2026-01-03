@@ -1,0 +1,60 @@
+{
+  "page": 1,
+  "chapter": "封面",
+  "chapter_title": {
+    "original": "红楼梦脂评汇校本",
+    "zh_modern": "《红楼梦》脂砚斋评注汇校本",
+    "en": "Dream of the Red Chamber: Collated Edition with Zhiping Commentary",
+    "ru": "Сон в красном тереме: Сводное издание с комментариями Чжиянь Чжая",
+    "ja": "紅楼夢：脂硯斎評注匯校本"
+  },
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 1,
+      "type": "prose",
+      "original": "红楼梦脂评汇校本",
+      "zh_modern": "《红楼梦》脂砚斋评注汇校本",
+      "en": "Dream of the Red Chamber: Collated Edition with Zhiping Commentary",
+      "ru": "Сон в красном тереме: Сводное издание с комментариями Чжиянь Чжая",
+      "ja": "紅楼夢：脂硯斎評注匯校本",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "pdf_page": 1,
+      "type": "prose",
+      "original": "曹雪芹著 脂砚斋评",
+      "zh_modern": "曹雪芹著 脂砚斋评注",
+      "en": "Written by Cao Xueqin, Commentary by Zhiyan Zhai",
+      "ru": "Автор: Цао Сюэцинь, комментарии: Чжиянь Чжай",
+      "ja": "曹雪芹著 脂硯斎評",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "pdf_page": 1,
+      "type": "prose",
+      "original": "Kolistan 汇校整理、制作",
+      "zh_modern": "Kolistan 汇校整理、制作",
+      "en": "Collated and produced by Kolistan",
+      "ru": "Сведено и составлено Kolistan",
+      "ja": "Kolistan 匯校整理・制作",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "脂砚斋 (Zhiyan Zhai) was one of the earliest and most important commentators on Dream of the Red Chamber, believed to have been closely connected to the author Cao Xueqin",
+    "脂评 (Zhiping) refers to the commentary tradition attributed to Zhiyan Zhai and other early manuscript commentators (畸笏叟, etc.)",
+    "汇校本 indicates this is a collated edition combining multiple manuscript sources (甲戌本, 庚辰本, 己卯本, etc.)",
+    "This v3.13 edition (2009) represents modern scholarly work collating various historical manuscripts"
+  ],
+  "research_notes": [
+    "Verified standard translations of the title: 'Dream of the Red Chamber' (most common English), 'Сон в красном тереме' (Russian standard), '紅楼夢' (Japanese using same kanji)",
+    "Researched Zhiyan Zhai's role as early commentator and possible relative of Cao Xueqin"
+  ],
+  "characters_appearing": [],
+  "total_segments": 3,
+  "manuscript_sources_on_page": []
+}
