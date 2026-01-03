@@ -1,0 +1,60 @@
+{
+  "page": 5,
+  "chapter": "Front Matter",
+  "chapter_title": null,
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 5,
+      "type": "prose",
+      "original": "抄本中有些同一位置不止一条批语的，原以“○”或空格隔开，现统一以“◇”隔开。本书使用半角圆括号()和半角方括号[]作为校改文字记号：(某)表示删字，[某]表示补字，(甲)[乙]表示改字。",
+      "zh_modern": "抄本中有些同一位置不止一条批语的，原以“○”或空格隔开，现统一以“◇”隔开。本书使用半角圆括号()和半角方括号[]作为校改文字记号：(某)表示删字，[某]表示补字，(甲)[乙]表示改字。",
+      "en": "In the manuscripts, where multiple commentaries appear at the same location, they were originally separated by '○' or spaces; they are now uniformly separated by '◇'. This book uses half-width parentheses () and brackets [] as symbols for textual emendation: (X) indicates deletion of character X, [Y] indicates insertion of character Y, and (A)[B] indicates correction from A to B.",
+      "ru": "В рукописях, где в одном месте находится несколько комментариев, они изначально разделялись знаком «○» или пробелами; теперь они единообразно разделяются знаком «◇». В этой книге используются круглые скобки () и квадратные скобки [] как символы текстовой правки: (X) означает удаление иероглифа X, [Y] означает вставку иероглифа Y, а (A)[B] означает исправление с A на B.",
+      "ja": "抄本において同一箇所に複数の批語がある場合、元は「○」や空白で区切られていたが、現在は「◇」で統一して区切っている。本書では半角丸括弧()と半角角括弧[]を校訂文字記号として使用する：(某)は削除する文字、[某]は補足する文字、(甲)[乙]は文字の改訂を表す。",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "pdf_page": 5,
+      "type": "prose",
+      "original": "本电子书自发布以来，不少网友提出了改进意见，这些建议基本上都已经采纳。现在，接受多数朋友的意见，这个版本采用 PDF 格式。本书的整理得到很多网友的帮助。早期版本曾得浪知协助覆校，订正不少错误；冰冰冰冷、云涛先后参与讨论，给我很多启发。3.0 版发出之后，又承君子九思、爱如潮水、 yupeng、蓝山、潇湘楚客、 zhwl、liuzhoufish、娄员外、寻梦园、阿迦、梁三、影乐之声、兔子她妈、休闲、志学斋主、daphne、rocwings 等各位指出了若干问题，统此鸣谢。由于整理者学识所限，本书虽经多次修订，存在问题必然尚多。希望朋友们在使用过程中发现错误及不妥之处，继续不吝赐教。",
+      "zh_modern": "本电子书自发布以来，不少网友提出了改进意见，这些建议基本上都已经采纳。现在，接受多数朋友的意见，这个版本采用 PDF 格式。本书的整理得到很多网友的帮助。早期版本曾得浪知协助覆校，订正不少错误；冰冰冰冷、云涛先后参与讨论，给我很多启发。3.0 版发出之后，又承蒙君子九思、爱如潮水、yupeng、蓝山、潇湘楚客、zhwl、liuzhoufish、娄员外、寻梦园、阿迦、梁三、影乐之声、兔子她妈、休闲、志学斋主、daphne、rocwings 等各位指出了若干问题，在此一并致谢。由于整理者学识所限，本书虽经多次修订，必然还存在许多问题。希望朋友们在使用过程中发现错误及不妥之处，继续不吝赐教。",
+      "en": "Since the release of this electronic book, many netizens have offered suggestions for improvement, most of which have been adopted. Now, accepting the majority opinion, this version uses the PDF format. The compilation of this book received help from many netizens. Early versions were assisted by Langzhi in re-proofreading, correcting many errors; Bingbingbingleng and Yuntao participated in discussions and gave me much inspiration. After the release of version 3.0, Junzi Jiusi, Ai Ru Chaoshui, yupeng, Lanshan, Xiaoxiang Chuke, zhwl, liuzhoufish, Lou Yuanwai, Xunmengyuan, Ajia, Liangsan, Yinglezhisheng, Tuzi Tama, Xiuxian, Zhixue Zhaizhu, daphne, rocwings, and others pointed out various issues; I thank them all here. Due to the compiler's limited scholarship, although this book has been revised many times, there are inevitably still many problems. I hope friends will continue to generously offer advice if they find errors or inappropriate parts during use.",
+      "ru": "С момента выпуска этой электронной книги многие интернет-пользователи предложили улучшения, большинство из которых были приняты. Теперь, следуя мнению большинства, эта версия использует формат PDF. В составлении этой книги помогали многие пользователи сети. Ранние версии проверял Langzhi, исправив множество ошибок; Bingbingbingleng и Yuntao участвовали в обсуждениях и вдохновили меня. После выпуска версии 3.0 Junzi Jiusi, Ai Ru Chaoshui, yupeng, Lanshan, Xiaoxiang Chuke, zhwl, liuzhoufish, Lou Yuanwai, Xunmengyuan, Ajia, Liangsan, Yinglezhisheng, Tuzi Tama, Xiuxian, Zhixue Zhaizhu, daphne, rocwings и другие указали на различные проблемы; я выражаю им всем благодарность. Из-за ограниченных знаний составителя, несмотря на многократные пересмотры, в книге неизбежно остается много проблем. Надеюсь, друзья продолжат щедро делиться советами, если найдут ошибки или недочеты.",
+      "ja": "本電子書籍の公開以来、多くのネットユーザーから改善の意見が寄せられ、それらの提案は基本的にすべて採用された。現在、多くの友人の意見を受け入れ、このバージョンではPDF形式を採用している。本書の整理は多くのネットユーザーの助けを得た。初期バージョンでは浪知氏に再校正の協力を得て、多くの誤りを訂正した。氷氷氷冷、雲涛の各氏は前後して議論に参加し、私に多くの啓発を与えてくれた。バージョン3.0の発表後、君子九思、愛如潮水、yupeng、藍山、瀟湘楚客、zhwl、liuzhoufish、婁員外、尋夢園、阿迦、梁三、影楽之声、兔子她媽、休閑、志学斎主、daphne、rocwings等の各氏が若干の問題点を指摘してくれた。ここに一括して感謝の意を表する。整理者の学識には限りがあるため、本書は何度も改訂を経ているとはいえ、依然として問題点は多いと思われる。友人諸氏におかれては、使用中に誤りや不適切な箇所を発見された場合、引き続き忌憚のないご教示をお願いしたい。",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "pdf_page": 5,
+      "type": "prose",
+      "original": "联系方式： Email：kolistan@yahoo.com.cn，QQ：552129470，MSN：kolistan@msn.com，或到“抚琴居红楼梦文学社区”发贴。反馈意见的朋友将会在以后本书修订时及时获得更新版本。",
+      "zh_modern": "联系方式：Email：kolistan@yahoo.com.cn，QQ：552129470，MSN：kolistan@msn.com，或到“抚琴居红楼梦文学社区”发贴。反馈意见的朋友将会在以后本书修订时及时获得更新版本。",
+      "en": "Contact: Email: kolistan@yahoo.com.cn, QQ: 552129470, MSN: kolistan@msn.com, or post at 'Fuqinju Dream of the Red Chamber Literary Community'. Friends who provide feedback will receive updated versions in a timely manner when the book is revised in the future.",
+      "ru": "Контакты: Email: kolistan@yahoo.com.cn, QQ: 552129470, MSN: kolistan@msn.com или пишите на форуме «Литературное сообщество Fuqinju». Друзья, предоставившие отзывы, своевременно получат обновленные версии при будущих пересмотрах книги.",
+      "ja": "連絡先：Email：kolistan@yahoo.com.cn，QQ：552129470，MSN：kolistan@msn.com，または「撫琴居紅楼夢文学社区」に投稿されたい。意見をフィードバックしてくれた友人には、今後本書が改訂される際に更新版を適時提供する。",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "pdf_page": 5,
+      "type": "prose",
+      "original": "本书由Kolistan 汇校整理、制作电子版并免费提供下载... (Repeated Copyright Notice) ... Kolistan 2007.11.30.",
+      "zh_modern": "本书由Kolistan 汇校整理、制作电子版并免费提供下载... (版权声明同前) ... Kolistan 2007.11.30.",
+      "en": "This book was collated, edited, and produced by Kolistan... (Copyright notice same as before) ... Kolistan 2007.11.30.",
+      "ru": "Эта книга была составлена и подготовлена Kolistan... (Уведомление об авторских правах то же, что и ранее) ... Kolistan 30.11.2007.",
+      "ja": "本書はKolistanにより彙校整理・制作され... (著作権声明は前述の通り) ... Kolistan 2007.11.30.",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "Defines symbols for textual collation: parentheses for deletion, brackets for insertion.",
+    "Lists usernames of contributors from the online community."
+  ],
+  "research_notes": [],
+  "characters_appearing": [],
+  "total_segments": 4,
+  "manuscript_sources_on_page": []
+}
