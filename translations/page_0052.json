@@ -1,0 +1,94 @@
+{
+  "page": 52,
+  "chapter": "第二回",
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 52,
+      "type": "prose",
+      "original": "那日，偶至维扬地面，因闻得今岁盐政点的是林如海。这林如海姓林名海，表字如海，乃是前科的探花，今已升至兰台寺大夫，本贯姑苏人氏，今钦点出为巡盐御史，到任方一月有余。",
+      "zh_modern": "那一天，偶然来到维扬地面，听说今年钦点的巡盐御史是林如海。这林如海姓林名海，字如海，是前一科的探花，如今已经升任兰台寺大夫，祖籍是姑苏人，现在被皇帝钦点外放为巡盐御史，到任才一个多月。",
+      "en": "That day, he happened to arrive in the Weiyang region and heard that the Salt Commissioner appointed this year was Lin Ruhai. This Lin Ruhai, surname Lin, name Hai, style name Ruhai, was a 'Tan Hua' (Third Place Graduate) of a previous examination. He had now risen to the rank of Grand Master of the Orchid Terrace (Censorate) and was a native of Gusu. He had been imperially appointed as the Inspecting Censor of Salt and had been in office for just over a month.",
+      "ru": "В тот день он случайно прибыл в земли Вэйян и услышал, что Соляным цензором в этом году назначен Линь Жухай. Этого Линь Жухая звали Хай, по фамилии Линь, по прозванию Жухай; он был «Таньхуа» (занявшим третье место) на прошлых экзаменах. Ныне он дослужился до сановника Ланьтайского приказа (Цензората), был родом из Гусу, и теперь императорским указом был назначен Инспектором соляной монополии, пробыв в должности всего месяц с лишним.",
+      "ja": "その日、偶（たまたま）維揚（いよう）の地面に至り、因って聞得（きき及）ぶ、今歳（こんさい）の塩政に点ぜられしはこれ林如海なりと。この林如海、姓は林、名は海、表字は如海、乃ち前科の探花にして、今已に蘭台寺大夫に升り、本貫は姑蘇の人氏、今欽点されて出でて巡塩御史と為り、任に到りて方（まさ）に一月有余なり。",
+      "commentary": [
+        {
+          "type": "甲戌侧批",
+          "source": "甲戌本",
+          "position": "right margin",
+          "original": "出身虽是世家，若非科第出身，则不能作此书之父。",
+          "zh_modern": "虽然出身是世家，但如果不是科举出身，就不能做这部书（主角黛玉）的父亲。",
+          "en": "Although from an aristocratic family, if he were not a successful examination candidate, he could not be the father in this book (of Daiyu).",
+          "ru": "Хотя он из знатного рода, если бы он не прошел экзамены, он не мог бы стать отцом (героини) этой книги.",
+          "ja": "出身はこれ世家といえども、若し科第の出身にあらざれば、則ちこの書の父を作（な）すことあたわず。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pdf_page": 52,
+      "type": "prose",
+      "original": "原来这林如海之祖，曾袭过列侯，今到如海，业经五世。起初时，只封袭三世，因当今隆恩盛德，远迈前代，额外加恩，至如海之父，又袭了一代；至如海，便从科第出身。",
+      "zh_modern": "原来这林如海的祖先，曾经世袭过侯爵，传到如海这一代，已经是第五世了。起初的时候，只封袭三代，因为当今皇帝恩德浩荡，远超前代，额外加恩，传到如海的父亲，又袭了一代；到了如海这一代，便通过科举考试出身了。",
+      "en": "It turned out that Lin Ruhai's ancestors had inherited the rank of Marquis. By Ruhai's time, it had been five generations. Initially, the title was to be inherited for only three generations, but because the present Emperor's grace and virtue far exceeded former ages, he granted extra favor, so Ruhai's father inherited for one more generation. By Ruhai's time, he established himself through the civil service examinations.",
+      "ru": "Оказалось, что предки Линь Жухая наследовали титул хоу (маркиза). До Жухая прошло уже пять поколений. Изначально титул наследовался лишь три поколения, но так как милость и добродетель нынешнего Императора далеко превосходят прошлые эпохи, он даровал особую милость, и отец Жухая наследовал титул еще одно поколение. Жухай же начал карьеру через государственные экзамены.",
+      "ja": "元来この林如海の祖、かつて列侯を襲（つ）ぎ、今如海に到りて、業（すで）に五世を経たり。起初の時、ただ襲すること三世に封ぜられしが、当今の隆恩盛徳、前代に遠邁（えんまい）するにより、額外に恩を加え、如海の父に至りて、また一代を襲げり；如海に至りて、便ち科第より出身す。",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "pdf_page": 52,
+      "type": "prose",
+      "original": "虽系钟鼎之家，却亦是书香之族。只可惜这林家支庶不盛，子孙有限，虽有几门，却与如海俱是堂族而已，没甚亲支嫡派的。",
+      "zh_modern": "虽然是富贵显赫的钟鼎之家，却也是诗礼传家的书香门第。只可惜这林家人丁不旺，子孙有限，虽然有几门亲戚，但和如海都只是同堂的远亲而已，没有什么嫡系的近亲。",
+      "en": "Although it was a family of 'bells and tripods' (aristocracy), it was also a clan of 'books and fragrance' (scholarly tradition). It is only a pity that the Lin clan was not populous, and descendants were few. Although there were several branches, they were all distant cousins to Ruhai; there were no close direct kin.",
+      "ru": "Хотя это был дом «колоколов и треножников» (знати), это был также род «книжного аромата» (ученых). Жаль только, что род Линь не был многочислен, и потомков было мало. Хоть и было несколько ветвей, все они приходились Жухаю лишь троюродными братьями, близких родственников не было.",
+      "ja": "鐘鼎（しょうてい）の家といえども、却ってまた書香の族なり。只だ惜しむらくはこの林家支庶盛んならず、子孫限りあり、幾門か有りといえども、却って如海とは倶（とも）に堂族のみにして、甚だしき親支嫡派は没（な）きなり。",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "pdf_page": 52,
+      "type": "prose",
+      "original": "今如海年已四十，只有一个三岁之子，偏又于去岁死了。虽有几房姬妾，也就没有生产。",
+      "zh_modern": "如今如海年已四十，只有一个三岁的儿子，偏偏又在去年死了。虽然有几房姬妾，也都没有生育。",
+      "en": "Now Ruhai was already forty. He had only one son, three years old, who unfortunately died last year. Although he had several concubines, none had given birth.",
+      "ru": "Ныне Жухаю было уже сорок лет. Был у него лишь один трехлетний сын, да и тот, к несчастью, умер в прошлом году. Хоть и было у него несколько наложниц, но никто не родил.",
+      "ja": "今如海年は已に四十、只だ一個の三歳の子有るのみなるに、偏（ひとえ）にまた去歳死せり。幾房かの姫妾有りといえども、也就（また）生産なかりき。",
+      "commentary": []
+    },
+    {
+      "id": 5,
+      "pdf_page": 52,
+      "type": "prose",
+      "original": "只嫡妻贾氏，生得一女，乳名黛玉，年方五岁。夫妻无子，故爱如珍宝，且又见她聪明清秀，便也欲使她读书识得几个字，不过假充养子之意，聊解膝下荒凉之叹。",
+      "zh_modern": "只有正妻贾氏，生了一个女儿，乳名叫黛玉，年方五岁。夫妻俩没有儿子，所以爱她如同珍宝，而且见她聪明清秀，便也想让她读读书、认几个字，不过是把她当作儿子来养的意思，姑且排解一下膝下无子的荒凉感叹。",
+      "en": "Only his lawful wife, Lady Jia, had borne a daughter, whose milk-name was Daiyu, now just five years old. The couple had no son, so they loved her like a precious treasure. Moreover, seeing she was intelligent and refined, they wished to let her read books and learn some characters, treating her as if she were a son, merely to relieve the desolation of having no heir at their knees.",
+      "ru": "Лишь законная жена, урожденная Цзя, родила дочь, по молочному имени Дайюй, которой ныне было пять лет. У супругов не было сыновей, поэтому они любили ее как драгоценное сокровище. К тому же, видя, что она умна и прекрасна, они решили научить ее читать и писать, воспитывая как сына, чтобы хоть как-то утешить тоску от одиночества.",
+      "ja": "只だ嫡妻の贾氏、一女を生み、乳名を黛玉といい、年方（まさ）に五歳なり。夫妻子無きゆえ、愛すること珍宝のごとく、且つまた彼女が聡明清秀なるを見て、便ちまた彼女をして書を読み字を幾つか識らしめんと欲すは、不過（ただ）養子に仮充（かじゅう）するの意にして、聊（いささ）か膝下の荒涼の嘆きを解かんとするのみ。",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "探花 (Tan Hua): The title for the third-highest ranking graduate in the imperial civil service examination. Indicates high intellect.",
+    "兰台寺 (Lantai Si): Orchid Terrace. A poetic name for the Censorate (Yu Shi Tai).",
+    "巡盐御史 (Xun Yan Yu Shi): Inspecting Censor of Salt. A highly lucrative and important post, controlling the salt monopoly.",
+    "钟鼎之家 (Zhong Ding Zhi Jia): Family of Bells and Tripods. Refers to a wealthy, aristocratic family that uses bronze vessels for rituals and feasts.",
+    "黛玉 (Daiyu): Black Jade. The heroine. Her name 'Dai' relates to the pigment used for painting eyebrows."
+  ],
+  "research_notes": [
+    "Introduction of Lin Daiyu and her family background.",
+    "Highlights the Lin family's scholarly nature compared to the Jia family's military nobility.",
+    "Ruhai's age (40) and lack of son sets the stage for Daiyu's eventual move to the Jia household.",
+    "Verified the titles and official ranks."
+  ],
+  "characters_appearing": [
+    "Lin Ruhai",
+    "Lin Daiyu (introduced)",
+    "Lady Jia (Jia Min) (mentioned)"
+  ],
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ]
+}
