@@ -1,0 +1,105 @@
+{
+  "page": 27,
+  "chapter": "第一回",
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 27,
+      "type": "prose",
+      "original": "按那石上书云：当日地陷东南，这东南一隅有处曰姑苏，有城曰阊门者，最是红尘中一二等富贵风流之地。",
+      "zh_modern": "按照那石头上记载的文字说：当年大地在东南方塌陷，这东南角落里有个地方叫姑苏，城里有个阊门，是红尘中数一数二的富贵繁华、风流温柔的地方。",
+      "en": "According to the writing on the stone: Long ago the earth sank in the southeast, and in this southeastern corner there was a place called Gusu. There was a gate called Changmen, which was one of the foremost places of wealth, splendor, and romance in the Red Dust.",
+      "ru": "Как гласит надпись на камне: в те времена земля провалилась на юго-востоке, и в этом юго-восточном углу было место, зовущееся Гусу. Были там ворота Чанмэнь — одно из самых богатых, процветающих и романтических мест в Красной Пыли.",
+      "ja": "かの石上の書を按ずるに云く：当日、地は東南に陥り、この東南の一隅に処ありて姑蘇（こそ）と曰い、城ありて閶門（しょうもん）と曰う者、もっともこれ紅塵中一二等の富貴風流の地なり。",
+      "commentary": [
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "position": "right margin",
+          "original": "立足。",
+          "zh_modern": "立足点。",
+          "en": "Setting the scene.",
+          "ru": "Место действия.",
+          "ja": "足を立つ。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pdf_page": 27,
+      "type": "prose",
+      "original": "这阊门外有个十里街，街内有个仁清巷，巷内有个古庙，因地方窄狭，人皆呼作葫芦庙。",
+      "zh_modern": "这阊门外有一条十里长街，街里有一条仁清巷，巷子里有一座古庙，因为地方狭窄，人们都称它为葫芦庙。",
+      "en": "Outside this Changmen Gate was Ten-Li Street; within the street was Renshi Lane; and within the lane was an old temple. Because the place was narrow, everyone called it Gourd Temple (Hulu Miao).",
+      "ru": "За этими воротами Чанмэнь была улица Десяти Ли, на улице — переулок Жэньцин (Гуманности и Чистоты), а в переулке — старый храм. Из-за тесноты места люди называли его Храм Тыквы-Горлянки (Хулу).",
+      "ja": "この閶門の外に十里街というあり、街の内に仁清巷というあり、巷の内に古廟あり、地方窄狭なるにより、人みな呼びて葫蘆廟（ころびょう）と作（な）す。",
+      "commentary": [
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "position": "right margin",
+          "original": "画！而且“葫芦”二字，隐着“糊涂”也。",
+          "zh_modern": "如画一般！而且“葫芦”二字，隐含着“糊涂”的意思。",
+          "en": "Picturesque! Moreover, the two characters for 'Hulu' (Gourd) imply 'Hutu' (Muddled/Confused).",
+          "ru": "Живописно! К тому же два иероглифа «Хулу» (Горлянка) скрывают смысл «Хуту» (Путаница/Глупость).",
+          "ja": "画なり！しかして「葫蘆」の二字、「糊塗」を隠すなり。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "pdf_page": 27,
+      "type": "prose",
+      "original": "庙旁住着一家乡宦，姓甄，名费，字士隐。嫡妻封氏，情性贤淑，深明礼义。",
+      "zh_modern": "庙旁住着一户乡绅人家，姓甄，名费，字士隐。正妻封氏，性情贤惠淑德，深明礼义。",
+      "en": "Beside the temple lived a country squire named Zhen Fei, style name Shiyin. His lawful wife was of the Feng clan, possessing a virtuous and gentle nature and a deep understanding of propriety and righteousness.",
+      "ru": "Рядом с храмом жила семья сельского дворянина по фамилии Чжэнь, по имени Фэй, по прозванию Шиинь. Его законная жена была из рода Фэн, нрава добродетельного и кроткого, глубоко понимающая ритуал и долг.",
+      "ja": "廟の傍らに一家の郷宦住めり、姓は甄（しん）、名は費（ひ）、字は士隠（しいん）。嫡妻は封氏、情性賢淑にして、深く礼義を明らむ。",
+      "commentary": [
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "position": "right margin",
+          "original": "真事隐。",
+          "zh_modern": "真事隐去。",
+          "en": "True matters hidden.",
+          "ru": "Истинные события скрыты.",
+          "ja": "真事隠る。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "pdf_page": 27,
+      "type": "prose",
+      "original": "家中虽不甚富贵，然本地便也推他为望族了。因这甄士隐禀性恬淡，不以功名为念，每日只以观花修竹、酌酒吟诗为乐，也就是神仙一流人品。",
+      "zh_modern": "家中虽然不是非常富贵，但在当地也被推崇为望族了。因为这甄士隐生性恬淡，不把功名利禄放在心上，每天只以赏花修竹、喝酒吟诗为乐，也算是神仙一流的人品。",
+      "en": "Although the family was not extremely wealthy or noble, they were regarded as a prominent clan in the locality. Because this Zhen Shiyin had a tranquil nature and did not care for fame or officialdom, finding joy daily only in viewing flowers, pruning bamboo, drinking wine, and reciting poetry, he was truly a person of immortal quality.",
+      "ru": "Хотя семья была не слишком богата и знатна, местные жители почитали их за видный род. Поскольку этот Чжэнь Шиинь был нрава спокойного и безмятежного, не помышлял о славе и карьере, а находил радость лишь в созерцании цветов, подрезании бамбука, питье вина и чтении стихов, он был человеком поистине небожительского склада.",
+      "ja": "家は甚だしくは富貴ならずといえども、しかれども本地すなわちまた彼を推して望族となす。この甄士隠、禀性恬淡にして、功名をもって念となさず、毎日ただ花を観、竹を修め、酒を酌み、詩を吟ずるをもって楽しみとなすにより、これもまた神仙一流の人品なり。",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "姑苏 (Gusu): An ancient, poetic name for Suzhou, famous for its gardens and culture.",
+    "阊门 (Changmen): A major gate in Suzhou, historically a center of commerce and wealth.",
+    "十里街 (Ten-Li Street): Often refers to Shantang Street in Suzhou.",
+    "仁清巷 (Renshi Lane): A pun on 人情 (Ren Qing), meaning 'human feelings' or 'worldly ways'.",
+    "葫芦庙 (Hulu Miao): Gourd Temple. 'Hulu' puns with 糊涂 (Hutu), meaning 'muddled' or 'confused', suggesting the world is a confused place.",
+    "甄士隐 (Zhen Shiyin): A pun on 真事隐 (Zhen Shi Yin), meaning 'True events hidden'.",
+    "封氏 (Feng Shi): A pun on 风流 (Feng Liu) or perhaps 封闭 (Feng Bi - sealed/closed)?"
+  ],
+  "research_notes": [
+    "Verified the geographic locations (Gusu, Changmen) as real places in Suzhou, grounding the 'hidden' story in reality.",
+    "Consulted commentary for the puns on names (Zhen Shiyin, Hulu Miao).",
+    "The description of Shiyin as 'immortal quality' (神仙一流) contrasts with his upcoming tragic fall."
+  ],
+  "characters_appearing": [
+    "Zhen Shiyin",
+    "Feng Shi (Shiyin's wife)"
+  ],
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ]
+}
