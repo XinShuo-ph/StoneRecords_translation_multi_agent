@@ -28,7 +28,7 @@ REQUIRED_TITLE_FIELDS = ["original", "zh_modern", "en", "ru", "ja"]
 REQUIRED_SEGMENT_FIELDS = ["id", "type", "original", "zh_modern", "en", "ru", "ja"]
 
 # Valid segment types
-VALID_SEGMENT_TYPES = ["prose", "poem", "dialogue"]
+VALID_SEGMENT_TYPES = ["prose", "poem", "dialogue", "title", "preface", "subtitle"]
 
 # Required fields for commentary objects
 REQUIRED_COMMENTARY_FIELDS = ["type", "source", "original", "zh_modern", "en", "ru", "ja"]

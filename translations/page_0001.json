@@ -1,0 +1,39 @@
+{
+  "page": 1,
+  "chapter": "前言",
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 1,
+      "type": "title",
+      "original": "红楼梦",
+      "zh_modern": "红楼梦",
+      "en": "Dream of the Red Chamber",
+      "ru": "Сон в красном тереме",
+      "ja": "紅楼夢",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "pdf_page": 1,
+      "type": "subtitle",
+      "original": "脂评汇校本",
+      "zh_modern": "脂砚斋评语汇校本",
+      "en": "Zhiping Commentary Collation Edition",
+      "ru": "Сводный текст с комментариями Чжияньчжая",
+      "ja": "脂評彙校本",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "Title page of the edition.",
+    "Zhiping (脂评) refers to the commentaries by Zhiyan Zhai (脂砚斋) and others."
+  ],
+  "research_notes": [
+    "Standard title translation."
+  ],
+  "characters_appearing": [],
+  "manuscript_sources_on_page": [],
+  "total_segments": 2
+}
