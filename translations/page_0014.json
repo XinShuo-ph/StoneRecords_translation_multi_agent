@@ -1,0 +1,230 @@
+{
+  "page": 14,
+  "chapter": "第一回",
+  "chapter_title": null,
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 14,
+      "type": "prose",
+      "original": "那僧便念咒书符，大展幻术，将一块大石登时变成一块鲜明莹洁的美玉，且又缩成扇坠大小的可佩可拿。那僧托于掌上，笑道：“形体倒也是个宝物了！还只没有实在的好处，须得再镌上数字，使人一见便知是奇物方妙。然后好携你到那昌明隆盛之邦，诗礼簪缨之族，花柳繁华地，温柔富贵乡去安身乐业。”",
+      "zh_modern": "那和尚便念咒语画符篆，大展幻术，将一块大石头顿时变成一块鲜明晶莹的美玉，而且又缩成扇坠大小，可以佩戴也可以拿在手中。那和尚把它托在手掌上，笑道：“外形倒算是个宝物了！只是还没有实在的好处，必须再刻上几个字，让人一见就知道是奇物才好。然后好带你到那昌明隆盛之邦，诗礼簪缨之族，花柳繁华之地，温柔富贵之乡去安身乐业。”",
+      "en": "The monk then chanted spells and drew charms, displaying great illusory magic, and instantly transformed the large stone into a piece of bright, translucent, precious jade. Moreover, it shrank to the size of a fan pendant, suitable to be worn or held. The monk held it on his palm and smiled: 'Your form is indeed a treasure now! But you still lack real benefits; I must engrave a few characters on you so that people will know at a glance you are a rare object—that would be wonderful. Then I can take you to that Land of Prosperity and Culture, that Family of Poetry and Rites, that Place of Flowers and Willows, that Home of Gentleness and Wealth, to settle down and find contentment.'",
+      "ru": "Монах стал читать заклинания и чертить талисманы, являя великую магию иллюзий, и мгновенно превратил огромный камень в кусок яркой, прозрачной драгоценной яшмы. Более того, он уменьшился до размера подвески для веера, которую удобно носить или держать в руке. Монах, держа его на ладони, с улыбкой сказал: «Твоя форма теперь и впрямь сокровище! Но у тебя все еще нет реальных достоинств; я должен выгравировать на тебе несколько иероглифов, чтобы люди с первого взгляда поняли, что ты — редкость; вот это будет чудесно. Тогда я смогу отнести тебя в тот Край Процветания и Культуры, в ту Семью Поэзии и Ритуалов, в то Место Цветов и Ив, в тот Дом Нежности и Богатства, чтобы ты мог там обосноваться и наслаждаться жизнью».",
+      "ja": "那の僧便ち呪を念じ符を書し、大いに幻術を展じ、一塊の大石を登時（たちまち）変じて一塊の鮮明莹潔なる美玉と成し、且つ又た縮めて扇墜の大小の佩ぶべく拿（と）るべきものと為す。那の僧掌上に托し、笑って道う：「形体は倒（かえ）って亦た是れ箇（ひと）つの宝物なり！還（ま）た只だ实在の好処無く、須（すべから）く復た数字を鐫（ほ）り、人をして一見して便ち是れ奇物なるを知らしめて方（はじ）めて妙なり。然る後好く汝を携えて那の昌明隆盛の邦、詩礼簪纓の族、花柳繁華の地、温柔富貴の郷に到りて安身楽業せしめん」と。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "妙！佛法亦须偿还，况世人之债乎？近之赖债者来看此句。所谓游戏笔墨也。",
+          "zh_modern": "妙！佛法也必须偿还，何况世人的债呢？近来赖债的人来看看这句话。这就是所谓的游戏笔墨。",
+          "en": "Wonderful! Even Buddha-dharma must be repaid, let alone worldly debts? Those who default on debts lately should look at this sentence. This is what is called playful writing.",
+          "ru": "Чудесно! Даже Дхарму Будды нужно возвращать, что уж говорить о мирских долгах? Нынешним должникам стоит взглянуть на эту фразу. Это так называемая игривая кисть.",
+          "ja": "妙！仏法も亦た須く償還すべし、況んや世人の債をや？近之（ちかごろ）の債を頼（たお）す者来りて此の句を看よ。所謂遊戯の筆墨なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "明点“幻”字。好！",
+          "zh_modern": "明白地点出“幻”字。好！",
+          "en": "Explicitly pointing out the word 'Illusion'. Good!",
+          "ru": "Ясно указывает на слово «Иллюзия». Хорошо!",
+          "ja": "明らかに「幻」字を点ず。好し！"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "奇诡险怪之文，有如髯苏《石钟》《赤壁》用幻处。",
+          "zh_modern": "奇诡险怪的文章，就像苏东坡《石钟山记》《赤壁赋》中运用幻笔的地方。",
+          "en": "Strange, bizarre, and fantastic writing, like the use of illusion in Su Dongpo's 'Stone Bell Mountain' and 'Red Cliff'.",
+          "ru": "Странное, причудливое и фантастическое письмо, подобно использованию иллюзий в «Каменном колоколе» и «Красной скале» Су Дунпо.",
+          "ja": "奇詭険怪の文、髯蘇（蘇軾）の『石鐘』『赤壁』の幻を用うる処の如き有り。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "自愧之语。",
+          "zh_modern": "自我惭愧的话。",
+          "en": "Words of self-shame.",
+          "ru": "Слова стыда за себя.",
+          "ja": "自ら愧（は）ずるの語。"
+        },
+        {
+          "type": "夹批",
+          "source": "蒙府本",
+          "position": "inline",
+          "original": "世上人原自据看得见处为凭。",
+          "zh_modern": "世上的人原本只把看得见的地方作为凭据。",
+          "en": "People in the world originally rely only on what is visible as evidence.",
+          "ru": "Люди в мире изначально полагаются лишь на видимое как на доказательство.",
+          "ja": "世上の人は原（もと）自ら看（み）得（う）る処に拠りて憑となす。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "妙极！今之金玉其外败絮其中者，见此大不欢喜。",
+          "zh_modern": "妙极！如今那些金玉其外败絮其中的人，见到这话大不欢喜。",
+          "en": "Excellent! Those of today who are 'gold and jade on the outside but rotten cotton within' will be very unhappy to see this.",
+          "ru": "Превосходно! Те, кто ныне «золото и яшма снаружи, но гнилая вата внутри», будут очень недовольны, увидев это.",
+          "ja": "妙極まりなし！今の金玉其の外にして敗絮其中なる者、此を見て大いに歓喜せず。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "世上原宜假，不宜真也。",
+          "zh_modern": "世上本来适宜假的，不适宜真的。",
+          "en": "In this world, it is fitting to be fake, not real.",
+          "ru": "В этом мире подобает быть фальшивым, а не настоящим.",
+          "ja": "世上原（もと）宜しく仮なるべく、真なる宜しからざるなり。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "伏长安大都。",
+          "zh_modern": "伏笔指长安大都（北京）。",
+          "en": "Foreshadows the Great Capital Chang'an.",
+          "ru": "Предвещает великую столицу Чанъань.",
+          "ja": "長安大都を伏す。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "伏荣国府。",
+          "zh_modern": "伏笔指荣国府。",
+          "en": "Foreshadows the Rongguo Mansion.",
+          "ru": "Предвещает дворец Жунго.",
+          "ja": "栄国府を伏す。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "伏大观园。",
+          "zh_modern": "伏笔指大观园。",
+          "en": "Foreshadows Grand View Garden.",
+          "ru": "Предвещает Сад Роскошных Зрелищ.",
+          "ja": "大観園を伏す。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "伏紫芸轩。",
+          "zh_modern": "伏笔指紫芸轩（应为绛芸轩）。",
+          "en": "Foreshadows Ziyun Study [should be Jiangyun Study].",
+          "ru": "Предвещает Кабинет Пурпурной Руты [должно быть Алой Руты].",
+          "ja": "紫芸軒を伏す。"
+        },
+        {
+          "type": "眉批",
+          "source": "甲戌本",
+          "position": "top",
+          "original": "昔子房后谒黄石公，惟见一石。子房当时恨不随此石去。余亦恨不能随此石而去也。聊供阅者一笑。",
+          "zh_modern": "从前张良（子房）后来去拜见黄石公，只见一块石头。张良当时遗憾不能跟随这块石头而去。我也遗憾不能跟随这块石头而去啊。姑且供读者一笑。",
+          "en": "In the past, when Zhang Liang (Zifang) later visited Lord Huangshi, he saw only a stone. Zifang regretted then that he could not go with this stone. I too regret that I cannot go with this stone. Just for the readers' amusement.",
+          "ru": "В прошлом, когда Чжан Лян (Цзыфан) позже посетил господина Хуанши, он увидел лишь камень. Цзыфан тогда пожалел, что не может уйти с этим камнем. Я тоже жалею, что не могу уйти с этим камнем. Просто на потеху читателям.",
+          "ja": "昔子房後黄石公に謁し、惟だ一石を見る。子房当時恨むらくは此の石に随って去らざりしを。余も亦た恨むらくは此の石に随って去る能わざるなり。聊か閲者の笑に供す。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pdf_page": 14,
+      "type": "prose",
+      "original": "石头听了，喜不能禁，乃问：“不知赐了弟子那几件奇处，又不知携了弟子到何地方？望乞明示，使弟子不惑。”那僧笑道：“你且莫问，日后自然明白的。”说着，便袖了这石，同那道人飘然而去，竟不知投奔何方何舍。",
+      "zh_modern": "石头听了，喜不自禁，便问：“不知赐给了弟子哪几件奇处，又不知要带弟子到什么地方？希望能明白指示，使弟子不再困惑。”那和尚笑道：“你且不要问，日后自然会明白的。”说着，便将这石头收在袖子里，同那道人飘然而去，竟不知投奔向何方何舍。",
+      "en": "Hearing this, the Stone could not contain its joy and asked: 'I do not know what rare qualities you have bestowed upon your disciple, nor do I know to what place you are taking me. I beg you to explain clearly so that your disciple will not be confused.' The monk smiled: 'Do not ask for now; you will naturally understand in the future.' Speaking, he tucked the stone into his sleeve and drifted away with the Daoist; no one knows where they went.",
+      "ru": "Услышав это, Камень не мог сдержать радости и спросил: «Не ведаю, какими редкими качествами вы одарили вашего ученика, и не ведаю, в какое место вы меня несете. Прошу вас ясно указать, чтобы ваш ученик не пребывал в сомнении». Монах улыбнулся: «Пока не спрашивай, в будущем само собой поймешь». Говоря это, он спрятал камень в рукав и уплыл прочь вместе с даосом; и неизвестно, куда они направились.",
+      "ja": "石聴き了って、喜び禁ずる能わず、乃ち問う：「知らず弟子に那幾件の奇処を賜りしや、又た知らず弟子を携えて何れの地方にか到る？望み乞う明示して、弟子をして惑わざらしめよ」と。那の僧笑って道う：「汝且く問うこと莫かれ、日後自然に明白ならん」と。説き着（お）わって、便ち這の石を袖にし、那の道人と同に飄然として去り、竟に何方何舎に投奔するを知らず。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "可知若果有奇贵之处，自己亦不知者。若自以奇贵而居，究竟是无真奇贵之人。",
+          "zh_modern": "可知如果真的有奇特贵重之处，自己也是不知道的。如果自以为奇特贵重而自居，终究不是真正奇特贵重的人。",
+          "en": "It can be seen that if one truly possesses rare and precious qualities, one does not know it oneself. If one considers oneself rare and precious, one is ultimately not a truly rare and precious person.",
+          "ru": "Видно, что если кто-то действительно обладает редкими и драгоценными качествами, сам он этого не знает. Если же кто-то считает себя редким и драгоценным, он в конечном счете не является истинно редким и драгоценным человеком.",
+          "ja": "知るべし若し果たして奇貴の処有らば、自己も亦た知らざる者なるを。若し自ら奇貴をもって居らば、究竟是れ真の奇貴の人無きなり。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "pdf_page": 14,
+      "type": "prose",
+      "original": "后来，又不知过了几世几劫，因有个空空道人访道求仙，忽从这大荒山无稽崖青埂峰下经过，忽见一大石上字迹分明，编述历历。空空道人乃从头一看，原来就是无材补天、幻形入世，蒙茫茫大士、渺渺真人携入红尘，历尽离合悲欢、炎凉世态的一段故事。后面又有一首偈云：",
+      "zh_modern": "后来，又不知过了几世几劫，因为有个空空道人访道求仙，忽然从这大荒山无稽崖青埂峰下经过，忽然看见一块大石头上字迹分明，编述得清清楚楚。空空道人便从头一看，原来就是那块无材补天、幻化外形进入人世，蒙茫茫大士、渺渺真人携带进入红尘，历尽了离合悲欢、炎凉世态的一段故事。后面又有一首偈语说：",
+      "en": "Later, unknown how many ages and kalpas had passed, a certain Kongkong Daoren (Empty Daoist / Vanitas) seeking the Dao and searching for immortality suddenly passed by the foot of Qinggeng Peak on the Incredible Crag of Great Wilderness Mountain. He suddenly saw a large stone with characters clearly written on it, narrating a story in detail. Kongkong Daoren read it from the beginning; it turned out to be the story of the stone that was unfit to repair the heavens, which had assumed an illusory form to enter the world, and was taken into the Red Dust by the Great Scholar of Vastness (Mangmang Dashi) and the True Man of Vague Ethereality (Miaomiao Zhenren), where it experienced all the partings and meetings, sorrows and joys, and the fickleness of worldly affairs. At the end there was a gatha which said:",
+      "ru": "Позже, неизвестно сколько эпох и кальп спустя, некий Кункун Даожэнь (Даос Пустоты), ища Дао и стремясь к бессмертию, вдруг проходил мимо пика Цингэн у Невероятного утеса на Горе Великой Пустоты. Вдруг он увидел большой камень с четко написанными иероглифами, подробно излагающими историю. Кункун Даожэнь прочел ее с начала; оказалось, что это история о камне, непригодном для починки небес, который принял иллюзорную форму, чтобы войти в мир, и был унесен в Красную пыль Великим Ученым Беспредельности (Манман Даши) и Истинным Человеком Эфирной Зыбкости (Мяомяо Чжэньжэнь), где он испытал все расставания и встречи, горести и радости, и непостоянство мирских дел. В конце была гатха, гласившая:",
+      "ja": "後來（のち）、又た知らず幾世幾劫を過ぎたるか、箇（ひと）つの空空道人有り道を訪ね仙を求め、忽ち這の大荒山無稽崖青埂峰の下より経過し、忽ち一大石の上字跡分明にして、編述歴歴たるを見る。空空道人乃ち頭（はじめ）より一看すれば、元来是れ材無くして天を補わず、形を幻じて世に入り、茫茫大士、渺渺真人を蒙りて携えられて紅塵に入り、離合悲歓、炎涼世態を歴尽したる一段の故事なり。後面に又た一首の偈有りて云う：",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "八字便是作者一生惭恨。",
+          "zh_modern": "这八个字便是作者一生的惭愧和遗憾。",
+          "en": "These eight characters ['unfit to repair heaven, illusion form enters world'] are the author's lifelong shame and regret.",
+          "ru": "Эти восемь иероглифов — пожизненный стыд и сожаление автора.",
+          "ja": "八字便ち是れ作者一生の慚恨なり。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "pdf_page": 14,
+      "type": "poem",
+      "original": "无材可去补苍天，枉入红尘若许年。\n此系身前身后事，倩谁记去作奇传？",
+      "zh_modern": "没有才干去修补苍天，白白地进入红尘这么多年。\n这是前世和来世的事情，请谁记下来作为奇闻流传？",
+      "en": "No talent to go and repair the azure sky,\nVainly entered the Red Dust for so many years.\nThis concerns matters of lives before and after,\nWhom can I ask to record it as a strange tale?",
+      "ru": "Нет таланта, чтобы пойти чинить лазурное небо,\nНапрасно вступил в Красную пыль на столько лет.\nЭто дела жизни прошлой и будущей,\nКого попросить записать это как удивительное сказание?",
+      "ja": "材無くして去って蒼天を補わず，\n枉（むな）しく紅塵に入ること若許（そこばく）年。\n此れは系（これ）身前身後の事，\n誰をか倩（やと）い記し去って奇伝と作さん？",
+      "poem_notes": {
+        "form": "Seven-character quatrain (七言绝句)",
+        "rhyme_scheme": "AABA",
+        "significance": "Summarizes the Stone's regret and the book's origin."
+      },
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "书之本旨。",
+          "zh_modern": "全书的本意。",
+          "en": "The fundamental purpose of the book.",
+          "ru": "Основная цель книги.",
+          "ja": "書の本旨なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "惭愧之言，呜咽如闻。",
+          "zh_modern": "惭愧的话，呜咽之声仿佛就在耳边。",
+          "en": "Words of shame; one can almost hear the sobbing.",
+          "ru": "Слова стыда; словно слышишь рыдания.",
+          "ja": "慚愧の言、嗚咽聞くが如し。"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "The transformation of the stone into jade connects the 'Stone' motif with Baoyu's 'Jade'.",
+    "Foreshadowing of specific locations in the novel (Rongguo Mansion, Grand View Garden) confirms the allegorical nature.",
+    "Kongkong Daoren (Vanitas) serves as the first reader/transmitter of the story."
+  ],
+  "research_notes": [],
+  "characters_appearing": ["癞头和尚", "跛足道人", "空空道人"],
+  "total_segments": 4,
+  "manuscript_sources_on_page": ["甲戌本", "蒙府本"]
+}
