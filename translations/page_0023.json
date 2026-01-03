@@ -1,0 +1,81 @@
+{
+  "page": 23,
+  "chapter": "第一回",
+  "chapter_title": {
+    "original": "甄士隐梦幻识通灵 贾雨村风尘怀闺秀",
+    "zh_modern": "甄士隐在梦幻中认识了通灵宝玉，贾雨村在落魄时怀念闺中秀女",
+    "en": "Zhen Shiyin in a Dream Perceives the Jade of Spiritual Understanding; Jia Yucun in Humble Circumstances Thinks Fondly of a Beautiful Maiden",
+    "ru": "Чжэнь Шиинь во сне постигает волшебную яшму; Цзя Юйцунь в бедности вспоминает прекрасную деву",
+    "ja": "甄士隠、夢幻の中で通霊を識り、賈雨村、風塵にありて閨秀を懐う"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 23,
+      "type": "prose",
+      "original": "偏值三月十五日，葫芦庙中炸供，那些和尚不小心，油锅火逸，便烧着窗纸。",
+      "zh_modern": "偏偏到了三月十五日，葫芦庙里的和尚炸供品，不小心让油锅里的火溢了出来，烧着了窗纸。",
+      "en": "It happened to be the fifteenth of the third month. In the Gourd Temple, the monks were frying offerings. Through their carelessness, fire from the oil pan escaped and caught the window paper.",
+      "ru": "Случилось это пятнадцатого числа третьего месяца. Монахи в Храме Горлянки жарили подношения. По неосторожности огонь из масляного котла вырвался наружу и поджёг оконную бумагу.",
+      "ja": "折しも三月十五日、葫芦廟の中で供え物を揚げていたが、和尚たちが不注意で、油鍋の火が逸れ、窓紙に燃え移った。",
+      "commentary": [
+        {
+          "type": "眉批",
+          "source": "甲戌本",
+          "position": "top margin",
+          "original": "写出南直召祸之实病。",
+          "zh_modern": "写出了南方招致火灾的实际弊病（指建筑密集、易引发火灾）。",
+          "en": "This writes about the actual causes of disasters in the Southern Zhili region (dense housing/fire risks).",
+          "ru": "Здесь описана реальная причина бедствий в Южной Чжили.",
+          "ja": "南直（江南地方）の禍を招く実病を書き出す。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pdf_page": 23,
+      "type": "prose",
+      "original": "此方人家俱用竹篱木壁者居多，大抵也因劫数，于是接二连三，牵五挂四，将一条街烧得如火焰山一般。",
+      "zh_modern": "这一带的人家大多使用竹篱笆和木板墙，大概也是因为劫数难逃，于是接二连三，牵五挂四，把整条街烧得像火焰山一样。",
+      "en": "Most of the houses in this area were built with bamboo fences and wooden walls. Likely because it was fated, the fire spread from one to another, dragging in five and pulling in four, until the whole street burned like the Flaming Mountain.",
+      "ru": "Дома в здешних местах в основном строили из бамбуковых плетней и деревянных стен. Видно, такова была судьба: огонь перекидывался с одного дома на другой, захватывая всё вокруг, пока вся улица не запылала, словно Огненная Гора.",
+      "ja": "この辺りの人家は竹垣や木壁を用いる者が多く、概して劫数（運命）によるものであろう、次々と燃え移り、一帯を巻き込んで、一条の街を火焰山の如く焼き尽くした。"
+    },
+    {
+      "id": 3,
+      "pdf_page": 23,
+      "type": "prose",
+      "original": "彼时虽有军民来救，那火已成了势，如何救得下？直烧了一夜，方渐渐的熄去，也不知烧了几家。",
+      "zh_modern": "当时虽然有军民赶来救火，但火势已成，哪里救得下来？一直烧了一整夜，火才渐渐熄灭，也不知道烧毁了多少人家。",
+      "en": "Although soldiers and civilians came to help extinguish the fire, it had already gained such force that it could not be saved. It burned throughout the night before gradually dying out; who knows how many homes were consumed?",
+      "ru": "Хотя солдаты и народ прибежали тушить, огонь уже набрал силу — как тут спасёшь? Он бушевал всю ночь и лишь к утру постепенно утих; неизвестно, сколько домов сгорело.",
+      "ja": "その時、軍民が来て消火にあたったが、火はすでに勢いを成しており、どうして救えようか？一晩中燃え続け、ようやく徐々に消えていったが、幾家が焼けたか知れない。"
+    },
+    {
+      "id": 4,
+      "pdf_page": 23,
+      "type": "prose",
+      "original": "只可怜甄家在隔壁，早已烧成一片瓦砾场了。只有他夫妇并几个家人的性命不曾伤了。急得士隐惟跌足长叹而已。",
+      "zh_modern": "只可怜甄家就在隔壁，早就被烧成了一片瓦砾场。只有他们夫妇和几个家人的性命没有受伤。急得甄士隐只能跺脚长叹。",
+      "en": "Most pitiable was the Zhen family next door; their home had long since been reduced to a field of broken tiles and rubble. Only the couple and a few servants escaped with their lives. In his distress, Shiyin could only stamp his foot and sigh deeply.",
+      "ru": "Бедная семья Чжэнь, жившая по соседству! Их дом давно превратился в груду черепицы и щебня. Лишь супруги да несколько слуг спасли свои жизни. В отчаянии Шиинь мог лишь топать ногами и глубоко вздыхать.",
+      "ja": "ただ憐れむべきは甄家で、隔壁にあったため、早々に一片の瓦礫の場と化してしまった。ただ彼ら夫婦と数人の家人の命だけは損なわれなかった。士隠は急くあまり、ただ足を打って長嘆するのみであった。"
+    }
+  ],
+  "translator_notes": [
+    "The fire starting in 'Gourd Temple' (葫芦庙) is symbolic. 'Hulu' sounds like 'muddle-headed' (糊涂), suggesting confusion/ignorance is the source of disaster.",
+    "The phrase '牵五挂四' (pulling five and dragging four) idiomatically describes the rapid and chaotic spread of the fire involving neighbors.",
+    "The destruction of Zhen Shiyin's home completes his fall from prosperity, following the loss of his daughter."
+  ],
+  "research_notes": [
+    "Confirmed the date (March 15th) and location (Gourd Temple).",
+    "Checked the idiom 牵五挂四 and its translation."
+  ],
+  "characters_appearing": [
+    "甄士隐"
+  ],
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ]
+}
