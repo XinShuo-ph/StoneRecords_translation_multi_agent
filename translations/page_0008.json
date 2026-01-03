@@ -1,0 +1,265 @@
+{
+  "page": 8,
+  "chapter": "目录",
+  "chapter_title": null,
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "第四十八回　滥情人情误思游艺　慕雅女雅集苦吟诗……………… 572",
+      "zh_modern": "第四十八回 滥情之人误入思游艺之境，慕雅之女在雅集中苦吟诗作……第572页",
+      "en": "Chapter 48: A Profligate Mistakenly Wanders into Artistic Pursuits; A Culture-Loving Girl Laboriously Composes Poetry at Elegant Gatherings... page 572",
+      "ru": "Глава 48: Распутник по ошибке увлекается искусством; Девушка, любящая изящество, усердно сочиняет стихи на утончённых собраниях... стр. 572",
+      "ja": "第四十八回　濫情の人、情誤りて游藝を思い、慕雅の女、雅集にて苦しみ詩を吟ず……572頁"
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "第四十九回　琉璃世界白雪红梅　脂粉香娃割腥啖膻……………… 582",
+      "zh_modern": "第四十九回 琉璃世界里白雪映衬红梅，脂粉香娃割烤肉大快朵颐……第582页",
+      "en": "Chapter 49: In a Crystal World, White Snow Sets Off Red Plum Blossoms; Powdered Fragrant Girls Carve and Devour Roasted Meat... page 582",
+      "ru": "Глава 49: В хрустальном мире белый снег оттеняет красные сливовые цветы; Напудренные ароматные девушки режут и поедают жареное мясо... стр. 582",
+      "ja": "第四十九回　琉璃世界に白雪紅梅、脂粉香娃腥を割き膻を啖う……582頁"
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "第五十回　芦雪广争联即景诗　暖香坞雅制春灯谜……………… 593",
+      "zh_modern": "第五十回 在芦雪广争相联句即景诗，在暖香坞雅致地制作春天的灯谜……第593页",
+      "en": "Chapter 50: At Reed-Snow Cottage They Compete in Linked Verses on the Spot; At Warm Fragrance Cove They Elegantly Compose Spring Lantern Riddles... page 593",
+      "ru": "Глава 50: В Тростниково-снежном коттедже соревнуются в сочинении связанных стихов на месте; В бухте Тёплого аромата изящно составляют весенние загадки... стр. 593",
+      "ja": "第五十回　芦雪広にて争いて即景詩を聯ね、暖香塢にて雅に春灯謎を制す……593頁"
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "第五十一回　薛小妹新编怀古诗　胡庸医乱用虎狼药……………… 610",
+      "zh_modern": "第五十一回 薛小妹新编怀古诗作，庸医胡乱使用猛烈药物……第610页",
+      "en": "Chapter 51: Young Miss Xue Composes New Nostalgic Poems; A Quack Doctor Recklessly Uses Tiger-Wolf Medicines... page 610",
+      "ru": "Глава 51: Юная барышня Сюэ сочиняет новые ностальгические стихи; Шарлатан безрассудно использует мощные лекарства... стр. 610",
+      "ja": "第五十一回　薛小妹、新たに懐古詩を編み、胡庸医、乱りに虎狼の薬を用う……610頁"
+    },
+    {
+      "id": 5,
+      "type": "prose",
+      "original": "第五十二回　俏平儿情掩虾须镯　勇晴雯病补雀金裘……………… 621",
+      "zh_modern": "第五十二回 俏丽的平儿用情义掩护虾须镯，勇敢的晴雯抱病缝补雀金裘……第621页",
+      "en": "Chapter 52: Pretty Ping'er Emotionally Covers Up the Shrimp-Whisker Bracelet; Brave Qingwen While Ill Mends the Peacock-Gold Cloak... page 621",
+      "ru": "Глава 52: Милая Пинъэр из чувства долга скрывает браслет из креветочных усиков; Храбрая Цинвэнь, будучи больной, чинит павлинье золотое одеяние... стр. 621",
+      "ja": "第五十二回　俏なる平児、情を以て蝦鬚鐲を掩い、勇なる晴雯、病を押して雀金裘を補う……621頁"
+    },
+    {
+      "id": 6,
+      "type": "prose",
+      "original": "第五十三回　宁国府除夕祭宗祠　荣国府元宵开夜宴……………… 633",
+      "zh_modern": "第五十三回 宁国府在除夕祭祀宗祠，荣国府在元宵节开设夜宴……第633页",
+      "en": "Chapter 53: The Ning-guo House Holds Ancestral Rites on New Year's Eve; The Rong-guo House Opens a Night Banquet on Lantern Festival... page 633",
+      "ru": "Глава 53: Дом Нинго проводит ритуалы предков в канун Нового года; Дом Жунго устраивает ночной банкет на Праздник фонарей... стр. 633",
+      "ja": "第五十三回　寧国府、除夕に宗祠を祭り、栄国府、元宵に夜宴を開く……633頁"
+    },
+    {
+      "id": 7,
+      "type": "prose",
+      "original": "第五十四回　史太君破陈腐旧套　王熙凤效戏彩斑衣……………… 645",
+      "zh_modern": "第五十四回 史太君打破陈腐的旧套路，王熙凤效仿戏剧穿上彩斑衣……第645页",
+      "en": "Chapter 54: Grandmother Jia Breaks with Stale Old Conventions; Wang Xifeng Imitates Opera by Donning Colorful Motley... page 645",
+      "ru": "Глава 54: Бабушка Цзя ломает устаревшие условности; Ван Сифэн подражает опере, надевая пёстрый наряд... стр. 645",
+      "ja": "第五十四回　史太君、陳腐の旧套を破り、王熙鳳、戯の彩斑衣に効う……645頁"
+    },
+    {
+      "id": 8,
+      "type": "prose",
+      "original": "第五十五回　辱亲女愚妾争闲气　欺幼主刁奴蓄险心……………… 657",
+      "zh_modern": "第五十五回 羞辱亲生女儿的愚妾争闲气，欺负年幼主人的刁钻奴才心怀险恶……第657页",
+      "en": "Chapter 55: A Foolish Concubine Shames Her Daughter with Petty Quarrels; Cunning Servants Harbor Evil Designs Against Young Masters... page 657",
+      "ru": "Глава 55: Глупая наложница позорит свою дочь мелкими ссорами; Хитрые слуги вынашивают злые замыслы против молодых хозяев... стр. 657",
+      "ja": "第五十五回　親女を辱め愚妾閑気を争い、幼主を欺き刁奴険心を蓄う……657頁"
+    },
+    {
+      "id": 9,
+      "type": "prose",
+      "original": "第五十六回　敏探春兴利除宿弊　时宝钗小惠全大体……………… 668",
+      "zh_modern": "第五十六回 敏捷的探春兴利除去旧弊，识时务的宝钗以小恩惠顾全大局……第668页",
+      "en": "Chapter 56: Quick-Witted Tanchun Promotes Benefits and Removes Old Abuses; Timely Baochai Grants Small Favors to Preserve the Greater Good... page 668",
+      "ru": "Глава 56: Сообразительная Таньчунь продвигает выгоды и устраняет старые злоупотребления; Своевременная Баочай оказывает мелкие услуги ради общего блага... стр. 668",
+      "ja": "第五十六回　敏なる探春、利を興して宿弊を除き、時を識る宝釵、小恵を以て大体を全うす……668頁"
+    },
+    {
+      "id": 10,
+      "type": "prose",
+      "original": "第五十七回　慧紫鹃情辞试忙玉　慈姨妈爱语慰痴颦……………… 680",
+      "zh_modern": "第五十七回 聪慧的紫鹃用情话试探急躁的宝玉，慈爱的姨妈用关爱话语安慰痴心的黛玉……第680页",
+      "en": "Chapter 57: Clever Zijuan Tests Anxious Baoyu with Emotional Words; Kind Aunt Xue Comforts Lovesick Daiyu with Loving Words... page 680",
+      "ru": "Глава 57: Умная Цзыцзюань испытывает беспокойного Баоюя эмоциональными словами; Добрая тётушка Сюэ утешает влюблённую Дайюй ласковыми словами... стр. 680",
+      "ja": "第五十七回　慧なる紫鵑、情辞もて忙しき玉を試し、慈なる姨媽、愛語もて痴なる顰を慰む……680頁"
+    },
+    {
+      "id": 11,
+      "type": "prose",
+      "original": "第五十八回　杏子阴假凤泣虚凰　茜纱窗真情揆痴理……………… 695",
+      "zh_modern": "第五十八回 杏子阴下假凤凰哭泣虚幻的凰，茜纱窗前真情流露痴迷的道理……第695页",
+      "en": "Chapter 58: In the Apricot Shade a False Phoenix Weeps for an Illusory Mate; At the Crimson Gauze Window True Feelings Reveal Lovesick Logic... page 695",
+      "ru": "Глава 58: В тени абрикоса ложный феникс оплакивает призрачную подругу; У окна с алой кисеёй истинные чувства раскрывают влюблённую логику... стр. 695",
+      "ja": "第五十八回　杏子の陰に仮鳳虚凰を泣き、茜紗の窓に真情痴理を揆る……695頁"
+    },
+    {
+      "id": 12,
+      "type": "prose",
+      "original": "第五十九回　柳叶渚边嗔莺咤燕　绛芸轩里召将飞符……………… 705",
+      "zh_modern": "第五十九回 柳叶渚边嗔怒地叱责莺燕，绛芸轩里召唤将要飞去的符咒……第705页",
+      "en": "Chapter 59: By Willow-Leaf Islet, Angrily Scolding Orioles and Swallows; In Crimson Cloud Studio, Summoning Flying Talismans... page 705",
+      "ru": "Глава 59: У острова Ивовых листьев сердито бранят иволг и ласточек; В Пурпурном павильоне вызывают летающие талисманы... стр. 705",
+      "ja": "第五十九回　柳葉渚の辺に嗔りて鶯を咤り燕を叱り、絳芸軒の裡に将飛の符を召す……705頁"
+    },
+    {
+      "id": 13,
+      "type": "prose",
+      "original": "第六十回　茉莉粉替去蔷薇硝　玫瑰露引来茯苓霜……………… 712",
+      "zh_modern": "第六十回 茉莉粉替换了蔷薇硝，玫瑰露引来了茯苓霜……第712页",
+      "en": "Chapter 60: Jasmine Powder Replaces Rose Saltpeter; Rose Dew Attracts Poria Frost... page 712",
+      "ru": "Глава 60: Жасминовая пудра заменяет розовую селитру; Розовая роса привлекает инейную порию... стр. 712",
+      "ja": "第六十回　茉莉粉、蔷薇硝に替わり去り、玫瑰露、茯苓霜を引き来たる……712頁"
+    },
+    {
+      "id": 14,
+      "type": "prose",
+      "original": "第六十一回　投鼠忌器宝玉瞒赃　判冤决狱平儿行权……………… 722",
+      "zh_modern": "第六十一回 投鼠忌器宝玉隐瞒赃物，判冤决狱平儿行使权力……第722页",
+      "en": "Chapter 61: Fearing to Hurt the Vessel, Baoyu Conceals the Stolen Goods; Judging Wrongs and Deciding Cases, Ping'er Exercises Authority... page 722",
+      "ru": "Глава 61: Боясь повредить сосуд, Баоюй скрывает краденое; Судя несправедливости и решая дела, Пинъэр проявляет власть... стр. 722",
+      "ja": "第六十一回　鼠を投げて器を忌み宝玉贓を瞞し、冤を判じ獄を決し平児権を行う……722頁"
+    },
+    {
+      "id": 15,
+      "type": "prose",
+      "original": "第六十二回　憨湘云醉眠芍药裀　呆香菱情解石榴裙……………… 731",
+      "zh_modern": "第六十二回 憨直的湘云醉卧在芍药花丛中，痴呆的香菱弄脏了石榴裙……第731页",
+      "en": "Chapter 62: Naive Xiangyun Drunkenly Sleeps on a Peony Cushion; Simple Xiangling Understands Emotion Through Her Pomegranate Skirt... page 731",
+      "ru": "Глава 62: Простодушная Сянъюнь пьяная спит на пионовой подушке; Наивная Сянлин понимает чувства через свою гранатовую юбку... стр. 731",
+      "ja": "第六十二回　憨なる湘雲、酔いて芍薬裀に眠り、呆なる香菱、情を石榴裙に解す……731頁"
+    },
+    {
+      "id": 16,
+      "type": "prose",
+      "original": "第六十三回　寿怡红群芳开夜宴　死金丹独艳理亲丧……………… 747",
+      "zh_modern": "第六十三回 寿宴在怡红院群芳齐聚开夜宴，因金丹暴毙独自料理亲人丧事……第747页",
+      "en": "Chapter 63: Celebrating a Birthday at Happy Red Court, Many Beauties Hold a Night Feast; Dead from a Gold Elixir, Alone She Arranges a Relative's Funeral... page 747",
+      "ru": "Глава 63: Празднуя день рождения в Весёлом красном дворе, многие красавицы устраивают ночной пир; Умерший от золотого эликсира, она одна устраивает похороны родственника... стр. 747",
+      "ja": "第六十三回　怡紅に寿を祝い群芳夜宴を開き、金丹に死して独り艶かに親喪を理む……747頁"
+    },
+    {
+      "id": 17,
+      "type": "prose",
+      "original": "第六十四回　幽淑女悲题五美吟　浪荡子情遗九龙佩……………… 763",
+      "zh_modern": "第六十四回 幽静淑女悲伤地题写五美吟，浪荡子深情地遗赠九龙佩……第763页",
+      "en": "Chapter 64: A Secluded Lady Sadly Composes 'Five Beauties' Laments'; A Dissolute Man Lovingly Bequeaths a Nine-Dragon Pendant... page 763",
+      "ru": "Глава 64: Уединённая дама печально сочиняет «Плачи о пяти красавицах»; Распутник с любовью завещает подвеску с девятью драконами... стр. 763",
+      "ja": "第六十四回　幽なる淑女、悲しみて五美吟を題し、浪蕩子、情を遺して九龍佩を贈る……763頁"
+    },
+    {
+      "id": 18,
+      "type": "prose",
+      "original": "第六十五回　贾二舍偷娶尤二姨　尤三姐思嫁柳二郎……………… 777",
+      "zh_modern": "第六十五回 贾二爷偷偷娶了尤二姐，尤三姐想要嫁给柳二郎……第777页",
+      "en": "Chapter 65: Second Master Jia Secretly Marries Second Sister You; Third Sister You Wishes to Marry Second Master Liu... page 777",
+      "ru": "Глава 65: Второй господин Цзя тайно женится на второй сестре Ю; Третья сестра Ю желает выйти замуж за второго господина Лю... стр. 777",
+      "ja": "第六十五回　賈二舎、偸かに尤二姨を娶り、尤三姐、柳二郎に嫁がんと思う……777頁"
+    },
+    {
+      "id": 19,
+      "type": "prose",
+      "original": "第六十六回　情小妹耻情归地府　冷二郎一冷入空门……………… 787",
+      "zh_modern": "第六十六回 多情的小妹因耻辱回归地府，冷漠的二郎一冷便入了空门……第787页",
+      "en": "Chapter 66: The Passionate Young Sister in Shame Returns to the Underworld; The Cold Second Master in His Coldness Enters the Empty Gate... page 787",
+      "ru": "Глава 66: Страстная младшая сестра от стыда возвращается в подземный мир; Холодный второй господин в своей холодности входит в Пустые врата... стр. 787",
+      "ja": "第六十六回　情ある小妹、恥じて地府に帰り、冷なる二郎、一たび冷めて空門に入る……787頁"
+    },
+    {
+      "id": 20,
+      "type": "prose",
+      "original": "第六十七回　馈土物颦卿念故里　讯家童凤姐蓄阴谋……………… 795",
+      "zh_modern": "第六十七回 收到土特产黛玉思念故乡，询问家童王熙凤酝酿阴谋……第795页",
+      "en": "Chapter 67: Receiving Local Products, Daiyu Thinks of Her Homeland; Interrogating a Servant Boy, Xifeng Harbors a Secret Plot... page 795",
+      "ru": "Глава 67: Получая местные товары, Дайюй думает о родине; Допрашивая слугу, Сифэн вынашивает тайный план... стр. 795",
+      "ja": "第六十七回　土物を馈りて顰卿故里を念い、家童を訊ねて鳳姐陰謀を蓄う……795頁"
+    },
+    {
+      "id": 21,
+      "type": "prose",
+      "original": "第六十八回　苦尤娘赚入大观园　酸凤姐大闹宁国府……………… 822",
+      "zh_modern": "第六十八回 可怜的尤娘被骗进大观园，酸溜溜的凤姐大闹宁国府……第822页",
+      "en": "Chapter 68: Wretched Mistress You Is Tricked Into Grand View Garden; Jealous Xifeng Creates an Uproar at Ning-guo House... page 822",
+      "ru": "Глава 68: Несчастная госпожа Ю обманом введена в Сад великого вида; Ревнивая Сифэн устраивает скандал в доме Нинго... стр. 822",
+      "ja": "第六十八回　苦しき尤娘、賺されて大観園に入り、酸っぱき鳳姐、大いに寧国府を騒がす……822頁"
+    },
+    {
+      "id": 22,
+      "type": "prose",
+      "original": "第六十九回　弄小巧用借剑杀人　觉大限吞生金自逝……………… 832",
+      "zh_modern": "第六十九回 玩弄小聪明借刀杀人，感觉大限将至吞金自尽……第832页",
+      "en": "Chapter 69: Playing Clever Tricks, Using a Borrowed Sword to Kill; Sensing Her Time Has Come, Swallowing Gold to End Her Life... page 832",
+      "ru": "Глава 69: Играя в хитрые уловки, используя чужой меч для убийства; Чувствуя приближение конца, глотая золото, чтобы покончить с жизнью... стр. 832",
+      "ja": "第六十九回　小巧を弄して借剣を用いて人を殺し、大限を覚りて生金を呑みて自ら逝く……832頁"
+    },
+    {
+      "id": 23,
+      "type": "prose",
+      "original": "第七十回　林黛玉重建桃花社　史湘云偶填柳絮词……………… 842",
+      "zh_modern": "第七十回 林黛玉重建桃花诗社，史湘云偶然填写柳絮词……第842页",
+      "en": "Chapter 70: Lin Daiyu Re-establishes the Peach Blossom Poetry Club; Shi Xiangyun Casually Composes a Willow-Catkin Lyric... page 842",
+      "ru": "Глава 70: Линь Дайюй возрождает Клуб поэзии персикового цвета; Ши Сянъюнь случайно сочиняет стих об ивовом пухе... стр. 842",
+      "ja": "第七十回　林黛玉、桃花社を重建し、史湘雲、偶々柳絮の詞を填む……842頁"
+    },
+    {
+      "id": 24,
+      "type": "prose",
+      "original": "第七十一回　嫌隙人有心生嫌隙　鸳鸯女无意遇鸳鸯……………… 852",
+      "zh_modern": "第七十一回 心存嫌隙的人有意制造嫌隙，鸳鸯女无意中遇见鸳鸯……第852页",
+      "en": "Chapter 71: Those with Grudges Deliberately Create More Grudges; Yuanyang the Maid Accidentally Encounters Mandarin Ducks... page 852",
+      "ru": "Глава 71: Те, у кого есть обиды, намеренно создают ещё больше обид; Служанка Юаньян случайно встречает уток-мандаринок... стр. 852",
+      "ja": "第七十一回　嫌隙ある人、心を以て嫌隙を生じ、鴛鴦の女、意なくして鴛鴦に遇う……852頁"
+    },
+    {
+      "id": 25,
+      "type": "prose",
+      "original": "第七十二回　王熙凤恃强羞说病　来旺妇倚势霸成亲……………… 864",
+      "zh_modern": "第七十二回 王熙凤倚仗权势羞于提及病情，来旺媳妇仗势强行成亲……第864页",
+      "en": "Chapter 72: Wang Xifeng Relies on Power and Is Ashamed to Mention Illness; Lai Wang's Wife Uses Influence to Force a Marriage... page 864",
+      "ru": "Глава 72: Ван Сифэн полагается на власть и стыдится упоминать болезнь; Жена Лай Вана использует влияние для принуждения к браку... стр. 864",
+      "ja": "第七十二回　王熙鳳、強を恃みて病を説くを羞じ、来旺婦、勢に倚りて霸して親を成す……864頁"
+    },
+    {
+      "id": 26,
+      "type": "prose",
+      "original": "第七十三回　痴丫头误拾绣春囊　懦小姐不问累金凤……………… 875",
+      "zh_modern": "第七十三回 痴傻丫头误拾绣春囊，懦弱小姐不过问累金凤……第875页",
+      "en": "Chapter 73: A Foolish Maid Mistakenly Picks Up an Embroidered Spring Pouch; A Timid Young Lady Does Not Inquire About the Burdened Golden Phoenix... page 875",
+      "ru": "Глава 73: Глупая служанка по ошибке подбирает вышитый весенний мешочек; Робкая барышня не расспрашивает об обременённом золотом фениксе... стр. 875",
+      "ja": "第七十三回　痴なる丫頭、誤りて繍春囊を拾い、懦なる小姐、累金鳳を問わず……875頁"
+    },
+    {
+      "id": 27,
+      "type": "prose",
+      "original": "第七十四回　惑奸谗抄检大观园　矢孤介杜绝宁国府……………… 887",
+      "zh_modern": "第七十四回 被奸谗迷惑而抄检大观园，以孤傲正直杜绝宁国府往来……第887页",
+      "en": "Chapter 74: Misled by Treacherous Slander, Raiding Grand View Garden; With Solitary Integrity, Cutting Off Ning-guo House... page 887",
+      "ru": "Глава 74: Введённые в заблуждение коварной клеветой, обыскивают Сад великого вида; С одинокой честностью, прерывая связи с домом Нинго... стр. 887",
+      "ja": "第七十四回　奸谗に惑わされて大観園を抄検し、孤介を矢いて寧国府を杜絶す……887頁"
+    }
+  ],
+  "translator_notes": [
+    "'投鼠忌器' (Chapter 61) is a Chinese idiom meaning 'to be afraid of breaking the vase when throwing at the rat' - hesitating to punish wrongdoers for fear of harming innocent bystanders",
+    "'绣春囊' (embroidered spring pouch, Chapter 73) is a euphemism for an erotic object, whose discovery triggers the garden raid",
+    "Chapter 74 contains the famous '抄检大观园' (Raiding Grand View Garden) - a turning point in the novel's narrative marking the beginning of the family's decline",
+    "'空门' (Empty Gate, Chapter 66) refers to Buddhist monasticism - Liu Xianglian becomes a monk after Third Sister You's suicide",
+    "Chapter 62's description of Xiangyun sleeping among peonies is one of the novel's most celebrated visual images"
+  ],
+  "research_notes": [
+    "Chapters 48-74 cover the middle portion of the 80-chapter text, including key poetry sessions and the You Sisters tragedy",
+    "The garden raid (Chapter 74) is considered a critical narrative turning point"
+  ],
+  "characters_appearing": [],
+  "total_segments": 27,
+  "manuscript_sources_on_page": []
+}
