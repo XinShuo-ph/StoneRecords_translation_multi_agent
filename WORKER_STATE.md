@@ -7,9 +7,9 @@
 - **Status**: online
 
 ## Current Work
-- **Claimed Page**: none
-- **Started At**: -
-- **Current Step**: -
+- **Claimed Page**: 2
+- **Started At**: 1767405388
+- **Current Step**: research
 
 ## Completed Pages
 | Page | Chapter | Completed At | Hash | Segments |
