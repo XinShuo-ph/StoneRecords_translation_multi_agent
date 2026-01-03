@@ -1,0 +1,25 @@
+{
+  "page": 6,
+  "chapter": "凡例",
+  "page_content_type": "fanli",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 6,
+      "type": "prose",
+      "original": "书中虽提及朝廷，然皆是虚设，不敢妄干时政。其中大旨，不过言情耳。",
+      "zh_modern": "书中虽然提到了朝廷，但都是虚构的设定，不敢妄自干涉时政。其中的主旨，不过是谈情罢了。",
+      "en": "Although the book mentions the court, these are all fictional settings; it dares not presumptuously interfere with current politics. Its main purport is merely to speak of passion.",
+      "ru": "Хотя в книге и упоминается двор, все это лишь вымышленные декорации; она не смеет дерзко вмешиваться в текущую политику. Ее главная цель — лишь повествование о чувствах.",
+      "ja": "書中雖も朝廷に及ぶといえども、然れども皆是れ虚設にして、敢えて妄りに時政を干さず。その大旨は、情を言うに過ぎざるのみ。",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "Continuation of Fanli."
+  ],
+  "research_notes": [],
+  "characters_appearing": [],
+  "manuscript_sources_on_page": [],
+  "total_segments": 1
+}
