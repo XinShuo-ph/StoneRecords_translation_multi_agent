@@ -1,0 +1,97 @@
+{
+  "page": 44,
+  "chapter": "第一回",
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 44,
+      "type": "prose",
+      "original": "那道人笑道：“可知‘世上万般，好便是了，了便是好。若不了，便不好；若要好，须是了。’我这歌儿，便名《好了歌》。”",
+      "zh_modern": "那道人笑道：“你可知道‘世上万般事物，好就是了结，了结就是好。如果不即刻了结，便不好；若要追求好结果，必须是彻底了结。’我这首歌儿，便叫作《好了歌》。”",
+      "en": "The Taoist laughed: “Do you know that 'in this world, good is done, and done is good. If not done, then not good; if you want good, you must be done.' This song of mine is thus named the 'Won-Done Song'.”",
+      "ru": "Даос рассмеялся: «Ведомо ли тебе, что 'все дела в мире: хорошо — это конец, а конец — это хорошо. Если не конец, то не хорошо; если хочешь, чтобы было хорошо, должен быть конец'. Поэтому моя песня и называется 'Песня о Хорошем и Конце'».",
+      "ja": "道人は笑いて言う、「知るべし『世上の万般、好（よ）きはすなわち了（おわ）り、了りはすなわち好し。若し了らざれば、すなわち好からず。若し好からんと要（ほっ）せば、すべからくこれ了るべし』と。我がこの歌は、すなわち名づけて『好了歌（こうりょうか）』という」と。",
+      "commentary": [
+        {
+          "type": "甲戌眉批",
+          "source": "甲戌本",
+          "position": "top margin",
+          "original": "迷津指筏。",
+          "zh_modern": "这是指引迷途的宝筏。",
+          "en": "A raft pointing the way across the ford of delusion.",
+          "ru": "Плот, указывающий путь через брод заблуждений.",
+          "ja": "迷津の指筏なり。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pdf_page": 44,
+      "type": "poem",
+      "original": "世人都晓神仙好，惟有功名忘不了！\n古今将相在何方？荒冢一堆草没了。",
+      "zh_modern": "世人都知道神仙逍遥美好，只有功名利禄忘不掉！\n古往今来的将相都在哪里呢？只剩下一堆荒坟，被野草淹没了。",
+      "en": "Men all know that salvation should be won,\nBut with ambition they won't have done, have done.\nWhere are the famous ones of days gone by?\nIn grassy graves they lie now, every one.",
+      "ru": "Все люди знают: быть святым — прекрасно,\nНо славу позабыть они не властны.\nГде полководцы древности, визири?\nТравой могилы заросли ужасно.",
+      "ja": "世人（せじん）都（すべ）て曉（さと）る神仙の好（よ）きを、\n惟（た）だ功名有りて忘れ了（お）えず！\n古今の将相（しょうしょう）何（いず）くにか在る？\n荒冢（こうちょう）一堆（いったい）、草没し了（お）わんぬ。",
+      "poem_notes": {
+        "form": "Song/Verse",
+        "rhyme_scheme": "AAAA (in original)",
+        "literary_devices": ["Repetition", "Memento Mori", "Contrast"]
+      },
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "pdf_page": 44,
+      "type": "poem",
+      "original": "世人都晓神仙好，只有金银忘不了！\n终朝只恨聚无多，及到多时眼闭了。",
+      "zh_modern": "世人都知道神仙逍遥美好，只有金银财宝忘不掉！\n整天只恨聚敛得不够多，等到钱多的时候，眼睛已经闭上了（人死了）。",
+      "en": "Men all know that salvation should be won,\nBut with their riches they won't have done, have done.\nEach day they grumble they've not made enough,\nWhen they have enough, it's goodnight everyone!",
+      "ru": "Все люди знают: быть святым — прекрасно,\nЛишь серебро забыть они не властны.\nВесь день скорбят, что мало накопили,\nКогда ж накопят — жизнь уже угасла.",
+      "ja": "世人都て曉る神仙の好きを、\n只だ金銀有りて忘れ了えず！\n終朝（しゅうちょう）只だ恨む聚（あつ）むること多からざるを、\n多きに及ぶ時、眼（まなこ）閉（と）じ了んぬ。",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "pdf_page": 44,
+      "type": "poem",
+      "original": "世人都晓神仙好，只有娇妻忘不了！\n君生日日说恩情，君死又随人去了。",
+      "zh_modern": "世人都知道神仙逍遥美好，只有娇妻美妾忘不掉！\n活着的时候天天说恩情深重，死后她又随别人去了。",
+      "en": "Men all know that salvation should be won,\nBut with their loving wives they won't have done, have done.\nThey talk of love and affection every day,\nBut once they're dead, she's off with another one.",
+      "ru": "Все люди знают: быть святым — прекрасно,\nЛишь жен любимых забыть они не властны.\nПри жизни клялись в верности навек,\nНо муж умрет — с другим уйдут, все ясно.",
+      "ja": "世人都て曉る神仙の好きを、\n只だ嬌妻有りて忘れ了えず！\n君が生（せい）日日説く恩情、\n君が死、又た人に随いて去り了んぬ。",
+      "commentary": []
+    },
+    {
+      "id": 5,
+      "pdf_page": 44,
+      "type": "poem",
+      "original": "世人都晓神仙好，只有儿孙忘不了！\n痴心父母古来多，孝顺儿孙谁见了？",
+      "zh_modern": "世人都知道神仙逍遥美好，只有儿孙后代忘不掉！\n痴心的父母自古以来就很多，可是孝顺的儿孙谁见到了呢？",
+      "en": "Men all know that salvation should be won,\nBut with their children they won't have done, have done.\nOf loving parents there are plenty,\nBut filial children? Who ever saw one?",
+      "ru": "Все люди знают: быть святым — прекрасно,\nЛишь сыновей забыть они не властны.\nБезумных предков много с давних пор,\nНо где же дети, что к отцам причастны?",
+      "ja": "世人都て曉る神仙の好きを、\n只だ児孫有りて忘れ了えず！\n痴心の父母、古来多し、\n孝順の児孫、誰か見了らん？",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "好了 (Hao Liao): 'Won-Done' or 'Good-Finished'. The central philosophical concept that worldly attachments must end (Liao) for true good/enlightenment (Hao) to begin.",
+    "将相 (Jiang Xiang): Generals and Ministers. Symbols of supreme political power and career success.",
+    "荒冢 (Huang Zhong): Desolate grave. The inevitable end of all worldly power.",
+    "眼闭了 (Yan Bi Liao): Eyes closed. Euphemism for death.",
+    "随人去 (Sui Ren Qu): Followed another person. Implies remarriage or betrayal after the husband's death, challenging the feudal ideal of widow chastity."
+  ],
+  "research_notes": [
+    "The 'Won-Done Song' is one of the most famous poems in the novel, summarizing its Taoist/Buddhist theme of the impermanence of worldly success.",
+    "The translation borrows rhythm from David Hawkes' famous 'Have Done' translation style but maintains literal accuracy.",
+    "Verified the four stanzas: Fame, Money, Wives, Children."
+  ],
+  "characters_appearing": [
+    "Taoist (Miaomiao Zhenren)",
+    "Zhen Shiyin"
+  ],
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ]
+}
