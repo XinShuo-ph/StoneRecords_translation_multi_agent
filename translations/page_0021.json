@@ -14,10 +14,10 @@
       "id": 1,
       "pdf_page": 21,
       "type": "prose",
-      "original": "我在北邙山等你，会齐了同往太虚幻境甘。"那僧道："妙，妙，妙！"说毕，二人一去，再不见个踪影了。士隐心中此时自悔：这两个人必来访历，该识一同，如今梅却晚也。",
-      "zh_modern": "我在北邙山等你，等大家聚齐了一同前往太虚幻境。"那和尚道："妙啊，妙啊，妙啊！"说完，二人一起离去，再也看不见踪影了。士隐心中此时后悔：这两个人一定是来访问游历的，应该与他们相识一番，现在却已经太晚了。",
-      "en": "'I'll wait for you at Mount Bei Mang, and once we're all gathered, we'll go together to the Land of Illusion.' The monk said, 'Wonderful, wonderful, wonderful!' Having spoken, the two departed, and their traces vanished entirely. Shiyin regretted in his heart at that moment: These two must have come on a spiritual journey; I should have gotten to know them—but now it's too late.",
-      "ru": "'Я буду ждать тебя на горе Бэймансшань, и когда все соберемся, мы вместе отправимся в Край Иллюзий.' Монах сказал: 'Прекрасно, прекрасно, прекрасно!' Произнеся это, они оба ушли, и след их совершенно исчез. В тот момент Шиинь сожалел в душе: эти двое, должно быть, пришли в духовном паломничестве; мне следовало познакомиться с ними—но теперь уже поздно.",
+      "original": "我在北邙山等你，会齐了同往太虚幻境甘。」那僧道：「妙，妙，妙！」说毕，二人一去，再不见个踪影了。士隐心中此时自悔：这两个人必来访历，该识一同，如今梅却晚也。",
+      "zh_modern": "我在北邙山等你，等大家聚齐了一同前往太虚幻境。」那和尚道：「妙啊，妙啊，妙啊！」说完，二人一起离去，再也看不见踪影了。士隐心中此时后悔：这两个人一定是来访问游历的，应该与他们相识一番，现在却已经太晚了。",
+      "en": "I'll wait for you at Mount Bei Mang, and once we're all gathered, we'll go together to the Land of Illusion.' The monk said, 'Wonderful, wonderful, wonderful!' Having spoken, the two departed, and their traces vanished entirely. Shiyin regretted in his heart at that moment: These two must have come on a spiritual journey; I should have gotten to know them—but now it's too late.",
+      "ru": "Я буду ждать тебя на горе Бэймансшань, и когда все соберемся, мы вместе отправимся в Край Иллюзий.' Монах сказал: 'Прекрасно, прекрасно, прекрасно!' Произнеся это, они оба ушли, и след их совершенно исчез. В тот момент Шиинь сожалел в душе: эти двое, должно быть, пришли в духовном паломничестве; мне следовало познакомиться с ними—но теперь уже поздно.",
       "ja": "「我、北邙山にて汝を待たん、皆集まりたる後、共に太虚幻境に往かん」と。かの僧は言えり、「妙なり、妙なり、妙なり！」と。言い畢りて、二人去りぬ、再び影を見ず。士隠、心中この時悔ゆ：この二人は必ずや来訪せし者なり、識るべきなりしを、今は既に晩し。",
       "commentary": [
         {
@@ -46,7 +46,7 @@
           "type": "夹批",
           "source": "甲戌本",
           "position": "inline after 痴想",
-          "original": "「痴想」二字紧紧呼应。说清。",
+          "original": "「痴想」二字紧紧呼应前文，说得很清楚。",
           "zh_modern": "「痴想」这两个字紧紧呼应前文，说得很清楚。",
           "en": "The two characters 'lost in reverie' closely echo the earlier text, making it clear.",
           "ru": "Два иероглифа «погружённый в мечтания» тесно перекликаются с предыдущим текстом, ясно показывая это.",
@@ -120,14 +120,14 @@
       "id": 4,
       "pdf_page": 21,
       "type": "prose",
-      "original": "当下雨村见了士隐，忙施礼陪笑道："老先生倚门伫望，敢是街市上有甚新闻否？"",
-      "zh_modern": "当时雨村见了士隐，赶忙行礼陪着笑脸说道："老先生靠在门边站着张望，莫非是街市上有什么新闻吗？"",
+      "original": "当下雨村见了士隐，忙施礼陪笑道：「老先生倚门伫望，敢是街市上有甚新闻否？」",
+      "zh_modern": "当时雨村见了士隐，赶忙行礼陪着笑脸说道：「老先生靠在门边站着张望，莫非是街市上有什么新闻吗？」",
       "en": "At that moment, Yucun saw Shiyin and hastily bowed with a smile, saying, 'Venerable sir, leaning against the door and gazing—could there be some news in the marketplace?'",
       "ru": "В тот момент Юйцунь увидел Шииня и поспешно поклонился с улыбкой, говоря: 'Почтенный господин, опираясь на дверь и глядя вдаль—неужели на рынке какие-то новости?'",
       "ja": "その時、雨村士隠を見て、忙しく礼を施し笑いを陪して道えり、「老先生、門に倚りて伫み望む、敢えて街市に何らかの新聞あるか」と。",
       "commentary": [
         {
-          "type": "夾批",
+          "type": "夹批",
           "source": "甲戌本",
           "position": "after 忙施礼陪笑道",
           "original": "又写大失时趋炎附势之丑，非肯结义亲也。其说来亲切甚，牵涉人「素雅女雅徽号营诗」一回。",
@@ -142,14 +142,14 @@
       "id": 5,
       "pdf_page": 21,
       "type": "prose",
-      "original": "士隐笑道："非也。适因少哗哑哑，引他出来寻笑，正是无聊得很。兄来得正妙，请入小斋一谈，彼此皆可消此永昼。"说着，便令人送女儿进去，自携了雨村来至书房中。小童献茶。方谈得三五句话，忽家人飞报："严老爷来拜。"士隐听毕，忙起身谢道："恕诨驾了，晚生失陪。"说罢，便告辞出来。",
-      "zh_modern": "士隐笑道："不是的。刚才因为女儿哭闹，把她抱出来哄她，正感到很无聊。兄台来得正好，请进小书房谈谈，彼此都可以消磨这漫长的白天。"说着，便让人把女儿送进去，自己带着雨村来到书房中。小童献上茶。刚谈了三五句话，忽然家人急忙来报："严老爷来拜访。"士隐听完，赶紧起身致歉道："抱歉失陪了，晚生失陪。"说完，便告辞出来了。",
+      "original": "士隐笑道：「非也。适因少哗哑哑，引他出来寻笑，正是无聊得很。兄来得正妙，请入小斋一谈，彼此皆可消此永昼。」说着，便令人送女儿进去，自携了雨村来至书房中。小童献茶。方谈得三五句话，忽家人飞报：「严老爷来拜。」士隐听毕，忙起身谢道：「恕诨驾了，晚生失陪。」说罢，便告辞出来。",
+      "zh_modern": "士隐笑道：「不是的。刚才因为女儿哭闹，把她抱出来哄她，正感到很无聊。兄台来得正好，请进小书房谈谈，彼此都可以消磨这漫长的白天。」说着，便让人把女儿送进去，自己带着雨村来到书房中。小童献上茶。刚谈了三五句话，忽然家人急忙来报：「严老爷来拜访。」士隐听完，赶紧起身致歉道：「抱歉失陪了，晚生失陪。」说完，便告辞出来了。",
       "en": "Shiyin laughed and said, 'No, not at all. Just now, because my daughter was crying, I brought her out to soothe her—I was feeling quite bored. Brother, your arrival is most timely. Please come into my study for a chat; we can both while away this long day.' So saying, he had someone take his daughter inside, and led Yucun to his study. A young servant served tea. They had barely exchanged a few sentences when suddenly a family servant rushed in to announce, 'Master Yan has come to call!' Hearing this, Shiyin hurriedly rose and apologized, 'Forgive me, I must excuse myself.' Having said this, he took his leave.",
       "ru": "Шиинь засмеялся и сказал: 'Нет, совсем нет. Только что, поскольку моя дочь плакала, я вынес её, чтобы успокоить—мне было довольно скучно. Брат, ваш приход весьма своевременен. Пожалуйста, пройдите в мой кабинет для беседы; мы оба можем скоротать этот длинный день.' Сказав это, он велел кому-то отнести дочь внутрь и провёл Юйцуня в свой кабинет. Молодой слуга подал чай. Едва они обменялись несколькими фразами, как вдруг семейный слуга поспешно вошёл, чтобы объявить: 'Господин Янь пришёл с визитом!' Услышав это, Шиинь поспешно встал и извинился: 'Простите, я должен откланяться.' Сказав это, он распрощался.",
       "ja": "士隠笑いて道えり、「非なり。適々少女の哭くに因り、彼を引き出だして笑いを尋ね、正に無聊甚だし。兄来たりて正に妙なり、請う小斎に入りて一談せん、彼此皆此の永昼を消すべし」と。説き畢りて、即ち人をして女児を送り進ましめ、自ら雨村を携えて書房中に至れり。小童茶を献ず。方に三五句の話を談じ得たるに、忽ち家人飛び報ず、「厳老爺来拝す」と。士隠聴き畢り、忙しく起身して謝して道えり、「恕せよ失陪せり、晩生失陪す」と。説き罷み、即ち告辞して出で来たれり。",
       "commentary": [
         {
-          "type": "夾批",
+          "type": "夹批",
           "source": "甲戌本",
           "position": "inline",
           "original": "回回皆是人情，如闻其声，如见其人也。",
@@ -159,7 +159,7 @@
           "ja": "回々皆是れ人情なり、その声を聞くが如く、その人を見るが如し。"
         },
         {
-          "type": "夾批",
+          "type": "夹批",
           "source": "甲戌本",
           "position": "after 说罢便告辞出来",
           "original": "如闻其声，如见其人。",
@@ -181,7 +181,7 @@
       "ja": "此処にて雨村書籍を翻弄して悶を解く。忽ち聴き得たり窓外に女子の嗽声あるを、雨村遂に起身して窗外に一看すれば、原来一個の丫鬟なり、彼処にて花を撷りおり、生まれて儀容俗ならず、眉目清明、十分の姿色無きと雖も、却って亦た動人の処有り。",
       "commentary": [
         {
-          "type": "夾批",
+          "type": "夹批",
           "source": "甲戌本",
           "position": "after 虽无十分姿色",
           "original": "八字写娇杏。",
@@ -203,7 +203,7 @@
       "ja": "雨村覚えず見るに呆れたり。かの丫鬟花を撷り、方に走らんと欲する時、猛然として頭を抬げ窗内に人有るを見たり、敝旧なる衣服、貧窘なりと雖も、然れども生まれて腰圓く背厚く、面闊く口方なり、更に剣眉星眼を兼ね、直鼻権腮なり、未だ便宜ならずと雖も、却って亦た魁偉なり、便ち怎んぞ在意せん。",
       "commentary": [
         {
-          "type": "夾批",
+          "type": "夹批",
           "source": "甲戌本",
           "position": "after 却也魁伟",
           "original": "这便是贾正精神之写意，可关逢之小说中满纸之滿俗所谓也。这是两句自目中，又不与后人相似。",
@@ -233,7 +233,13 @@
     "Consulted scholarly articles on the physiognomy traditions in Qing Dynasty literature",
     "Reviewed 脂砚斋重评石头记 for complete commentary context"
   ],
-  "characters_appearing": ["甄士隐", "贾雨村", "娇杏"],
+  "characters_appearing": [
+    "甄士隐",
+    "贾雨村",
+    "娇杏"
+  ],
   "total_segments": 7,
-  "manuscript_sources_on_page": ["甲戌本"]
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ]
 }
