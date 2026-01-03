@@ -1,0 +1,50 @@
+{
+  "page": 4,
+  "chapter": "凡例",
+  "page_content_type": "fanli",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 4,
+      "type": "title",
+      "original": "凡例",
+      "zh_modern": "凡例",
+      "en": "Editorial Notes",
+      "ru": "Предисловие",
+      "ja": "凡例",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "pdf_page": 4,
+      "type": "prose",
+      "original": "此书只是着意于闺中，故叙述闺中之事切，略无一字不敢被典，并没有大贤大忠理朝廷治风俗的善政，其中大旨谈情，亦只是实录其事，又非假拟妄称，一字不可更，一语不可改。",
+      "zh_modern": "这本书只是着重描写闺阁中的生活，所以叙述闺中之事非常贴切，没有一个字不敢违背经典。书中并没有大贤大忠治理朝廷、整顿风俗的善政，其中主旨是谈情，也只是如实记录发生的事，并非虚构妄称，一字不可更动，一语不可修改。",
+      "en": "This book focuses solely on the inner chambers; thus, its narration of events therein is intimate and true, with not a word daring to violate the classics. It contains no accounts of great sages or loyal ministers governing the court or rectifying customs. Its main theme is passion, and it merely records events as they happened; it is not a fabrication. Not a word can be changed, not a phrase altered.",
+      "ru": "Эта книга посвящена исключительно жизни в женских покоях, поэтому повествование о них столь искренне и точно, и ни одно слово не смеет противоречить канонам. Здесь нет рассказов о великих мудрецах или преданных министрах, управляющих двором или исправляющих нравы. Главная тема — чувства; это лишь правдивая запись событий, а не вымысел. Ни одного слова нельзя изменить, ни одной фразы нельзя поправить.",
+      "ja": "この書はただ閨中のことに意を注ぐが故に、閨中の事を叙すること切にして、一字も敢えて典に背くことなし。大賢大忠が朝廷を理め風俗を治むる善政はなく、その大旨は情を談ずるにあり、亦た只是れその事を実録するのみにして、仮擬妄称にあらず、一字も更うべからず、一語も改むべからず。",
+      "commentary": [
+         {
+          "type": "眉批",
+          "source": "甲戌本",
+          "position": "top margin",
+          "original": "此书不敢干涉朝廷，故曰“着意于闺中”。",
+          "zh_modern": "这本书不敢干涉朝廷之事，所以说“着意于闺中”。",
+          "en": "This book dares not interfere with the court, hence it says 'focuses on the inner chambers'.",
+          "ru": "Эта книга не смеет касаться придворных дел, потому и сказано: «посвящена женским покоям».",
+          "ja": "この書は敢えて朝廷に干渉せず、故に「閨中に意を着く」と曰う。"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "Standard Fanli introduction.",
+    "Emphasizes the focus on private life (feelings/qing) over public life (politics)."
+  ],
+  "research_notes": [
+    "Reference to Zhiping Fanli text."
+  ],
+  "characters_appearing": [],
+  "manuscript_sources_on_page": ["甲戌本"],
+  "total_segments": 2
+}
