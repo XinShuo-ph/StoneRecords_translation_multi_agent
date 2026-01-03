@@ -1,0 +1,59 @@
+{
+  "page": 6,
+  "chapter": "目录",
+  "chapter_title": {
+    "original": "红楼梦脂评汇校本目录",
+    "zh_modern": "红楼梦脂评汇校本目录",
+    "en": "Dream of the Red Chamber with Zhiping Commentary - Collated Edition - Table of Contents",
+    "ru": "Сон в красном тереме с комментариями Чжипин - Сводное издание - Оглавление",
+    "ja": "紅楼夢脂評彙校本目次"
+  },
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "type": "title",
+      "original": "红楼梦脂评汇校本目录",
+      "zh_modern": "红楼梦脂评汇校本目录",
+      "en": "Dream of the Red Chamber with Zhiping Commentary - Collated Edition - Table of Contents",
+      "ru": "Сон в красном тереме с комментариями Чжипин - Сводное издание - Оглавление",
+      "ja": "紅楼夢脂評彙校本目次",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "type": "preface",
+      "original": "脂砚斋重评石头记凡例 ……………………………………………… 1",
+      "zh_modern": "脂砚斋重评石头记凡例 ……………………………………………… 1",
+      "en": "Zhiyan Zhai's Reevaluation of Story of the Stone - Editorial Notes ……… 1",
+      "ru": "Переоценка Чжиянь Чжая «Записок о камне» - Редакционные примечания ……… 1",
+      "ja": "脂硯齋重評石頭記凡例 ……………………………………………… 1",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "type": "preface",
+      "original": "第一回 甄士隐梦幻识通灵 贾雨村风尘怀闺秀………………… 3\n第二回 贾夫人仙逝扬州城 冷子兴演说荣国府……………… 20\n第三回 金陵城起复贾雨村 荣国府收养林黛玉……………… 32\n第四回 薄命女偏逢薄命郎 葫芦僧乱判葫芦案……………… 50\n第五回 开生面梦演红楼梦 立新场情传幻境情……………… 62\n第六回 贾宝玉初试云雨情 刘姥姥一进荣国府……………… 80\n第七回 送宫花周瑞叹英莲 谈肄业秦钟结宝玉……………… 93\n第八回 薛宝钗小恙梨香院 贾宝玉大醉绛芸轩……………… 107\n第九回 恋风流情友入家塾 起嫌疑顽童闹学堂……………… 122\n第十回 金寡妇贪利权受辱 张太医论病细穷源……………… 132\n第十一回 庆寿辰宁府排家宴 见熙凤贾瑞起淫心……………… 140\n第十二回 王熙凤毒设相思局 贾天祥正照风月鉴……………… 149\n第十三回 秦可卿死封龙禁尉 王熙凤协理宁国府……………… 157\n第十四回 林如海捐馆扬州城 贾宝玉路谒北静王……………… 168\n第十五回 王熙凤弄权铁槛寺 秦鲸卿得趣馒头庵……………… 178\n第十六回 贾元春才选凤藻宫 秦鲸卿天逝黄泉路……………… 187\n第十七回 大观园试才题对额 荣国府归省庆元宵……………… 202\n第十八回 大观园试才题对额 荣国府归省庆元宵（续）………… 217\n第十九回 情切切良宵花解语 意绵绵静日玉生香……………… 234\n第二十回 王熙凤正言弹妒意 林黛玉俏语谑娇音……………… 252",
+      "zh_modern": "第一回 甄士隐梦幻识通灵 贾雨村风尘怀闺秀………………… 3\n第二回 贾夫人仙逝扬州城 冷子兴演说荣国府……………… 20\n第三回 金陵城起复贾雨村 荣国府收养林黛玉……………… 32\n第四回 薄命女偏逢薄命郎 葫芦僧乱判葫芦案……………… 50\n第五回 开生面梦演红楼梦 立新场情传幻境情……………… 62\n第六回 贾宝玉初试云雨情 刘姥姥一进荣国府……………… 80\n第七回 送宫花周瑞叹英莲 谈肄业秦钟结宝玉……………… 93\n第八回 薛宝钗小恙梨香院 贾宝玉大醉绛芸轩……………… 107\n第九回 恋风流情友入家塾 起嫌疑顽童闹学堂……………… 122\n第十回 金寡妇贪利权受辱 张太医论病细穷源……………… 132\n第十一回 庆寿辰宁府排家宴 见熙凤贾瑞起淫心……………… 140\n第十二回 王熙凤毒设相思局 贾天祥正照风月鉴……………… 149\n第十三回 秦可卿死封龙禁尉 王熙凤协理宁国府……………… 157\n第十四回 林如海捐馆扬州城 贾宝玉路谒北静王……………… 168\n第十五回 王熙凤弄权铁槛寺 秦鲸卿得趣馒头庵……………… 178\n第十六回 贾元春才选凤藻宫 秦鲸卿天逝黄泉路……………… 187\n第十七回 大观园试才题对额 荣国府归省庆元宵……………… 202\n第十八回 大观园试才题对额 荣国府归省庆元宵（续）………… 217\n第十九回 情切切良宵花解语 意绵绵静日玉生香……………… 234\n第二十回 王熙凤正言弹妒意 林黛玉俏语谑娇音……………… 252",
+      "en": "Chapter 1: Zhen Shiyin in a Dream Perceives Spiritual Understanding; Jia Yucun in Humble Circumstances Thinks of a Beautiful Maiden ……… 3\nChapter 2: Lady Jia Passes Away in Yangzhou; Leng Zixing Narrates the Story of Rongguo Mansion ……… 20\nChapter 3: In Jinling City Jia Yucun is Restored to Office; At Rongguo Mansion Lin Daiyu is Adopted ……… 32\nChapter 4: An Ill-Fated Girl Meets an Ill-Fated Man; The Muddled Monk Wrongly Judges the Gourd Case ……… 50\nChapter 5: Opening a New Scene, the Dream Unfolds Dream of the Red Chamber; Establishing a New Setting, Feelings Transmit the Illusory Realm ……… 62\nChapter 6: Jia Baoyu First Experiences Clouds and Rain; Granny Liu Makes Her First Visit to Rongguo Mansion ……… 80\nChapter 7: Delivering Palace Flowers, Zhou Rui Laments for Xianglian; Discussing Studies, Qin Zhong Befriends Baoyu ……… 93\nChapter 8: Xue Baochai Slightly Indisposed at Pear Fragrance Court; Jia Baoyu Greatly Intoxicated at Crimson Elegance Studio ……… 107\nChapter 9: Enamored of Romance, Friends Enter the Family School; Arousing Suspicion, Mischievous Boys Disturb the Classroom ……… 122\nChapter 10: The Gold Widow Suffers Humiliation for Coveting Profit and Power; Doctor Zhang Diagnoses Illness and Traces the Source ……… 132\nChapter 11: Celebrating a Birthday, Ningguo Mansion Arranges a Family Feast; Seeing Xifeng, Jia Rui Conceives Lustful Thoughts ……… 140\nChapter 12: Wang Xifeng Wickedly Sets a Lovesickness Trap; Jia Tianxiang Properly Looks into the Mirror of Romance ……… 149\nChapter 13: Qin Keqing Dies and is Enfeoffed as Dragon-Restraining Officer; Wang Xifeng Assists in Managing Ningguo Mansion ……… 157\nChapter 14: Lin Ruhai Passes Away in Yangzhou; Jia Baoyu on the Road Pays Respects to Prince Beijing ……… 168\nChapter 15: Wang Xifeng Abuses Power at Water-Moon Convent; Qin Jingqing Finds Pleasure at Steamed-Bun Nunnery ……… 178\nChapter 16: Jia Yuanchun is Selected by Talent for Phoenix-Algae Palace; Qin Jingqing Departs by Heaven to the Yellow Springs Road ……… 187\nChapter 17: In Grand View Garden Talent is Tested with Couplet Inscriptions; At Rongguo Mansion the Imperial Visit Celebrates Lantern Festival ……… 202\nChapter 18: In Grand View Garden Talent is Tested with Couplet Inscriptions; At Rongguo Mansion the Imperial Visit Celebrates Lantern Festival (continued) ……… 217\nChapter 19: With Deep Feelings on a Fine Night, Flowers Interpret Language; With Tender Affection on a Quiet Day, Jade Produces Fragrance ……… 234\nChapter 20: Wang Xifeng with Proper Words Deflects Jealousy; Lin Daiyu with Clever Language Teases Charming Sounds ……… 252",
+      "ru": "Глава 1: Чжэнь Шиинь во сне постигает духовное понимание; Цзя Юйцунь в скромных обстоятельствах думает о прекрасной деве ……… 3\nГлава 2: Госпожа Цзя скончалась в Янчжоу; Лэн Цзысин рассказывает историю особняка Жунго ……… 20\nГлава 3: В городе Цзиньлин Цзя Юйцунь восстанавливается в должности; В особняке Жунго усыновляется Линь Дайюй ……… 32\nГлава 4: Несчастная девушка встречает несчастного юношу; Сбитый с толку монах неправильно судит дело тыквы ……… 50\nГлава 5: Открывая новую сцену, разворачивается сон о Красном тереме; Устанавливая новую обстановку, чувства передают призрачное царство ……… 62\nГлава 6: Цзя Баоюй впервые испытывает облака и дождь; Бабушка Лю впервые посещает особняк Жунго ……… 80\nГлава 7: Доставляя дворцовые цветы, Чжоу Жуй сокрушается о Сянлянь; Обсуждая учёбу, Цинь Чжун подружился с Баоюем ……… 93\nГлава 8: Сюэ Баочай слегка нездорова во Дворе грушевого аромата; Цзя Баоюй сильно пьян в Павильоне алой элегантности ……… 107\nГлава 9: Увлечённые романтикой, друзья входят в семейную школу; Вызывая подозрения, озорные мальчики нарушают порядок в классе ……… 122\nГлава 10: Золотая вдова терпит унижение из-за жадности к выгоде и власти; Доктор Чжан ставит диагноз и прослеживает источник ……… 132\nГлава 11: Празднуя день рождения, особняк Нинго устраивает семейный пир; Увидев Сифэн, Цзя Жуй зачинает похотливые мысли ……… 140\nГлава 12: Ван Сифэн злонамеренно устраивает ловушку любовной тоски; Цзя Тяньсян правильно смотрит в Зеркало романтики ……… 149\nГлава 13: Цинь Кэцин умирает и получает титул офицера, усмиряющего дракона; Ван Сифэн помогает управлять особняком Нинго ……… 157\nГлава 14: Линь Жухай скончался в Янчжоу; Цзя Баоюй в пути воздаёт почести принцу Бэйцзину ……… 168\nГлава 15: Ван Сифэн злоупотребляет властью в монастыре Водной луны; Цинь Цзинцин находит удовольствие в обители паровых булочек ……… 178\nГлава 16: Цзя Юаньчунь избрана за талант во Дворец феникса и водорослей; Цинь Цзинцин небесами отправлен в путь к жёлтым источникам ……… 187\nГлава 17: В Великолепном саду талант проверяется надписями куплетов; В особняке Жунго императорский визит отмечает Праздник фонарей ……… 202\nГлава 18: В Великолепном саду талант проверяется надписями куплетов; В особняке Жунго императорский визит отмечает Праздник фонарей (продолжение) ……… 217\nГлава 19: С глубокими чувствами прекрасной ночью цветы толкуют язык; С нежной привязанностью в тихий день яшма источает аромат ……… 234\nГлава 20: Ван Сифэн правильными словами отражает ревность; Линь Дайюй умными речами дразнит очаровательные звуки ……… 252",
+      "ja": "第一回：甄士隠、夢幻の中で通霊を識り、賈雨村、風塵にありて閨秀を懐う ……… 3\n第二回：賈夫人、揚州城に仙逝し、冷子興、栄国府を演説す ……… 20\n第三回：金陵城、賈雨村を起復し、栄国府、林黛玉を収養す ……… 32\n第四回：薄命女、偏に薄命郎に逢い、葫芦僧、乱りに葫芦案を判ず ……… 50\n第五回：生面を開き夢に紅楼夢を演じ、新場を立て情に幻境の情を伝う ……… 62\n第六回：賈宝玉、初めて雲雨の情を試み、劉姥姥、一たび栄国府に進む ……… 80\n第七回：宮花を送り周瑞、英蓮を嘆き、肄業を談じ秦鐘、宝玉を結ぶ ……… 93\n第八回：薛宝釵、梨香院に小恙あり、賈宝玉、絳芸軒に大いに酔う ……… 107\n第九回：風流を恋い情友、家塾に入り、嫌疑を起こし頑童、学堂を鬧がす ……… 122\n第十回：金寡婦、利権を貪り辱めを受け、張太医、病を論じて細かに源を窮む ……… 132\n第十一回：寿辰を慶び寧府、家宴を排し、熙鳳を見て賈瑞、淫心を起こす ……… 140\n第十二回：王煕鳳、毒を以て相思局を設け、賈天祥、正しく風月鑑を照らす ……… 149\n第十三回：秦可卿、死して龍禁尉に封ぜられ、王煕鳳、寧国府を協理す ……… 157\n第十四回：林如海、揚州城に捐館し、賈宝玉、路にて北静王に謁す ……… 168\n第十五回：王煕鳳、鉄檻寺にて権を弄し、秦鯨卿、饅頭庵にて趣を得る ……… 178\n第十六回：賈元春、才もて鳳藻宮に選ばれ、秦鯨卿、天より黄泉路に逝く ……… 187\n第十七回：大観園にて才を試し対額を題し、栄国府、帰省して元宵を慶ぶ ……… 202\n第十八回：大観園にて才を試し対額を題し、栄国府、帰省して元宵を慶ぶ（続） ……… 217\n第十九回：情切切たる良宵に花、語を解し、意綿綿たる静日に玉、香を生ず ……… 234\n第二十回：王煕鳳、正言もて妬意を弾き、林黛玉、俏語もて嬌音を謔る ……… 252",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "This is the table of contents showing chapters 1-20 with their traditional parallel-phrase titles",
+    "Each chapter title consists of two parallel phrases describing key events in that chapter",
+    "Page numbers refer to the PDF page numbers in this collated edition",
+    "The 凡例 (Editorial Notes) begins on page 1 of the front matter",
+    "Chapters 17 and 18 share the same title with chapter 18 marked as (continued)"
+  ],
+  "research_notes": [
+    "Table of contents page numbered 'III' at bottom",
+    "Traditional chapter title format uses parallel construction",
+    "Shows only first 20 of 80 chapters - more pages to follow"
+  ],
+  "characters_appearing": [],
+  "total_segments": 3,
+  "manuscript_sources_on_page": []
+}
