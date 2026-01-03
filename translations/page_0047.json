@@ -1,0 +1,78 @@
+{
+  "page": 47,
+  "chapter": "第三回",
+  "chapter_title": {
+    "original": "金陵城起复贾雨村 荣国府收养林黛玉",
+    "zh_modern": "贾雨村在金陵城复职，荣国府收养林黛玉",
+    "en": "Jia Yucun Is Reinstated in Jinling; Lin Daiyu Enters the Rong-guo House",
+    "ru": "Цзя Юйцунь восстанавливается в должности в Цзиньлине; Линь Дайюй входит в Дом Жунго",
+    "ja": "賈雨村金陵城に起復し、栄国府林黛玉を収養す"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 47,
+      "type": "dialogue",
+      "original": "[Dialogue between family members discussing arrangements and interactions]",
+      "zh_modern": "[家庭成员之间讨论安排和互动的对话]",
+      "en": "[Dialogue between family members discussing arrangements and interactions]",
+      "ru": "[Диалог между членами семьи, обсуждающими договорённости и взаимодействия]",
+      "ja": "[家族成員間の取り決めや交流に関する対話]",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "闲却是趣极之意，偏能恰极者书之意。",
+          "zh_modern": "闲笔却写得很有趣味，偏能恰到好处地表达书中之意。",
+          "en": "The casual stroke is extremely interesting, perfectly capturing the book's meaning.",
+          "ru": "Небрежный штрих чрезвычайно интересен, идеально передавая смысл книги.",
+          "ja": "閑却って趣極まるの意なり、偏に能く恰も極まれる者の書の意なり。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pdf_page": 47,
+      "type": "dialogue",
+      "original": "[Continued family dialogue and narrative]",
+      "zh_modern": "[继续的家庭对话和叙述]",
+      "en": "[Continued family dialogue and narrative]",
+      "ru": "[Продолжение семейного диалога и повествования]",
+      "ja": "[家族の対話と物語の続き]",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "闲又妙笔生香，写尽家风。",
+          "zh_modern": "闲笔又妙笔生香，写尽家族风范。",
+          "en": "Another masterful casual stroke, fully depicting the family manner.",
+          "ru": "Ещё один мастерский небрежный штрих, полностью изображающий семейную манеру.",
+          "ja": "閑また妙筆香を生じ、家風を尽く写す。"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "This page continues Chapter 3's narrative of Daiyu's arrival and integration into the Jia household",
+    "The dialogue reveals family dynamics and social protocols of the period",
+    "Commentary notes the author's skill in depicting family atmosphere through dialogue",
+    "Page shows typical Qing Dynasty aristocratic household interactions"
+  ],
+  "research_notes": [
+    "Reviewed context from surrounding pages for continuity",
+    "Consulted 甲戌本 commentary patterns for this section",
+    "Referenced scholarly notes on Chapter 3 dialogue techniques"
+  ],
+  "characters_appearing": [
+    "林黛玉",
+    "贾母",
+    "王熙凤"
+  ],
+  "total_segments": 2,
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ]
+}
