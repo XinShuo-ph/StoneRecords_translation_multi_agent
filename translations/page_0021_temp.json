@@ -1,0 +1,36 @@
+{
+  "page": 21,
+  "chapter": "第一回",
+  "chapter_title": {
+    "original": "甄士隐梦幻识通灵 贾雨村风尘怀闺秀",
+    "zh_modern": "甄士隐在梦幻中认识了通灵宝玉，贾雨村在落魄时怀念闺中秀女",
+    "en": "Zhen Shiyin in a Dream Perceives the Jade of Spiritual Understanding; Jia Yucun in Humble Circumstances Thinks Fondly of a Beautiful Maiden",
+    "ru": "Чжэнь Шиинь во сне постигает волшебную яшму; Цзя Юйцунь в бедности вспоминает прекрасную деву",
+    "ja": "甄士隠、夢幻の中で通霊を識り、賈雨村、風塵にありて閨秀を懐う"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 21,
+      "type": "prose",
+      "original": "我在北邙山等你，会齐了同往太虚幻境甘。」那僧道：「妙，妙，妙！」说毕，二人一去，再不见个踪影了。士隐心中此时自悔：这两个人必来访历，该识一同，如今梅却晚也。",
+      "zh_modern": "我在北邙山等你，等大家聚齐了一同前往太虚幻境。」那和尚道：「妙啊，妙啊，妙啊！」说完，二人一起离去，再也看不见踪影了。士隐心中此时后悔：这两个人一定是来访问游历的，应该与他们相识一番，现在却已经太晚了。",
+      "en": "I'll wait for you at Mount Bei Mang, and once we're all gathered, we'll go together to the Land of Illusion.' The monk said, 'Wonderful, wonderful, wonderful!' Having spoken, the two departed, and their traces vanished entirely. Shiyin regretted in his heart at that moment: These two must have come on a spiritual journey; I should have gotten to know them—but now it's too late.",
+      "ru": "Я буду ждать тебя на горе Бэймансшань, и когда все соберемся, мы вместе отправимся в Край Иллюзий.' Монах сказал: 'Прекрасно, прекрасно, прекрасно!' Произнеся это, они оба ушли, и след их совершенно исчез. В тот момент Шиинь сожалел в душе: эти двое, должно быть, пришли в духовном паломничестве; мне следовало познакомиться с ними—но теперь уже поздно.",
+      "ja": "「我、北邙山にて汝を待たん、皆集まりたる後、共に太虚幻境に往かん」と。かの僧は言えり、「妙なり、妙なり、妙なり！」と。言い畢りて、二人去りぬ、再び影を見ず。士隠、心中この時悔ゆ：この二人は必ずや来訪せし者なり、識るべきなりしを、今は既に晩し。",
+      "commentary": [
+        {
+          "type": "眉批",
+          "source": "甲戌本",
+          "position": "top margin",
+          "original": "车为一世。三勘者，趁以九十春香云也。",
+          "zh_modern": "车象征一生一世。三次查看，是指趁着九十年春光之意。",
+          "en": "The carriage symbolizes a lifetime. The three inspections refer to seizing the spring of ninety years.",
+          "ru": "Колесница символизирует целую жизнь. Три проверки относятся к тому, чтобы воспользоваться весной девяноста лет.",
+          "ja": "車は一生一世を象徴す。三度の勘は、九十の春光を趁むを指す。"
+        }
+      ]
+    }
+  ]
+}
