@@ -1,0 +1,102 @@
+{
+  "page": 54,
+  "chapter": "第二回",
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 54,
+      "type": "prose",
+      "original": "一日，偶至郊外，意欲赏鉴那村野风光。信步至一山环水旋、茂林修竹之处，隐隐有座庙宇，门巷倾颓，墙垣朽败，门前有额，题着“智通寺”三字。",
+      "zh_modern": "有一天，偶然来到郊外，想要欣赏鉴别那乡村野外的风光。信步走到一处山环水绕、茂林修竹的地方，隐隐约约有一座庙宇，门巷倾斜坍塌，墙壁腐朽败落，门前有块匾额，题着“智通寺”三个字。",
+      "en": "One day, he happened to go to the outskirts, intending to appreciate the rustic scenery. Wandering aimlessly, he arrived at a place where mountains encircled and waters swirled, with lush woods and tall bamboos. Hidden there was a temple, its gates and lanes leaning and collapsed, its walls rotting and ruined. Above the gate was a plaque inscribed with three characters: 'Temple of Wise Understanding' (Zhitong Si).",
+      "ru": "Однажды он случайно вышел за город, желая насладиться деревенскими пейзажами. Бредя наугад, он пришел в место, окруженное горами и омываемое водами, с густыми лесами и высоким бамбуком. Там смутно виднелся храм: ворота и переулки покосились и обрушились, стены обветшали и разрушились. Над воротами была доска с надписью из трех иероглифов: «Храм Мудрого Постижения» (Чжитун Сы).",
+      "ja": "一日（いちじつ）、偶たま郊外に至り、意（こころ）に村野の風光を賞鑑せんと欲す。信歩（しんぽ）して一（ある）山環（めぐ）り水旋（めぐ）り、茂林修竹の処に至れば、隠隠として一座の廟宇（びょうう）有り、門巷（もんこう）傾頽（けいたい）し、牆垣（しょうえん）朽敗（きゅうはい）し、門前に額有り、「智通寺」の三字を題せり。",
+      "commentary": [
+        {
+          "type": "甲戌侧批",
+          "source": "甲戌本",
+          "position": "right margin",
+          "original": "谁为智者？又谁能通？一叹。",
+          "zh_modern": "谁是智者？又有谁能通达？叹息一声。",
+          "en": "Who is the wise one? And who can understand? A sigh.",
+          "ru": "Кто мудр? И кто способен постичь? Вздох.",
+          "ja": "誰か智者為（た）る？又た誰か能く通ぜん？一歎す。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pdf_page": 54,
+      "type": "prose",
+      "original": "门旁又有一副旧对联，云：\n身后有余忘缩手，\n眼前无路想回头。",
+      "zh_modern": "门旁又有一副旧对联，写道：\n身后财富还有富余却忘了缩手停止贪求，\n眼前走投无路才想到要回头。",
+      "en": "Beside the gate was an old couplet, saying:\nWith surplus behind, one forgets to draw back the hand;\nOnly when the road ahead is gone does one think of turning back.",
+      "ru": "Рядом с воротами была старая парная надпись:\nИмея излишек за спиной, забывают отдернуть руку;\nЛишь когда впереди нет дороги, думают повернуть назад.",
+      "ja": "門旁（かたわら）に又た一副の旧対聯有り、云く：\n身后（しんご）余り有りて手を縮むるを忘れ、\n眼前路無くして頭（こうベ）を回らさんことを想う。",
+      "commentary": [
+        {
+          "type": "甲戌双行夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "先为宁、荣诸人当头一喝，却是为“余”一顾。",
+          "zh_modern": "先给宁国府、荣国府众人当头棒喝，却是为了我的一次回顾。",
+          "en": "First, a sharp warning (blow to the head) for everyone in the Ning and Rong mansions, yet it is a glance back for 'me' (the surplus/Yu).",
+          "ru": "Сначала — резкое предостережение людям из дворцов Нин и Жун, но это также взгляд назад для «меня» (Юй).",
+          "ja": "先ず寧・栄諸人の為に当頭一喝し、却って是れ「余」の為の一顧なり。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "pdf_page": 54,
+      "type": "prose",
+      "original": "雨村看了，因想到：“这两句，文虽浅近，其意则深。我也曾游过些名山大刹，倒不曾见过这话头，其中想必有个翻过筋斗来的亦未可知，何不进去试试？”",
+      "zh_modern": "雨村看了，便想到：“这两句，文字虽然浅显通俗，意思却很深远。我也曾游览过一些名山古刹，倒不曾见过这句话，这里面想必有个经历过大风大浪（翻过筋斗）的人也未可知，何不进去探试一下？”",
+      "en": "Yucun read it and thought: “These two lines, though simple in language, are deep in meaning. I have visited many famous mountains and great temples, but I have never seen this saying. There must be someone here who has 'turned a somersault' (experienced a major reversal of fortune); why not go in and see?”",
+      "ru": "Юйцунь прочел и подумал: «Эти две строки, хоть и просты по форме, глубоки по смыслу. Я посетил немало знаменитых гор и великих храмов, но нигде не встречал таких слов. Должно быть, здесь живет тот, кто „перекувырнулся“ (пережил превратности судьбы) — почему бы не войти и не проверить?»",
+      "ja": "雨村看（み）て、因って想うに、「この両句、文は浅近なりといえども、其の意は則ち深し。我も亦たかつて些（いささ）かの名山大刹に遊びしが、倒（かえ）って曾てこの話頭を見ず、其の中に想うに必ず一箇の筋斗（きんと）を翻し来たる者有らんも亦た未だ知るべからず、何ぞ入りて試みざらん？」と。",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "pdf_page": 54,
+      "type": "prose",
+      "original": "想着走入看时，只有一个龙钟老僧在那里煮粥。雨村见了，便不在意。及至问他两句话，那老僧既聋且昏，齿落舌钝，所答非所问。",
+      "zh_modern": "想着便走进去看时，只有一个老态龙钟的和尚在那里煮粥。雨村见了，便不放在心上。等到问他两句话，那老僧又聋又昏聩，牙齿脱落，舌头迟钝，答非所问。",
+      "en": "Thinking this, he walked in to look, but there was only a senile old monk there boiling porridge. Seeing this, Yucun paid him no heed. When he tried to ask him a few questions, the old monk was both deaf and dim-witted, with teeth fallen out and tongue dull, answering irrelevantly.",
+      "ru": "С этой мыслью он вошел внутрь, но увидел лишь дряхлого старого монаха, варившего кашу. Юйцунь, увидев его, потерял интерес. Когда же он задал ему пару вопросов, старый монах оказался глухим и подслеповатым, беззубым и косноязычным, и отвечал невпопад.",
+      "ja": "想いて走り入りて見る時、只だ一箇の竜鍾（りょうしょう）たる老僧の、そこに在りて粥を煮る有るのみ。雨村見て、便ち意に在（とど）めず。彼に両句話を問うに及びては、かの老僧既に聾（ろう）にして且つ昏（くら）く、歯落ち舌鈍く、答うるところ問うところにあらず。",
+      "commentary": []
+    },
+    {
+      "id": 5,
+      "pdf_page": 54,
+      "type": "prose",
+      "original": "雨村不耐烦，便退出来，意欲到那村肆中沽饮三杯，以助野趣，于是款步行来。",
+      "zh_modern": "雨村不耐烦，便退了出来，想去那村边的酒肆中买三杯酒喝，来助长野游的兴致，于是慢慢步行走来。",
+      "en": "Yucun grew impatient and withdrew, intending to go to the village tavern to buy a few cups of wine to enhance his rustic enjoyment, so he walked slowly towards it.",
+      "ru": "Юйцунь потерял терпение и вышел, решив отправиться в деревенский трактир, чтобы выпить три чашки вина для настроения, и неспешно побрел туда.",
+      "ja": "雨村耐え煩（うら）わず、便ち退き出来たり、意（こころ）にかの村肆（そんし）の中に到りて三杯を沽飲し、以て野趣を助けんとし、是に於いて款歩（かんぽ）し行じ来たる。",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "智通寺 (Zhitong Si): Temple of Wise Understanding. Ironically dilapidated, suggesting wisdom comes from seeing through worldly decay.",
+    "翻过筋斗 (Fan Guo Jin Dou): To turn a somersault. An idiom for experiencing a major reversal of fortune or a sudden enlightenment.",
+    "龙钟 (Long Zhong): Senile, decrepit, shaky.",
+    "村肆 (Cun Si): Village tavern/shop."
+  ],
+  "research_notes": [
+    "The couplet 'With surplus behind...' is one of the most famous aphorisms in the book, warning against greed and the failure to stop while ahead.",
+    "The decrepit monk represents the physical reality of 'decay' that Yucun fails to fully grasp despite appreciating the poem intellectually.",
+    "This scene sets up the meeting with Leng Zixing."
+  ],
+  "characters_appearing": [
+    "Jia Yucun",
+    "Old Monk (Zhitong Temple)"
+  ],
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ]
+}
