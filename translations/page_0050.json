@@ -1,0 +1,68 @@
+{
+  "page": 50,
+  "chapter": "第三回",
+  "chapter_title": {
+    "original": "金陵城起复贾雨村 荣国府收养林黛玉",
+    "zh_modern": "金陵城贾雨村官复原职 荣国府收养林黛玉",
+    "en": "Jia Yucun is Restored to Office in Jinling; The Rong Mansion Takes In Lin Daiyu",
+    "ru": "Цзя Юйцунь восстановлен в должности в Цзиньлине; Поместье Жун принимает Линь Дайюй",
+    "ja": "金陵城にて賈雨村起復し、榮國府林黛玉を收養す"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "一面打量这些丫鬟们，【庚辰】侍家主眼写三等侍女。妆饰衣裙，举止行动，果亦与别家不同。",
+      "zh_modern": "一面打量这些丫鬟们，妆饰衣裙，举止行动，果然也与别家不同。",
+      "en": "While observing these maidservants, their dress and adornment, bearing and movements, were indeed different from those of other households.",
+      "ru": "Наблюдая за этими служанками, их одеждой и украшениями, манерами и движениями, действительно отличались от других семей.",
+      "ja": "一面此等の丫鬟等を打量する、妝飾衣裙、舉止行動、果たして亦た別家と不同なり。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline after 丫鬟们",
+          "original": "侍家主眼寫三等侍女。",
+          "zh_modern": "侍家主眼写三等侍女。",
+          "en": "Through the master's eye, writing about third-rank maidservants.",
+          "ru": "Глазами хозяина, описывая служанок третьего ранга.",
+          "ja": "家主の眼を侍して三等侍女を寫す。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "dialogue",
+      "original": "茶未吃了，只见一个穿红绫袄，青缎掐牙背心的丫鬟【庚辰】金玉？玉矛？走来笑说道：太太说，请姑娘到那边坐罢。【庚辰】走丸走，方是身得喜，方是夫受风流，老嬷嬷听了，于是又引黛玉出来，到了东廊三间小正房内，正面炕上横设一张炕桌，桌上磊着书籍茶具。【庚辰】侍仑忍，唯洞宗，靠东壁面西设着半旧背锦靠背引枕，王夫人却坐在西边下首，亦是半旧背锦靠背坐褥，见黛玉来了，便往东让。黛玉心中料定这是贾政之位，【庚辰】侍家主心想眼到，俗木可云为贯府教败住，艺不可衍！因见挨次一溜三张椅子上，也搭着半旧的【庚辰】三字有象，弹墨黎祁，【庚辰】此处挨到一包旧梗，可知前正室中亦有象之仙奴，不论什处，则日香亲周书，终亲世等，礼亲枢，关亲梅等宇算，赤有尺让的。但我不放心的最是一件：【庚辰】因主夫人嗔将与家夫人嗔将，侯同的，避开，儿女真心，我婆代儿家開，一面也幸，我有一个孽根稍嗔，【庚辰】以亭是血伤道面，不得已先命而不下，四害亲作者嗔定，是这家里的混世魔王，【庚辰】以蜂洞花主，为树着。今日因庙里还愿去了，【庚辰】使元宗京亭子。尚未回来，晚间你若见便知。你只以后不要踩他，你这些姊妹都不敢沾惹他的。",
+      "zh_modern": "茶未喝完，只见一个穿红绫袄，青缎掐牙背心的丫鬟走来笑说道：太太说，请姑娘到那边坐吧。老嬷嬷听了，于是又引黛玉出来，到了东廊三间小正房内，正面炕上横设一张炕桌，桌上摆着书籍茶具。靠东壁面西设着半旧背锦靠背引枕，王夫人却坐在西边下首，亦是半旧背锦靠背坐褥，见黛玉来了，便往东让。黛玉心中料定这是贾政之位，因见挨次一溜三张椅子上，也搭着半旧的椅套等物。王夫人再四携他上炕，他方挨王夫人坐了。王夫人因说：你舅舅今日斋戒去了，再见罢。只是有一句话嘱咐你：你三个姊妹倒都极好，以后一处念书认字学针线，或是偶一顽笑，都有尽让的。但我不放心的最是一件：我有一个孽根祸胎。是这家里的混世魔王，今日因庙里还愿去了，尚未回来，晚间你若见便知。你只以后不要踩他，你这些姊妹都不敢沾惹他的。",
+      "en": "Before the tea was finished, a maidservant wearing a red silk jacket and blue satin vest came over smiling and said: The lady asks that the young lady come sit on the other side. The old nurse heard this and led Daiyu out again, arriving at three small main rooms in the eastern corridor. On the kang facing front was a kang table set horizontally, with books and tea implements on it. Against the eastern wall facing west was a half-worn brocade cushion with an armrest. Lady Wang sat at the lower west side, also on a half-worn brocade seat cushion. Seeing Daiyu arrive, she gestured for her to sit east. Daiyu guessed this was Jia Zheng's seat. She saw that three chairs in a row also had half-worn covers. Lady Wang repeatedly urged her onto the kang, and she finally sat next to Lady Wang. Lady Wang said: Your uncle is observing a fast today, you'll meet him another time. But there's one thing I must tell you: Your three cousins are all very good. From now on you'll study, practice needlework together, or occasionally play—everyone is courteous. But what worries me most is one thing: I have one troublesome child. He's the devil incarnate of this household. Today he went to the temple to fulfill a vow and hasn't returned yet. You'll know when you meet him tonight. Just don't indulge him in the future—even your cousins dare not provoke him.",
+      "ru": "Не успев допить чай, служанка в красной шелковой куртке и синем атласном жилете подошла с улыбкой и сказала: Госпожа просит барышню пройти и сесть на другой стороне. Старая няня услышала это и снова вывела Дайюй, прибыв в три небольшие главные комнаты в восточном коридоре. На канг лицом вперед был горизонтально установлен стол для канга, на котором лежали книги и чайная утварь. У восточной стены лицом на запад была полуизношенная парчовая подушка с подлокотником. Госпожа Ван сидела на нижней западной стороне, также на полуизношенной парчовой сидячей подушке. Увидев, что прибыла Дайюй, она жестом предложила ей сесть на восток. Дайюй догадалась, что это место Цзя Чжэна. Она увидела, что три стула подряд также имели полуизношенные чехлы. Госпожа Ван неоднократно уговаривала ее сесть на канг, и она наконец села рядом с госпожой Ван. Госпожа Ван сказала: Твой дядя сегодня соблюдает пост, встретишься с ним в другой раз. Но есть одна вещь, которую я должна тебе сказать: Твои три кузины все очень хорошие. Отныне вы будете вместе учиться, практиковать рукоделие или иногда играть—все вежливы. Но что меня больше всего беспокоит, это одно: У меня есть один проблемный ребенок. Он дьявольское воплощение этого дома. Сегодня он пошел в храм исполнить обет и еще не вернулся. Ты узнаешь, когда встретишь его сегодня вечером. Только не балуй его в будущем—даже твои кузины не смеют его провоцировать.",
+      "ja": "茶未だ喫し了わらず、只だ一個の紅綾襖、青緞掐牙背心を穿つ丫鬟有り、来たりて笑いて説道す：太太説く、姑娘に請いて彼の邊に坐せよと。老嬤嬤聞きて、是に於いて又た黛玉を引出し、東廊三間の小正房內に到る、正面の炕上に横に一張の炕桌を設け、桌上に書籍茶具を磊す。東壁に靠りて西に面して半舊の背錦靠背引枕を設け、王夫人却って西邊の下首に坐し、亦た是れ半舊の背錦靠背坐褥なり、黛玉の来たるを見て、便ち東に往きて讓る。黛玉心中料定す、此れは賈政の位なりと、因りて挨次一溜の三張の椅子上を見るに、也た半舊の物を搭く。王夫人再四に他を炕上に攜え、方に王夫人に挨して坐す。王夫人因りて説く：汝の舅舅今日齋戒に去れり、再び見るべし。只だ一句の話有りて汝に囑咐す：汝の三個の姊妹は倒って都て極めて好し、以後一處に書を念じ字を認め針線を學び、或いは偶一の頑笑、都て盡く讓る有り。但だ我が放心せざる最たるは一件：我に一個の孽根禍胎有り。是れ此の家裡の混世魔王なり、今日廟裡の還願に因りて去れり、尚お未だ回來せず、晚間汝若し見ば便ち知らん。汝只だ以後彼を踩うこと要せず、汝の此等の姊妹は都て敢えて彼に沾惹せず。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline after 丫鬟",
+          "original": "金玉？玉矛？",
+          "zh_modern": "金玉？玉矛？",
+          "en": "Golden jade? Jade spear?",
+          "ru": "Золотой нефрит? Нефритовое копье?",
+          "ja": "金玉？玉矛？"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "This passage introduces Jia Baoyu indirectly through Lady Wang's description of him as the household's troublesome child (混世魔王 - devil incarnate).",
+    "The description of the seating arrangements and furniture establishes social hierarchy and proper etiquette.",
+    "Lady Wang's warning about Baoyu creates anticipation for his first appearance in the narrative."
+  ],
+  "research_notes": [
+    "This is the buildup to Baoyu's dramatic entrance later in the chapter",
+    "The architectural and furniture details show the refined lifestyle of the Jia household"
+  ],
+  "characters_appearing": ["林黛玉", "王夫人"],
+  "total_segments": 2,
+  "manuscript_sources_on_page": ["庚辰本"]
+}
