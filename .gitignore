@@ -1,0 +1,45 @@
+# Generated files
+output/*.pdf
+output/*.tex
+output/*.aux
+output/*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+.venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.sublime-*
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Don't ignore translations - these are our output!
+# translations/*.json
+
+# Don't ignore extracted text - needed for work
+# extracted/
+
+# Large files that shouldn't be committed
+# (but keep the source PDF as it's part of the project)
