@@ -1,0 +1,60 @@
+{
+  "page": 9,
+  "chapter": "目录",
+  "chapter_title": {
+    "original": "红楼梦脂评汇校本目录（续完）",
+    "zh_modern": "红楼梦脂评汇校本目录（续完）",
+    "en": "Dream of the Red Chamber with Zhiping Commentary - Table of Contents (concluded)",
+    "ru": "Сон в красном тереме с комментариями Чжипин - Оглавление (завершение)",
+    "ja": "紅楼夢脂評彙校本目次（続完）"
+  },
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "type": "preface",
+      "original": "第七十五回 开夜宴异兆发悲音 赏中秋新词得佳谶………………… 903\n第七十六回 凸碧堂品笛感凄清 凹晶馆联诗悲寂寞………………… 917\n第七十七回 俏丫鬟抱屈夭风流 美优伶斩情归水月………………… 931\n第七十八回 老学士闲征姽婳词 痴公子杜撰芙蓉诔………………… 946\n第七十九回 薛文龙悔娶河东狮 贾迎春误嫁中山狼………………… 964\n第八十回 薛文龙悔娶河东狮 贾迎春误嫁中山狼（续）………… 972",
+      "zh_modern": "第七十五回 开夜宴异兆发悲音 赏中秋新词得佳谶………………… 903\n第七十六回 凸碧堂品笛感凄清 凹晶馆联诗悲寂寞………………… 917\n第七十七回 俏丫鬟抱屈夭风流 美优伶斩情归水月………………… 931\n第七十八回 老学士闲征姽婳词 痴公子杜撰芙蓉诔………………… 946\n第七十九回 薛文龙悔娶河东狮 贾迎春误嫁中山狼………………… 964\n第八十回 薛文龙悔娶河东狮 贾迎春误嫁中山狼（续）………… 972",
+      "en": "Chapter 75: Opening a Night Banquet, Strange Omens Produce Mournful Sounds; Enjoying Mid-Autumn Festival, New Verses Yield Auspicious Prophecies ……… 903\nChapter 76: At Convex Jade Hall Appreciating Flute Music Evokes Desolate Purity; At Concave Crystal Lodge Linking Verses Laments Loneliness ……… 917\nChapter 77: Pretty Maid Suffers Injustice and Dies in Her Prime; Beautiful Actor Severs Emotions and Returns to Water-Moon ……… 931\nChapter 78: Old Scholar Idly Solicits Verses on Heroic Maiden; Infatuated Young Master Composes Hibiscus Elegy ……… 946\nChapter 79: Xue Wenlong Regrets Marrying a Fierce Wife; Jia Yingchun Mistakenly Marries a Cruel Wolf ……… 964\nChapter 80: Xue Wenlong Regrets Marrying a Fierce Wife; Jia Yingchun Mistakenly Marries a Cruel Wolf (continued) ……… 972",
+      "ru": "Глава 75: Открывая ночной банкет, странные предзнаменования производят скорбные звуки; Наслаждаясь праздником середины осени, новые стихи дают благоприятные пророчества ……… 903\nГлава 76: В выпуклом нефритовом зале оценивая музыку флейты вызывает пустынную чистоту; В вогнутом хрустальном домике связывая стихи оплакивает одиночество ……… 917\nГлава 77: Хорошенькая служанка терпит несправедливость и умирает в расцвете лет; Прекрасный актёр отсекает эмоции и возвращается к водной луне ……… 931\nГлава 78: Старый учёный праздно запрашивает стихи о героической деве; Влюблённый молодой господин сочиняет элегию гибискусу ……… 946\nГлава 79: Сюэ Вэньлун сожалеет о женитьбе на свирепой жене; Цзя Инчунь ошибочно выходит замуж за жестокого волка ……… 964\nГлава 80: Сюэ Вэньлун сожалеет о женитьбе на свирепой жене; Цзя Инчунь ошибочно выходит замуж за жестокого волка (продолжение) ……… 972",
+      "ja": "第七十五回：夜宴を開き異兆、悲音を発し、中秋を賞で新詞、佳讖を得る ……… 903\n第七十六回：凸碧堂、笛を品して凄清を感じ、凹晶館、詩を聯ねて寂寞を悲しむ ……… 917\n第七十七回：俏なる丫鬟、屈を抱きて風流に夭し、美なる優伶、情を斬りて水月に帰す ……… 931\n第七十八回：老学士、閑かに姽嫿詞を徴し、痴なる公子、芙蓉誄を杜撰す ……… 946\n第七十九回：薛文龍、悔いて河東獅を娶り、賈迎春、誤りて中山狼に嫁ぐ ……… 964\n第八十回：薛文龍、悔いて河東獅を娶り、賈迎春、誤りて中山狼に嫁ぐ（続） ……… 972",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "type": "preface",
+      "original": "附录一 《红楼梦》各抄本收藏者序跋………………………… 982\n附录二 存世脂评系统《红楼梦》版本简介………………………… 987\n附录三 毛国瑶抄录靖藏本批语一百十条………………………… 998",
+      "zh_modern": "附录一 《红楼梦》各抄本收藏者序跋………………………… 982\n附录二 存世脂评系统《红楼梦》版本简介………………………… 987\n附录三 毛国瑶抄录靖藏本批语一百十条………………………… 998",
+      "en": "Appendix 1: Prefaces and Postscripts by Collectors of Various Dream of the Red Chamber Manuscripts ……… 982\nAppendix 2: Brief Introduction to Extant Zhiping Commentary System Editions of Dream of the Red Chamber ……… 987\nAppendix 3: Mao Guoyao's Transcription of 110 Commentary Entries from the Jing Collection Edition ……… 998",
+      "ru": "Приложение 1: Предисловия и послесловия коллекционеров различных рукописей «Сна в красном тереме» ……… 982\nПриложение 2: Краткое введение в сохранившиеся издания «Сна в красном тереме» системы комментариев Чжипин ……… 987\nПриложение 3: Транскрипция Мао Гояо 110 записей комментариев из издания коллекции Цзин ……… 998",
+      "ja": "附録一：『紅楼夢』各抄本収蔵者の序跋 ……… 982\n附録二：存世する脂評系統『紅楼夢』版本簡介 ……… 987\n附録三：毛国瑶抄録、靖蔵本批語百十条 ……… 998",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "type": "preface",
+      "original": "《红楼梦脂评汇校本》电子版校勘记……………………… 1014",
+      "zh_modern": "《红楼梦脂评汇校本》电子版校勘记……………………… 1014",
+      "en": "Dream of the Red Chamber with Zhiping Commentary - Collated Edition - Electronic Edition Revision Notes ……… 1014",
+      "ru": "«Сон в красном тереме с комментариями Чжипин - Сводное издание» - Примечания к редакциям электронного издания ……… 1014",
+      "ja": "『紅楼夢脂評彙校本』電子版校勘記 ……… 1014",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "This completes the table of contents, ending with chapters 75-80",
+    "Chapters 75-80 represent the final chapters of Cao Xueqin's authentic 80-chapter version",
+    "The 120-chapter continuation by Gao E and Cheng Weiyuan (chapters 81-120) is NOT included in this edition",
+    "Three appendices provide scholarly context: collector prefaces, manuscript version descriptions, and additional commentary",
+    "Electronic edition revision notes are included at page 1014",
+    "Page numbered 'VI' at bottom"
+  ],
+  "research_notes": [
+    "This edition deliberately includes only the authentic 80 chapters by Cao Xueqin",
+    "The appendices provide important textual scholarship materials",
+    "Total page count approximately 1014 pages"
+  ],
+  "characters_appearing": [],
+  "total_segments": 3,
+  "manuscript_sources_on_page": []
+}
