@@ -1,0 +1,316 @@
+{
+  "page": 31,
+  "chapter": "第二回",
+  "chapter_title": {
+    "original": "贾夫人仙逝扬州城 冷子兴演说荣国府",
+    "zh_modern": "贾夫人（贾雨村之妻）在扬州城仙逝，冷子兴演说荣国府",
+    "en": "Lady Jia Ascends to the Immortals in Yangzhou City; Leng Zixing Discourses on the Rongguo Mansion",
+    "ru": "Госпожа Цзя уходит к бессмертным в городе Янчжоу; Лэн Цзысин толкует о дворце Жунго",
+    "ja": "賈夫人、揚州城に仙逝し、冷子興、栄国府を演説す"
+  },
+  "page_content_type": "chapter_start",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 31,
+      "type": "prose",
+      "original": "却说娇杏这丫鬟，便是那年回顾雨村者。因偶然一顾，便弄出这段事来，亦是自己意料不到之奇缘。",
+      "zh_modern": "话说娇杏这个丫鬟，就是那年回头看雨村的那个人。因为偶然的一次回头，便引出这段事来，这也是她自己意料不到的奇缘。",
+      "en": "Speaking of the maid Jiao Xing, she was the one who had looked back at Yucun that year. Because of that accidental glance, this whole series of events came about; it was truly a strange destiny she herself could not have anticipated.",
+      "ru": "Что же касается служанки Цзяо Син, то это была та самая, что оглянулась на Юйцуня в тот год. Из-за одного случайного взгляда возникла эта история; это была удивительная судьба, о которой она и сама не гадала.",
+      "ja": "却説（さて）、嬌杏（きょうきょう）という這（この）丫鬟は、便ち那の年雨村を回顧せし者なり。偶然の一顧に因りて、便ち這（この）段の事を弄出し来たるは、亦た是れ自己（おのれ）も意料せざりし奇縁なり。",
+      "commentary": [
+        {
+          "type": "眉批",
+          "source": "甲戌本",
+          "position": "top margin",
+          "original": "士隐家一段小荣枯至此结住，所谓“真不去，假焉来”也！",
+          "zh_modern": "士隐家的一段小荣枯到此结束，正所谓“真（甄）不去，假（贾）怎么来”啊！",
+          "en": "The brief rise and fall of Shiyin's family concludes here. As the saying goes, \"If the True (Zhen) does not go, how can the False (Jia) come?\"",
+          "ru": "Краткая история расцвета и упадка семьи Шииня здесь заканчивается. Как говорится: «Если Истинное не уйдет, как придет Ложное?»",
+          "ja": "士隠が家の一段の小栄枯此に至りて結び住（とど）む、所謂「真去らずんば、仮焉（いずく）んぞ来たらん」なり！"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline after 奇缘",
+          "original": "注明一笔，更妥当。点出情事。",
+          "zh_modern": "注明这一笔，更加妥当。点出了情理之事。",
+          "en": "Adding this note makes it more appropriate. It points out the nature of the affair.",
+          "ru": "Добавить это примечание — весьма уместно. Подчеркивает суть дела.",
+          "ja": "一筆を注名するは、更に妥当なり。情事を点出す。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pdf_page": 31,
+      "type": "prose",
+      "original": "谁想他命运两济，与英莲“有命无运”四字遥遥相映射。莲，主也；杏，仆也。今莲反无运，而杏则两全，可知世人原在运数，不在眼下之高低也。此则大有深意存焉。",
+      "zh_modern": "谁能想到她命运两全，与英莲“有命无运”这四个字遥遥相对照。英莲是主子，娇杏是仆人。如今英莲反而运气不好，而娇杏却命运两全，可见世人的命运原本在于运数，而不在于眼下的地位高低。这其中大有深意。",
+      "en": "Who would have thought that both her fate and luck would be good, contrasting distantly with the four characters \"Have Fate, No Luck\" of Yinglian. Lotus (Yinglian) was the mistress; Apricot (Jiao Xing) was the servant. Now Lotus has no luck, while Apricot has both fate and luck complete. Thus we know that the lives of people depend on their destiny, not on their current high or low status. There is deep meaning in this.",
+      "ru": "Кто бы мог подумать, что её судьба и удача будут благополучны, что создает далекое эхо с четырьмя иероглифами «Есть судьба, но нет удачи» Инлянь. Лотос (Инлянь) — хозяйка; Абрикос (Цзяо Син) — служанка. Ныне Лотос лишена удачи, а у Абрикоса всё благополучно. Отсюда видно, что удел людей зависит от судьбы, а не от нынешнего положения. В этом скрыт глубокий смысл.",
+      "ja": "誰か想わん彼の命運両（ふた）つながら済（ととの）い、英蓮の「命有りて運無し」の四字と遥遥（ようよう）相映射せんとは。蓮は主なり；杏は僕なり。今蓮は反（かえ）って運無く、杏は則ち両つながら全し。知るべし世人原（も）と運数に在りて、眼下の高低に在らざるなり。此れ則ち大いに深意存す。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline after 命运两济",
+          "original": "好极！",
+          "zh_modern": "好极了！",
+          "en": "Excellent!",
+          "ru": "Отлично!",
+          "ja": "好極（いともよ）し！"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "pdf_page": 31,
+      "type": "prose",
+      "original": "不承望自到雨村身边，只一年便生了一子，又半载，雨村嫡妻忽染疾下世，雨村便将他扶册作正室夫人了。正是：",
+      "zh_modern": "没想到自从到了雨村身边，只用了一年便生了一个儿子，又过了半年，雨村的正妻忽然染病去世，雨村便将她扶正做了正室夫人。这正是：",
+      "en": "Unexpectedly, after coming to Yucun's side, she gave birth to a son within just one year. Another half year later, Yucun's principal wife suddenly fell ill and passed away, and Yucun promoted her to be his principal wife. Truly:",
+      "ru": "Неожиданно, оказавшись рядом с Юйцунем, она всего через год родила сына. Еще через полгода законная жена Юйцуня внезапно заболела и скончалась, и Юйцунь возвел её в ранг законной супруги. Воистину:",
+      "ja": "承望（おも）わざりき雨村の身辺に到りてより、只だ一年便ち一子を生み、又た半載にして、雨村の嫡妻忽ち疾に染まりて世を下り、雨村便ち彼を扶冊して正室の夫人と作（な）せり。正に是れ：",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "pdf_page": 31,
+      "type": "poem",
+      "original": "偶因一着错，便为人上人。",
+      "zh_modern": "偶然因为一步走错（指违背礼教回顾雨村），反而成了人上人。",
+      "en": "By chance, due to one wrong move,\nShe became a person above others.",
+      "ru": "Случайно из-за одного неверного шага,\nСтала она человеком над людьми.",
+      "ja": "偶（たまたま）一着の錯（あやま）りに因りて、\n便ち人上の人と為る。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline after 偶因一着错",
+          "original": "妙极！盖女儿原不应私顾外人之谓。",
+          "zh_modern": "妙极！因为女儿家原本不应该私自回顾外人。",
+          "en": "Excellent! Because a maiden should not have privately looked back at a stranger.",
+          "ru": "Чудесно! Ибо девице не подобало тайком оглядываться на постороннего мужчину.",
+          "ja": "妙極（いとも妙）なり！蓋（けだ）し女儿原（も）と私（ひそ）かに外人を顧みる応（べ）からずの謂（いい）なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline after 便为人上人",
+          "original": "更妙！可知守礼俟命者终为饿莩。其调侃寓意不小。从来只见集古、集唐等句，未见集俗语者。此又更奇之至！",
+          "zh_modern": "更妙！可见那些守礼等待命运的人终究成了饿殍。这其中的调侃寓意不小。从来只见过集古人诗句、集唐诗等，没见过集俗语的。这又是奇特到了极点！",
+          "en": "Even more excellent! It shows that those who observe propriety and wait for destiny end up starving. The satirical meaning here is significant. I have only seen collections of ancient lines or Tang poems, never a collection of vulgar sayings. This is the height of strangeness!",
+          "ru": "Еще лучше! Видно, что те, кто соблюдает этикет и ждет судьбы, в конце концов умирают от голода. Ирония здесь немалая. Я видел собрания древних строк, собрания танских стихов, но никогда не видел собрания поговорок. Это верх странности!",
+          "ja": "更に妙なり！知る可し礼を守り命を俟（ま）つ者は終に餓莩（がひょう）と為るを。其の調侃（ちょうかん）寓意小ならず。从来（これより）只だ古を集め、唐を集むる等の句を見るも、未だ俗語を集むる者を見ず。此れ又た更に奇の至りなり！"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "pdf_page": 31,
+      "type": "prose",
+      "original": "原来，雨村因那年士隐赠银之后，他于十六日便起身入都。至大比之期，不料他十分得意，已会了进士，选入外班，今已升了本府知府。",
+      "zh_modern": "原来，贾雨村自从那年士隐赠送银两之后，他在十六日便动身进京。到了大比之期，没想到他十分得意，已经考中了进士，选入外班（地方官），如今已经升任本府的知府。",
+      "en": "It turns out that after Shiyin gave him the silver that year, Yucun had set off for the capital on the sixteenth. When the time for the Great Examination arrived, unexpectedly he succeeded brilliantly, passed as a Jinshi, was selected for an external post, and had now been promoted to Prefect of this prefecture.",
+      "ru": "Оказывается, после того как Шиинь подарил ему серебро в тот год, Юйцунь отправился в столицу шестнадцатого числа. Когда настал срок Великого экзамена, он, к удивлению, весьма преуспел, получил степень цзиньши, был определен на внешнюю службу и ныне дослужился до префекта этой области.",
+      "ja": "原来（もと）、雨村那の年士隠銀を贈るの後、他（かれ）十六日に於いて便ち起身して都に入る。大比の期に至り、料（はか）らざりき他十分得意にし、已に進士に会し、外班に選入せられ、今已に本府の知府に升れり。",
+      "commentary": []
+    },
+    {
+      "id": 6,
+      "pdf_page": 31,
+      "type": "prose",
+      "original": "虽才干优长，未免有些贪酷之弊，且又恃才侮上，那些官员皆侧目而视。",
+      "zh_modern": "虽然才干优异，但不免有些贪婪酷虐的毛病，而且又仗着才华侮慢上司，那些同僚官员都对他侧目而视。",
+      "en": "Although his talent was superior, he inevitably suffered from the flaws of greed and cruelty. Moreover, relying on his talent, he insulted his superiors, so that his fellow officials all looked at him askance.",
+      "ru": "Хотя таланты его были выдающимися, он не избежал пороков алчности и жестокости; к тому же, кичась своими талантами, он дерзил начальству, так что другие чиновники косо смотрели на него.",
+      "ja": "才幹優長なりと虽も、未だ贪酷の弊有るを免れず、且つ又た才を恃（たの）みて上を侮（あなど）り、那些（それら）の官員皆側目して視る。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline after 侧目而视",
+          "original": "此亦奸雄必有之理。",
+          "zh_modern": "这也是奸雄必然有的道理。",
+          "en": "This is also the inevitable logic of a treacherous hero.",
+          "ru": "Это неизбежная логика коварного героя.",
+          "ja": "此れ亦た奸雄必ず有るの理なり。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "pdf_page": 31,
+      "type": "prose",
+      "original": "不上一年，便被上司寻了个空隙，作成一本，参他“生情狡猾，擅纂礼仪，且沽清正之名，而暗结虎狼之属，致使地方多事，民命不堪”等语。",
+      "zh_modern": "不到一年，便被上司找了个空子，写了一本奏章，弹劾他“生性狡猾，擅自篡改礼仪，而且沽名钓誉假装清正，暗地里结交虎狼一类的恶人，致使地方多事，百姓不堪其苦”等话。",
+      "en": "In less than a year, his superiors found a pretext and drafted a memorial impeaching him, accusing him of being \"cunning by nature, arbitrarily altering rituals, fishing for a reputation of integrity while secretly colluding with tiger-and-wolf-like elements, causing trouble in the region and making life unbearable for the people,\" and so on.",
+      "ru": "Не прошло и года, как начальство нашло лазейку и составило доклад, обвиняя его в том, что он «хитёр по натуре, самовольно меняет ритуалы, покупает славу честного человека, а втайне сговаривается с людьми, подобными тиграм и волкам, отчего в крае много смуты, а жизнь народа невыносима», и прочее.",
+      "ja": "一年を上らず、便ち上司に個の空隙を尋ねられ、一本を作成し、他を参ずらく「生情狡猾、擅（ほしいまま）に礼儀を纂（あつ）め、且つ清正の名を沽（う）り、而して暗に虎狼の属を結び、地方をして多事、民命堪えざらしむ」等の語なり。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline after 民命不堪",
+          "original": "此亦奸雄必有之事。",
+          "zh_modern": "这也是奸雄必然会做的事。",
+          "en": "These are also the inevitable deeds of a treacherous hero.",
+          "ru": "Это также неизбежные дела коварного героя.",
+          "ja": "此れ亦た奸雄必ず有るの事なり。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "pdf_page": 31,
+      "type": "prose",
+      "original": "龙颜大怒，即批革职。该部文书一到，本府官员无不喜悦。",
+      "zh_modern": "皇帝大怒，立即批示革职。吏部的文书一到，本府的官员没有不高兴的。",
+      "en": "The Emperor was furious and immediately ordered his dismissal. When the document from the Ministry arrived, the officials of the prefecture were all delighted.",
+      "ru": "Драконий лик (Император) разгневался и тут же повелел разжаловать его. Как только пришел документ из Министерства, все чиновники префектуры обрадовались.",
+      "ja": "竜顔大いに怒り、即ち革職を批す。該部の文書一たび到れば、本府の官員喜悦せざる無し。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline after 即批革职",
+          "original": "罪重而法轻，何其幸也。",
+          "zh_modern": "罪重而刑罚轻，是多么幸运啊。",
+          "en": "The crime was heavy but the punishment light; how fortunate.",
+          "ru": "Преступление тяжкое, а кара легкая; как ему повезло.",
+          "ja": "罪重くして法軽し、何ぞ其れ幸いなるや。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "pdf_page": 31,
+      "type": "prose",
+      "original": "那雨村心中虽十分惭恨，却面上全无一点怨色，仍是喜悦自若。",
+      "zh_modern": "那雨村心中虽然十分羞愧怨恨，但脸上却完全没有一点怨恨的神色，仍然是嘻嘻哈哈，自若如常。",
+      "en": "Although Yucun felt deeply ashamed and resentful in his heart, his face showed not a trace of grievance; he remained as cheerful and composed as ever.",
+      "ru": "Хотя в душе Юйцунь был полон стыда и ненависти, на лице его не было ни тени недовольства; он оставался веселым и невозмутимым.",
+      "ja": "那の雨村心中十分慚恨すると虽も、却って面上全（まった）く一点の怨色無く、仍是（な）お喜悦自若たり。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline after 喜悦自若",
+          "original": "此亦奸雄必有之态。",
+          "zh_modern": "这也是奸雄必然有的情态。",
+          "en": "This is also the inevitable attitude of a treacherous hero.",
+          "ru": "Это также неизбежная поза коварного героя.",
+          "ja": "此れ亦た奸雄必ず有るの態なり。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "pdf_page": 31,
+      "type": "prose",
+      "original": "交代过公事，将历年做官积的些资本并家小人属送至原籍，安排妥协，却又自己担风袖月，游览天下胜迹。",
+      "zh_modern": "交代完公事，将历年做官积攒的资本和家眷送回原籍，安排妥当，自己却又担风袖月，游览天下的名胜古迹。",
+      "en": "After handing over his official duties, he sent the capital he had accumulated over his years in office, along with his family and dependents, back to his ancestral home. Having settled them properly, he then traveled light, with only the wind on his shoulders and the moon in his sleeves, visiting the scenic spots of the world.",
+      "ru": "Сдав дела, он отправил накопленный за годы службы капитал и семью на родину, устроил всё как следует, а сам, «с ветром на плечах и луной в рукавах», отправился странствовать по знаменитым местам Поднебесной.",
+      "ja": "公事を交代し過（おわ）り、歴年官を作（な）して積める些（いささ）かの資本並びに家小人属を原籍に送至し、安排すること妥協（だきょう）にし、却って又た自己（おのれ）風を担い月を袖にし、天下の勝跡を遊覧す。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline after 安排妥协",
+          "original": "先云“根基已尽”，故今用此四字，细甚！",
+          "zh_modern": "先前说“根基已尽”，所以现在用“安排妥协”这四个字，非常细致！",
+          "en": "Earlier it said \"family foundation exhausted\", so now using these four words [settled properly] is very detailed!",
+          "ru": "Ранее говорилось «наследие предков истощилось», поэтому использование этих четырех иероглифов сейчас — очень тонко!",
+          "ja": "先に「根基已に尽く」と云う、故に今此の四字を用う、細甚だし！"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline after 游览天下胜迹",
+          "original": "已伏下至金陵一节矣。",
+          "zh_modern": "已经埋下了到金陵那一节的伏笔。",
+          "en": "Already foreshadows the section on arriving in Jinling.",
+          "ru": "Уже заложено предвестие эпизода в Цзиньлине.",
+          "ja": "已に金陵に至るの一節を伏下せり。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "pdf_page": 31,
+      "type": "prose",
+      "original": "那日，偶又游至维扬地面，因闻得今岁鹾政点的是林如海。这林如海姓林名海，表字如海。",
+      "zh_modern": "这一天，偶然游历到维扬（扬州）地面，听说今年钦点的巡盐御史是林如海。这林如海姓林名海，字如海。",
+      "en": "One day, he happened to wander into the region of Weiyang (Yangzhou). He heard that the Salt Commissioner appointed this year was Lin Ruhai. This Lin Ruhai's surname was Lin, his name Hai, and his courtesy name Ruhai.",
+      "ru": "В тот день он случайно забрел в земли Вэйян (Янчжоу) и услышал, что в этом году соляным цензором назначен Линь Жухай. Этого Линь Жухая фамилия была Линь, имя Хай, а второе имя — Жухай.",
+      "ja": "那の日、偶（たまたま）又た維揚の地面に遊至し、今歳鹾政（させい）に点ぜられしは是れ林如海なるを聞き得るに因りて。這の林如海は姓は林、名は海、表字は如海。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline after 表字如海",
+          "original": "盖云“学海文林”也。总是暗写黛玉。",
+          "zh_modern": "大概是说“学海文林”的意思。总是暗中描写黛玉。",
+          "en": "Implies \"Sea of Learning and Forest of Literature\". Always secretly describing Daiyu.",
+          "ru": "Подразумевается «Море учености и Лес литературы». Всегда тайно описывает Дайюй.",
+          "ja": "蓋し「学海文林」と云うなり。総て是れ暗に黛玉を写す。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "pdf_page": 31,
+      "type": "prose",
+      "original": "乃是前科的探花，今已升至兰台寺大夫，本贯姑苏人氏，今钦点出为巡盐御史，到任方一月有馀。",
+      "zh_modern": "他是前科的探花，如今已经升至兰台寺大夫，祖籍姑苏，现在钦点外放为巡盐御史，到任才一个多月。",
+      "en": "He was a Tanhua (Third Place) in a previous examination, and had now risen to the rank of Censor in the Orchid Terrace (Censorate). He was a native of Gusu (Suzhou). Now by Imperial appointment he had been sent out as Salt Censor, and had been in office for just over a month.",
+      "ru": "Он был Таньхуа (третьим призером) на прошлых экзаменах, а ныне дослужился до сановника Ланьтайсы (Цензората). Родом он был из Гусу (Сучжоу). Ныне императорским указом он был назначен соляным цензором и находился в должности всего месяц с лишним.",
+      "ja": "乃ち前科の探花にして、今已に蘭台寺の大夫に升り、本貫は姑蘇の人氏、今欽点して出でて巡塩御史と為り、任に到りて方（まさ）に一月有余なり。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline after 兰台寺大夫",
+          "original": "官制半遵古名亦好。余最喜此等半有半无，半古半今，事之所无，理之必有，极玄极幻，荒唐不经之处。",
+          "zh_modern": "官制半遵照古名也好。我最喜欢这种半有半无，半古半今，事实所无，情理必有，极玄妙极虚幻，荒唐不经的地方。",
+          "en": "It is good that the official system half follows ancient names. I most enjoy these places that are half-existing half-not, half-ancient half-modern, factually non-existent but logically inevitable, extremely mysterious and illusory, absurd and unconventional.",
+          "ru": "Хорошо, что система чинов наполовину следует древним названиям. Мне больше всего нравятся эти места: наполовину существующие, наполовину нет; наполовину древние, наполовину современные; факты, которых нет, но логика которых неизбежна; крайне таинственные и иллюзорные, абсурдные и нелепые.",
+          "ja": "官制半ば古名に遵（したが）うも亦た好し。余最も喜ぶ此等の半ば有り半ば無く、半ば古く半ば今（あたら）しく、事の無き所、理の必ず有る、極めて玄にして極めて幻、荒唐不経の処を。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline after 本贯姑苏",
+          "original": "十二钗正出之地，故用真。",
+          "zh_modern": "这是十二金钗正出的地方，所以用真地名。",
+          "en": "This is the place where the Twelve Beauties truly come from, so a real place name is used.",
+          "ru": "Это место, откуда происходят Двенадцать Красавиц, поэтому используется настоящее название.",
+          "ja": "十二釵正に出ずるの地、故に真を用う。"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "Jiaoxing (娇杏): Her name is a pun on \"Lucky Chance\" (侥幸).",
+    "Yinglian (英莲) vs Jiao Xing: Contrast between \"Deserving Pity\" (Yinglian) and \"Lucky Chance\" (Jiaoxing).",
+    "Lin Ruhai (林如海): His name \"Forest Like Sea\" suggests depth and abundance (of learning).",
+    "Gusu (姑苏): Suzhou, noted as the home of the Twelve Beauties.",
+    "Salt Censor (巡盐御史): A position controlling the salt monopoly, historically held by Cao Xueqin's grandfather."
+  ],
+  "research_notes": [
+    "Consulted Zhiping commentary regarding the \"Have Fate, No Luck\" contrast.",
+    "Verified official titles like \"Lantai Si Dafu\" (Censorate official)."
+  ],
+  "characters_appearing": [
+    "娇杏",
+    "贾雨村",
+    "林如海"
+  ],
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ],
+  "total_segments": 12
+}
