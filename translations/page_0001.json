@@ -1,0 +1,26 @@
+{
+  "page": 1,
+  "chapter": "封面",
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "红楼梦脂评汇校本\n\n曹雪芹著　脂砚斋评\n\nKolistan 汇校整理·制作",
+      "zh_modern": "《红楼梦》脂评汇校本\n\n曹雪芹著，脂砚斋评。\n\nKolistan 汇校整理并制作。",
+      "en": "Dream of the Red Chamber — Collated Edition with Zhiyanzhai (Zhiping) Commentaries\n\nWritten by Cao Xueqin; commented by Zhiyanzhai.\n\nCollated, edited, and produced by Kolistan.",
+      "ru": "«Сон в красном тереме» — сводный (сверенный) текст с «жипин»‑комментариями Чжияньчжай\n\nАвтор — Цао Сюэцинь; комментарии — Чжияньчжай.\n\nСверка, подготовка и оформление: Kolistan.",
+      "ja": "『紅楼夢』脂評（ジーピン）匯校本\n\n曹雪芹 著／脂硯斎 評。\n\nKolistan による匯校整理・制作。"
+    }
+  ],
+  "translator_notes": [
+    "「脂评汇校本」表明此版本对多种脂评抄本/刻本进行汇校整理，并以脂砚斋等评语为重要组成部分；封面所示“Kolistan”应为本电子版的整理制作署名。"
+  ],
+  "research_notes": [
+    "Source read directly from PDF page image (cover)."
+  ],
+  "characters_appearing": [],
+  "manuscript_sources_on_page": [],
+  "total_segments": 1
+}
+

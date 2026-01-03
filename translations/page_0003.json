@@ -1,0 +1,53 @@
+{
+  "page": 3,
+  "chapter": "声明",
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "本电子版仅供网络阅读、检索之用。写文章引用务请核对相关影印本。",
+      "zh_modern": "本电子版仅供网络阅读与检索使用。撰文引用时务必核对相关影印本。",
+      "en": "This electronic edition is provided solely for online reading and searching. When quoting it in writing, please verify against the relevant facsimile/photographic edition(s).",
+      "ru": "Данная электронная версия предназначена только для чтения в сети и поиска по тексту. При цитировании в публикациях обязательно сверяйтесь с соответствующими факсимильными (фото)изданиями.",
+      "ja": "本電子版はネット上での閲覧・検索のためのみに提供する。文章で引用する際は、必ず該当する影印本と照合されたい。"
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "声明：本书由 Kolistan 汇校整理、制作并免费提供下载，允许在不改变其内容完整的前提下自由传播，但禁止用于商业用途。其他网站转载本书全部或部分内容时，必须注明整理者联系方式及扯琴居网址。照搬本书内容或仅作局部改动，而变更（或删除）整理者名字另行发表者，我们保留追究的权利。",
+      "zh_modern": "声明：本书由 Kolistan 汇校整理、制作并免费提供下载；在不改变内容且保持完整的前提下允许自由传播，但禁止用于商业用途。其他网站转载本书全部或部分内容时，必须注明整理者联系方式及“扯琴居”网址。若照搬本书内容或仅作局部改动，却变更（或删除）整理者署名另行发表，我们保留追究责任的权利。",
+      "en": "Statement: This book was collated, edited, and produced by Kolistan and is offered as a free download. It may be freely redistributed provided its content is kept intact and unaltered, but it may not be used for commercial purposes. If other websites repost all or part of this book, they must include the editor’s contact information and the \"Cheqinju\" website URL. If anyone reproduces the content wholesale or with only minor changes while altering (or removing) the editor’s name and publishing it separately, we reserve the right to pursue responsibility.",
+      "ru": "Заявление: данная книга была сверена и подготовлена Kolistan’ом и распространяется бесплатно. Разрешается свободное распространение при условии сохранения целостности и неизменности содержания, однако коммерческое использование запрещено. При перепечатке всего текста или его части на других сайтах необходимо указывать контактные данные составителя и адрес сайта «扯琴居». В случае дословного копирования либо незначительных правок при одновременной замене (или удалении) имени составителя и последующей публикации «от себя» мы оставляем за собой право добиваться ответственности.",
+      "ja": "声明：本書は Kolistan が匯校整理・制作し、無料でダウンロード提供する。内容を改変せず完全性を保つ限り、自由な転載は禁止転載を許可するが、商用利用は禁止する。他サイトが本書の全部または一部を転載する場合、整理者の連絡先および「扯琴居」サイトのURLを明記しなければならない。本書内容の丸写し、または一部改変にとどめつつ整理者名を変更（または削除）して別途発表する行為については、追及する権利を留保する。"
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "红楼梦脂评汇校本\n版本：3.13（2009.7.20.）\n曹雪芹著／脂砚斋评\nKolistan 汇校整理、制作\n扯琴居红楼梦文学社区发布",
+      "zh_modern": "《红楼梦》脂评汇校本\n版本：3.13（2009 年 7 月 20 日）\n曹雪芹著／脂砚斋评\nKolistan 汇校整理、制作\n由“扯琴居红楼梦文学社区”发布",
+      "en": "Dream of the Red Chamber — Collated Edition with Zhiping Commentaries\nVersion: 3.13 (2009-07-20)\nWritten by Cao Xueqin / Commented by Zhiyanzhai\nCollated, edited, and produced by Kolistan\nReleased by the \"Cheqinju Dream of the Red Chamber\" literary community",
+      "ru": "«Сон в красном тереме» — сводный (сверенный) текст с «жипин»‑комментариями\nВерсия: 3.13 (20.07.2009)\nАвтор — Цао Сюэцинь / комментарии — Чжияньчжай\nСверка, подготовка и оформление: Kolistan\nОпубликовано литературным сообществом «扯琴居红楼梦文学社区»",
+      "ja": "『紅楼夢』脂評（ジーピン）匯校本\n版：3.13（2009.7.20）\n曹雪芹 著／脂硯斎 評\nKolistan 匯校整理・制作\n「扯琴居紅楼夢文学コミュニティ」より公開"
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "联系方式：\nEmail: kolistan@yahoo.com.cn\nQQ: 552129470\nMSN: kolistan@msn.com\n网址: http://bbs.hlmmbs.com/",
+      "zh_modern": "联系方式：\nEmail：kolistan@yahoo.com.cn\nQQ：552129470\nMSN：kolistan@msn.com\n网址：http://bbs.hlmmbs.com/",
+      "en": "Contact:\nEmail: kolistan@yahoo.com.cn\nQQ: 552129470\nMSN: kolistan@msn.com\nWebsite: http://bbs.hlmmbs.com/",
+      "ru": "Контакты:\nEmail: kolistan@yahoo.com.cn\nQQ: 552129470\nMSN: kolistan@msn.com\nСайт: http://bbs.hlmmbs.com/",
+      "ja": "連絡先：\nEmail: kolistan@yahoo.com.cn\nQQ: 552129470\nMSN: kolistan@msn.com\nサイト: http://bbs.hlmmbs.com/"
+    }
+  ],
+  "translator_notes": [
+    "本页为电子版发布与转载声明。术语「汇校」在古籍整理语境下指对不同版本/抄本进行对勘、校勘与汇合整理；这里的声明强调“内容完整且不改动”的非商用自由传播条件，并要求转载时保留整理者信息。"
+  ],
+  "research_notes": [
+    "Source read directly from PDF page image (publishing statement page)."
+  ],
+  "characters_appearing": [],
+  "manuscript_sources_on_page": [],
+  "total_segments": 4
+}
+
