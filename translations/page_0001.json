@@ -1,0 +1,39 @@
+{
+  "page": 1,
+  "chapter": "前言",
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 1,
+      "type": "prose",
+      "original": "红楼梦 脂评汇校本",
+      "zh_modern": "红楼梦 脂评汇校本",
+      "en": "Dream of the Red Chamber: Zhiping Commentary Collated Edition",
+      "ru": "Сон в красном тереме: Издание с комментариями Чжияньчжая",
+      "ja": "紅楼夢 脂評彙校本",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "pdf_page": 1,
+      "type": "prose",
+      "original": "曹雪芹 著",
+      "zh_modern": "曹雪芹 著",
+      "en": "Written by Cao Xueqin",
+      "ru": "Автор: Цао Сюэцинь",
+      "ja": "曹雪芹 著",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "This is the title page.",
+    "脂评汇校本 indicates that this edition collates commentaries from various Zhiping manuscripts (e.g., 甲戌, 庚辰)."
+  ],
+  "research_notes": [
+    "Confirmed title and edition type from standard literary references."
+  ],
+  "characters_appearing": [],
+  "manuscript_sources_on_page": [],
+  "total_segments": 2
+}
