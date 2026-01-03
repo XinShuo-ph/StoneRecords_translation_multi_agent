@@ -1,0 +1,203 @@
+{
+  "page": 55,
+  "chapter": "第三回",
+  "chapter_title": {
+    "original": "金陵城起复贾雨村 荣国府收养林黛玉",
+    "zh_modern": "金陵城里贾雨村被起用复职，荣国府收养林黛玉",
+    "en": "Jia Yucun Is Reinstated in Jinling; Rong-guo House Takes In Lin Daiyu",
+    "ru": "Цзя Юйцунь восстановлен в должности в Цзиньлине; Дом Жунго принимает Линь Дайюй",
+    "ja": "金陵城にて賈雨村起復し、栄国府にて林黛玉を収養す"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "type": "dialogue",
+      "original": "人亦可。贾母笑道：「更好，更好。若如此，更相和睦了。」宝玉便走近黛玉身边坐下，又细细打量一番，因问：「妹妹可曾读书？」黛玉道：「不曾读书，只上了一年学，些须认得几个字。」宝玉又道：「妹妹尊名是那两个字？」黛玉便说了名。宝玉又问表字，黛玉道：「无字。」宝玉笑道：「我送妹妹一个妙字，莫若『颦颦』二字极好。」探春便问何出。宝玉道：「《古今人物通考》上说：『西方有石名黛，可代画眉之墨。』况这林妹妹眉尖若蹙，用取这两个字，岂不两妙！」",
+      "zh_modern": "人也可以。贾母笑着说：「更好，更好。若是如此，更加相和睦了。」宝玉便走近黛玉身边坐下，又细细打量一番，因问：「妹妹可曾读书？」黛玉道：「不曾读书，只上了一年学，些须认得几个字。」宝玉又道：「妹妹尊名是那两个字？」黛玉便说了名。宝玉又问表字，黛玉道：「没有表字。」宝玉笑着说：「我送妹妹一个妙字，莫若『颦颦』二字极好。」探春便问出处。宝玉道：「《古今人物通考》上说：『西方有石名黛，可代画眉之墨。』况且这林妹妹眉尖若蹙，用取这两个字，岂不两妙！」",
+      "en": "—is also acceptable.' Grandmother Jia laughed and said: 'Even better, even better. If so, you will get along even more harmoniously.' Baoyu then came to sit beside Daiyu, looked her over carefully once more, and asked: 'Sister, have you studied?' Daiyu replied: 'I haven't really studied; I only attended school for a year and can barely recognize a few characters.' Baoyu then said: 'What are the characters in sister's name?' Daiyu told him her name. Baoyu then asked about her courtesy name, and Daiyu said: 'I have none.' Baoyu laughed and said: 'Let me give sister a wonderful courtesy name—none better than \"Pinpin\" (Frowning One).' Tanchun asked where this came from. Baoyu said: 'The \"Encyclopedia of Ancient and Modern Persons\" says: \"In the West there is a stone called dai, which can substitute for the ink used to paint eyebrows.\" Moreover, this Sister Lin's brows are slightly knit—using these two characters, wouldn't that be doubly wonderful!'",
+      "ru": "— тоже приемлемо.» Бабушка Цзя засмеялась и сказала: «Ещё лучше, ещё лучше. Если так, вы будете ладить ещё гармоничнее.» Баоюй затем подошёл и сел рядом с Дайюй, ещё раз внимательно осмотрел её и спросил: «Сестра, ты училась?» Дайюй ответила: «Я не училась по-настоящему; я только ходила в школу один год и едва узнаю несколько иероглифов.» Баоюй затем сказал: «Какие иероглифы в имени сестры?» Дайюй назвала своё имя. Баоюй затем спросил о её вежливом имени, и Дайюй сказала: «У меня его нет.» Баоюй засмеялся и сказал: «Позволь мне дать сестре чудесное вежливое имя — лучше всего «Пиньпинь» (Хмурящаяся).» Таньчунь спросила, откуда это. Баоюй сказал: «В «Энциклопедии древних и современных людей» говорится: «На Западе есть камень, называемый дай, который может заменить тушь для рисования бровей.» Более того, у этой сестры Линь брови слегка нахмурены — используя эти два иероглифа, разве это не вдвойне прекрасно!»",
+      "ja": "人も亦可なり。賈母笑いて道う：「更に好し、更に好し。若し此の如くんば、更に相和睦せん。」寶玉便ち黛玉の身辺に走り近づきて坐下し、又細細と打量一番し、因りて問う：「妹妹曾て書を讀みしか？」黛玉道う：「曾て書を讀まず、只一年学に上りて、些須幾個の字を認め得るのみ。」寶玉又道う：「妹妹の尊名は是れ那の両個の字なるや？」黛玉便ち名を説き了る。寶玉又表字を問う、黛玉道う：「字無し。」寶玉笑いて道う：「我妹妹に一個の妙字を送らん、『顰顰』二字に若くは莫し極めて好し。」探春便ち何に出づるかを問う。寶玉道う：「《古今人物通考》上に説く：『西方に石有りて名を黛と曰い、画眉の墨に代わるべし。』況んや這の林妹妹眉尖蹙むるが若し、這の両個の字を取り用いれば、豈両妙ならざらんや！」",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 更相和睦了",
+          "original": "亦是真话。",
+          "zh_modern": "也是真话。",
+          "en": "This too is true.",
+          "ru": "Это тоже правда.",
+          "ja": "亦是れ真話なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 宝玉便走近黛玉身边坐下，又细细打量一番",
+          "original": "与宝玉两次打量一对。越恨处如画，如此亲近，而黛玉之灵心巧性，能不被其蝉住，反不是性理。文从宽缘中写来，妙！",
+          "zh_modern": "与宝玉两次打量形成一对。处处如画，如此亲近，而黛玉之灵心巧性，能不被其缠住，反而不是性理。文章从宽缓中写来，妙！",
+          "en": "This pairs with Baoyu's two examinations of her. Every detail is like a painting. With such closeness, could Daiyu's clever and sensitive nature not be captivated by him? If not, it would be against natural principles. The writing comes leisurely—wonderful!",
+          "ru": "Это сочетается с двумя осмотрами её Баоюем. Каждая деталь как картина. При такой близости могла ли умная и чувствительная натура Дайюй не быть им очарована? Если нет, это было бы против естественных принципов. Письмо идёт неспешно — прекрасно!",
+          "ja": "寶玉の両次の打量と一対を成す。処処画の如し、此の如く親近なれば、黛玉の霊心巧性、能く其に蝉住せられざるか、反て性理に非ず。文は寛縁中より写し来る、妙なり！"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 妹妹可曾读书",
+          "original": "自己不读书，却问到人，妙！",
+          "zh_modern": "自己不读书，却问别人，妙！",
+          "en": "He himself doesn't read, yet he asks others—wonderful!",
+          "ru": "Сам не читает, но спрашивает других — прекрасно!",
+          "ja": "自ら書を讀まず、却って人に問う、妙なり！"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 探春便问何出",
+          "original": "惜闘难说探春，以足后文。",
+          "zh_modern": "惜闘难说探春，以足后文。",
+          "en": "Difficult to say about Tanchun's questions, to prepare for later text.",
+          "ru": "Трудно сказать о вопросах Таньчунь, чтобы подготовить дальнейший текст.",
+          "ja": "惜しむらくは探春に闘い難し、以て後文を足らしむ。"
+        },
+        {
+          "type": "夹批",
+          "source": "脂砚斋",
+          "position": "inline, after 岂不两妙",
+          "original": "黛玉渌因宝玉，而宝玉赠曰罄罄，初见时亦定会二人之心，则可知以后之事矣。",
+          "zh_modern": "黛玉因宝玉而得名，而宝玉赠号颦颦，初见时也定下二人之心，则可知以后之事了。",
+          "en": "Daiyu receives her name because of Baoyu, and Baoyu gives her the name Pinpin. At their first meeting, the hearts of the two are already joined—from this one can know what will follow.",
+          "ru": "Дайюй получает своё имя благодаря Баоюю, и Баоюй даёт ей имя Пиньпинь. При первой встрече сердца двух уже соединились — из этого можно узнать, что последует.",
+          "ja": "黛玉は宝玉に因りて名を得、而して宝玉は顰顰と号を贈る、初見の時も亦二人の心を定む、則ち以後の事を知るべし。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "dialogue",
+      "original": "探春笑道：「只恐又是你的杜撰。」宝玉笑道：「除《四书》外，杜撰的太多，偏只我是杜撰不成？」又问黛玉：「可也有玉没有？」众人不解其语，黛玉便忖度着：「因他有玉，故问我也有无。」因答道：「我没有那个。想来那玉亦是一件罕物，岂能人人有的。」宝玉听了，登时发作起痴狂病来，摘下那玉，就狠命摔去，骂道：「什么罕物，连人之高低不择，还说『通灵』不『通灵』呢！我也不要这劳什子了！」吓的地下众人一拥争去拾玉。贾母急的搂了宝玉道：「孽障！",
+      "zh_modern": "探春笑着说：「只恐怕又是你杜撰的。」宝玉笑着说：「除了《四书》之外，杜撰的太多，偏偏只有我杜撰不成？」又问黛玉：「妹妹可也有玉没有？」众人不解他的话，黛玉便忖度着：「因他有玉，所以问我也有没有。」因而答道：「我没有那个。想来那玉也是一件罕物，岂能人人都有的。」宝玉听了，登时发作起痴狂病来，摘下那玉，就狠命摔去，骂道：「什么罕物，连人的高低都不辨，还说什么『通灵』不『通灵』呢！我也不要这劳什子了！」吓得地下众人一拥争着去拾玉。贾母急得搂住宝玉道：「孽障！",
+      "en": "Tanchun laughed and said: 'I'm afraid this is another of your fabrications.' Baoyu laughed and said: 'Aside from the Four Books, there are too many fabrications—why should I alone be unable to fabricate?' He then asked Daiyu: 'Sister, do you have a jade too?' No one understood what he meant, but Daiyu surmised: 'Because he has a jade, he asks if I have one too.' So she answered: 'I don't have one. I imagine that jade is a rare treasure—how could everyone have one?' Hearing this, Baoyu immediately flew into a mad fit, tore off his jade, and hurled it away violently, cursing: 'What kind of rare treasure is it if it can't even distinguish between high and low people? And they talk about whether it's \"spiritually connected\" or not! I don't want this troublesome thing anymore!' Everyone below was frightened and rushed to pick up the jade. Grandmother Jia anxiously embraced Baoyu and said: 'You wicked creature!",
+      "ru": "Таньчунь засмеялась и сказала: «Боюсь, это ещё одна твоя выдумка.» Баоюй засмеялся и сказал: «Кроме Четырёхкнижия, слишком много выдумок — почему только мне нельзя выдумывать?» Затем он спросил Дайюй: «Сестра, у тебя тоже есть яшма?» Никто не понял, что он имел в виду, но Дайюй догадалась: «Поскольку у него есть яшма, он спрашивает, есть ли она у меня тоже.» Поэтому она ответила: «У меня её нет. Я полагаю, эта яшма — редкое сокровище — как может она быть у всех?» Услышав это, Баоюй немедленно впал в безумный припадок, сорвал свою яшму и яростно швырнул её, ругаясь: «Что это за редкое сокровище, если оно даже не может отличить высоких от низких людей? И они говорят о том, «духовно связано» оно или нет! Мне больше не нужна эта докучливая вещь!» Все внизу испугались и бросились подбирать яшму. Бабушка Цзя тревожно обняла Баоюя и сказала: «Ты злое создание!",
+      "ja": "探春笑いて道う：「只恐らくは又汝の杜撰ならん。」寶玉笑いて道う：「《四書》を除くの外、杜撰の太だ多し、偏えに只我のみ是れ杜撰ならずや？」又黛玉に問う：「可も亦玉の有る無きや？」衆人其の語を解せず、黛玉便ち忖度す：「彼の玉有るに因り、故に我に問いて有無を知らんとす。」因りて答えて道う：「我彼の有らず。想い来れば彼の玉も亦是れ一件の罕物なり、豈能く人人有らんや。」寶玉聴き了りて、登時痴狂の病を発作し起こし、彼の玉を摘下し、就ち狠命摔ぎ去り、罵りて道う：「什麼の罕物ぞ、連に人の高低を択ばず、還た『通霊』『通霊』ならずと説うや！我も亦這の労什子を要せざるなり！」地下の衆人を嚇し一擁争いて去きて玉を拾わしむ。賈母急して寶玉を搂して道う：「孽障！",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 只恐又是你的杜撰",
+          "original": "如此等语，马得怪彼世人谓之怪？",
+          "zh_modern": "如此这等话，怎能怪彼世人称之怪？",
+          "en": "With such words, how can one blame worldly people for calling him strange?",
+          "ru": "С такими словами, как можно винить мирских людей за то, что они называют его странным?",
+          "ja": "此の如き等の語、焉んぞ彼の世人の之を怪と謂うを怪しむを得んや？"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 只瞒不过批书者",
+          "original": "只瞒不过批书者。又问黛玉：「可也有玉没有？」奇极怪极，病痪极，实实极，目为痴哉！",
+          "zh_modern": "只是瞒不过批书的人。又问黛玉：「可也有玉没有？」奇极怪极，病态极，实在极，目之为痴哉！",
+          "en": "Only the commentator cannot be fooled. Then asking Daiyu: 'Do you also have a jade?' Utterly strange and bizarre, extremely neurotic, yet utterly genuine—consider him mad!",
+          "ru": "Только комментатора нельзя обмануть. Затем спросить Дайюй: «У тебя тоже есть яшма?» Совершенно странно и причудливо, крайне невротично, но совершенно искренне — считайте его безумным!",
+          "ja": "只批書の者を瞞き過ぐる能わず。又黛玉に問う：「可も亦玉の有る無きや？」奇極怪極、病態極、実実極、之を目して痴と為すかな！"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 众人不解其语",
+          "original": "众人不解其语，马得怪彼世人谓之怪。",
+          "zh_modern": "众人不解他的话，怎能怪彼世人称之怪。",
+          "en": "Others don't understand his words—how can one blame worldly people for calling him strange?",
+          "ru": "Другие не понимают его слов — как можно винить мирских людей за то, что они называют его странным?",
+          "ja": "衆人其の語を解せず、焉んぞ彼の世人の之を怪と謂うを怪しむを得んや。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 摘下那玉",
+          "original": "一字一千斤重。",
+          "zh_modern": "一字一千斤重。",
+          "en": "Every word weighs a thousand catties.",
+          "ru": "Каждое слово весит тысячу цзиней.",
+          "ja": "一字一千斤の重さ。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 宝玉满面泪痕泣道",
+          "original": "千奇百怪，不写黛玉泣，却反先写宝玉泣。",
+          "zh_modern": "千奇百怪，不写黛玉哭泣，却反而先写宝玉哭泣。",
+          "en": "Utterly bizarre—not writing of Daiyu crying, but instead writing first of Baoyu crying.",
+          "ru": "Совершенно странно — не описывая плач Дайюй, а вместо этого сначала описывая плач Баоюя.",
+          "ja": "千奇百怪、黛玉の泣くを写さず、却て反て先ず寶玉の泣くを写す。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "dialogue",
+      "original": "你生气，要打骂人容易，何苦摔那命根子！」宝玉满面泪痕泣道：「家里姐姐妹妹都没有，单我有，我就没趣，如今来了这么一个神仙似的妹妹也没有，可知这不是个好东西！」贾母忙哄他道：「你这妹妹原有这个来的，因你姑妈去世时，舍不得你妹妹，无法可处，遂将",
+      "zh_modern": "你生气，要打骂人容易，何苦摔那命根子！」宝玉满面泪痕哭着说：「家里姐姐妹妹都没有，单单我有，我就觉得没趣，如今来了这么一个神仙似的妹妹也没有，可知这不是个好东西！」贾母忙哄他道：「你这妹妹原本有这个来的，因你姑妈去世时，舍不得你妹妹，无法可处，就将",
+      "en": "If you're angry, it's easy to beat or scold people—why must you throw away your very life!' Baoyu, his face covered with tears, sobbed: 'None of the sisters at home have one, only I do—that already makes me feel dejected. Now here comes this fairy-like sister who also doesn't have one—clearly this thing is no good!' Grandmother Jia quickly consoled him: 'Your sister originally did have one, but when your aunt passed away, she couldn't bear to part from your sister, and having no other way, she took",
+      "ru": "Если ты сердишься, легко бить или ругать людей — зачем же швырять свою собственную жизнь!' Баоюй, с лицом, покрытым слезами, рыдал: «Ни у кого из сестёр дома нет такой, только у меня — это уже меня огорчает. Теперь приходит эта похожая на фею сестра, у которой тоже нет — ясно, что эта вещь нехорошая!» Бабушка Цзя быстро утешила его: «У твоей сестры изначально была такая, но когда твоя тётя умерла, она не могла расстаться с твоей сестрой, и не имея другого выхода, она взяла",
+      "ja": "汝怒りて、人を打ち罵らんと要すれば容易なり、何ぞ苦しみて彼の命根子を摔がんや！」寶玉満面の涙痕にて泣いて道う：「家里の姐姐妹妹皆有らず、単に我有り、我就ち趣無し、如今這の一個の神仙の似の妹妹の来れるも亦有らず、知るべし這れは是れ好き東西に非ざることを！」賈母忙しく彼を哄して道う：「汝の這の妹妹原這個の来る有りしも、汝の姑媽の去世する時に因りて、汝の妹妹を舍て得ず、法の処すべき無く、遂に将て",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 如闘其声",
+          "original": "如闘其声，恨极语也。",
+          "zh_modern": "如闘其声，恨极的话。",
+          "en": "As if hearing his voice—words of extreme frustration.",
+          "ru": "Как будто слыша его голос — слова крайнего разочарования.",
+          "ja": "其の声を闘くが如し、恨極の語なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "脂砚斋",
+          "position": "inline, after 家里姐姐妹妹都没有",
+          "original": "不是写宝玉狂，(下)[赤]不是写贾母疼，总是要下种在黛玉心里，则下文写黛玉之近宝玉之由，作者苦心，妙妙。",
+          "zh_modern": "不是写宝玉疯狂，也不是写贾母疼爱，总是要在黛玉心里下种子，则下文写黛玉接近宝玉之由来，作者苦心，妙妙。",
+          "en": "This is not about writing Baoyu's madness, nor about writing Grandmother Jia's doting. It is always about planting seeds in Daiyu's heart, so the later text can explain why Daiyu grows close to Baoyu. The author's painstaking effort—wonderful, wonderful.",
+          "ru": "Это не о описании безумия Баоюя, и не о описании обожания бабушки Цзя. Это всегда о посеве семян в сердце Дайюй, чтобы более поздний текст мог объяснить, почему Дайюй сближается с Баоюем. Кропотливые усилия автора — прекрасно, прекрасно.",
+          "ja": "是れ寶玉の狂を写すに非ず、亦賈母の疼を写すに非ず、総て是れ黛玉の心裏に種を下さんと要す、則ち下文黛玉の寶玉に近づく由を写す、作者の苦心、妙妙。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 不是冤家不聚头",
+          "original": "「不是冤家不聚头」第一场也。",
+          "zh_modern": "「不是冤家不聚头」第一场也。",
+          "en": "'Enemies meet like lovers'—this is the first scene.",
+          "ru": "«Враги встречаются как любовники» — это первая сцена.",
+          "ja": "「冤家に非ざれば聚頭せず」第一場なり。"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "This is one of the most important scenes in the novel - the first meeting between Baoyu and Daiyu",
+    "Baoyu gives Daiyu the courtesy name 「颦颦」(Pinpin), meaning 'frowning one', based on her slightly knit brows",
+    "The reference to 《古今人物通考》(Encyclopedia of Ancient and Modern Persons) is Baoyu's fabrication",
+    "Baoyu's question about whether Daiyu has a jade is the famous setup for the jade-smashing scene",
+    "The jade (通灵宝玉, Spirit-Illuminating Jade) is Baoyu's life symbol - throwing it is extremely dangerous",
+    "贾母's term 「孽障」(evil creature/wicked child) is a term of both anger and deep affection",
+    "The commentary notes this scene 'plants seeds' in Daiyu's heart - the beginning of their destined love",
+    "「不是冤家不聚头」(enemies meet like lovers) is a Chinese idiom suggesting predestined connection between seeming opposites"
+  ],
+  "research_notes": [
+    "黛 (dài) refers to a dark-colored mineral used as eyebrow cosmetic in ancient China",
+    "颦 (pín) means to frown or knit one's brows - Daiyu's characteristic expression",
+    "The 'spiritually connected' (通灵) jade is the incarnation of the stone from the opening myth",
+    "Baoyu's violent reaction shows his rejection of social distinctions and his special feeling for Daiyu",
+    "The commentary sees this as the first of many 'enemy-lover' (冤家) scenes between the two",
+    "This scene establishes the central theme: Baoyu values Daiyu over all worldly treasures including his magical jade"
+  ],
+  "characters_appearing": [
+    "贾宝玉 (Jia Baoyu)",
+    "林黛玉 (Lin Daiyu)",
+    "贾母 (Grandmother Jia)",
+    "贾探春 (Jia Tanchun)"
+  ],
+  "total_segments": 3,
+  "manuscript_sources_on_page": ["甲戌本", "脂砚斋"]
+}
