@@ -1,0 +1,62 @@
+{
+  "page": 2,
+  "chapter": "前言",
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 2,
+      "type": "prose",
+      "original": "红楼梦脂评汇校本",
+      "zh_modern": "红楼梦脂评汇校本",
+      "en": "Dream of the Red Chamber: Zhiping Commentary Collated Edition",
+      "ru": "Сон в красном тереме: Издание с комментариями Чжияньчжая",
+      "ja": "紅楼夢 脂評彙校本",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "pdf_page": 2,
+      "type": "prose",
+      "original": "曹雪芹著／脂砚斋评",
+      "zh_modern": "曹雪芹 著 / 脂砚斋 评",
+      "en": "Written by Cao Xueqin / Commentary by Zhiyan Zhai",
+      "ru": "Автор: Цао Сюэцинь / Комментарии: Чжияньчжай",
+      "ja": "曹雪芹 著／脂硯斎 評",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "pdf_page": 2,
+      "type": "prose",
+      "original": "Kolistan 汇校整理、制作",
+      "zh_modern": "Kolistan 汇校整理、制作",
+      "en": "Collated and produced by Kolistan",
+      "ru": "Составление и подготовка: Kolistan",
+      "ja": "Kolistan 彙校整理・制作",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "pdf_page": 2,
+      "type": "prose",
+      "original": "抚琴居红楼梦文学社区发布",
+      "zh_modern": "抚琴居红楼梦文学社区发布",
+      "en": "Published by the Fuqinju Dream of the Red Chamber Literature Community",
+      "ru": "Опубликовано литературным сообществом «Фуциньцзюй»",
+      "ja": "撫琴居紅楼夢文学社区 発行",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "Credits page for this digital edition.",
+    "Kolistan is the editor of this specific digital version.",
+    "Fuqinju is a prominent online community for Redology."
+  ],
+  "research_notes": [
+    "Identified Fuqinju as a Redology forum."
+  ],
+  "characters_appearing": [],
+  "manuscript_sources_on_page": [],
+  "total_segments": 4
+}
