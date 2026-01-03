@@ -1,0 +1,80 @@
+{
+  "page": 55,
+  "chapter": "第二回",
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 55,
+      "type": "prose",
+      "original": "那村肆虽然小，却倒干净。里面只有一个人，占了一副座头，在那里独酌。雨村看时，不是别人，却是都中在古董行中贸易的号冷子兴者，旧日在都相识。",
+      "zh_modern": "那村里的酒铺虽然小，却倒还干净。里面只有一个人，占了一张桌子，在那里独自饮酒。雨村看时，不是别人，却是在京城古董行做生意的、绰号叫冷子兴的人，以前在京城时就相识。",
+      "en": "Although the village tavern was small, it was clean. Inside, there was only one person occupying a table, drinking alone. When Yucun looked, it was none other than the man known as Leng Zixing, who traded in antiques in the capital and whom he had known in the past.",
+      "ru": "Хотя деревенский трактир был мал, он был чист. Внутри был лишь один человек, занимавший стол и пивший в одиночестве. Когда Юйцунь присмотрелся, это оказался не кто иной, как Лэн Цзысин, торговец антиквариатом из столицы, с которым он был знаком в прежние времена.",
+      "ja": "かの村肆は小なりといえども、却って倒（かえ）って干净（かんじょう）なり。裏面（うち）に只だ一人有り、一副の座頭を占め、其処に在りて独酌す。雨村看る時は、別人にあらず、却って是れ都中の古董行（ことうこう）の中に在りて貿易する号を冷子興という者にして、旧日都に在りて相識るなり。",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "pdf_page": 55,
+      "type": "prose",
+      "original": "雨村最赞这冷子兴是个有作为大本领的人，这子兴又借雨村斯文之名，故二人最相投契。",
+      "zh_modern": "雨村最赞赏这冷子兴是个有作为、大本领的人，这冷子兴也借重雨村的斯文名声，所以两人最是投机。",
+      "en": "Yucun greatly admired Leng Zixing as a capable and resourceful man, and Zixing relied on Yucun's reputation as a scholar, so the two were very compatible friends.",
+      "ru": "Юйцунь весьма ценил этого Лэн Цзысина как человека деятельного и способного, а Цзысин пользовался славой учености Юйцуня, поэтому они отлично ладили.",
+      "ja": "雨村最も賛す、この冷子興は是れ作為有り大本領有るの人なりと。この子興もまた雨村が斯文の名を借り、故に二人最も相投契す。",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "pdf_page": 55,
+      "type": "prose",
+      "original": "雨村忙笑问道：“老兄何日到此？弟竟不知。今日偶遇，真奇缘也。”",
+      "zh_modern": "雨村急忙笑着问道：“老兄什么时候到的这里？小弟竟然不知道。今天偶然相遇，真是奇缘啊。”",
+      "en": "Yucun hurriedly smiled and asked: “Brother, when did you arrive here? I had no idea. Meeting by chance today is truly a rare affinity.”",
+      "ru": "Юйцунь поспешно улыбнулся и спросил: «Старина, когда ты прибыл сюда? Я и не знал. Случайная встреча сегодня — поистине удивительная судьба».",
+      "ja": "雨村忙しく笑いて問う、「老兄何日此処に到りしや？弟竟に知らず。今日偶遇す、真に奇縁なり」と。",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "pdf_page": 55,
+      "type": "prose",
+      "original": "子兴见是雨村，忙站起来，笑让道：“老先生得空，怎么也清步至此？怪道今日雀噪，原来好友必至。”",
+      "zh_modern": "冷子兴见是雨村，急忙站起来，笑着让座道：“老先生有空，怎么也清闲漫步到这里？难怪今天喜鹊叫噪，原来是好友必定到来。”",
+      "en": "Seeing it was Yucun, Zixing hurriedly stood up and laughingly invited him to sit, saying: “Sir, having leisure, how did you also stroll here? No wonder the magpies were chattering today; it meant a good friend was bound to arrive.”",
+      "ru": "Цзысин, увидев, что это Юйцунь, поспешно встал и с улыбкой уступил место: «Господин, найдя свободное время, как вы тоже забрели сюда? Недаром сегодня кричали сороки — это значило, что прибудет хороший друг».",
+      "ja": "子興是れ雨村なるを見て、忙しく立ち起き、笑いて譲りて言う、「老先生空を得、怎么（いか）に也（ま）た清歩して此処に至れる？怪しからず今日雀噪ぐは、元来好友必ず至らんとするなり」と。",
+      "commentary": []
+    },
+    {
+      "id": 5,
+      "pdf_page": 55,
+      "type": "prose",
+      "original": "一面让雨村坐下，又另整上酒肴来。二人闲叙了一回，雨村因问：“近日都中可有新闻没有？”",
+      "zh_modern": "一面让雨村坐下，又另外整理摆上酒菜来。两人闲聊了一会儿，雨村便问道：“最近京城里可有什么新闻没有？”",
+      "en": "While inviting Yucun to sit, he ordered fresh wine and dishes. The two chatted for a while, and then Yucun asked: “Is there any news in the capital recently?”",
+      "ru": "Усадив Юйцуня, он заказал еще вина и закусок. Они немного поболтали, и Юйцунь спросил: «Есть ли какие-нибудь новости в столице в последнее время?»",
+      "ja": "一面雨村をして坐合せしめ、又た別に酒肴を整え上す。二人閑叙すること一回、雨村因って問う、「近日都中可（はた）して新聞有りや無しや？」と。",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "冷子兴 (Leng Zixing): Antique dealer. His name 'Leng' (Cold) contrasts with the 'Re' (Hot) nature of the Jia family's bustling life. He provides the 'cold' objective overview.",
+    "古董行 (Gu Dong Hang): Antique trade. A profession requiring knowledge of history and value, fitting for a narrator of family history.",
+    "斯文 (Si Wen): Refined, scholarly. Yucun represents the scholar-official class.",
+    "雀噪 (Que Zao): Magpies chattering. A traditional omen of a guest's arrival."
+  ],
+  "research_notes": [
+    "This meeting is a narrative device (frame story) to introduce the main characters of the Rongguo Mansion (Baoyu, the Twelve Beauties, etc.) before the narrative shifts to them directly.",
+    "The friendship between a scholar (Yucun) and a merchant (Zixing) reflects Yucun's pragmatic/opportunistic nature.",
+    "Verified Zixing's role as the 'Cold-eyed Observer' mentioned in the earlier poem."
+  ],
+  "characters_appearing": [
+    "Jia Yucun",
+    "Leng Zixing"
+  ],
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ]
+}
