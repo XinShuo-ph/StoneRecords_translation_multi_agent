@@ -13,9 +13,9 @@
 - **Status**: translating
 
 ## Current Work
-- **Claimed Page**: 34
+- **Claimed Page**: 37
 - **Page Verified Available**: yes
-- **Started At**: 1767410200
+- **Started At**: 1767410400
 - **Current Step**: research
 
 ## Completed Pages
