@@ -1,0 +1,185 @@
+{
+  "page": 33,
+  "chapter": "第二回",
+  "chapter_title": {
+    "original": "贾夫人仙逝扬州城 冷子兴演说荣国府",
+    "zh_modern": "贾夫人在扬州城去世，冷子兴讲述荣国府的情况",
+    "en": "Lady Jia Passes Away in Yangzhou; Leng Zixing Discourses on the Rong-guo Mansion",
+    "ru": "Госпожа Цзя умирает в Янчжоу; Лэн Цзысин рассказывает о доме Жунго",
+    "ja": "賈夫人、揚州城にて仙逝し、冷子興、栄国府を演説す"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 33,
+      "type": "prose",
+      "original": "意欲赏鉴那村野风光。甲大都世人意料此，终不能此；不及彼者，而反及彼。故特书意在村野风光，却忽遇见于兴一篇荣国繁华气象。忽信步至一山环水旋、茂林深竹之处，隐隐有座庙宇，门巷倾颓，墙垣朽败，门前有额，题着「智通寺」三字，甲谁为智者？又谁能通？一叹。门旁又有一副旧破的对联，曰：",
+      "zh_modern": "想要欣赏那村野风光。（【甲戌本批】大都世人意料此，终不能此；不及彼者，而反及彼。故特书意在村野风光，却忽遇见于兴一篇荣国繁华气象。）忽然信步走到一处山环水旋、茂林深竹的地方，隐隐有座庙宇，门巷倾颓，墙垣朽败，门前有匾额，题着「智通寺」三字，（【甲戌本批】谁为智者？又谁能通？一叹。）门旁又有一副旧破的对联，写道：",
+      "en": "wanting to appreciate the rural scenery. [Jiaxu: Most people in the world anticipate this but cannot achieve it; those who do not reach that, instead reach that. Hence specifically writing about the intention to view rural scenery, yet suddenly encountering a passage about the glory of the Rong mansion through Zixing.] Suddenly he strolled to a place where mountains encircled and waters swirled, with dense forests and deep bamboo groves. Dimly visible was a temple, its gates and lanes tumbling down, its walls decayed. Above the gate was a plaque inscribed 'Zhitong Temple' [Jiaxu: Who is wise? And who can comprehend? A sigh.]. Beside the gate was another pair of old, tattered couplets that read:",
+      "ru": "желая насладиться сельским пейзажем. [Цзясюй: Большинство людей в мире предвкушают это, но не могут достичь; те, кто не достигает того, вместо этого достигают этого. Поэтому специально написано о намерении смотреть сельские пейзажи, но внезапно встречается отрывок о славе дома Жун через Цзысина.] Внезапно он забрёл в место, где горы окружали и воды кружились, с густыми лесами и глубокими бамбуковыми рощами. Смутно виднелся храм с разрушающимися воротами и переулками, обветшавшими стенами. Над воротами была табличка с надписью «Храм Постижения Мудрости» [Цзясюй: Кто мудр? И кто может постичь? Вздох.]. Рядом с воротами была ещё одна пара старых, потрёпанных парных надписей:",
+      "ja": "彼の村野の風光を賞鑑せんと欲す。【甲戌：大都世人此を意料し、終に此を能くせず；彼に及ばざる者、而して反って彼に及ぶ。故に特に書して意は村野風光に在り、却って忽ち于興の一篇の栄国繁華の気象に遇見す。】忽ち信歩して一の山環り水旋る、茂林深竹の処に至る、隠々として一座の廟宇有り、門巷傾頽し、墙垣朽敗す、門前に額有り、「智通寺」の三字を題す、【甲戌：誰か智者為る？又誰か能く通ずる？一嘆。】門旁に又一副の旧破の対聯有り、曰く：",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 村野风光",
+          "original": "大都世人意料此，终不能此；不及彼者，而反及彼。故特书意在村野风光，却忽遇见于兴一篇荣国繁华气象",
+          "zh_modern": "大多数世人预料此，终究不能实现；达不到那个的，反而达到那个。所以特意写想看村野风光，却忽然遇见子兴讲述荣国府繁华景象的一篇",
+          "en": "Most people anticipate this but cannot achieve it; those who do not reach that, instead reach that. Hence writing about rural scenery, yet suddenly encountering the glory of Rong mansion through Zixing",
+          "ru": "Большинство людей предвкушают это, но не могут достичь; те, кто не достигает того, вместо этого достигают этого. Поэтому написано о сельских пейзажах, но внезапно встречается слава дома Жун через Цзысина",
+          "ja": "大都世人此を意料し、終に此を能くせず；彼に及ばざる者、而して反って彼に及ぶ。故に特に書して意は村野風光に在り、却って忽ち于興の一篇の栄国繁華の気象に遇見す"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 智通寺",
+          "original": "谁为智者？又谁能通？一叹",
+          "zh_modern": "谁是智者？又谁能通达？一声叹息",
+          "en": "Who is wise? And who can comprehend? A sigh",
+          "ru": "Кто мудр? И кто может постичь? Вздох",
+          "ja": "誰か智者為る？又誰か能く通ずる？一嘆"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pdf_page": 33,
+      "type": "poem",
+      "original": "身后有馀忘缩手，眼前无路想回头。甲先为宁、荣诸人当头一喝，却是为余一喝。",
+      "zh_modern": "身后有余却忘了收手，眼前无路才想要回头。（【甲戌本批】先为宁、荣诸人当头一喝，却是为余一喝。）",
+      "en": "Behind you there is surplus yet you forget to draw back your hand;\nBefore your eyes there is no path yet you wish to turn back.\n[Jiaxu: First a shout at the head of all the people of Ning and Rong, yet it is a shout for me.]",
+      "ru": "Позади тебя есть излишек, но ты забываешь отдёрнуть руку;\nПеред глазами нет пути, но ты хочешь повернуть назад.\n[Цзясюй: Сначала окрик в голову всем людям Нин и Жун, но это окрик для меня.]",
+      "ja": "身後に余り有れども手を縮むるを忘れ、\n眼前に路無くして回頭せんと想う。\n【甲戌：先ず寧・栄の諸人の頭に当りて一喝す、却って是れ余が為に一喝するなり。】",
+      "poem_notes": {
+        "form": "対聯 (Couplet)",
+        "rhyme_scheme": "Parallel structure",
+        "literary_devices": [
+          "Antithesis between 身后/眼前 (behind/before)",
+          "Antithesis between 有馀/无路 (surplus/no path)",
+          "Antithesis between 忘/想 (forget/wish)",
+          "Warning about greed and the point of no return"
+        ],
+        "thematic_significance": "Foreshadows the downfall of the Jia family due to excessive wealth and inability to withdraw"
+      },
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after couplet",
+          "original": "先为宁、荣诸人当头一喝，却是为余一喝",
+          "zh_modern": "先为宁府、荣府诸人当头棒喝，却也是为我自己的一声棒喝",
+          "en": "First a shout at the head of all the people of Ning and Rong, yet it is a shout for me",
+          "ru": "Сначала окрик в голову всем людям Нин и Жун, но это окрик для меня",
+          "ja": "先ず寧・栄の諸人の頭に当りて一喝す、却って是れ余が為に一喝するなり"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "pdf_page": 33,
+      "type": "prose",
+      "original": "雨村看了，因想到：「这两句话，文虽浅，其意则深。甲一部书之总批。也曾游过些名山大刹，倒不曾见过这话头，其中想必有个翻过筋斗来的亦未可知，甲随笔带出禅机，又为后文多少语录不落空。何不进去试试？」想着，走入看时，只有一个聋聩老僧在那里煮粥。甲是雨村火气。雨村见了，便不在意。甲火气。及至问他两句话，那老僧既聋且昏，甲是翻过来的。蒙欲写冷子兴，偏闲有许多着力语。齿落舌钝，甲是翻过来的。所答非所问。",
+      "zh_modern": "贾雨村看了，因想到：「这两句话，文字虽浅显，意思却很深刻。（【甲戌本批】一部书之总批。）我也曾游历过一些名山大刹，倒不曾见过这样的话头，其中想必有个翻过筋斗来的也未可知，（【甲戌本批】随笔带出禅机，又为后文多少语录不落空。）何不进去试试？」想着，走进去看时，只有一个耳聋眼花的老僧在那里煮粥。（【甲戌本批】是雨村火气。）贾雨村见了，便不在意。（【甲戌本批】火气。）等到问他两句话，那老僧既聋且昏，（【甲戌本批】是翻过来的。【蒙府本批】欲写冷子兴，偏闲有许多着力语。）齿落舌钝，（【甲戌本批】是翻过来的。）所答非所问。",
+      "en": "Yucun looked at it and thought: 'These two lines, though the words are simple, the meaning is profound. [Jiaxu: The general criticism of the entire book.] I have traveled to famous mountains and great temples, but never seen such phrasing. Perhaps there is someone here who has 'turned a somersault' [attained enlightenment], who knows? [Jiaxu: Casually bringing out Chan mysteries, also ensuring later passages of sayings do not fall empty.] Why not go in and try?' Thinking this, he walked in to look, and there was only one deaf and dim-sighted old monk there cooking gruel. [Jiaxu: This is Yucun's fiery temperament.] Yucun saw him and did not take notice. [Jiaxu: Fiery temperament.] When he tried to ask a couple of questions, the old monk was both deaf and senile [Jiaxu: He has 'turned over.' Mengfu: Wanting to write about Leng Zixing, there are surprisingly many forceful words in this idle passage.], his teeth fallen out and tongue dull [Jiaxu: He has 'turned over.'], and his answers had nothing to do with the questions.",
+      "ru": "Юйцунь посмотрел и подумал: «Эти две строки, хотя слова просты, смысл глубок. [Цзясюй: Общая критика всей книги.] Я путешествовал по знаменитым горам и великим храмам, но никогда не видел такой формулировки. Возможно, здесь есть кто-то, кто «перевернулся через голову» [достиг просветления], кто знает? [Цзясюй: Небрежно выявляя чаньские тайны, также обеспечивая, чтобы последующие изречения не пропали даром.] Почему бы не войти и не попробовать?» Думая так, он вошёл посмотреть, и там был только один глухой и слабовидящий старый монах, готовивший кашу. [Цзясюй: Это огненный темперамент Юйцуня.] Юйцунь увидел его и не обратил внимания. [Цзясюй: Огненный темперамент.] Когда он попытался задать пару вопросов, старый монах был и глухим, и дряхлым [Цзясюй: Он «перевернулся». Мэнфу: Желая написать о Лэн Цзысине, в этом праздном отрывке удивительно много сильных слов.], с выпавшими зубами и тупым языком [Цзясюй: Он «перевернулся».], и его ответы не имели ничего общего с вопросами.",
+      "ja": "雨村看て、因りて想う：「此の両句話、文は浅しと雖も、其の意は則ち深し。【甲戌：一部の書の総批。】亦曾て些かの名山大刹を游び過ぎしも、倒って此の話頭を見たること曾て無し、其の中に想うに必ず一個の筋斗を翻し過ぎ来る者有りて亦未だ知るべからず、【甲戌：随筆して禅機を帯び出す、又後文の多少の語録の空しく落ちざる為なり。】何ぞ進み入りて試みざる？」想い著りて、走り入りて看る時、只一個の聾聵の老僧、彼の里に粥を煮る有り。【甲戌：是れ雨村の火気なり。】雨村見て、便ち意に在らず。【甲戌：火気。】問うに他に両句話を問うに至れば、彼の老僧既に聾にして且つ昏し、【甲戌：是れ翻り過ぎ来りたるなり。蒙：冷子興を写さんと欲し、偏に閒に許多の着力語有り。】齿落ち舌鈍し、【甲戌：是れ翻り過ぎ来りたるなり。】答うる所は問う所に非ず。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 意则深",
+          "original": "一部书之总批",
+          "zh_modern": "这是整部书的总评",
+          "en": "The general criticism of the entire book",
+          "ru": "Общая критика всей книги",
+          "ja": "一部の書の総批"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 亦未可知",
+          "original": "随笔带出禅机，又为后文多少语录不落空",
+          "zh_modern": "随笔带出禅机，又为后文多少语录做铺垫",
+          "en": "Casually bringing out Chan mysteries, also ensuring later passages of sayings do not fall empty",
+          "ru": "Небрежно выявляя чаньские тайны, также обеспечивая последующие изречения",
+          "ja": "随筆して禅機を帯び出す、又後文の多少の語録の空しく落ちざる為なり"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 既聋且昏",
+          "original": "是翻过来的",
+          "zh_modern": "是翻过筋斗来的（已经悟道）",
+          "en": "He has 'turned over' [attained enlightenment]",
+          "ru": "Он «перевернулся» [достиг просветления]",
+          "ja": "是れ翻り過ぎ来りたるなり"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "pdf_page": 33,
+      "type": "prose",
+      "original": "雨村不耐烦，便仍出来，甲毕竟雨村还是俗眼，只能识得阿凤、宝玉、黛玉等未觉之先，却不识得既证之后。甲未出宁、荣繁华盛处，却先写一荒凉小境；未写通部入世迷人，却先写一出世醒人。回风舞雪，倒峡逆波，别小说中所无之法。意欲到那村肆中沽酒三杯，以助野趣。于是款步行来，刚入肆门，只见座上吃酒之客有一人起身大笑，接了出来，口内说：「奇遇，奇遇！」雨村忙看时，此人是都中古董行中贸易的号冷子兴者，甲此人不过借为引绳，不必细写。旧日在都相识。雨村最赞这冷子兴是个有作为大本领的人，蒙不禁出则又不灵活，而冷子兴之谈吐似觉唐突矣。这子兴又借雨村斯文之名，故二人说话投机，最相契合。雨村忙亦笑问：「老兄何日到此？弟竟不知。今日偶遇，真奇缘也。」子兴道：「去年岁底到家，今因还要入都，从此顺路找个敝友说一句话，承他之情，留我多住两日。我也",
+      "zh_modern": "贾雨村不耐烦，便仍出来，（【甲戌本批】毕竟雨村还是俗眼，只能识得阿凤、宝玉、黛玉等未觉之先，却不识得既证之后。【甲戌本批】未出宁、荣繁华盛处，却先写一荒凉小境；未写通部入世迷人，却先写一出世醒人。回风舞雪，倒峡逆波，别小说中所无之法。）意欲到那村肆中沽酒三杯，以助野趣。于是款步行来，刚入肆门，只见座上吃酒之客有一人起身大笑，接了出来，口内说：「奇遇，奇遇！」贾雨村忙看时，此人是都中古董行中贸易的号冷子兴者，（【甲戌本批】此人不过借为引绳，不必细写。）旧日在都城相识。雨村最赞这冷子兴是个有作为大本领的人，（【蒙府本批】不禁出则又不灵活，而冷子兴之谈吐似觉唐突矣。）这子兴又借雨村斯文之名，所以二人说话投机，最相契合。贾雨村忙也笑着问：「老兄何日到此？弟竟不知。今日偶遇，真是奇缘啊。」子兴道：「去年年底到家，如今因还要入都，从此顺路找个朋友说一句话，承他的情，留我多住两日。我也",
+      "en": "Yucun, impatient, came back out [Jiaxu: After all, Yucun still has worldly eyes; he can only recognize Ah Feng, Baoyu, Daiyu, and others before their awakening, but cannot recognize them after their enlightenment. Jiaxu: Before depicting the flourishing prosperity of Ning and Rong, first writing a desolate small scene; before writing the worldly characters who confuse throughout, first writing one awakened figure who transcends the world. Swirling wind and dancing snow, reverse gorges and upstream waves—methods not found in other novels.], intending to buy three cups of wine at the village tavern to add to the rustic pleasure. So he walked leisurely over, and just as he entered the tavern door, he saw one of the drinking guests rise up laughing loudly, coming out to greet him, saying: 'What a coincidence, what a coincidence!' Yucun quickly looked—this person was Leng Zixing, who traded in the antique business in the capital [Jiaxu: This person is merely borrowed as a guide rope, no need to describe in detail.]. They had known each other in the capital before. Yucun most admired Leng Zixing as a man of great ability [Mengfu: Cannot help but come out yet not nimble, and Leng Zixing's conversation seems somewhat abrupt.], and Zixing in turn used Yucun's scholarly reputation, so the two found each other's conversation congenial and were most compatible. Yucun hurriedly smiled and asked: 'Brother, when did you arrive here? I had no idea. To meet by chance today, what a strange fate indeed!' Zixing said: 'I arrived home at year's end last year. Now because I need to go to the capital again, I took this route to find a friend and have a word, and accepting his kindness, he kept me a couple extra days. I also",
+      "ru": "Юйцунь, нетерпеливый, вышел обратно [Цзясюй: В конце концов, у Юйцуня всё ещё мирские глаза; он может распознать А Фэн, Баоюя, Дайюй и других только до их пробуждения, но не может распознать их после их просветления. Цзясюй: Прежде чем изображать цветущее процветание Нин и Жун, сначала написать запустелую маленькую сцену; прежде чем писать мирских персонажей, которые сбивают с толку повсюду, сначала написать одну пробуждённую фигуру, которая превосходит мир. Кружащийся ветер и танцующий снег, обратные ущелья и волны против течения — методы, не найденные в других романах.], намереваясь купить три чашки вина в деревенской таверне, чтобы добавить сельского удовольствия. Итак, он неспешно подошёл, и только войдя в дверь таверны, увидел, как один из пьющих гостей встал, громко смеясь, выходя навстречу ему, говоря: «Какое совпадение, какое совпадение!» Юйцунь быстро посмотрел — это был Лэн Цзысин, торговавший антиквариатом в столице [Цзясюй: Этот человек просто заимствован как направляющая верёвка, не нужно описывать подробно.]. Они знали друг друга в столице раньше. Юйцунь больше всего восхищался Лэн Цзысином как человеком больших способностей [Мэнфу: Не может не выйти, но не ловок, и разговор Лэн Цзысина кажется несколько резким.], а Цзысин в свою очередь использовал учёную репутацию Юйцуня, поэтому оба находили разговор друг друга приятным и были наиболее совместимы. Юйцунь поспешно улыбнулся и спросил: «Брат, когда ты прибыл сюда? Я понятия не имел. Встретиться случайно сегодня — какая странная судьба!» Цзысин сказал: «Я прибыл домой в конце прошлого года. Теперь, поскольку мне нужно снова ехать в столицу, я выбрал этот маршрут, чтобы найти друга и поговорить, и приняв его доброту, он оставил меня ещё на пару дней. Я тоже",
+      "ja": "雨村耐煩せず、便ち仍お出で来る、【甲戌：畢竟雨村還た是れ俗眼、只能く阿鳳・宝玉・黛玉等の未だ覚らざるの先を識るのみ、却って既に証したるの後を識らず。甲戌：未だ寧・栄の繁華盛んなる処を出ださず、却って先ず一の荒涼たる小境を写す；未だ通部の入世迷人を写さず、却って先ず一の出世醒人を写す。回風舞雪、倒峡逆波、別の小説中に無き所の法なり。】意は彼の村肆中に到りて酒三杯を沽り、以て野趣を助けんと欲す。是に於いて款歩して行き来る、刚に肆の門に入れば、只座上に酒を吃する客の一人の起身して大笑し、接し出で来りて、口内に説く：「奇遇、奇遇！」雨村忙しく看る時、此の人は是れ都中の古董行中に貿易する号冷子興者なり、【甲戌：此の人は不過借りて引縄と為すのみ、必ずしも細かに写すを要せず。】旧日都に在りて相識る。雨村最も此の冷子興の是れ有作為大本領の人なるを賛す、【蒙：禁ぜざるを得ず出づれば又霊活ならず、而して冷子興の談吐は似て唐突を覚ゆ。】此の子興又雨村の斯文の名を借り、故に二人説話投機し、最も相契合す。雨村忙しく亦笑いて問う：「老兄何日此に到る？弟竟に知らず。今日偶遇、真に奇縁なり。」子興道う：「去年歳底に家に到り、今因りて還た都に入らんと要す、此より順路敝友を找して一句話を説き、彼の情を承けて、我を留めて多く両日住ましむ。我も",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 便仍出来",
+          "original": "毕竟雨村还是俗眼，只能识得阿凤、宝玉、黛玉等未觉之先，却不识得既证之后",
+          "zh_modern": "毕竟雨村还是俗人眼光，只能认识阿凤、宝玉、黛玉等人未觉悟之前的样子，却认不出他们觉悟之后",
+          "en": "After all, Yucun still has worldly eyes; he can only recognize Ah Feng, Baoyu, Daiyu before their awakening, but cannot recognize them after enlightenment",
+          "ru": "В конце концов, у Юйцуня всё ещё мирские глаза; он может распознать А Фэн, Баоюя, Дайюй только до их пробуждения, но не после просветления",
+          "ja": "畢竟雨村還た是れ俗眼、只能く阿鳳・宝玉・黛玉等の未だ覚らざるの先を識るのみ、却って既に証したるの後を識らず"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 便仍出来 (second)",
+          "original": "未出宁、荣繁华盛处，却先写一荒凉小境；未写通部入世迷人，却先写一出世醒人。回风舞雪，倒峡逆波，别小说中所无之法",
+          "zh_modern": "还没写宁、荣繁华之处，却先写一处荒凉小境；还没写全书入世迷人之处，却先写一个出世醒人。回风舞雪，倒峡逆波，这是其他小说中没有的写法",
+          "en": "Before depicting flourishing Ning and Rong, first writing a desolate scene; before writing worldly confusing characters, first writing one awakened figure. Methods not found in other novels",
+          "ru": "Прежде чем изображать цветущие Нин и Жун, сначала написать запустелую сцену; прежде чем писать мирских персонажей, сначала написать пробуждённую фигуру. Методы, не найденные в других романах",
+          "ja": "未だ寧・栄の繁華盛んなる処を出ださず、却って先ず一の荒涼たる小境を写す；未だ通部の入世迷人を写さず、却って先ず一の出世醒人を写す。回風舞雪、倒峡逆波、別の小説中に無き所の法なり"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "after 冷子兴者",
+          "original": "此人不过借为引绳，不必细写",
+          "zh_modern": "此人不过是借来做引线的，不必细写",
+          "en": "This person is merely borrowed as a guide rope, no need to describe in detail",
+          "ru": "Этот человек просто заимствован как направляющая верёвка, не нужно описывать подробно",
+          "ja": "此の人は不過借りて引縄と為すのみ、必ずしも細かに写すを要せず"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "「智通寺」(Zhitong Temple) - Temple of Penetrating Wisdom, symbolic name",
+    "「翻过筋斗」- literally 'turned a somersault', Buddhist metaphor for achieving enlightenment",
+    "「回风舞雪，倒峡逆波」- literary technique of reversal, doing the unexpected",
+    "「冷子兴」(Leng Zixing) - name puns on 冷 (cold), connects to chapter opening about 'cold-eyed observer'",
+    "「引绳」- guide rope/lead string, indicating a character who introduces plot elements",
+    "「俗眼」vs「慧眼」- worldly eyes vs. wise eyes, ability to see true nature",
+    "The couplet is a key philosophical statement foreshadowing the Jia family's downfall",
+    "「阿凤」- affectionate name for Wang Xifeng"
+  ],
+  "research_notes": [
+    "The Zhitong Temple couplet is considered one of the novel's most profound philosophical statements",
+    "Commentary explicitly states the couplet is 'the general criticism of the entire book'",
+    "The deaf monk represents enlightened detachment that Yucun cannot recognize",
+    "Narrative technique praised: showing desolation before prosperity, awakened before worldly",
+    "Leng Zixing introduced here - his role is to provide exposition about the Jia family",
+    "The meeting is presented as fated/coincidental (奇缘)"
+  ],
+  "characters_appearing": ["贾雨村", "冷子兴", "老僧"],
+  "characters_referenced": ["王熙凤", "贾宝玉", "林黛玉"],
+  "total_segments": 4,
+  "manuscript_sources_on_page": ["甲戌本", "蒙府本"]
+}
