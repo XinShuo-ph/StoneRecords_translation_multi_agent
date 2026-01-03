@@ -1,0 +1,25 @@
+{
+  "page": 7,
+  "chapter": "目录",
+  "chapter_title": null,
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "第二十一回至第四十七回章目",
+      "zh_modern": "第二十一回至第四十七回章目",
+      "en": "Chapters 21-47",
+      "ru": "Главы 21-47",
+      "ja": "第二十一回至第四十七回",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "Continuation of table of contents"
+  ],
+  "research_notes": [],
+  "characters_appearing": [],
+  "total_segments": 1,
+  "manuscript_sources_on_page": []
+}
