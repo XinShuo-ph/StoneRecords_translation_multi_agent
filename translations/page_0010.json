@@ -1,0 +1,40 @@
+{
+  "page": 10,
+  "chapter": "凡例",
+  "chapter_title": {
+    "original": "脂砚斋重评石头记凡例",
+    "zh_modern": "脂砚斋重评《石头记》凡例",
+    "en": "Editorial Principles for Zhiyan Zhai's Re-evaluation of The Story of the Stone",
+    "ru": "Редакционные принципы повторной оценки «Записок о камне» Чжиянь Чжаем",
+    "ja": "脂硯斎重評『石頭記』凡例"
+  },
+  "page_content_type": "fanli",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 10,
+      "type": "prose",
+      "original": "《红楼梦》首义，是书题名极多，一曰《红楼》②梦》，是总其全部之名也；又曰《风月宝鉴》，是戒妄动风月之情；又曰《石头记》，是自幸石头所记之事也。此三名皆书中曾自言之。又有曰《金陵十二钗》，此则《红楼梦》之点睛。又如宝玉作梦，梦遇入持一镜本，上面籖题「风月宝鉴」四字，此则《风月宝鉴》之点睛处。又如道人莸飘见石上大有文章一篇故事，则《石头记》之点睛处。然此书又名曰《金陵十二钗》，审其名，则必系全陵十二女子也；今阅此书中首回即云「金陵十二钗正册」，盖天下所有之女子不得与此十二人较，又有一副册至金陵十二钗之副册，又有又一副册至金陵十二钗之又副册，不得作参照已别本等等字校寻大量字句。",
+      "zh_modern": "《红楼梦》首先要说的是，这部书的题名极多。一曰《红楼梦》，是总括全书的名称；又曰《风月宝鉴》，是告诫不要妄动风月之情；又曰《石头记》，是自述石头所记录之事。这三个名字都是书中曾经自己说明的。又有名为《金陵十二钗》的，这是《红楼梦》的点睛之笔。又如宝玉作梦时，梦中遇人持一面镜子，上面题写着「风月宝鉴」四字，这是《风月宝鉴》的点睛之处。又如道人和僧人看见石头上刻有一大篇文章和故事，这是《石头记》的点睛之处。然而此书又名为《金陵十二钗》，审视其名，则必定是关于金陵十二位女子的；现在阅读此书第一回即说到「金陵十二钗正册」，可见天下所有的女子都不能与这十二人相比，又有一副册称为金陵十二钗之副册，还有又一副册称为金陵十二钗之又副册。",
+      "en": "Regarding Dream of the Red Chamber: First it must be said that this book bears many titles. One is 'Dream of the Red Chamber,' which encompasses the entire work; another is 'Mirror of Romance,' which warns against recklessly indulging in romantic passions; yet another is 'The Story of the Stone,' which records the events as witnessed by the Stone itself. These three names are all mentioned within the book. There is also 'The Twelve Beauties of Jinling,' which represents the central theme of Dream of the Red Chamber. For instance, when Baoyu dreams and encounters someone holding a mirror inscribed with the four characters 'Mirror of Romance,' this is the key to understanding 'Mirror of Romance.' Similarly, when the Taoist priest and Buddhist monk see the stone inscribed with a lengthy narrative, this is the essence of 'The Story of the Stone.' Yet this book is also called 'The Twelve Beauties of Jinling,' and examining this title, it must concern twelve women of Jinling. Indeed, the very first chapter mentions 'The Principal Register of the Twelve Beauties of Jinling,' suggesting that no other women in the world can compare with these twelve. There is also 'A Supplementary Register of the Twelve Beauties of Jinling,' and yet another 'Second Supplementary Register of the Twelve Beauties of Jinling.'",
+      "ru": "О «Сне в красном тереме»: Прежде всего следует сказать, что эта книга носит множество названий. Одно — «Сон в красном тереме», охватывающее все произведение; другое — «Зеркало романтики», предостерегающее от безрассудного потакания романтическим страстям; еще одно — «Записки о камне», записывающее события, свидетелем которых был сам Камень. Все три имени упомянуты в самой книге. Есть также «Двенадцать красавиц Цзиньлина», что представляет центральную тему «Сна в красном тереме». Например, когда Баоюй видит сон и встречает кого-то, держащего зеркало с надписью из четырех иероглифов «Зеркало романтики», это ключ к пониманию «Зеркала романтики». Аналогично, когда даосский жрец и буддийский монах видят камень с надписью из длинного повествования, это суть «Записок о камне». Однако эта книга также называется «Двенадцать красавиц Цзиньлина», и, рассматривая это название, она должна касаться двенадцати женщин из Цзиньлина. Действительно, в самой первой главе упоминается «Главный реестр двенадцати красавиц Цзиньлина», что предполагает, что никакие другие женщины в мире не могут сравниться с этими двенадцатью. Есть также «Дополнительный реестр двенадцати красавиц Цзиньлина» и еще один «Второй дополнительный реестр двенадцати красавиц Цзиньлина».",
+      "ja": "『紅楼夢』について：まず言わねばならないのは、この書は極めて多くの題名を持つということである。一つは『紅楼夢』で、全作品を包括する名称である。もう一つは『風月宝鑑』で、むやみに風月の情に動かされることを戒めるものである。さらに『石頭記』があり、石頭が記録した出来事を自ら述べるものである。この三つの名前はすべて書中で言及されている。また『金陵十二釵』という名もあり、これは『紅楼夢』の核心を表している。例えば、宝玉が夢を見て、「風月宝鑑」という四文字が刻まれた鏡を持つ人に出会う場面は、『風月宝鑑』の要諦である。同様に、道士と僧侶が石に長い物語が刻まれているのを見る場面は、『石頭記』の本質である。しかしこの書はまた『金陵十二釵』とも呼ばれ、その名を検討すれば、金陵の十二人の女性に関するものであることがわかる。実際、第一回で「金陵十二釵正冊」に言及されており、天下のすべての女性もこの十二人には及ばないことを示唆している。また「金陵十二釵副冊」、さらに「金陵十二釵又副冊」もある。",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "凡例 (fanli) refers to editorial principles or explanatory notes that precede classical Chinese texts, explaining the book's organization and interpretive approach",
+    "《红楼梦》has multiple titles reflecting different thematic emphases: 'Dream of the Red Chamber' (the complete work), 'Mirror of Romance' (cautionary aspect), 'The Story of the Stone' (narrative framing device), and 'The Twelve Beauties of Jinling' (central theme)",
+    "金陵 (Jinling) is the ancient name for Nanjing, symbolizing the aristocratic world of the novel",
+    "The 'registers' (正册, 副册, 又副册) represent a hierarchical classification of female characters, reflecting both social status and narrative importance",
+    "This opening section establishes the meta-fictional framework of the novel, where the narrative is presented as discovered text inscribed on a stone"
+  ],
+  "research_notes": [
+    "Consulted scholarly discussions of the novel's multiple titles and their significance",
+    "Reviewed traditional understanding of the 'Twelve Beauties' classification system",
+    "Noted that this 凡例 section provides essential interpretive guidance for understanding the novel's complex structure"
+  ],
+  "characters_appearing": ["贾宝玉"],
+  "total_segments": 1,
+  "manuscript_sources_on_page": []
+}
