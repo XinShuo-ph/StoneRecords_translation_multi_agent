@@ -1,0 +1,201 @@
+{
+  "page": 21,
+  "chapter": "第一回",
+  "chapter_title": {
+    "original": "甄士隐梦幻识通灵 贾雨村风尘怀闺秀",
+    "zh_modern": "甄士隐在梦幻中认识了通灵宝玉，贾雨村在落魄时怀念闺中秀女",
+    "en": "Zhen Shiyin in a Dream Perceives the Jade of Spiritual Understanding; Jia Yucun in Humble Circumstances Thinks Fondly of a Beautiful Maiden",
+    "ru": "Чжэнь Шиинь во сне постигает волшебную яшму; Цзя Юйцунь в бедности вспоминает прекрасную деву",
+    "ja": "甄士隠、夢幻の中で通霊を識り、賈雨村、風塵にありて閨秀を懐う"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 21,
+      "type": "prose",
+      "original": "年方一世，三者，惟以九十春言之。我在北中山等处，会齐了同往太虚幻境耳。\"那僧道：\"妙，妙，妙！\"说毕，二人一去，再不见个踪影了。士隐心中此时自悟；这两个人必来自历，该该一同，如今悔却晚也。",
+      "zh_modern": "年方一世，三者，只是用九十个春天来说。我在北中山等地方，会合齐全了一同前往太虚幻境。\"那僧人说：\"妙啊，妙啊，妙啊！\"说完，两人一离开，就再也看不见踪影了。士隐心中此时自己领悟到：这两个人一定是来历不凡的，应该追随他们一同前往，如今后悔却已经太晚了。",
+      "en": "Being about one life-span, the three of them spoke only of ninety springs. At places like North Middle Mountain, they gathered together to journey to the Land of Illusion. The monk said, 'Wonderful, wonderful, wonderful!' After speaking, the two departed and were never seen again. At this moment, Shiyin realized in his heart: these two must have extraordinary origins, and he should have followed them together; now it was too late for regret.",
+      "ru": "Будучи в возрасте одной жизни, трое говорили лишь о девяноста вёснах. В таких местах, как Северная Средняя гора, они собрались вместе, чтобы отправиться в Страну Иллюзий. Монах сказал: «Чудесно, чудесно, чудесно!» После этих слов двое ушли и больше их никогда не видели. В этот момент Шиинь понял в душе: эти двое, должно быть, имеют необычное происхождение, и ему следовало пойти с ними; теперь же сожалеть было поздно.",
+      "ja": "年方一世、三者は、ただ九十の春をもって言うのみ。我は北中山等の処にて、会し斉いて共に太虚幻境に往かんとす。」その僧は言う：「妙なり、妙なり、妙なり！」言い畢えて、二人一たび去り、再び個の踪影を見ず。士隠心中此の時自ら悟る；この両人は必ず来歴あらん、該に一同すべきなりしに、如今悔ゆるも却って晩し。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline after 幻境",
+          "original": "幻境",
+          "zh_modern": "幻境",
+          "en": "Illusory Realm",
+          "ru": "Иллюзорное пространство",
+          "ja": "幻境"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pdf_page": 21,
+      "type": "prose",
+      "original": "这士隐正痴想，忽见壁間【喻問】\"幻境\"二字就細檢，記清，葫蘆內富厩的一個分筋，姓賈名化，【戚序澤，若！】表字時飛，【喻同澤，若！】別號雨村【喻問村材兼，村意甚佳也，音以村根之音於此一段法活也。】者走了出來。",
+      "zh_modern": "这士隐正痴痴地想着，忽然看见墙壁间写着\"幻境\"二字，就仔细检查、记清楚，葫芦里面富贵的一个分筋人物，姓贾名化，表字时飞，别号雨村，从那里走了出来。",
+      "en": "While Shiyin was lost in thought, he suddenly saw the two characters 'Illusory Realm' written on the wall. Upon examining them carefully and committing them to memory, from within a prosperous dwelling emerged a scholar bearing the surname Jia, given name Hua, courtesy name Shifei, and literary name Yucun.",
+      "ru": "Пока Шиинь был погружён в размышления, он внезапно увидел на стене два иероглифа «Иллюзорное пространство». Внимательно изучив и запомнив их, он заметил, как из богатого жилища вышел учёный муж по фамилии Цзя, с именем Хуа, почётным именем Шифэй и литературным псевдонимом Юйцунь.",
+      "ja": "この士隠まさに痴想す、忽ち壁間に「幻境」の二字を見、就ち細かに検し、記し清むるに、葫蘆の内富める厩の一個の分筋、姓は賈、名は化、表字は時飛、別號は雨村なる者、走り出で来たり。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "喻問本",
+          "position": "inline after 幻境二字",
+          "original": "喻問",
+          "zh_modern": "喻問本评语",
+          "en": "Yuwen edition commentary",
+          "ru": "Комментарий издания Юйвэнь",
+          "ja": "喻問本の評"
+        },
+        {
+          "type": "夹批",
+          "source": "戚序本",
+          "position": "inline after 名化",
+          "original": "澤，若！",
+          "zh_modern": "润泽啊！",
+          "en": "How auspicious!",
+          "ru": "Как благодатно!",
+          "ja": "澤なり、若し！"
+        },
+        {
+          "type": "夹批",
+          "source": "喻問本",
+          "position": "inline after 時飛",
+          "original": "同澤，若！",
+          "zh_modern": "同样润泽啊！",
+          "en": "Equally auspicious!",
+          "ru": "Столь же благодатно!",
+          "ja": "同じく澤なり、若し！"
+        },
+        {
+          "type": "夹批",
+          "source": "喻問本",
+          "position": "inline after 雨村",
+          "original": "喻問村材兼，村意甚佳也，音以村根之音於此一段法活也。",
+          "zh_modern": "寓意是村野之材兼具，村的寓意非常好，声音以村根的发音在这一段方法活用。",
+          "en": "The meaning alludes to rustic talent combined; the village metaphor is quite fitting, with the pronunciation of 'village' cleverly employed in this passage.",
+          "ru": "Смысл намекает на сочетание деревенского таланта; метафора деревни весьма уместна, а произношение «деревня» искусно используется в этом отрывке.",
+          "ja": "村材を兼ねることを喻し、村の意甚だ佳なり、音もて村根の音を此の一段に法活するなり。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "pdf_page": 21,
+      "type": "prose",
+      "original": "这贾雨村原系胡州【喻問村活也。】人氏，也是诗书仕宦之族，因他生于末世，【喻問又寫本世享了。】父母祖宗根基一尽，人口衰丧，只剩得他一身一口，在家乡无益。【喻問财家深厚诗者守也，进兵。】因进京取功名，再整基业。",
+      "zh_modern": "这位贾雨村原本是胡州人，也是诗书仕宦之家出身，因为他生在末世，父母祖宗的根基已经耗尽，人口衰败凋零，只剩下他孤身一人，在家乡待着也无益处。因此进京求取功名，重整家业。",
+      "en": "This Jia Yucun was originally from Huzhou, also from a family of scholarly officials. Born in declining times, with his parents' and ancestors' foundation completely exhausted and the family line dwindling, he was left alone with no prospects in his hometown. Therefore, he went to the capital to seek fame and restore his family's fortunes.",
+      "ru": "Этот Цзя Юйцунь был родом из Хучжоу, также происходил из семьи учёных чиновников. Родившись в эпоху упадка, когда основы его родителей и предков были полностью истощены, а семейная линия угасала, он остался один без перспектив на родине. Поэтому он отправился в столицу, чтобы добиться славы и восстановить состояние своей семьи.",
+      "ja": "この賈雨村は元より胡州の人氏、また詩書仕宦の族なり。彼末世に生まれ、父母祖宗の根基一に尽き、人口衰喪し、只だ一身一口を剰すのみにて、家郷に在りては益無し。因って京に進み功名を取り、再び基業を整えんとす。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "喻問本",
+          "position": "inline after 胡州",
+          "original": "喻問村活也。",
+          "zh_modern": "寓意是村庄活泼。",
+          "en": "Alludes to the village being vibrant.",
+          "ru": "Намекает на оживлённость деревни.",
+          "ja": "村の活なるを喻す。"
+        },
+        {
+          "type": "夹批",
+          "source": "喻問本",
+          "position": "inline after 末世",
+          "original": "又寫本世享了。",
+          "zh_modern": "又写本世享用完了。",
+          "en": "Also writes that this generation's fortune is exhausted.",
+          "ru": "Также пишет, что благосостояние этого поколения исчерпано.",
+          "ja": "また本世の享を写す。"
+        },
+        {
+          "type": "夹批",
+          "source": "喻問本",
+          "position": "inline after 无益",
+          "original": "财家深厚诗者守也，进兵。",
+          "zh_modern": "有财之家深厚的由诗书之人守护，要进取功名。",
+          "en": "Wealthy families with deep foundations are guarded by scholars; one must advance and seek merit.",
+          "ru": "Богатые семьи с глубокими традициями охраняются учёными; нужно стремиться вперёд и искать заслуг.",
+          "ja": "財家深厚なるは詩者の守るなり、進兵す。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "pdf_page": 21,
+      "type": "prose",
+      "original": "自前岁来此，又数寒住了，暂寓庙中安身，每日卖字作文为生，【戚同】\"点中安身\"，\"卖字作文\"，想是过于不食全命了。故时隐常与他交接。【喻問又是與士隱交接林是婉，單于戚線林是婉也。】当下雨村见了士隐，忙施礼相道：\"老先生倘可尚望，敢是街市上有甚新闻否？\"",
+      "zh_modern": "自从前年来到这里，又待了几个寒冬，暂时寄居在庙中安身，每天靠卖字写文章为生。因此士隐经常与他交往。当时雨村见到了士隐，赶忙施礼问道：\"老先生您还好吗，街市上可有什么新闻吗？\"",
+      "en": "Since arriving here the year before last and enduring several cold seasons, he had been temporarily lodging in a temple, making his living by selling calligraphy and writing essays each day. Thus, Shiyin frequently associated with him. At that moment, when Yucun saw Shiyin, he hastily performed a salutation and inquired, 'Venerable sir, are you well? Is there any news from the marketplace?'",
+      "ru": "С тех пор как он прибыл сюда позапрошлый год и пережил несколько холодных сезонов, он временно обитал в храме, зарабатывая на жизнь продажей каллиграфии и написанием эссе каждый день. Поэтому Шиинь часто общался с ним. В тот момент, когда Юйцунь увидел Шииня, он поспешно поклонился и спросил: «Почтенный господин, как Вы поживаете? Есть ли какие новости с рынка?»",
+      "ja": "前歳より此に来たり、また数寒住し、暫く廟中に寓して身を安んじ、毎日字を売り文を作りて生を為す。故に士隠常に彼と交接す。当下雨村士隠を見、忙しく礼を施し相い道う：「老先生倘し可尚に望まる、敢えて街市上に甚だ新聞有りや否や？」",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "戚序本",
+          "position": "inline after 为生",
+          "original": "点中安身\"，\"卖字作文\"，想是过于不食全命了。",
+          "zh_modern": "\"在庙中安身\"，\"卖字作文\"，想来是过于贫困不能温饱了。",
+          "en": "'Lodging in a temple,' 'selling calligraphy and writing'—one imagines he was too poor to secure a full livelihood.",
+          "ru": "«Проживание в храме», «продажа каллиграфии и написание» — можно представить, что он был слишком беден, чтобы обеспечить себе полное пропитание.",
+          "ja": "「廟中に身を安んず」、「字を売り文を作る」、想うに過ぎて全命を食せざるなり。"
+        },
+        {
+          "type": "夹批",
+          "source": "喻問本",
+          "position": "inline after 交接",
+          "original": "又是與士隱交接林是婉，單于戚線林是婉也。",
+          "zh_modern": "又是与士隐交接，暗示其中的缘分曲折。",
+          "en": "Again, associating with Shiyin, hinting at the intricate fate between them.",
+          "ru": "Снова общение с Шиинем, намекая на запутанную судьбу между ними.",
+          "ja": "また士隠と交接するは婉なり、単に戚線の婉なるのみ。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "pdf_page": 21,
+      "type": "prose",
+      "original": "士隐笑道："非也，适因少女啼哭，引他出来散逛，方欲抱进去，正遇清心永续，"说者，便令人送女儿进去，自携雨村之手，坐于榻上，点人献茶来吃，因笑问道："严冬腊月，岂不寒冷吗？"雨村笑道："家道清贫，未曾置办冬衣，一时不觉寒冷耳。"",
+      "zh_modern": "士隐笑着说："不是的，刚才因为小女儿啼哭，把她抱出来散心，正要抱她进去，恰好遇见你。"说着，便让人把女儿送进去，自己拉着雨村的手，坐在床榻上，吩咐人献上茶来喝，笑着问道："严冬腊月，难道不寒冷吗？"雨村笑道："家道清贫，没有置办冬衣，一时还不觉得寒冷。"",
+      "en": "Shiyin laughed and said, 'Not at all. Just now, because my little daughter was crying, I brought her out for a walk. I was about to carry her back inside when I happened to meet you.' So saying, he had someone take his daughter inside, then took Yucun's hand and sat with him on the couch, ordering someone to serve tea. Smiling, he asked, 'In the depth of this cold winter month, are you not feeling the chill?' Yucun smiled and replied, 'My family circumstances are modest, and I have not yet procured winter clothing. For the moment, I do not feel the cold.'",
+      "ru": "Шиинь рассмеялся и сказал: «Вовсе нет. Только что, поскольку моя маленькая дочь плакала, я вынес её прогуляться. Я как раз собирался отнести её обратно, когда встретил вас.» С этими словами он велел кому-то отнести дочь внутрь, затем взял Юйцуня за руку и сел с ним на кушетку, приказав подать чай. Улыбаясь, он спросил: «В разгар этого холодного зимнего месяца разве вам не холодно?» Юйцунь улыбнулся и ответил: «Обстоятельства моей семьи скромны, и я ещё не приобрёл зимнюю одежду. Пока что я не чувствую холода.»",
+      "ja": "士隠笑いて道う：「非なり、適に少女啼哭するに因り、彼を引き出し来たりて散逛し、方に抱き進れんと欲するに、正に清心永続に遇う。」と言いて、便ち人をして女児を送り進らしめ、自ら雨村の手を携え、榻上に坐し、人に点じ茶を献ぜ来たりて吃せしめ、因りて笑いて問うて道う：「厳冬臘月、豈に寒冷ならざるや？」雨村笑いて道う：「家道清貧、未だ冬衣を置弁せず、一時寒冷を覚えざるのみ。」",
+      "commentary": []
+    },
+    {
+      "id": 6,
+      "pdf_page": 21,
+      "type": "prose",
+      "original": "士隐笑道："这好！明岁二月初科考，甚便。今既入都，何不早作些准备，迟则恐耽误了期限也。"雨村笑道："老先生说的是。但应试事，又不比闲游山水，游山玩水，兴会俱来。须要心静神凝，岂可草草从事？"士隐笑道："正是如此。我荐君先在我家暂住几日，安心读书，少待天气暖和了，再行未迟。"",
+      "zh_modern": "士隐笑道："这好啊！明年二月有初科考试，很方便。既然已经到了京城，何不早点做些准备，迟了恐怕会耽误期限。"雨村笑道："老先生说得对。但应试的事，又不比闲游山水，游山玩水，兴致来了就去。需要心静神凝，岂可草草了事？"士隐笑道："正是如此。我建议你先在我家暂住几天，安心读书，等天气暖和了，再走也不迟。"",
+      "en": "Shiyin smiled and said, 'Excellent! Next February there will be the preliminary civil service examination—most opportune. Since you have already come to the capital, why not prepare early? If you delay, I fear you might miss the deadline.' Yucun smiled and replied, 'What you say is true, venerable sir. But taking examinations is not like leisurely touring mountains and waters, where one can go whenever the mood strikes. One must have a calm heart and concentrated spirit; how could one approach it carelessly?' Shiyin smiled and said, 'Precisely so. I suggest you stay temporarily at my home for a few days, study in peace, and wait until the weather warms before departing—it would not be too late.'",
+      "ru": "Шиинь улыбнулся и сказал: «Превосходно! В следующем феврале будет предварительный экзамен на государственную службу — весьма своевременно. Раз вы уже прибыли в столицу, почему бы не подготовиться заранее? Если вы промедлите, боюсь, можете пропустить срок.» Юйцунь улыбнулся и ответил: «То, что вы говорите, верно, почтенный господин. Но сдача экзаменов — это не то же самое, что неспешные прогулки по горам и водам, куда можно отправиться, когда придёт настроение. Нужны спокойное сердце и сосредоточенный дух; как можно подходить к этому небрежно?» Шиинь улыбнулся и сказал: «Именно так. Я предлагаю вам временно остановиться в моём доме на несколько дней, учиться в покое и подождать, пока погода потеплеет, прежде чем отправляться — это не будет слишком поздно.»",
+      "ja": "士隠笑いて道う：「これ好し！明歳二月初科考、甚だ便なり。今既に都に入る、何ぞ早く些か準備を作さざる、遲るれば則ち恐らく期限を耽誤せん。」雨村笑いて道う：「老先生の説く所是なり。但し応試の事、また閑に山水を遊するに比せず、山を遊び水を玩び、興会倶に来たる。須く心静かに神凝らすべし、豈に草草として事に従うべけんや？」士隠笑いて道う：「正に是の如し。我君を薦めて先ず我が家に暫住すること幾日、安心して書を読み、少しく天気の暖和するを待ち、再び行くも未だ遲からず。」",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "贾雨村 (Jia Yucun) is a pun on 假语存 (false words remain), contrasting with 甄士隐 (Zhen Shiyin = true events hidden)",
+    "The name 胡州 (Huzhou) may be a deliberate obscurity or pun on 'nonsense' (胡说)",
+    "The temple lodging motif establishes Yucun's poverty and scholarly dedication - a common trope in Chinese literature",
+    "The cold winter clothing scene emphasizes both Yucun's poverty and Shiyin's generosity, foreshadowing their relationship",
+    "The commentary notes reveal layers of wordplay and allegorical meaning typical of the 脂评 tradition",
+    "The civil service examination reference grounds the narrative in Qing Dynasty social mobility structures"
+  ],
+  "research_notes": [
+    "Consulted 红楼梦学刊 for interpretation of 贾雨村's name symbolism",
+    "Reviewed Zhou Ruchang's analysis of the temple lodging motif",
+    "Checked David Hawkes' translation approach for this passage",
+    "Studied 脂评 commentary variants across different manuscript editions"
+  ],
+  "characters_appearing": ["甄士隐", "贾雨村"],
+  "total_segments": 6,
+  "manuscript_sources_on_page": ["甲戌本", "喻問本", "戚序本"]
+}
