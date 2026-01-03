@@ -1,0 +1,76 @@
+{
+  "page": 62,
+  "chapter": "第四回",
+  "chapter_title": {
+    "original": "薄命女偏逢薄命郎 葫芦僧乱判葫芦案",
+    "zh_modern": "薄命女偏逢薄命郎，葫芦僧胡乱判断葫芦案",
+    "en": "The Ill-Fated Girl by Chance Meets an Ill-Fated Man; The Monk from the Gourd Temple Judgmentally Settles the Gourd Case",
+    "ru": "Несчастная дева встречает несчастного юношу; Монах из тыквы судит дело о тыкве",
+    "ja": "薄命の女は偏（ひとえ）に薄命の郎（おとこ）に逢い、葫芦（ころ）の僧は乱りに葫芦の案を判ず"
+  },
+  "page_content_type": "prose",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 62,
+      "type": "prose",
+      "original": "雨村道：“这一张纸有何用处？”门子道：“老爷这官做得好不明白！如今世上，凡做地方官的，都有一个私单，上面写的是本省最有权有势、极富极贵的大乡绅名姓，各省皆然。",
+      "zh_modern": "雨村道：“这一张纸有什么用处？”门子道：“老爷这官做得真是不明白！如今世上，凡是做地方官的，都有一个私单，上面写的是本省最有权有势、极其富贵的大乡绅的名姓，各省都是这样。",
+      "en": "Yucun asked, \"What is the use of this paper?\" The attendant replied, \"Your Honor is truly clueless about being an official! Nowadays, every local official has a private list containing the names of the most powerful, influential, and wealthy gentry in the province; it is the same in every province.\"",
+      "ru": "Юйцунь спросил: «Какая польза от этой бумаги?» Привратник ответил: «Господин, вы действительно не понимаете, как быть чиновником! В наши дни у каждого местного чиновника есть тайный список с именами самых могущественных и богатых помещиков провинции; так заведено везде.",
+      "ja": "雨村は言った。「この一枚の紙は何の用処か？」門子は言った。「旦那様はこの官を為すこと好（はなは）だ不明白なり！ 如今（いま）の世上、凡そ地方官を為す者は、都（すべ）て一個の私単有り。上面に書くのは本省の最も権有り勢い有る、極富極貴の大郷紳の名姓にして、各省皆然り。"
+    },
+    {
+      "id": 2,
+      "pdf_page": 62,
+      "type": "prose",
+      "original": "倘若不知，一时触犯了这样的人家，不但官爵不保，只怕性命也难保呢！所以这叫做‘护官符’。方才所奏的这件人命官司，受害的主儿，就是这‘护官符’上‘雪’字号里的。这打死人的，就是那‘丰年好大雪’的薛家公子。”",
+      "zh_modern": "倘若不知道，一时触犯了这样的人家，不但官职保不住，只怕性命也难保呢！所以这叫做‘护官符’。刚才所呈报的这件人命官司，受害的一方，就是这‘护官符’上‘雪’字号里的。这打死人的，就是那‘丰年好大雪’的薛家公子。”",
+      "en": "If one does not know this and inadvertently offends such families, not only will one's official post be lost, but one's life may also be in danger! Therefore, this is called the 'Protective Talisman.' The homicide case just reported involves a victim from the 'Snow' (Xue) category on this 'Protective Talisman.' The one who beat the man to death is the young master of the Xue family, mentioned in 'A heavy snow in a year of plenty.'\"",
+      "ru": "Если не знать этого и случайно обидеть такую семью, то можно потерять не только должность, но и жизнь! Поэтому это и называется \"Охранная грамота\". В деле об убийстве, о котором только что доложили, пострадавший относится к категории \"Снег\" (Сюэ) из этой \"Охранной грамоты\". Убийца — молодой господин из семьи Сюэ, о котором сказано: \"В урожайный год обильный снег\"».",
+      "ja": "倘（も）し知らずして、一時（あるとき）此（かく）の如き人家に触犯せば、但（た）だ官爵を保たざるのみならず、只だ恐らくは性命もまた保ち難からん！ 所以（ゆえ）にこれを『護官符』と喚（よ）ぶなり。方才（いましがた）奏する所のこの件の人命官司、受害の主（ぬし）は、即ちこの『護官符』上の『雪』の字号の裏（うち）なり。この人を打ち死せしめしは、即ちあの『豊年好（よ）き大雪』の薛家の公子なり。」"
+    }
+  ],
+  "commentary": [
+    {
+      "type": "interlinear",
+      "source": "Zhiping",
+      "original": "各省皆然（甲戌侧批：四字道尽官场秘诀。）",
+      "translation_en": "(Jiaxu Side Note: These four words exhaustively describe the secrets of officialdom.)",
+      "position": "segment_1"
+    },
+    {
+      "type": "interlinear",
+      "source": "Zhiping",
+      "original": "所以这叫做‘护官符’（甲戌侧批：三字可为官场定名。）",
+      "translation_en": "(Jiaxu Side Note: These three characters can serve as the definitive name for officialdom.)",
+      "position": "segment_2"
+    }
+  ],
+  "translator_notes": [
+    {
+      "original_term": "私单",
+      "english_translation": "Private List / Private Note",
+      "explanation": "An unofficial list kept by officials for their own reference, often containing sensitive information about powerful local figures."
+    },
+    {
+      "original_term": "雪字号",
+      "english_translation": "'Snow' (Xue) category",
+      "explanation": "A pun on the surname Xue (薛) which sounds like Snow (雪). The 'Protective Talisman' uses 'Heavy Snow' to represent the Xue family."
+    }
+  ],
+  "research_notes": [
+    {
+      "topic": "The Realism of the 'Protective Talisman'",
+      "content": "The 'Protective Talisman' is widely regarded as a realistic critique of the Qing dynasty's political environment, where power networks often superseded the legal system."
+    }
+  ],
+  "characters_appearing": [
+    "Jia Yucun (贾雨村)",
+    "The Attendant (门子)"
+  ],
+  "manuscript_sources_on_page": [
+    "Jiaxu (甲戌本)",
+    "Gengchen (庚辰本)"
+  ]
+}
