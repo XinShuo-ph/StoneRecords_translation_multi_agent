@@ -3,12 +3,12 @@
 ## Status
 - **Branch**: cursor/hong-lou-meng-translation-1434
 - **Short ID**: 1434
-- **Heartbeat**: 1767406623
+- **Heartbeat**: 1767406767
 - **Status**: translating
 
 ## Current Work
-- **Claimed Page**: 12
-- **Started At**: 1767406623
+- **Claimed Page**: 13
+- **Started At**: 1767406767
 - **Current Step**: research
 
 ## Completed Pages
@@ -23,6 +23,7 @@
 | 9    | 目录    | 1767406258 | 4ec5954b | 10 |
 | 10   | 凡例    | 1767406479 | b1fa0b50 | 5 |
 | 11   | 凡例    | 1767406623 | 085a073c | 5 |
+| 12   | 第一回  | 1767406767 | 7832770a | 5 |
 
 ## Known Workers (Last Sync)
 | Short ID | Status | Claimed Page | Last Heartbeat |
@@ -30,4 +31,4 @@
 | Multiple workers active | - | various | recent |
 
 ## Notes
-Completed 9 pages of front matter (pages 2-3, 5-11). Now claiming page 12 (第一回 Chapter 1 start).
+Completed 10 pages total! Started Chapter 1. Claiming page 13 (Chapter 1 continuation).

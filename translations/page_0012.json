@@ -1,0 +1,131 @@
+{
+  "page": 12,
+  "chapter": "第一回",
+  "chapter_title": {
+    "original": "甄士隐梦幻识通灵　贾雨村风尘怀闺秀",
+    "zh_modern": "甄士隐在梦幻中认识了通灵宝玉，贾雨村在落魄中怀念闺中秀女",
+    "en": "Zhen Shiyin in a Dream Perceives the Jade of Spiritual Understanding; Jia Yucun in Hard Times Thinks Fondly of a Beautiful Maiden",
+    "ru": "Чжэнь Шиинь во сне познаёт Волшебную яшму; Цзя Юйцунь в невзгодах вспоминает прекрасную деву",
+    "ja": "甄士隠、夢幻の中で通霊を識り、賈雨村、風塵にありて閨秀を懐う"
+  },
+  "page_content_type": "chapter_start",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "此开卷第一回也。作者自云：因曾历过一番梦幻之后，故将真事隐去，而借通灵之说，撰此《石头记》一书也，故曰「甄士隐」云云。但书中所记何事何人？自又云：「今风尘碌碌，一事无成，忽念及当日所有之女子，一一细考较去，觉其行止见识皆出于我之上。何我堂堂须眉，诚不若此裙钗哉？」",
+      "zh_modern": "这是开篇的第一回。作者自己说：因为曾经历过一番梦幻般的往事之后，所以将真实的事情隐藏起来，而借用通灵宝玉的传说，撰写了这部《石头记》，所以说「甄士隐」云云。但书中记录的是什么事情、什么人呢？作者又说：「如今风尘仆仆、碌碌无为，一事无成，忽然想起当年所认识的那些女子，一一仔细考量过去，觉得她们的行为举止和见识都在我之上。为什么我堂堂男子汉，竟然真的比不上这些女子呢？」",
+      "en": "This is the first chapter of the opening. The author himself says: Having once passed through a dreamlike experience, he concealed the true events and, borrowing the tale of the Jade of Spiritual Understanding, composed this book called Story of the Stone. Hence the name 'Zhen Shiyin' and so forth. But what events and persons does the book record? The author continues: 'Now, drifting in the dusty world, busy with nothing, having achieved nothing, I suddenly thought of all the women I knew in those days. Examining each one carefully, I found that their conduct and insight all surpassed my own. How is it that I, a dignified man, am truly inferior to these women?'",
+      "ru": "Это первая глава начала. Автор сам говорит: Пережив некогда подобие сновидения, он скрыл истинные события и, позаимствовав легенду о Яшме духовного понимания, написал эту книгу под названием «Записки о камне». Отсюда имя «Чжэнь Шиинь» и так далее. Но какие события и лица записывает книга? Автор продолжает: «Ныне, скитаясь в пыльном мире, занятый пустяками, ничего не достигнув, я вдруг вспомнил всех женщин, которых знал в те дни. Тщательно изучая каждую, я обнаружил, что их поведение и проницательность превосходили мои собственные. Как же так, что я, достойный мужчина, воистину уступаю этим женщинам?'",
+      "ja": "これが開巻の第一回である。作者自ら言う：かつて夢幻のような経験を経た後、真実の出来事を隠し、通霊の説を借りて、この『石頭記』一書を著した。故に「甄士隠」云々と言うのである。しかし書中に記すは何事何人ぞ？作者また言う：「今風塵碌々として一事成すこと無く、忽ち当日の所有の女子を念い、一一細かに考較し去りて、その行止見識皆我の上に出づるを覚ゆ。何ぞ我堂々たる須眉、誠にこの裙釵に若かざらんや？」",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 何不通灵",
+          "original": "何不通灵？作者托言，原当有自。受气清浊，本无男女之别。",
+          "zh_modern": "为什么不通灵？作者托词有其原因。接受气息的清浊，本来就没有男女的分别。",
+          "en": "Why not spiritually understanding? The author's pretense has its reasons. In receiving the essence of clear and turbid qi, there is originally no distinction between male and female.",
+          "ru": "Почему не духовно понимающий? Притворство автора имеет свои причины. В получении ясной и мутной ци изначально нет различия между мужчиной и женщиной.",
+          "ja": "何ぞ通霊ならざる？作者の托言、原より当に自ら有るべし。気の清濁を受くること、本より男女の別無し。"
+        },
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline, after 编述一集",
+          "original": "明告看者。",
+          "zh_modern": "明确地告诉读者。",
+          "en": "Clearly telling the reader.",
+          "ru": "Ясно говоря читателю.",
+          "ja": "明らかに看者に告ぐ。"
+        },
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline, after 一并使其泯灭也",
+          "original": "因为传他，并可传我。",
+          "zh_modern": "因为传述她们，同时也可以传述我。",
+          "en": "By recording them, I too can be recorded.",
+          "ru": "Записывая их, я тоже могу быть записан.",
+          "ja": "彼を伝えんが為に、併せて我を伝うべし。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "实愧则有余，悔又无益之大无可如何之日也！当此，则自欲将已往所赖天恩祖德，锦衣纨绔之时，饫甘餍肥之日，背父兄教育之恩，负师友规谈之德，以至今日一技无成、半生潦倒之罪，编述一集，以告天下人：我之罪固不免，然闺阁中本自历历有人，万不可因我之不肖，自护己短，一并使其泯灭也。虽今日之茅椽蓬牖，瓦灶绳床，其晨夕风露，阶柳庭花，亦未有妨我之襟怀笔墨者。虽我未学，下笔无文，又何妨用假语村言敷演出一段故事来？亦可使闺阁昭传，复可悦世之目，破人愁闷，不亦宜乎？」故曰「贾雨村」云云。",
+      "zh_modern": "实在是惭愧有余，后悔也无益的大无可奈何之日啊！在这个时候，就想要将过去所依赖的天恩祖德，在锦衣玉食的时候，在饱食美味的日子里，却辜负了父兄教育的恩情，违背了师友规劝的德行，以至于今天一技无成、半生潦倒的罪过，编写成一集，用来告诉天下人：我的罪过固然不能免除，但是闺阁中本来就有许多值得记录的人物，万万不可因为我的不肖，为了自护短处，就一并使她们被埋没了。虽然如今住的是茅椽蓬窗、瓦灶绳床，但是清晨傍晚的风露、阶前柳树、庭中花朵，也并没有妨碍我的襟怀和笔墨。虽然我没有学问，下笔没有文采，又何妨用通俗的假话村言敷演出一段故事来呢？也可以使闺阁中的人得以昭传，又可以愉悦世人的眼目，打破人们的愁闷，不是很合适吗？」所以说「贾雨村」云云。",
+      "en": "'Indeed, shame is in excess, and regret is useless - these are days of utter helplessness! At this time, I wish to take all that I once relied upon - Heaven's grace and ancestral virtue, the days of brocade and silk, the times of rich food and fine meat - yet I betrayed the kindness of my father and brothers' education, violated the virtue of teachers and friends' guidance, leading to today's complete failure and half a lifetime of destitution. I compile this collection to tell the world: My sins cannot be absolved, but the women's quarters do contain many worthy of record. I must not, in shielding my own shortcomings, allow them all to be forgotten. Though today I dwell in thatched rafters and rush windows, earthen stoves and rope beds, the morning and evening breezes, the willows by steps and flowers in the courtyard have not hindered my spirit or brush. Though I am unlearned, my writing lacks elegance, why not use plain village words to spin out a story? It can transmit the glory of the women's quarters, delight the world's eyes, and break through people's melancholy - is this not fitting?' Hence the name 'Jia Yucun' and so forth.",
+      "ru": "«Действительно, стыда в избытке, а сожаление бесполезно — это дни полной беспомощности! В это время я хочу взять всё, на что когда-то полагался — небесную милость и добродетель предков, дни парчи и шёлка, времена богатой пищи и тонкого мяса — но я предал доброту воспитания отца и братьев, нарушил добродетель наставлений учителей и друзей, приведя к сегодняшнему полному провалу и полужизни в нищете. Я составляю эту коллекцию, чтобы сказать миру: Мои грехи не могут быть прощены, но женские покои содержат многих, достойных записи. Я не должен, защищая свои недостатки, позволить всем им быть забытыми. Хотя сегодня я живу в соломенных стропилах и камышовых окнах, утренний и вечерний ветерок, ивы у ступеней и цветы во дворе не помешали моему духу или кисти. Хотя я необучен, моё письмо лишено изящества, почему бы не использовать простые деревенские слова, чтобы создать историю?' Отсюда имя «Цзя Юйцунь» и так далее.",
+      "ja": "「実に愧ずること則ち余りあり、悔ゆること則ち益無きの大いに如何ともすべからざるの日なり！此に当たり、則ち自ら已往の頼りし天恩祖徳、錦衣紈袴の時、饫甘餍肥の日、父兄の教育の恩に背き、師友の規談の徳に負い、以て今日の一技無成、半生潦倒の罪に至るを、一集に編述し、以て天下の人に告げんとす：我が罪固より免れず、然れども閨閣中本より歴々として人有り、万々我の不肖に因りて、自ら己の短を護り、一併に其れをして泯滅せしむべからず。今日の茅椽蓬牖、瓦灶縄床と雖も、其の晨夕の風露、階柳庭花、亦た未だ我が襟懐筆墨を妨ぐこと有らず。我未だ学ばずと雖も、筆を下すに文無し、又た何ぞ仮語村言を用いて一段の故事を敷演し出すを妨げんや？亦た閨閣をして昭伝せしむべく、復た世の目を悦ばしめ、人の愁悶を破るべし、亦た宜しからずや？」故に「賈雨村」云々と曰う。"
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "此回中凡用「梦」用「幻」等字，是提醒阅者眼目，亦是此书立意本旨。①",
+      "zh_modern": "这一回中凡是使用「梦」和「幻」等字的地方，是用来提醒读者注意，也是这本书立意的本旨。①",
+      "en": "In this chapter, wherever the characters 'dream' and 'illusion' are used, they serve to alert the reader's attention and also represent the fundamental purpose of this book. ①",
+      "ru": "В этой главе, везде где используются иероглифы «сон» и «иллюзия», они служат для привлечения внимания читателя и также представляют основную цель этой книги. ①",
+      "ja": "この回中、凡そ「夢」「幻」等の字を用うる処は、閲者の眼目を提醒するものにして、亦たこの書の立意本旨なり。①"
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "列位看官，你道此书从何而来？说起根由虽近荒唐，细谙则深有趣味。待在下将此来历注明，方使阅者了然不惑。",
+      "zh_modern": "各位看官，你们说这本书是从哪里来的呢？说起它的来历虽然近乎荒唐，但仔细琢磨却深有趣味。待我将这来历注明清楚，才能使读者明白而不困惑。",
+      "en": "Dear readers, where do you think this book came from? Speaking of its origins may seem absurd, but upon careful consideration, it is deeply interesting. Allow me to explain its provenance, so that readers may understand without confusion.",
+      "ru": "Уважаемые читатели, откуда, по-вашему, взялась эта книга? Рассказ о её происхождении может показаться абсурдным, но при внимательном рассмотрении он глубоко интересен. Позвольте мне объяснить её происхождение, чтобы читатели могли понять без путаницы.",
+      "ja": "列位の看官よ、汝この書何処より来たると道うや？根由を説き起こせば荒唐に近しと雖も、細かに諳ずれば則ち深く趣味有り。下に在りて此の来歴を注明するを待ち、方に閲者をして了然として惑わざらしむ。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 虽近荒唐",
+          "original": "自首荒唐，妙！",
+          "zh_modern": "自己承认荒唐，妙！",
+          "en": "Admitting absurdity oneself - wonderful!",
+          "ru": "Признавать абсурдность самому — замечательно!",
+          "ja": "自ら荒唐を首す、妙なり！"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "prose",
+      "original": "原来，女娲氏炼石补天之时，",
+      "zh_modern": "原来，在女娲氏炼石补天的时候，",
+      "en": "Originally, when the goddess Nüwa was refining stones to repair the sky,",
+      "ru": "Изначально, когда богиня Нюйва переплавляла камни, чтобы починить небо,",
+      "ja": "原来、女媧氏石を煉りて天を補う時、",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 补天济世",
+          "original": "补天济世，勿认真，用常言。",
+          "zh_modern": "补天济世，不要当真，用的是常见的说法。",
+          "en": "Repairing heaven and saving the world - do not take it literally; this is common parlance.",
+          "ru": "Чинить небо и спасать мир — не принимайте буквально; это обычная фраза.",
+          "ja": "天を補い世を済す、真と認むる勿れ、常言を用う。"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "'甄士隐' (Zhen Shiyin) is a pun on '真事隐' (true events hidden) - the author conceals autobiographical elements",
+    "'贾雨村' (Jia Yucun) is a pun on '假语存' (false words remain/survive) - fiction preserves truth",
+    "The self-deprecation about being inferior to women is characteristic of the novel's subversive gender politics",
+    "女娲补天 (Nüwa mending the sky) is a famous Chinese creation myth - here it becomes the origin story of the magic jade",
+    "The commentary notes confirm that 'dream' and 'illusion' are key thematic words throughout the novel",
+    "The Jiaxu manuscript's comment '自首荒唐' acknowledges the novel's use of 'absurdity' as a literary device"
+  ],
+  "research_notes": [
+    "This is the famous opening of Dream of the Red Chamber, one of the most analyzed passages in Chinese literature",
+    "The opening blends autobiographical confession with mythological framework",
+    "Multiple manuscript sources are visible on this page (甲戌本, 庚辰本)"
+  ],
+  "characters_appearing": ["女娲"],
+  "total_segments": 5,
+  "manuscript_sources_on_page": ["甲戌本", "庚辰本"]
+}
