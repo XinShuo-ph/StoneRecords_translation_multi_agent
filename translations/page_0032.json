@@ -1,0 +1,172 @@
+{
+  "page": 32,
+  "chapter": "第二回",
+  "chapter_title": {
+    "original": "贾夫人仙逝扬州城 冷子兴演说荣国府",
+    "zh_modern": "贾敏夫人在扬州城去世，冷子兴讲述荣国府的情况",
+    "en": "Lady Jia Dies in Yangzhou; Leng Zixing Describes the Rong-guo House",
+    "ru": "Госпожа Цзя умирает в Янчжоу; Лэн Цзысин рассказывает о доме Жунго",
+    "ja": "賈夫人、揚州城にて仙逝し、冷子興、栄国府を演説す"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "原来这林如海之祖，曾袭过列侯，今到如海，业经五世。起初时，只封袭三世，因当今隆恩盛德，远迈前代，便也致意动颜延，使者又同入其情欲之界，明逐其意，何无人心之至！不知彼作者有何好处，有何谢扳，到朝廷庙之上，直将半生淫秽，移渡奉聪，又苦拉君父一干证护身符，强媒硬保，得遂其淫欲故！额外加恩，至如海之父，又袭了一代；至如海，便从科第出身。虽系钟鼎之家，却亦是书香。",
+      "zh_modern": "原来林如海的先祖曾经世袭过列侯的爵位，到林如海这一代已经是第五世了。起初只能世袭三代，因为当今皇上隆恩浩荡，德行远超前代......额外加恩，到林如海的父亲时又袭了一代爵位；到林如海这一代，便从科举考试出身做官。虽然是钟鸣鼎食的世家大族，却也是书香门第。",
+      "en": "Lin Ruhai's ancestors had held the hereditary title of Marquis, and by Ruhai's generation it was already the fifth succession. Originally the title could only be inherited for three generations, but owing to the magnanimous grace and profound virtue of the current emperor, which far surpassed previous dynasties... the family received additional imperial favor, allowing Ruhai's father to inherit for one more generation. By Ruhai's time, he entered officialdom through the civil examination system. Though from a family of bells and tripods, they were also a house of scholarly fragrance.",
+      "ru": "Предки Линь Жухая занимали наследственный титул маркиза, и к поколению Жухая это было уже пятое наследование. Изначально титул можно было наследовать только три поколения, но благодаря великодушной милости и глубокой добродетели нынешнего императора, далеко превзошедшей предыдущие династии... семья получила дополнительную императорскую милость, позволив отцу Жухая унаследовать ещё одно поколение. Ко времени Жухая он вошёл в чиновничество через систему гражданских экзаменов. Хотя это была семья колоколов и треножников, они также были домом учёного аромата.",
+      "ja": "元来この林如海の祖先は嘗て列侯を世襲したことがあり、如海の代に至りてすでに五世を経たり。初めは三世のみ封襲したるも、当今の隆恩盛徳、前代に遠く邁るが故に......額外に恩を加え、如海の父に至りて又一代を襲ぎ、如海に至りては科第より出身す。鐘鼎の家と雖も、亦書香なり。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 书香",
+          "original": "盖钟鼎亦必有书香方至美。",
+          "zh_modern": "可见钟鸣鼎食的富贵人家也必须有书香气息才算完美。",
+          "en": "This shows that even families of bells and tripods must also have scholarly fragrance to be truly fine.",
+          "ru": "Это показывает, что даже семьи колоколов и треножников должны иметь учёный аромат, чтобы быть поистине прекрасными.",
+          "ja": "蓋し鐘鼎も亦必ず書香あって方に至美なり。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "只可惜这林家支庶不盛，子孙有限，虽有几门，却与如海俱是堂族而已，没甚亲支嫡派的。今如海年已四十，只有一个三岁之子，偏又于去岁死了。虽有几房姬妾，奈他命中无子，亦无可如何之事。",
+      "zh_modern": "只可惜林家的旁支子弟不多，子孙有限，虽然有几门亲戚，却与林如海都只是堂族远亲而已，没有什么至亲骨肉。如今林如海已经四十岁了，只有一个三岁的儿子，偏偏又在去年死了。虽然有几房姬妾，奈何他命中注定无子，这也是无可奈何的事。",
+      "en": "It was only a pity that the Lin family's collateral branches were not thriving, and descendants were limited. Though there were a few related households, they were all merely distant cousins to Ruhai, with no close direct heirs. Now Ruhai was already forty, and had only one three-year-old son, who had unfortunately died the previous year. Though he had several concubines, his fate decreed that he would have no sons—there was nothing to be done about it.",
+      "ru": "К сожалению, боковые ветви семьи Линь не процветали, и потомков было мало. Хотя было несколько родственных домов, все они были лишь дальними кузенами Жухая, без близких прямых наследников. Теперь Жухаю было уже сорок лет, и у него был только один трёхлетний сын, который, к несчастью, умер в прошлом году. Хотя у него было несколько наложниц, судьба определила, что у него не будет сыновей — ничего нельзя было поделать.",
+      "ja": "只惜しむらくはこの林家、支庶盛んならず、子孫限りあり。幾門ありと雖も、如海と俱に堂族のみにして、甚だ親支嫡派なし。今如海年すでに四十、只一個の三歳の子あるも、偏に又去歳に死せり。幾房の姬妾ありと雖も、彼の命中に子なく、亦如何ともする事なし。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 命中无子",
+          "original": "总为黛玉极力一写。",
+          "zh_modern": "这些都是为了极力铺垫黛玉的身世。",
+          "en": "All this is written to powerfully establish Daiyu's circumstances.",
+          "ru": "Всё это написано, чтобы убедительно обосновать обстоятельства Дайюй.",
+          "ja": "総て黛玉の為に極力一写す。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "今只有嫡妻贾氏，生得一女，乳名黛玉，年方五岁。夫妻无子，故爱女如珍，且又见他聪明清秀，便也欲使他读书识得几个字，不过假充养子之意，聊解膝下荒凉之叹。",
+      "zh_modern": "如今只有正妻贾氏生了一个女儿，乳名叫黛玉，今年刚五岁。夫妻没有儿子，所以把女儿当作珍宝一般爱护。而且又见她聪明伶俐、秀丽清雅，便也想让她读书识字，不过是把她当作儿子来养的意思，聊以解慰膝下无子的悲凉。",
+      "en": "Now he had only his legitimate wife, Lady Jia, who had borne a daughter with the milk name Daiyu, just five years old. Having no son, the couple loved their daughter like a precious jewel. Moreover, seeing her intelligence and delicate beauty, they wished her to study and learn to read—treating her as if she were a son to raise, to somewhat relieve the desolation of having no heir.",
+      "ru": "Теперь у него была только законная жена, госпожа Цзя, которая родила дочь по молочному имени Дайюй, которой было только пять лет. Не имея сына, супруги любили дочь как драгоценность. Более того, видя её ум и нежную красоту, они желали, чтобы она училась читать — относясь к ней как к сыну, чтобы несколько облегчить пустоту отсутствия наследника.",
+      "ja": "今只嫡妻の賈氏あり、一女を生む、乳名は黛玉、年方に五歳。夫婦に子なく、故に女を愛すること珍の如し。且つ又彼の聡明清秀なるを見て、便ち彼をして読書せしめ幾個の字を識らしめんと欲す。養子に仮充するの意に過ぎず、聊か膝下荒涼の歎きを解せんとす。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂砚斋",
+          "position": "inline, after 黛玉",
+          "original": "蜂腰猿初见。",
+          "zh_modern": "黛玉第一次出现。（蜂腰即细腰，猿即清瘦，形容黛玉身材）",
+          "en": "First appearance of Daiyu. (Bee-waist and slender like an ape—describing Daiyu's figure.)",
+          "ru": "Первое появление Дайюй. (Осиная талия и стройная как обезьяна — описание фигуры Дайюй.)",
+          "ja": "蜂腰猿初見。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 读书识得几个字",
+          "original": "可笑近来小说中，满纸「天下无二」「古今无双」等字。便也欲使他读书识得几个字，不过假充养子之意，聊解膝下荒凉之叹。",
+          "zh_modern": "可笑近来的小说中，满纸都是「天下无二」「古今无双」等字眼......",
+          "en": "How laughable that recent novels are filled with phrases like 'unparalleled in the world' and 'unique through the ages'...",
+          "ru": "Как смешно, что недавние романы полны фразами вроде «непревзойдённый в мире» и «уникальный во все века»...",
+          "ja": "可笑し近来の小説中、満紙「天下無二」「古今無双」等の字。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "雨村正值偶感风寒，病在旅店，将一月光景方渐愈。一因身体劳倦，二因盘费不继，也正欲寻个合式之处，暂且歇下。幸有两个旧友，亦在此境居住，因闻得盐政欲聘一西宾，雨村便相托友力，谋了进去，且作安身之计。妙在只一个女学生，并两个伴读丫鬟，这女学生年又极小，身体又极怯弱，工课不限多寡，故十分省力。",
+      "zh_modern": "贾雨村正好感染了风寒，病在旅店里，将近一个月才渐渐痊愈。一来身体疲倦，二来盘缠不够用了，也正想找个合适的地方暂且安顿下来。幸好有两个老朋友也住在这里，听说盐政官员想聘请一位西席先生，贾雨村便托朋友帮忙，谋到了这个差事，暂且作为安身之计。妙的是只有一个女学生，还有两个陪读的丫鬟，这女学生年纪又极小，身体又极娇弱，功课也不限多少，所以十分省力。",
+      "en": "Yucun happened to catch a cold and was ill at an inn; it took nearly a month for him to gradually recover. Partly from physical exhaustion and partly because his travel funds were running low, he was looking for a suitable place to stay temporarily. Fortunately, two old friends also lived in this area. Hearing that the Salt Commissioner wished to hire a tutor, Yucun relied on his friends' help to obtain the position, using it as a means of temporary support. Wonderfully, there was only one female student, along with two study-companion maids. This girl student was very young and extremely delicate in health, and the lessons were not demanding—so the work was quite easy.",
+      "ru": "Юйцунь случайно простудился и болел в гостинице; прошло около месяца, прежде чем он постепенно выздоровел. Отчасти от физического истощения, отчасти потому, что его дорожные средства заканчивались, он искал подходящее место для временного проживания. К счастью, два старых друга также жили в этой местности. Услышав, что Соляной комиссар желает нанять учителя, Юйцунь воспользовался помощью друзей, чтобы получить эту должность как средство временного содержания. Замечательно, что была только одна ученица, а также две служанки-компаньонки. Эта девочка была очень молода и крайне слаба здоровьем, а уроки не были обременительны — так что работа была довольно лёгкой.",
+      "ja": "雨村正に偶々風寒に感じ、旅店に病み、将に一月の光景にて方に漸く愈ゆ。一には身体労倦し、二には盤費継がず、也正に合式の処を尋ね、暫く且つ歇まんと欲す。幸いに両個の旧友あり、亦此の境に居住す。塩政西賓を聘せんと欲するを聞き、雨村便ち友力に相托し、謀りて進み入り、且つ安身の計と作す。妙なるは只一個の女学生、並びに両個の伴読丫鬟のみ。この女学生年又極めて小さく、身体又極めて怯弱、工課多寡を限らず、故に十分省力なり。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 亦在此境居住",
+          "original": "写雨村自得意后之交识也。◇又为冷子兴作引。",
+          "zh_modern": "写贾雨村得意之后结交的朋友。◇又为后文冷子兴出场做铺垫。",
+          "en": "This describes the friends Yucun made after his rise in fortune. ◇ Also serves as a lead-in for Leng Zixing's appearance later.",
+          "ru": "Это описывает друзей, которых Юйцунь завёл после своего возвышения. ◇ Также служит подводкой к появлению Лэн Цзысина позже.",
+          "ja": "雨村自得意後の交識を写す。◇又冷子興の為に引を作す。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "prose",
+      "original": "堪堪又是一载的光阴，谁知女学生之母贾氏夫人一疾而终。女学生侍汤奉药，守丧尽哀，遂又将要辞馆别图。林如海意欲令女守制读书，故又将他留下。近因女学生哀痛过伤，本自怯弱多病的，触犯旧症，遂连日不曾上学。",
+      "zh_modern": "转眼又过了一年的光阴，谁知女学生的母亲贾氏夫人一病不起就去世了。女学生侍奉汤药、守丧尽哀，贾雨村于是又打算辞去教职另谋出路。林如海想让女儿在守孝期间继续读书，所以又把他留了下来。最近因为女学生悲伤过度，她本来就体弱多病，又触发了旧疾，于是连日不曾上学。",
+      "en": "Before long another year had passed, when unexpectedly the girl student's mother, Lady Jia, fell ill and died. The girl student attended her with medicine, observed mourning with utmost grief, and Yucun was about to resign his post and seek other opportunities. Lin Ruhai wished his daughter to continue studying during the mourning period, so he asked Yucun to stay on. Recently, because the girl student was overcome with grief—she was already frail and prone to illness—her old ailments were triggered, and she had not attended lessons for days.",
+      "ru": "Не прошло и года, как неожиданно мать ученицы, госпожа Цзя, заболела и умерла. Девочка ухаживала за ней с лекарствами, соблюдала траур с величайшей скорбью, и Юйцунь собирался уйти с должности и искать другие возможности. Линь Жухай желал, чтобы дочь продолжала учиться в период траура, поэтому попросил Юйцуня остаться. В последнее время, поскольку девочка была охвачена горем — она и так была слабой и склонной к болезням — её старые недуги обострились, и она несколько дней не посещала занятия.",
+      "ja": "堪堪又一載の光陰、誰か知らん女学生の母賈氏夫人一疾にして終わる。女学生湯を侍し薬を奉じ、守喪哀を尽くし、遂に又将に辞館別図せんとす。林如海女をして守制読書せしめんと欲し、故に又彼を留め下す。近因女学生哀痛傷に過ぎ、本自怯弱多病なるも、旧症を触犯し、遂に連日上学せず。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂砚斋",
+          "position": "inline, after 守丧尽哀",
+          "original": "先要使黛玉哭起。",
+          "zh_modern": "先要让黛玉哭起来。",
+          "en": "First making Daiyu weep.",
+          "ru": "Сначала заставив Дайюй плакать.",
+          "ja": "先ず黛玉をして哭かしめんと欲す。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 连日不曾上学",
+          "original": "上半回已终，写「仙逝」正为黛玉也，故一句带过，恐閗又有坊笔。",
+          "zh_modern": "上半回已经结束，写「仙逝」正是为了黛玉，所以一笔带过，恐怕又会被坊间庸俗的写手效仿。",
+          "en": "The first half of the chapter ends here. Writing about the 'immortal passing' is precisely for Daiyu's sake, hence passing over it briefly—fearing that vulgar writers might imitate it.",
+          "ru": "Первая половина главы заканчивается здесь. Описание «бессмертного ухода» именно ради Дайюй, поэтому упоминается кратко — опасаясь, что вульгарные писатели могут подражать.",
+          "ja": "上半回已に終わる。「仙逝」を写すは正に黛玉の為なり、故に一句帯過す、恐らくは又坊筆あるを。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "prose",
+      "original": "雨村闲居无聊，每当风日晴和，饭后便出来闲步。这日，偶至郭外，",
+      "zh_modern": "贾雨村闲居无聊，每当天气晴朗和暖的时候，吃完饭后便出来散步。这一天，偶然来到城郊外，",
+      "en": "Yucun, idle and bored, would take a stroll after meals whenever the weather was fair and mild. One day, he happened to wander outside the city walls,",
+      "ru": "Юйцунь, праздный и скучающий, прогуливался после еды всякий раз, когда погода была хорошей и мягкой. Однажды он случайно забрёл за городские стены,",
+      "ja": "雨村閑居して無聊なり、風日晴和なる毎に、飯後便ち出でて閑歩す。この日、偶々郭外に至り、",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "This page introduces Lin Daiyu (林黛玉) for the first time - she is five years old, daughter of Lin Ruhai (林如海) and Lady Jia (贾敏)",
+    "Lin Ruhai is the Salt Commissioner (盐政), a lucrative government position",
+    "Lady Jia (贾敏) is Grandmother Jia's daughter - making Daiyu her granddaughter and Baoyu's cousin",
+    "The commentary「总为黛玉极力一写」reveals that all the detailed background about Lin family decline is to establish Daiyu's vulnerable orphan status",
+    "「蜂腰猿初见」(Zhiyan Zhai) - 'bee-waist ape first appears' - poetically describes Daiyu's delicate, slender figure",
+    "Jia Yucun becomes Daiyu's tutor - this connection will later bring Daiyu to the Jia household",
+    "「钟鼎之家」(family of bells and tripods) refers to wealthy aristocratic families - bronze bells and tripods were symbols of nobility"
+  ],
+  "research_notes": [
+    "Lin Ruhai's position as Salt Commissioner (盐政/巡盐御史) was one of the most lucrative posts in Qing China",
+    "The hereditary title system (封袭) typically allowed three generations, with extensions by imperial favor",
+    "Lady Jia's death sets up Daiyu's journey to the Jia household in the next chapter",
+    "The commentary criticizing contemporary novels ('满纸天下无二') shows Cao Xueqin's literary self-awareness"
+  ],
+  "characters_appearing": [
+    "林如海 (Lin Ruhai)",
+    "林黛玉 (Lin Daiyu)",
+    "贾敏/贾氏夫人 (Lady Jia / Jia Min)",
+    "贾雨村 (Jia Yucun)"
+  ],
+  "total_segments": 6,
+  "manuscript_sources_on_page": ["甲戌本", "脂砚斋"]
+}
