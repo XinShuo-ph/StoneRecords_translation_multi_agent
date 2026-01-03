@@ -1,0 +1,106 @@
+{
+  "page": 70,
+  "chapter": "第三回",
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 70,
+      "type": "prose",
+      "original": "第一个肌肤微丰，合中身材，腮凝新荔，鼻腻鹅脂，温柔沉默，观之可亲。第二个削肩细腰，长挑身材，鸭蛋脸面，俊眼修眉，顾盼神飞，文彩精华，见之忘俗。第三个身量未足，形容尚小。",
+      "zh_modern": "第一个肌肤微丰，中等身材，脸腮红润如新剥的荔枝，鼻子白腻如鹅脂，性格温柔沉默，让人看了觉得亲切。第二个削肩细腰，身材高挑，鸭蛋脸面，俊俏的眼睛，修长的眉毛，顾盼神飞，文采精华，让人见了就忘却俗气。第三个身量还未长足，容貌年纪还小。",
+      "en": "The first had slightly plump skin and a medium build; her cheeks were like condensed fresh lychee, her nose smooth as goose fat. She was gentle and silent, approachable to behold. The second had sloping shoulders and a slender waist, a tall and slender build, an oval face, handsome eyes and long brows. Her glance sparkled with spirit, and she possessed an aura of literary elegance; seeing her made one forget the vulgar world. The third was not yet fully grown, her appearance still that of a child.",
+      "ru": "У первой кожа была слегка полной, рост средний, щеки как свежий личи, нос гладкий, как гусиный жир. Она была нежной и молчаливой, приятной на вид. У второй были покатые плечи и тонкая талия, рост высокий и стройный, лицо овальное, красивые глаза и длинные брови. Взгляд ее был одухотворенным, она сияла литературным талантом; при виде ее забывалось все мирское. Третья была еще невысокого роста, с детским обликом.",
+      "ja": "第一個は肌膚（きふ）微（すこ）しく豊かにして、合中（ごうちゅう）の身材、腮（あご）は新荔（しんレイ）を凝らし、鼻は鵝脂（がし）のごとく膩（なめ）らか、温柔沈黙にして、之を観れば親しむべし。第二個は削肩（さくけん）細腰（さいよう）、長挑（ちょうちょう）の身材、鴨蛋（アータン）の顔面（かお）、俊眼修眉（しゅんがんしゅうび）、顧盼（こはん）神飛び、文彩精华、之を見れば俗を忘る。第三個は身量未だ足らず、形容尚お小さし。",
+      "commentary": [
+        {
+          "type": "甲戌侧批",
+          "source": "甲戌本",
+          "position": "right margin",
+          "original": "写迎春。写探春。写惜春。",
+          "zh_modern": "这是写迎春。这是写探春。这是写惜春。",
+          "en": "Describes Yingchun. Describes Tanchun. Describes Xichun.",
+          "ru": "Описывает Инчунь. Описывает Таньчунь. Описывает Сичунь.",
+          "ja": "迎春を写す。探春を写す。惜春を写す。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pdf_page": 70,
+      "type": "prose",
+      "original": "其钗环裙袄，三人皆是一样的妆饰。黛玉忙起身迎上来见礼，互相厮认过，大家归了坐。丫鬟们斟上茶来。",
+      "zh_modern": "她们佩戴的钗环和穿着的裙袄，三个人都是一样的妆饰。黛玉急忙起身迎上来行礼，互相辨认过后，大家归了座。丫鬟们斟上茶来。",
+      "en": "Their hairpins, rings, skirts, and jackets were all identical in style. Daiyu hurriedly stood up to welcome them and exchange greetings. After recognizing each other, everyone returned to their seats. The maids poured tea.",
+      "ru": "Их шпильки, кольца, юбки и жакеты были одинаковыми. Дайюй поспешно встала, чтобы поприветствовать их. После взаимных представлений все вернулись на свои места. Служанки разлили чай.",
+      "ja": "其の釵環裙襖（さいかんくんおう）、三人は皆是れ一样の妝飾なり。黛玉忙しく身を起こして迎え上り来たりて礼に見（まみ）え、互いに厮認（しにん）し過ぐ、大家（みな）坐に帰す。丫鬟たち茶を斟（く）み上せり。",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "pdf_page": 70,
+      "type": "prose",
+      "original": "不过说些黛玉之母如何得病，如何请医服药，如何治丧。不免贾母又伤感起来，因说：“我这些儿女，所疼者独有你母，今日一旦先舍我而去，连面也不能一见，今见了你，我怎不伤心！”说着，搂了黛玉在怀，又呜咽起来。",
+      "zh_modern": "不过是说了些黛玉的母亲如何得病，如何请医生吃药，如何治丧的事。不免贾母又伤感起来，便说道：“我这些儿女中，最疼爱的只有你母亲，今天一旦先舍弃我而去，连面也不能见一次，如今见了你，我怎么能不伤心！”说着，把黛玉搂在怀里，又呜咽哭泣起来。",
+      "en": "They spoke merely of how Daiyu's mother fell ill, how doctors were invited and medicine taken, and how the funeral was conducted. Grandmother Jia inevitably felt sad again and said: “Of all my children, the one I loved most was your mother. Now that she has suddenly left me first, and I could not even see her face one last time, seeing you today, how can I not be heartbroken!” Saying this, she embraced Daiyu and began to sob again.",
+      "ru": "Они говорили лишь о том, как заболела мать Дайюй, как приглашали врачей и принимали лекарства, как проходили похороны. Матушка Цзя не могла не предаться печали снова и сказала: «Из всех моих детей я больше всего любила твою мать. Теперь, когда она внезапно покинула меня первой, и я даже не смогла увидеть ее лицо напоследок, видя тебя сегодня, как мне не горевать!» Сказав это, она обняла Дайюй и снова зарыдала.",
+      "ja": "不過（ただ）説く些（いささ）か黛玉の母如何に病を得、如何に医を請い薬を服し、如何に喪を治めしかを。免れず贾母又た傷感し起こり来たり、因って説く：「我がこれらの児女、疼（あい）するところの者は独り汝の母有るのみなるに、今日一旦先ず我を捨てて去り、面（おもて）を連ぬることも能わず一見し、今汝を見て、我怎（いか）でか傷心せざらん！」と。説き着（つ）つ、黛玉を懐に楼（いだ）き、又た嗚咽（おえつ）し起こり来たる。",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "pdf_page": 70,
+      "type": "prose",
+      "original": "众人忙都宽慰解释，方略略止住。一时，只见一个丫鬟来回：“凤辣子来了。”",
+      "zh_modern": "众人急忙都宽慰劝解，才稍微止住了哭声。过了一会儿，只听见一个丫鬟来回禀：“凤辣子来了。”",
+      "en": "Everyone hurriedly comforted and explained, and only then did she gradually stop. Suddenly, a maid was seen coming to report: “The Peppery Feng (Feng Lazi) has arrived.”",
+      "ru": "Все поспешно стали утешать и успокаивать ее, и лишь тогда она немного успокоилась. Вдруг появилась служанка и доложила: «Острая Фэн пришла».",
+      "ja": "衆人忙しく都て寛慰し解釈し、方（はじ）めて略略（ほぼ）止住す。一時、只だ見る一個の丫鬟来たりて回（もう）す：「鳳辣子（ほうラツし）来れり」と。",
+      "commentary": []
+    },
+    {
+      "id": 5,
+      "pdf_page": 70,
+      "type": "prose",
+      "original": "黛玉纳罕道：“这些人个个皆敛声屏气，恭肃严整如此，这来者系谁，这样放诞无礼？”",
+      "zh_modern": "黛玉感到纳闷：“这些人个个都屏声敛气，如此恭敬严肃，这来的人是谁，竟然这样放诞无礼？”",
+      "en": "Daiyu wondered: “Everyone here holds their breath and silence, so respectful and solemn; who is this comer, being so unrestrained and rude?”",
+      "ru": "Дайюй удивилась: «Все здесь затаили дыхание и молчат, так почтительны и строги. Кто же этот пришедший, что ведет себя так развязно и невежливо?»",
+      "ja": "黛玉納罕（のうかん）して道（い）う：「この人たち個個皆声を斂（おさ）め気を屏（しの）び、恭粛厳整なること此（か）くのごとき、この来たる者系（こ）れ誰ぞ、這様（このよう）に放誕無礼なる？」と。",
+      "commentary": [
+        {
+          "type": "甲戌侧批",
+          "source": "甲戌本",
+          "position": "right margin",
+          "original": "未见其人，先闻其声。",
+          "zh_modern": "未见其人，先闻其声。",
+          "en": "Before seeing the person, first hear the voice.",
+          "ru": "Не видя человека, сначала слышишь его голос.",
+          "ja": "未だ其の人を見ざるに、先ず其の声を聞く。"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "鼻腻鹅脂 (Bi Ni E Zhi): Nose smooth/greasy like goose fat. A traditional beauty standard implying smoothness and luster.",
+    "顾盼神飞 (Gu Pan Shen Fei): Looking around with flying spirit. Describes Tanchun's intelligence and liveliness.",
+    "凤辣子 (Feng La Zi): Peppery Feng / Spicy Feng. Grandmother Jia's nickname for Wang Xifeng, denoting her fiery, sharp, and pungent personality.",
+    "纳罕 (Na Han): To wonder/be surprised. Daiyu's internal reaction highlights the contrast between the formal atmosphere and Xifeng's disruption."
+  ],
+  "research_notes": [
+    "The descriptions of the Three Springs establish their character types: Yingchun (gentle/weak), Tanchun (spirited/talented), Xichun (young/detached).",
+    "Xifeng's entrance is famous for 'hearing the voice before seeing the person' (Xian Wen Qi Sheng), a classic dramatic technique.",
+    "The nickname 'Feng Lazi' immediately characterizes Xifeng as unconventional and favored by the Matriarch."
+  ],
+  "characters_appearing": [
+    "Lin Daiyu",
+    "Grandmother Jia",
+    "Jia Yingchun (described)",
+    "Jia Tanchun (described)",
+    "Jia Xichun (described)",
+    "Wang Xifeng (announced)"
+  ],
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ]
+}
