@@ -1,0 +1,103 @@
+{
+  "page": 21,
+  "chapter": "第一回",
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 21,
+      "type": "prose",
+      "original": "恰近日这神瑛侍者凡心偶炽，乘此昌明太平朝世，意欲下凡造历幻缘，已在警幻仙子案前挂了号。",
+      "zh_modern": "恰好最近这位神瑛侍者凡心偶尔炽盛，想趁着这昌明太平的盛世，下凡去经历一番梦幻般的尘缘，已经在警幻仙子案前挂号注册了。",
+      "en": "Just recently, this Divine Luminescent Stone Attendant’s mortal heart inadvertently flared up. Taking advantage of this prosperous and peaceful era, he desired to descend to the mortal world to experience karmic illusions and has already registered before the Goddess Disenchantment.",
+      "ru": "Как раз недавно у этого Служителя Божественного Сияния случайно возгорелось мирское сердце. Воспользовавшись этой эпохой процветания и мира, он возжелал спуститься в мир смертных, чтобы пережить иллюзорную кармическую судьбу, и уже зарегистрировался перед Феей Разочарования.",
+      "ja": "たまたま近ごろ、この神瑛侍者の凡心がふと燃え立ち、この昌明太平の世に乗じ、下界に下りて幻縁を造歴せんと欲し、すでに警幻仙子の案前に号を掛けたり。",
+      "commentary": [
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "position": "right margin",
+          "original": "总写不知乃谁。",
+          "zh_modern": "总写这一笔，让人不知道究竟是谁。",
+          "en": "Written generally so one does not know who it is.",
+          "ru": "Написано обобщенно, так что неизвестно, кто это.",
+          "ja": "総じて写し、すなわち誰なるを知らず。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pdf_page": 21,
+      "type": "prose",
+      "original": "警幻亦曾问及，灌溉之情未偿，趁此倒可了结的。",
+      "zh_modern": "警幻仙子也曾问起，说灌溉的恩情尚未偿还，趁此机会倒正好可以了结。",
+      "en": "Disenchantment also inquired about this, noting that since the debt of watering had not been repaid, this would be the perfect opportunity to settle it.",
+      "ru": "Фея Разочарования также спросила об этом: поскольку долг орошения еще не был оплачен, это была бы возможность покончить с ним.",
+      "ja": "警幻もまたかつて問い及び、灌漑の情いまだ償わざれば、これに乗じてかえって了結すべきなりと。",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "pdf_page": 21,
+      "type": "prose",
+      "original": "那绛珠仙子道：“他是甘露之惠，我并无此水可还。他既下世为人，我也去下世为人，但把我一生所有的眼泪还他，也偿还得过他了。”",
+      "zh_modern": "那绛珠仙子说：“他给我的是甘露的恩惠，我并没有那样的水可以还他。既然他下凡做人，我也去下凡做人，只要把我这一生所有的眼泪都还给他，也就能偿还得过他了。”",
+      "en": "The Crimson Pearl Fairy said: “His was the grace of sweet dew; I have no such water to repay him. Since he descends to the world as a man, I too shall go and descend as a human. But if I repay him with all the tears of my lifetime, that should be enough to settle the debt.”",
+      "ru": "Фея Алая Жемчужина сказала: «Его дар был сладкой росой, но у меня нет такой воды, чтобы вернуть ему. Раз он спускается в мир, чтобы стать человеком, я тоже пойду и стану человеком. Но если я верну ему все слезы своей жизни, этого должно хватить, чтобы расплатиться с ним».",
+      "ja": "かの絳珠仙子言う、「彼は甘露の恵みなるも、われ決して返すにこの水なし。彼すでに世に下りて人と為らば、われもまた去きて世に下りて人と為り、ただわが一生あるところの眼涙をもって彼に還さば、また償還し得ん」と。",
+      "commentary": [
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "position": "right margin",
+          "original": "只“偿还”二字，便伏下一部《九十回》之大主意。",
+          "zh_modern": "只“偿还”这两个字，便埋下了整部《九十回》的主要意旨。",
+          "en": "Just these two words 'repay/settle' lay the main theme for the entire 90 chapters.",
+          "ru": "Лишь эти два иероглифа «вернуть/расплатиться» закладывают главную идею всех девяноста глав.",
+          "ja": "ただ「償還」の二字、すなわち一部『九十回』の大主意を伏す。"
+        },
+        {
+          "type": "眉批",
+          "source": "甲戌本",
+          "position": "top margin",
+          "original": "感怆痛心入骨！",
+          "zh_modern": "感伤悲痛彻骨！",
+          "en": "Moving and heartbreaking to the bone!",
+          "ru": "Трогательно и горестно до костей!",
+          "ja": "感愴痛心、骨に入る！"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "pdf_page": 21,
+      "type": "prose",
+      "original": "因此一事，就勾出多少风流冤家来，陪他们去了结此案。",
+      "zh_modern": "因为这一件事，就勾引出多少风流冤家来，陪同他们一起去了结这桩公案。",
+      "en": "Because of this one matter, how many romantic debtors have been drawn out to accompany them and close this case!",
+      "ru": "Из-за этого одного дела сколько любовных должников было вытянуто, чтобы сопровождать их и закрыть этот случай!",
+      "ja": "この一事によりて、すなわち幾多の風流冤家を勾引し来たり、彼らに陪して去きてこの案を了結せしむ。",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "还泪 (Huan Lei): Repaying tears. This is the central metaphor of the novel's tragedy.",
+    "风流冤家 (Feng Liu Yuan Jia): 'Romantic debtors' or 'Amorous adversaries'. 'Yuan Jia' implies a karmic enemy who is also a lover, suggesting a relationship of destined torment.",
+    "挂号 (Gua Hao): Registered. Uses bureaucratic terminology for celestial administration, a common trope in Chinese mythology.",
+    "凡心 (Fan Xin): Mortal heart/desire. The desire to experience worldly emotions."
+  ],
+  "research_notes": [
+    "Checked the 'Repaying Tears' quote in multiple translations (Hawkes: 'debt of tears', Yang: 'tears to repay').",
+    "Verified the Zhiping commentary about the 'Main Theme' (大主意).",
+    "Confirmed the manuscript source is primarily 甲戌本 (Jiaxu) for this section."
+  ],
+  "characters_appearing": [
+    "Monk (Mangmang Daoshi)",
+    "Crimson Pearl Fairy",
+    "Divine Luminescent Stone Attendant (mentioned)",
+    "Goddess Disenchantment (Jinghuan Xianzi) (mentioned)"
+  ],
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ]
+}
