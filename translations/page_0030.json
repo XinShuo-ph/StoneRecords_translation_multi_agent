@@ -1,0 +1,339 @@
+{
+  "page": 30,
+  "chapter": "第二回",
+  "chapter_title": {
+    "original": "贾夫人仙逝扬州城 冷子兴演说荣国府",
+    "zh_modern": "贾夫人在扬州城仙逝，冷子兴演说荣国府",
+    "en": "Lady Jia Ascends to the Immortals in Yangzhou City; Leng Zixing Discourses on the Rongguo Mansion",
+    "ru": "Госпожа Цзя отходит в мир иной в городе Янчжоу; Лэн Цзысин рассказывает о дворце Жунго",
+    "ja": "賈夫人、揚州城に仙逝し、冷子興、栄国府を演説す"
+  },
+  "page_content_type": "chapter_start",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 30,
+      "type": "prose",
+      "original": "第二回 贾夫人仙逝扬州城 冷子兴演说荣国府",
+      "zh_modern": "第二回 贾夫人在扬州城仙逝，冷子兴演说荣国府",
+      "en": "Chapter 2: Lady Jia Ascends to the Immortals in Yangzhou City; Leng Zixing Discourses on the Rongguo Mansion",
+      "ru": "Глава 2. Госпожа Цзя отходит в мир иной в городе Янчжоу; Лэн Цзысин рассказывает о дворце Жунго",
+      "ja": "第二回 賈夫人、揚州城に仙逝し、冷子興、栄国府を演説す",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "pdf_page": 30,
+      "type": "prose",
+      "original": "却说封肃因听见公差传唤，忙出来陪笑启问。那些人只嚷：“快请出甄爷来！”",
+      "zh_modern": "却说封肃因为听见公差传唤，急忙出来陪着笑脸询问。那些人只嚷道：“快请出甄爷来！”",
+      "en": "To continue the story: Feng Su, hearing the official messengers summoning, hurriedly came out and asked with an ingratiating smile. The men only shouted: \"Quickly invite Master Zhen to come out!\"",
+      "ru": "Вернемся к рассказу. Фэн Су, услышав зов казенных гонцов, поспешно вышел и с заискивающей улыбкой спросил, в чем дело. Те лишь кричали: «Быстрее просите господина Чжэня выйти!»",
+      "ja": "さて、封粛は公差の呼び出しを聞きつけ、慌てて出てきて愛想笑いを浮かべて尋ねた。彼らはただ「早く甄の旦那をお出ししろ！」と叫ぶばかりであった。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline",
+          "original": "一丝不乱。",
+          "zh_modern": "文理丝毫不乱。",
+          "en": "Not a thread out of place.",
+          "ru": "Ни одна нить не спутана.",
+          "ja": "一糸乱れず。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "pdf_page": 30,
+      "type": "prose",
+      "original": "封肃忙陪笑道：“小人姓封，并不姓甄。只有当日小婿姓甄，今已出家一二年了，不知可是问他？”",
+      "zh_modern": "封肃连忙陪笑道：“小人姓封，并不姓甄。只有当年的女婿姓甄，如今已经出家一两年了，不知道是不是问他？”",
+      "en": "Feng Su hurriedly smiled apologetically and said: \"This humble person is named Feng, not Zhen. Only my former son-in-law was named Zhen, but he left home to become a monk a year or two ago. I do not know if you are asking for him?\"",
+      "ru": "Фэн Су поспешно улыбнулся и сказал: «Моя фамилия Фэн, а вовсе не Чжэнь. Только мой зять носил фамилию Чжэнь, но он уже год или два как ушел в монахи. Не его ли вы спрашиваете?»",
+      "ja": "封粛は慌てて愛想笑いをして言った。「手前の姓は封でして、甄ではありません。ただ昔の婿が甄という姓でしたが、すでに出家して一、二年になります。もしやお尋ねなのは彼のことでしょうか？」"
+    },
+    {
+      "id": 4,
+      "pdf_page": 30,
+      "type": "prose",
+      "original": "那些公人道：“我们也不知什么‘真’‘假’，因奉太爷之命来问。他既是你女婿，便带了你去亲见太爷面禀，省得乱跑。”",
+      "zh_modern": "那些公差道：“我们要不知道什么‘真’的‘假’的，因为奉了太爷的命令来问。既然他是你女婿，就带你去亲见太爷当面回禀，省得我们乱跑。”",
+      "en": "The officials said: \"We don't know anything about 'True' (Zhen) or 'False' (Jia); we are here on the Grand Master's orders to inquire. Since he is your son-in-law, we'll take you to see the Grand Master personally to report, to save us running around.\"",
+      "ru": "Служивые ответили: «Мы не знаем никаких „Чжэнь“ (Истинный) или „Цзя“ (Ложный), мы пришли по приказу господина. Раз он твой зять, мы заберем тебя к господину, доложишь ему лично, чтоб нам зря не бегать».",
+      "ja": "役人たちは言った。「我々は『真（甄）』だの『仮（賈）』だのは知らん。太爺の命を奉じて聞きに来たのだ。彼がお前の婿だというなら、お前を連れて行って太爺に直接申し上げさせよう。そうすれば走り回る手間が省ける。」",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline after 真假",
+          "original": "点睛妙笔。",
+          "zh_modern": "这是画龙点睛的妙笔。",
+          "en": "A wonderful stroke that adds the finishing touch (dots the eyes of the dragon).",
+          "ru": "Чудесный штрих, оживляющий картину.",
+          "ja": "点睛の妙筆なり。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "pdf_page": 30,
+      "type": "prose",
+      "original": "说着，不容封肃多言，大家推拥他去了。封家人各各惊慌，不知何兆。",
+      "zh_modern": "说着，不由封肃多说，大家推推拥拥把他带走了。封家的人个个惊慌，不知道是什么征兆。",
+      "en": "Saying this, they did not allow Feng Su to speak further, but pushed and shoved him along. The Feng family members were all panicked, not knowing what this portended.",
+      "ru": "С этими словами, не дав Фэн Су и рта раскрыть, они гурьбой увлекли его за собой. Домашние Фэна были в панике, не зная, что это предвещает.",
+      "ja": "そう言うと、封粛に多言を許さず、皆で彼を押し立てて連れて行ってしまった。封家の者たちは皆驚き慌て、何の前兆かと案じた。"
+    },
+    {
+      "id": 6,
+      "pdf_page": 30,
+      "type": "prose",
+      "original": "那天约有二更时分，只见封肃方回来，欢天喜地。",
+      "zh_modern": "那天大约二更时分，只见封肃才回来，欢天喜地的。",
+      "en": "That day, around the second watch, Feng Su finally returned, full of joy and delight.",
+      "ru": "В тот день, около второй стражи, Фэн Су наконец вернулся, сияя от радости.",
+      "ja": "その日の二更（午後九時〜十一時）頃、ようやく封粛が戻ってきたが、大喜びの様子であった。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline",
+          "original": "出自封肃口内，便省却多少闲文。",
+          "zh_modern": "借封肃之口说出，便省去了多少闲杂文字。",
+          "en": "Coming from Feng Su's mouth saves much idle text.",
+          "ru": "Рассказ из уст Фэн Су избавляет от лишних описаний.",
+          "ja": "封粛の口内より出だせば、便ち多少の閑文を省却す。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "pdf_page": 30,
+      "type": "prose",
+      "original": "众人忙问端的。他乃说道：“原来本府新升的太爷，姓贾名化，本胡州人氏，曾与女婿旧日相交。方才在咱门前过去，因看见娇杏那丫头买线，所以他只当女婿移住于此。",
+      "zh_modern": "众人急忙问底细。他便说道：“原来本府新升任的太爷，姓贾名化，本是胡州人，曾经与我不那个女婿是旧交。刚才从咱们门前经过，因为看见娇杏那个丫头在买线，所以他以为我女婿搬到这里住了。",
+      "en": "Everyone hurriedly asked for the details. He then said: \"It turns out the newly promoted Grand Master of this prefecture is named Jia Hua, originally from Huzhou, and was an old acquaintance of my son-in-law. Just now he passed by our door and, seeing the maid Jiao Xing buying thread, he thought my son-in-law had moved here.\"",
+      "ru": "Все стали расспрашивать, в чем дело. Он рассказал: «Оказывается, новый префект — по фамилии Цзя, по имени Хуа, родом из Хучжоу, старый знакомый моего зятя. Проезжая мимо наших ворот, он увидел, как служанка Цзяосин покупает нитки, и решил, что зять переехал сюда жить.",
+      "ja": "皆が仔細を尋ねると、彼は言った。「なんと本府に新しく昇任された太爺は、姓は賈、名は化、もと胡州の人で、かつて婿殿と旧交があったのだ。先ほどわが家の前を通りかかった際、嬌杏があの小娘が糸を買っているのを見かけ、婿殿がここに移り住んだのだと思われたのだ。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline",
+          "original": "世态精神，叠露于数语间。",
+          "zh_modern": "世态人情的精神，在几句话之间层层显露。",
+          "en": "The spirit of worldly attitudes is revealed layer by layer in just a few words.",
+          "ru": "Дух мирских нравов раскрывается в нескольких словах.",
+          "ja": "世態精神、数語の間に畳露す。"
+        },
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline after 娇杏",
+          "original": "娇杏，侥幸也。托言当日丫头回顾，故有今日，亦不过偶然侥幸耳，非真实得尘中英杰也。非近日小说中满纸红拂紫烟之可比。",
+          "zh_modern": "娇杏，谐音“侥幸”。托言当年这丫头回头一顾，所以才有今天，也不过是偶然的侥幸罢了，并不是真正识得尘世中的英雄豪杰。绝非如今小说中满纸都是红拂女、紫烟这类人物可比。",
+          "en": "'Jiao Xing' means 'Lucky' (Jiaoxing). It implies that because of the maid's glance back that day, she has today's fortune; it is but accidental luck, not that she truly recognized a hero in the dust. It is not comparable to the 'Red Whisks' and 'Purple Mists' [heroic elopers] that fill recent novels.",
+          "ru": "«Цзяосин» означает «Счастливый случай». Говорится, что благодаря тому, что служанка тогда оглянулась, она имеет то, что имеет сегодня; это лишь случайная удача, а не то, что она распознала героя в дорожной пыли. Это не чета Хунфу и Цзыянь, которыми полны нынешние романы.",
+          "ja": "嬌杏とは、僥倖なり。当日の下女の回顧に託言し、故に今日あるは、また偶然の僥倖に過ぎざるのみ、真実に塵中の英傑を得たるに非ざるなり。近日の小説中満紙紅払紫煙の比すべきに非ず。"
+        },
+        {
+          "type": "眉批",
+          "source": "Zhiping",
+          "position": "top margin",
+          "original": "余批重出。余阅此书，偶有所得，即笔录之。非从首至尾阅过复从首加批者，故偶有复处。且诸公之批，自是诸公眼界；脂斋之批，亦有脂斋取乐处。后每一阅，亦必有一语半言，重加批评于侧，故又有于前后照应之说等批。",
+          "zh_modern": "（脂砚斋注）我重复批注。我读这本书，偶尔有所心得，就记录下来。并不是从头到尾读完后再从头批注的，所以偶尔有重复之处。况且诸公的批注，自然是诸公的眼界；我脂砚斋的批注，也有我取乐的地方。后来每一次阅读，也必有一语半言，重新批注在旁边，所以又有前后照应的说法等批语。",
+          "en": "(Zhiyan Zhai note) My comments appear repeatedly. When I read this book and have an insight, I record it. I do not read from beginning to end and then start commenting from the beginning, so there are occasional repetitions. Moreover, the comments of other gentlemen reflect their views; my comments also have my own amusement. Later, with each reading, I inevitably add a word or two of criticism on the side, hence there are comments about foreshadowing and callbacks.",
+          "ru": "(Примечание Чжиянь Чжая) Мои комментарии повторяются. Читая эту книгу, я записываю то, что приходит на ум. Я не перечитываю от начала до конца, прежде чем комментировать, поэтому бывают повторы. К тому же комментарии других господ отражают их взгляды, а мои — мое удовольствие. При каждом новом прочтении я непременно добавляю пару слов сбоку, отсюда и замечания о перекличках в тексте.",
+          "ja": "余が批、重出して出づ。余、この書を閲するに、偶々得る所有れば、即ち筆してこれを録す。首より尾に至るまで閲し過して復た首より批を加うる者に非ず、故に偶々復する処有り。且つ諸公の批は、自らこれ諸公の眼界にして、脂斎の批は、亦た脂斎が楽を取る処有り。後一たび閲する毎に、亦た必ず一語半言有り、重ねて批評を側に加う、故に又た前後に於て照応するの説等の批有り。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "pdf_page": 30,
+      "type": "prose",
+      "original": "我一一将原故回明，那太爷倒伤感叹息了一回。又问外孙女儿，我说看灯丢了。太爷说：‘不妨，我自使番役务必采访回来。’",
+      "zh_modern": "我一一将原委回禀清楚，那太爷倒伤感叹息了一番。又问起外孙女儿（英莲），我说看灯时丢了。太爷说：‘不要紧，我自然会派差役务必把她找回来。’",
+      "en": "I explained the reasons one by one, and the Grand Master sighed with sentiment. He asked about my granddaughter, and I said she was lost while watching the lanterns. The Grand Master said: 'No matter, I shall dispatch runners to make inquiries and ensure she is returned.'",
+      "ru": "Я подробно объяснил ему, в чем дело, и господин расчувствовался и вздохнул. Потом спросил о внучке, и я сказал, что она потерялась, когда смотрели фонари. Господин сказал: „Не беда, я пошлю сыщиков, они непременно разыщут ее“.",
+      "ja": "私が一々事情を申し上げると、太爺は傷感して嘆息された。また外孫娘のことを尋ねられたので、灯籠見物で迷子になったと申し上げた。太爺は『案ずるな、私が番役を使って必ず捜し出してくれよう』と仰った。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline after 外孙女儿",
+          "original": "细。",
+          "zh_modern": "细致。",
+          "en": "Detailed.",
+          "ru": "Детально.",
+          "ja": "細なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline after 采访回来",
+          "original": "为葫芦案伏线。",
+          "zh_modern": "为后来的“葫芦案”埋下伏笔。",
+          "en": "Foreshadowing for the Gourd Case.",
+          "ru": "Предвещает дело в храме Калебаса.",
+          "ja": "葫蘆案の為に線を伏す。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "pdf_page": 30,
+      "type": "prose",
+      "original": "说了一回话，临走倒送了我二两银子。”",
+      "zh_modern": "说了一会儿话，临走时倒送了我二两银子。”",
+      "en": "We talked for a while, and upon leaving, he actually gave me two taels of silver.\"",
+      "ru": "Поговорили мы немного, а перед уходом он подарил мне два ляна серебра».",
+      "ja": "しばらく話をして、帰り際に私に二両の銀子をくださった。」",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline",
+          "original": "此事最要紧。",
+          "zh_modern": "这件事（给银子）最要紧。",
+          "en": "This matter [the money] is the most important part.",
+          "ru": "Это самое важное.",
+          "ja": "此の事最も要緊なり。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "pdf_page": 30,
+      "type": "prose",
+      "original": "甄家娘子听了，不免心中伤感。一宿无话。",
+      "zh_modern": "甄家娘子听了，不免心中伤感。这一夜没有别的话。",
+      "en": "Mrs. Zhen heard this and could not help feeling sentimental in her heart. Nothing more was said that night.",
+      "ru": "Жена Чжэня, услышав это, не могла не расчувствоваться. В ту ночь больше не разговаривали.",
+      "ja": "甄家の娘子はこれを聞いて、心中傷感を免れなかった。一晩無言であった。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline",
+          "original": "所谓“旧事凄凉不可闻”也。",
+          "zh_modern": "这就是所谓的“旧事凄凉不可闻”啊。",
+          "en": "As the saying goes, 'Sad events of the past are unbearable to hear'.",
+          "ru": "Как говорится, «печальные дела минувшего невыносимо слышать».",
+          "ja": "所謂「旧事凄涼聞くべからず」なり。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "pdf_page": 30,
+      "type": "prose",
+      "original": "至次日，早有雨村遣人送两封银子、四匹锦缎，答谢甄家娘子，又寄一封密书与封肃，转托他向甄家娘子要那娇杏作二房。",
+      "zh_modern": "到了第二天，早就有雨村派人送来两封银子、四匹锦缎，答谢甄家娘子，又寄了一封密信给封肃，托他向甄家娘子讨要那个娇杏做二房。",
+      "en": "The next day, early in the morning, Yucun sent someone with two packets of silver and four bolts of brocade to thank Mrs. Zhen. He also sent a secret letter to Feng Su, asking him to request Jiao Xing from Mrs. Zhen to be his concubine.",
+      "ru": "На следующий день рано утром Юйцунь прислал человека с двумя пакетами серебра и четырьмя кусками парчи в благодарность жене Чжэня, а также передал тайное письмо Фэн Су, в котором просил его выпросить у жены Чжэня ту самую Цзяосин себе в наложницы.",
+      "ja": "翌日、早くも雨村が人を遣わして銀子二封、錦緞四匹を送り、甄家の娘子に答礼し、また密書を一封封粛に寄せて、甄家の娘子にあの嬌杏を二房（妾）として乞い受けてくれるよう頼んだ。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline",
+          "original": "雨村已是下流人物，看此，今之如雨村者亦未有矣。",
+          "zh_modern": "雨村已是个下流人物，看到这里，觉得如今像雨村这样的人也没有了。",
+          "en": "Yucun is already a low character; looking at this, there are none like Yucun today.",
+          "ru": "Юйцунь уже показал себя низким человеком; глядя на это, понимаешь, что нынче таких, как он, и не сыщешь.",
+          "ja": "雨村已に是れ下流の人物、此を見るに、今の雨村の如き者も亦た未だ有らざるなり。"
+        },
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline after 作二房",
+          "original": "谢礼却为此。险哉，人之心也！",
+          "zh_modern": "谢礼原来是为了这个。人心真是险恶啊！",
+          "en": "The thanks-offering was actually for this. Dangerous indeed is the human heart!",
+          "ru": "Благодарственный дар был ради этого. Опасно же человеческое сердце!",
+          "ja": "謝礼却って此の為なり。険なるかな、人の心や！"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "pdf_page": 30,
+      "type": "prose",
+      "original": "封肃喜得屁滚尿流，巴不得去奉承，便在女儿前一力撺掇成了，乘夜只用一乘小轿，便把娇杏送进去了。",
+      "zh_modern": "封肃高兴得屁滚尿流，巴不得去奉承太爷，便在女儿面前极力撺掇，把事办成了。趁着夜色，只用一乘小轿，就把娇杏送进衙门去了。",
+      "en": "Feng Su was so happy he peed his pants; eager to curry favor, he did his utmost to persuade his daughter until she agreed. Under cover of night, using only a small sedan chair, he sent Jiao Xing in.",
+      "ru": "Фэн Су от радости чуть в штаны не наложил; он жаждал выслужиться и стал изо всех сил уговаривать дочь, пока та не согласилась. Под покровом ночи в маленьком паланкине Цзяосин отправили к Юйцуню.",
+      "ja": "封粛は喜びのあまり屁をこき尿を漏らすほどで、ここぞとばかりに奉承しようとし、娘の前で極力勧めてまとめあげ、夜に乗じてただ一乗の小轎を用いて、嬌杏を送り込んでしまった。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline after 成",
+          "original": "一语道尽。",
+          "zh_modern": "一句话说尽了情态。",
+          "en": "One phrase says it all.",
+          "ru": "Одной фразой сказано все.",
+          "ja": "一語道い尽くす。"
+        },
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline",
+          "original": "知己相逢，得遂平生，一大快事。",
+          "zh_modern": "知己相逢，平生夙愿得偿，这是一大快事。",
+          "en": "Meeting a knowing friend and fulfilling one's life's desire is a great joy.",
+          "ru": "Встретить понимающего друга и исполнить желание всей жизни — великая радость.",
+          "ja": "知己相逢い、平生を遂ぐるを得たり、一大快事なり。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "pdf_page": 30,
+      "type": "prose",
+      "original": "雨村欢喜自不必说。乃封百金赠封肃，外又谢甄家娘子许多物事，令其好生养赡，以待寻访女儿下落。封肃回家无话。",
+      "zh_modern": "雨村的欢喜自然不必多说。于是封了一百两银子送给封肃，另外又谢了甄家娘子许多东西，让她好好保养身体，等待寻访女儿的下落。封肃回家后无话可说。",
+      "en": "Yucun's joy goes without saying. He sealed a hundred taels of gold [silver] to give to Feng Su, and additionally thanked Mrs. Zhen with many gifts, telling her to take good care of herself and wait for news of her daughter. Feng Su returned home and said nothing.",
+      "ru": "Радость Юйцуня не требует описания. Он пожаловал сто лянов серебра Фэн Су, а также отблагодарил жену Чжэня множеством вещей, велев ей беречь себя и ждать вестей о дочери. Фэн Су вернулся домой и молчал.",
+      "ja": "雨村の歓喜は言うまでもない。そこで百金を封じて封粛に贈り、ほかに甄家の娘子にも多くの品物を謝礼として送り、娘の行方を捜し出すのを待つ間、よく養生するよう伝えた。封粛は家に帰って言葉もなかった。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline",
+          "original": "找前伏后。",
+          "zh_modern": "照应前文，埋伏后文。",
+          "en": "Callbacks to the past and foreshadowing for the future.",
+          "ru": "Отсылка к прошлому и намек на будущее.",
+          "ja": "前を探り後に伏す。"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "Page starts with the header for Chapter 2, but the text continues the Jiao Xing narrative directly.",
+    "'Jiao Xing' (娇杏) is homophonous with 'Jiaoxing' (侥幸), meaning 'Lucky' or 'Fluke'. The commentary explicitly discusses this, contrasting her accidental rise with true heroism.",
+    "Zhiyan Zhai includes a meta-commentary ('Yu Pi Chong Chu') explaining his editing process and why comments might repeat or reference future events ('foreshadowing').",
+    "'Gourd Case' (葫芦案) is explicitly foreshadowed here when Yucun promises to find the lost daughter (Yinglian).",
+    "Jia Yucun's character is critiqued by the commentator as 'low' (下流) for using his power to take a maid as a concubine under the guise of gratitude."
+  ],
+  "research_notes": [
+    "Confirmed the 'Jiao Xing' pun.",
+    "Analyzed the meta-commentary by Zhiyan Zhai regarding the nature of his notes.",
+    "Identified the 'Hongfu' and 'Ziyan' allusions (heroic women in romance) which Jiao Xing is contrasted against."
+  ],
+  "characters_appearing": [
+    "封肃",
+    "甄士隐 (mentioned)",
+    "甄家娘子",
+    "娇杏",
+    "贾雨村 (mentioned as 太爷)",
+    "公差"
+  ],
+  "total_segments": 13,
+  "manuscript_sources_on_page": [
+    "Zhiping"
+  ]
+}
