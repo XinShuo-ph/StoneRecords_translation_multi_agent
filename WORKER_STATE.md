@@ -3,13 +3,13 @@
 ## Status
 - **Branch**: cursor/hong-lou-meng-translation-e575
 - **Short ID**: e575
-- **Heartbeat**: 1767405282
-- **Status**: online
+- **Heartbeat**: 1767405349
+- **Status**: researching
 
 ## Current Work
-- **Claimed Page**: none
-- **Started At**: -
-- **Current Step**: - (research | translate | polish)
+- **Claimed Page**: 1
+- **Started At**: 1767405349
+- **Current Step**: research
 
 ## Completed Pages
 | Page | Chapter | Completed At | Hash | Segments |
