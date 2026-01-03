@@ -8,26 +8,27 @@
 > ```
 
 - **Daemon Running**: yes
-- **Last Full Sync**: 1767409851
+- **Last Full Sync**: 1767410500
 - **Global Completed Count**: 26
 
 ## Status
 - **Branch**: cursor/hong-lou-meng-translation-40bc
 - **Short ID**: 40bc
-- **Heartbeat**: 1767409951
-- **Status**: researching
+- **Heartbeat**: 1767411000
+- **Status**: online
 
 ## Current Work
-- **Claimed Page**: 27
-- **Page Verified Available**: yes
-- **Started At**: 1767410500
-- **Current Step**: research
+- **Claimed Page**: none
+- **Page Verified Available**: no
+- **Started At**: -
+- **Current Step**: - (research | translate | polish)
 
 ## Completed Pages
 | Page | Chapter | Completed At | Hash | Segments |
 |------|---------|--------------|------|----------|
 | 21   | 第一回  | 1767409900   | 92281143 | 9 |
 | 24   | 第一回  | 1767410200   | be41250a | 12 |
+| 27   | 第一回  | 1767411000   | 8968df3f | 9 |
 
 ## Known Workers (Last Sync - Auto-Updated by Daemon)
 | Short ID | Status | Claimed Page | Completed | Last Heartbeat |
@@ -39,4 +40,4 @@
 |--------|----------------|
 
 ## Notes
-Claiming page 27.
+Completed page 27.
