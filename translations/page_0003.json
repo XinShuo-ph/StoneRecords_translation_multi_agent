@@ -1,0 +1,101 @@
+{
+  "page": 3,
+  "chapter": "前言",
+  "chapter_title": null,
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "本电子版仅供网络阅读、检索之用。写文章引用务请核对相关影印本。",
+      "zh_modern": "本电子版仅供网络阅读、检索之用。写文章引用时务必请核对相关影印本。",
+      "en": "This electronic edition is for online reading and reference only. When citing in written works, please verify against relevant facsimile editions.",
+      "ru": "Это электронное издание предназначено только для онлайн-чтения и справки. При цитировании в письменных работах, пожалуйста, сверяйтесь с соответствующими факсимильными изданиями.",
+      "ja": "この電子版はオンライン閲覧・検索用のみです。論文等で引用する際は、必ず関連する影印本と照合してください。",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "声明：本书由 Kolistan 汇校整理、制作并免费提供下载。允许在不改变其内容完整的前提下自由传播，但禁止用于商业用途。其他网站转载本书全部或部分内容时，必须注明整理者联系资料及抗琴居网址。照搬本书内容或仿局部改动，而冒夏（或删除）整理者名字另行发表者，我们保留追究的权利。",
+      "zh_modern": "声明：本书由 Kolistan 汇校整理、制作并免费提供下载。允许在不改变其内容完整性的前提下自由传播，但禁止用于商业用途。其他网站转载本书全部或部分内容时，必须注明整理者联系资料及抗琴居网址。照搬本书内容或稍作局部改动，而冒用（或删除）整理者名字另行发表者，我们保留追究的权利。",
+      "en": "Notice: This book was compiled and produced by Kolistan and is freely available for download. Free distribution is permitted provided the content remains complete and unaltered, but commercial use is prohibited. Other websites reproducing all or part of this book must credit the compiler's contact information and the Kangqinju website. We reserve the right to pursue those who copy the content or make minor alterations while falsely claiming authorship or removing the compiler's name.",
+      "ru": "Уведомление: Эта книга была составлена и подготовлена Kolistan и распространяется бесплатно. Свободное распространение разрешено при условии сохранения полноты и неизменности содержания, но коммерческое использование запрещено. Другие веб-сайты, воспроизводящие всю книгу или её часть, должны указывать контактную информацию составителя и адрес сайта Канцзюйцзю. Мы оставляем за собой право преследовать тех, кто копирует содержание или вносит незначительные изменения, ложно заявляя об авторстве или удаляя имя составителя.",
+      "ja": "声明：本書は Kolistan により彙校整理・制作され、無料でダウンロード提供されています。内容の完全性を変更しない前提での自由な配布は許可されますが、商業利用は禁止されています。他のウェブサイトが本書の全部または一部を転載する場合、必ず整理者の連絡先情報及び抗琴居のウェブサイトアドレスを明記してください。本書の内容を盗用したり、局所的な改変を行った上で整理者の名前を冒用（または削除）して発表する者に対し、我々は追及する権利を留保します。",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "红楼梦脂评汇校本",
+      "zh_modern": "红楼梦脂评汇校本",
+      "en": "Dream of the Red Chamber: Zhiping Commentary Collated Edition",
+      "ru": "Сон в красном тереме: сводное издание с комментариями Чжипин",
+      "ja": "紅楼夢脂評彙校本",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "版本：3.13（2009.7.20.）",
+      "zh_modern": "版本：3.13（2009年7月20日）",
+      "en": "Version: 3.13 (July 20, 2009)",
+      "ru": "Версия: 3.13 (20 июля 2009 г.)",
+      "ja": "版本：3.13（2009年7月20日）",
+      "commentary": []
+    },
+    {
+      "id": 5,
+      "type": "prose",
+      "original": "曹雪芹著 / 脂砚斋评",
+      "zh_modern": "曹雪芹著 / 脂砚斋评",
+      "en": "Written by Cao Xueqin / Commentary by Zhiyan Zhai",
+      "ru": "Написано Цао Сюэцинем / Комментарии Чжияньчжая",
+      "ja": "曹雪芹著 / 脂硯斎評",
+      "commentary": []
+    },
+    {
+      "id": 6,
+      "type": "prose",
+      "original": "Kolistan 汇校整理、制作",
+      "zh_modern": "Kolistan 汇校整理、制作",
+      "en": "Compiled and produced by Kolistan",
+      "ru": "Собрано и подготовлено Kolistan",
+      "ja": "Kolistan 匯校整理・制作",
+      "commentary": []
+    },
+    {
+      "id": 7,
+      "type": "prose",
+      "original": "抗琴居红楼梦文学社区发布",
+      "zh_modern": "抗琴居红楼梦文学社区发布",
+      "en": "Published by Kangqinju Dream of the Red Chamber Literary Community",
+      "ru": "Опубликовано литературным сообществом «Сон в красном тереме» Канцзюйцзю",
+      "ja": "抗琴居紅楼夢文学コミュニティ発布",
+      "commentary": []
+    },
+    {
+      "id": 8,
+      "type": "prose",
+      "original": "联系方式：Email: kolistan@yahoo.com.cn, QQ: 552129470, MSN: kolistan@msn.com, 网址: http://bbs.hlmbbs.com/",
+      "zh_modern": "联系方式：Email: kolistan@yahoo.com.cn, QQ: 552129470, MSN: kolistan@msn.com, 网址: http://bbs.hlmbbs.com/",
+      "en": "Contact Information: Email: kolistan@yahoo.com.cn, QQ: 552129470, MSN: kolistan@msn.com, Website: http://bbs.hlmbbs.com/",
+      "ru": "Контактная информация: Email: kolistan@yahoo.com.cn, QQ: 552129470, MSN: kolistan@msn.com, Веб-сайт: http://bbs.hlmbbs.com/",
+      "ja": "連絡先：Email: kolistan@yahoo.com.cn, QQ: 552129470, MSN: kolistan@msn.com, ウェブサイト: http://bbs.hlmbbs.com/",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "This page contains the copyright notice and version information for the digital edition compiled by Kolistan",
+    "Version 3.13 was released on July 20, 2009, indicating this is a mature scholarly digital edition with multiple revisions",
+    "The notice explicitly permits free non-commercial distribution while requiring proper attribution",
+    "抗琴居 (Kangqinju) is an online Dream of the Red Chamber scholarly community and forum"
+  ],
+  "research_notes": [
+    "Verified that this is a well-known scholarly digital edition used by researchers",
+    "The version numbering suggests ongoing editorial improvements over time"
+  ],
+  "characters_appearing": [],
+  "total_segments": 8,
+  "manuscript_sources_on_page": []
+}
