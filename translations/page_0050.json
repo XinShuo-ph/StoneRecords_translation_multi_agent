@@ -1,0 +1,125 @@
+{
+  "page": 50,
+  "chapter": "第二回",
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 50,
+      "type": "prose",
+      "original": "雨村笑道：“这也是缘法也。今虽才干不济，却要将就屈致此人。”",
+      "zh_modern": "雨村笑道：“这也是缘分。今天我虽然才干有限，却要将就委屈这个人了。”",
+      "en": "Yucun laughed: “This is also fate (yuanfa). Although my ability is meager, I wish to make do and take this person.”",
+      "ru": "Юйцунь рассмеялся: «Это тоже судьба. Хоть таланты мои и скромны, я все же хочу взять этого человека».",
+      "ja": "雨村は笑いて言う、「これもまた縁法（えんぽう）なり。今、才干済（な）さずといえども、却って将就（しょうしゅう）してこの人を屈致（くっち）せんとす」と。",
+      "commentary": [
+        {
+          "type": "甲戌侧批",
+          "source": "甲戌本",
+          "position": "right margin",
+          "original": "谢得爽快。",
+          "zh_modern": "谢绝得爽快。",
+          "en": "Declined frankly/refused directly.",
+          "ru": "Отказался прямо.",
+          "ja": "謝すること爽快なり。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pdf_page": 50,
+      "type": "prose",
+      "original": "封肃喜出望外，连忙回家，将女儿说了。那丫头听了，也就收拾出来。封肃连夜用一乘小轿，把她送往衙内去了。",
+      "zh_modern": "封肃喜出望外，连忙回家，对女儿说了。那丫头听了，也就收拾打扮出来。封肃连夜用一顶小轿子，把她送进衙门里去了。",
+      "en": "Feng Su was overjoyed beyond expectation. He hurriedly went home and told his daughter. Hearing this, the maid packed up and came out. That very night, Feng Su sent her into the yamen in a small sedan chair.",
+      "ru": "Фэн Су был вне себя от радости. Он поспешно вернулся домой и рассказал дочери. Служанка, услышав это, собралась и вышла. В ту же ночь Фэн Су отправил ее в ямэнь в маленьком паланкине.",
+      "ja": "封粛は望外の喜びに堪えず、連忙（いそが）しく家に帰り、女兒に説く。かの丫頭（あとう）は聴きて、すなわち收拾し出づ。封粛は連夜一乗の小轎を用い、彼女を衙内に送り往かしむ。",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "pdf_page": 50,
+      "type": "prose",
+      "original": "雨村欢喜，自不必说，乃封百金，赠封肃，又致意甄家娘子，令其好生养赡，以待后信。",
+      "zh_modern": "雨村心里欢喜，自然不必细说，便封了一百两银子赠给封肃，又向甄家娘子致意，让她好好保养身体，等待后续的消息。",
+      "en": "Yucun was delighted, needless to say. He sealed a hundred taels of gold (silver) and gave it to Feng Su, and also sent his regards to Master Zhen's wife, telling her to take good care of herself and wait for further news.",
+      "ru": "Радость Юйцуня не требует описания. Он запечатал сто лянов золота (серебра) и подарил Фэн Су, а также передал привет жене Чжэня, велев ей беречь себя и ждать вестей.",
+      "ja": "雨村の歓喜は、自ら説くを必せず、乃ち百金を封じ、封粛に贈り、また甄家の娘子に致意し、それをして好生に養贍（ようせん）せしめ、もって後信を待たしむ。",
+      "commentary": [
+        {
+          "type": "甲戌侧批",
+          "source": "甲戌本",
+          "position": "right margin",
+          "original": "奸雄！",
+          "zh_modern": "奸雄！",
+          "en": "A treacherous hero (Machiavellian figure)!",
+          "ru": "Коварный герой!",
+          "ja": "奸雄（かんゆう）！"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "pdf_page": 50,
+      "type": "prose",
+      "original": "却说娇杏这丫头，便是那年回顾雨村者。因偶然一顾，便弄出这段事来，亦是自己意料所不及之奇兆。",
+      "zh_modern": "再说那娇杏丫头，就是当年回头看雨村的那个人。因为偶然的一次回头，便引出这段姻缘来，这也是她自己意料不到的奇特命运。",
+      "en": "Now, speaking of this maid Jiaoxing, she was the one who had looked back at Yucun that year. Because of that one accidental glance, this series of events arose, a wondrous omen she herself could never have anticipated.",
+      "ru": "Что же до служанки Цзяосин, то это была та самая, что оглянулась на Юйцуня в том году. Из-за одного случайного взгляда возникла эта история — чудесное знамение, которого она и сама не могла ожидать.",
+      "ja": "却説、嬌杏（きょうきょう）という丫頭は、すなわちかの年雨村を回顧せし者なり。偶然の一顧により、すなわちこの段の事弄出し来たるは、またこれ自己の意料及ばざるところの奇兆なり。",
+      "commentary": [
+        {
+          "type": "甲戌眉批",
+          "source": "甲戌本",
+          "position": "top margin",
+          "original": "好极！与英莲“有命无运”四字，遥遥相映。莲，主也；杏，仆也。今主反无运，而仆反有运，九十回后，万机千变，所谓“乱烘烘你方唱罢我登场”，反认他乡是故乡，甚荒唐也。",
+          "zh_modern": "好极了！与英莲的“有命无运”四个字遥相呼应。莲（主子）反倒没有运，杏（仆人）反倒有运。九十回之后，万机千变，所谓“乱烘烘你方唱罢我登场”，把异乡当作故乡，真是荒唐啊。",
+          "en": "Excellent! It corresponds distantly with the four words 'Has life but no luck' for Yinglian. The Lotus (Lian, master) has no luck, while the Apricot (Xing, servant) has luck. After ninety chapters, a thousand changes occur, 'disorderly you sing and I take the stage', mistaking a foreign land for home—how absurd.",
+          "ru": "Превосходно! Это перекликается с фразой «есть жизнь, но нет судьбы» об Инлянь. Лотос (госпожа) не имеет удачи, а Абрикос (служанка) имеет. После девяностой главы всё меняется тысячи раз: «в суматохе ты закончишь петь, а я выйду на сцену», чужой край принимают за родной — как нелепо.",
+          "ja": "好（よ）き極み！英蓮の「有命無運」の四字と、遥遥（ようよう）相映ず。蓮は、主なり；杏は、僕なり。今、主かえって運無く、して僕かえって運有り。九十回の後、万機千変、いわゆる「乱烘烘（らんこうこう）として汝方（まさ）に唱え罷（や）めば我登場す」、かえって他郷を認めてこれ故郷となす、甚だ荒唐なり。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "pdf_page": 50,
+      "type": "prose",
+      "original": "谁想她命运两济，不承望自到雨村身边，只一年便生了一子，又半载，雨村嫡妻忽染疾下世，雨村便将她扶侧作正室夫人了。",
+      "zh_modern": "谁能想到她命运两全，没想到自从到了雨村身边，只过了一年便生了一个儿子，又过了半年，雨村的正妻忽然染病去世，雨村便将她从侧室扶正为正室夫人了。",
+      "en": "Who would have thought her fate would be doubly favored? Unexpectedly, after joining Yucun, she bore a son within a year. Another half-year later, Yucun's lawful wife suddenly fell ill and passed away, and Yucun elevated her from concubine to lawful wife.",
+      "ru": "Кто бы мог подумать, что судьба будет к ней вдвойне благосклонна? Неожиданно, оказавшись рядом с Юйцунем, она через год родила сына. А еще через полгода законная жена Юйцуня внезапно заболела и скончалась, и Юйцунь возвел ее из наложниц в законные жены.",
+      "ja": "誰か想わん彼女が運命両（ふた）つながら済（な）ることを。承望（しょうぼう）せず雨村の身辺に到りてより、ただ一年りして便ち一子を生み、また半載にして、雨村の嫡妻忽ち疾に染まりて世を下り、雨村すなわち彼女を扶けて側より正室夫人と作（な）せり。",
+      "commentary": [
+        {
+          "type": "甲戌侧批",
+          "source": "甲戌本",
+          "position": "right margin",
+          "original": "好极！",
+          "zh_modern": "好极了！",
+          "en": "Excellent!",
+          "ru": "Превосходно!",
+          "ja": "好（よ）き極み！"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "娇杏 (Jiaoxing): A pun on 侥幸 (Jiao Xing), meaning 'Lucky' or 'By chance'. She is the foil to Yinglian (Unlucky).",
+    "扶侧作正 (Fu Ce Zuo Zheng): Elevating a concubine (side) to lawful wife (main). A rare stroke of luck in feudal society.",
+    "命运两济 (Ming Yun Liang Ji): Fate and luck both succeeding. Contrast with Yinglian's 'You Ming Wu Yun'.",
+    "百金 (Bai Jin): Literally 'hundred gold', but often refers to silver in context, or simply a large sum."
+  ],
+  "research_notes": [
+    "This section highlights the theme of unpredictable fate (Propriety/Chaos). The servant rises while the master (Yinglian) falls.",
+    "The Zhiping commentary mentioning 'After 90 chapters' is a crucial textual clue about the original ending of the novel (which is lost/controversial).",
+    "Verified the pun on Jiaoxing's name."
+  ],
+  "characters_appearing": [
+    "Jia Yucun",
+    "Feng Su",
+    "Jiaoxing"
+  ],
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ]
+}
