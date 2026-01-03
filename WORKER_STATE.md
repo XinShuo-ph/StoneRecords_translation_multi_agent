@@ -14,14 +14,14 @@
 ## Status
 - **Branch**: cursor/hong-lou-meng-translation-1c3a
 - **Short ID**: 1c3a
-- **Heartbeat**: 1767411193
+- **Heartbeat**: 1735877200
 - **Status**: online
 
 ## Current Work
-- **Claimed Page**: 47
-- **Page Verified Available**: yes
-- **Started At**: 1735877000
-- **Current Step**: research (research | translate | polish)
+- **Claimed Page**: none
+- **Page Verified Available**: -
+- **Started At**: -
+- **Current Step**: - (research | translate | polish)
 
 ## Completed Pages
 | Page | Chapter | Completed At | Hash | Segments |
@@ -35,6 +35,7 @@
 | 30   | 第一回  | 1735876000   | 72a6abb7 | 4        |
 | 44   | 第一回  | 1735876400   | 2a8a46bf | 5        |
 | 45   | 第一回  | 1735876800   | 494c1f0b | 4        |
+| 47   | 第二回  | 1735877200   | -    | 4        |
 
 ## Known Workers (Last Sync - Auto-Updated by Daemon)
 | Short ID | Status | Claimed Page | Completed | Last Heartbeat |
@@ -46,4 +47,4 @@
 |--------|----------------|
 
 ## Notes
-Claimed page 47.
+Completed page 47. Chapter 2 start.
