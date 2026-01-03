@@ -1,0 +1,97 @@
+{
+  "page": 24,
+  "chapter": "第一回",
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 24,
+      "type": "prose",
+      "original": "后来不知过了几世几劫，因有个空空道人访道求仙，从大荒山无稽崖青埂峰下经过，忽见一大块石上字迹分明，编述历历。",
+      "zh_modern": "后来不知道过了几世几劫，因为有个叫空空道人的修道者访求仙道，从大荒山无稽崖青埂峰下经过，忽然看见一大块石头上字迹清晰，一段段叙述得清清楚楚。",
+      "en": "Later, after unknown ages and kalpas, a Taoist named Vanitas (Empty-Empty), seeking the Way and immortality, passed by the foot of Greensickness Peak on the Incredible Crag of the Great Waste Mountain. Suddenly, he saw a large stone with clear characters, recounting a story in detail.",
+      "ru": "Позже, спустя неведомое число веков и кальп, даос по имени Пустота-Пустота (Ванитас), искавший Путь и бессмертие, проходил у подножия пика Зеленых Зарослей на Невероятном Утесе Горы Великой Пустоши. Вдруг он увидел огромный камень, испещренный четкими иероглифами, подробно излагающими историю.",
+      "ja": "後、知らず幾世幾劫を過ぎしか、空空道人なるものありて道を訪ね仙を求め、大荒山無稽崖青埂峰の下より経過し、忽ち見るに一大塊石の上に字跡分明にして、編述歴歴たり。",
+      "commentary": [
+        {
+          "type": "眉批",
+          "source": "甲戌本",
+          "position": "top margin",
+          "original": "此道人亦来得突兀。",
+          "zh_modern": "这道人来得也很突兀。",
+          "en": "This Taoist also appears abruptly.",
+          "ru": "Этот даос тоже появляется внезапно.",
+          "ja": "この道人もまた来ること突兀たり。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pdf_page": 24,
+      "type": "prose",
+      "original": "空空道人乃从头一看，原来就是无材补天，幻形入世，蒙茫茫大士、渺渺真人携入红尘，历尽离合悲欢炎凉世态的一段故事。",
+      "zh_modern": "空空道人便从头看了一遍，原来这就是那块无材补天的石头，幻化人形入世，承蒙茫茫大士、渺渺真人带入红尘，历尽了悲欢离合、世态炎凉的一段故事。",
+      "en": "Vanitas read it from the beginning. It turned out to be the story of the stone that was unfit to mend the sky, assumed a magical form to enter the world, was taken into the Red Dust by the Great Monk of Impermanence and the Taoist of Transcendent Void, and experienced all the partings and reunions, joys and sorrows, and the fickleness of worldly affairs.",
+      "ru": "Даос Пустота прочел ее с самого начала. Оказалось, это история того самого камня, непригодного для починки небосвода, что принял призрачный облик и вошел в мир, будучи унесенным в Красную Пыль Великим Монахом Безбрежности и Истинным Даосом Непостижимости, где он изведал все расставания и встречи, радости и горести, и холодное непостоянство мирских нравов.",
+      "ja": "空空道人すなわち従頭一看するに、元来これ材無くして天を補わず、形を幻じて世に入り、茫茫大士、渺渺真人を蒙りて紅塵に携入せられ、離合悲歓、炎涼世態を歴尽せし一段の故事なり。",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "pdf_page": 24,
+      "type": "poem",
+      "original": "后面又有一首偈云：\n无材可去补苍天，\n枉入红尘若许年。\n此系身前身后事，\n倩谁记去作奇传？",
+      "zh_modern": "后面又有一首偈语说：\n没有才能去补苍天，\n白白在红尘中混了这么多年。\n这是我前世后世的事情，\n请谁把它记录下来作为奇闻流传？",
+      "en": "On the back, there was a verse:\nUnfit to mend the azure sky,\nI entered the Red Dust in vain for so many years.\nThese are the events of my life before and after;\nWho will record them as a marvelous tale?",
+      "ru": "Сзади была еще одна гатха:\nНет таланта, чтобы небо латать,\nЗря я в Красную Пыль на годы вошел.\nЭто дела моих жизней, прошлой и нынешней,\nКто же запишет их как чудесное сказание?",
+      "ja": "後面また一首の偈ありて云く：\n材無くして去きて蒼天を補うべくもあらず、\n枉（ま）げて紅塵に入ること若許（ソコバク）年。\nこれ身前身後の事に係わる、\n誰をか倩（やと）い去きて記し奇伝と作さん？",
+      "poem_notes": {
+        "form": "七言绝句 (Seven-character quatrain)",
+        "rhyme_scheme": "AABA",
+        "literary_devices": ["Rhetorical question", "Self-reflection"]
+      },
+      "commentary": [
+        {
+          "type": "甲戌双行夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "岂敢！",
+          "zh_modern": "怎敢当！",
+          "en": "How dare I!",
+          "ru": "Как я смею!",
+          "ja": "あえてせんや！"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "pdf_page": 24,
+      "type": "prose",
+      "original": "诗后便是此石坠落之乡，投胎之处，亲自经历的一段陈迹故事。",
+      "zh_modern": "诗后面便是这块石头坠落的家乡，投胎的地方，以及它亲自经历的一段陈旧往事。",
+      "en": "Following the poem was the account of the land where this stone fell, the place of its incarnation, and the traces of the story it personally experienced.",
+      "ru": "Вслед за стихами шло описание родного края, куда упал этот камень, места его воплощения и истории, которую он лично пережил.",
+      "ja": "詩の後はすなわちこの石墜落の郷、投胎の処、親しく経験せし一段の陳跡の故事なり。",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "空空道人 (Kongkong Daoren): Taoist Vanitas or Empty-Empty. His name reflects the Buddhist concept of Śūnyatā (Emptiness).",
+    "红尘 (Hong Chen): Red Dust. A metaphor for the mundane human world with all its sensory distractions.",
+    "炎凉 (Yan Liang): Hot and cold. Refers to the fickleness of human nature—warm to the powerful, cold to the fallen.",
+    "茫茫大士 (Mangmang Dashi): Great Monk of Impermanence/Vastness. 'Mangmang' implies vast, vague, or boundless.",
+    "渺渺真人 (Miaomiao Zhenren): Taoist of Transcendent Void/Remoteness. 'Miaomiao' implies remote, indistinct, or ethereal."
+  ],
+  "research_notes": [
+    "Vanitas (Empty-Empty) serves as the 'editor' or 'discoverer' in the metafictional frame.",
+    "The poem summarizes the Stone's regret and desire for its story to be told.",
+    "Verified the names of the Monk and Taoist (Mangmang and Miaomiao)."
+  ],
+  "characters_appearing": [
+    "Taoist Vanitas (Kongkong Daoren)",
+    "Stone (as the text/narrator)"
+  ],
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ]
+}
