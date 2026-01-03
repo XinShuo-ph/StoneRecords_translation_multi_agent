@@ -1,0 +1,68 @@
+{
+  "page": 2,
+  "chapter": "封面",
+  "chapter_title": {
+    "original": "红楼梦脂评汇校本",
+    "zh_modern": "《红楼梦》脂砚斋评注汇校本",
+    "en": "Dream of the Red Chamber: Collated Edition with Zhiping Commentary",
+    "ru": "Сон в красном тереме: Сводное издание с комментариями Чжиянь Чжая",
+    "ja": "紅楼夢：脂硯斎評注匯校本"
+  },
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 2,
+      "type": "prose",
+      "original": "红楼梦脂评汇校本",
+      "zh_modern": "《红楼梦》脂砚斋评注汇校本",
+      "en": "Dream of the Red Chamber: Collated Edition with Zhiping Commentary",
+      "ru": "Сон в красном тереме: Сводное издание с комментариями Чжиянь Чжая",
+      "ja": "紅楼夢：脂硯斎評注匯校本",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "pdf_page": 2,
+      "type": "prose",
+      "original": "曹雪芹著 / 脂砚斋评",
+      "zh_modern": "曹雪芹著，脂砚斋评注",
+      "en": "Written by Cao Xueqin / Commentary by Zhiyan Zhai",
+      "ru": "Автор: Цао Сюэцинь / Комментарии: Чжиянь Чжай",
+      "ja": "曹雪芹著／脂硯斎評",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "pdf_page": 2,
+      "type": "prose",
+      "original": "Kolistan 汇校整理、制作",
+      "zh_modern": "Kolistan 汇校整理、制作",
+      "en": "Collated and produced by Kolistan",
+      "ru": "Сведено и составлено Kolistan",
+      "ja": "Kolistan 匯校整理・制作",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "pdf_page": 2,
+      "type": "prose",
+      "original": "抗翠居红楼梦文学社区发布",
+      "zh_modern": "抗翠居红楼梦文学社区发布",
+      "en": "Published by Kangcuiju Red Chamber Literature Community",
+      "ru": "Опубликовано литературным сообществом «Канцуйцзюй» по «Сну в красном тереме»",
+      "ja": "抗翠居紅楼夢文学コミュニティ発行",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "抗翠居 (Kangcuiju) is the name of an online community dedicated to Dream of the Red Chamber scholarship",
+    "This page serves as the internal title page with publication information"
+  ],
+  "research_notes": [
+    "Verified community name and publishing information"
+  ],
+  "characters_appearing": [],
+  "total_segments": 4,
+  "manuscript_sources_on_page": []
+}
