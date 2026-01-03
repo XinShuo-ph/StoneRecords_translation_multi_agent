@@ -1,0 +1,80 @@
+{
+  "page": 64,
+  "chapter": "第二回",
+  "page_content_type": "chapter_end",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 64,
+      "type": "prose",
+      "original": "雨村正值要入都干营谋缺，当下听了冷子兴的话，忙忙的别了子兴，回到馆中。次日，面谋之如海。",
+      "zh_modern": "雨村正赶上想要进京谋求复职补缺，当时听了冷子兴的话，急忙告别了子兴，回到馆舍。第二天，便当面向林如海谋划此事。",
+      "en": "Yucun was just intending to go to the capital to seek a vacancy for reinstatement. Upon hearing Leng Zixing's words, he hurriedly bid farewell to Zixing and returned to his lodgings. The next day, he consulted with Ruhai face to face.",
+      "ru": "Юйцунь как раз собирался отправиться в столицу, чтобы похлопотать о должности. Услышав слова Лэн Цзысина, он поспешно распрощался с ним и вернулся к себе. На следующий день он лично обсудил это с Жухаем.",
+      "ja": "雨村正に都に入りて缺（けつ）を営謀（えいぼう）せんと値（あ）たるに、当下（とうげ）冷子興の話を聴き、忙忙（ぼうぼう）として子興に別れ、館中に回（かえ）る。次日、面（まのあ）たりこれを如海に謀る。",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "pdf_page": 64,
+      "type": "prose",
+      "original": "如海笑道：“天缘凑巧！因贱荆去世，都中家岳母念及小女无人依傍教育，前已遣了男女船只来接，因小女未康复，故未及行。今已大愈，正不日要送去。",
+      "zh_modern": "林如海笑道：“真是天缘凑巧！因为拙荆去世，京城的岳母念及小女没有人依靠教养，前些日子已经派了男女船只来接，因为小女身体未康复，所以没能成行。如今已经大好了，正好这几天就要送去。",
+      "en": "Ruhai smiled: “It is a coincidence ordained by Heaven! Because my humble wife passed away, my mother-in-law in the capital worried that my daughter has no one to rely on for upbringing. She had already sent boats with menservants and maidservants to fetch her, but because my daughter had not yet recovered, she could not go. Now she is fully recovered, and I intend to send her off in a few days.",
+      "ru": "Жухай улыбнулся: «Поистине небесное совпадение! Из-за кончины моей супруги моя теща в столице беспокоится, что у моей дочери нет никого, кто бы о ней позаботился и воспитал. Она уже прислала лодки со слугами и служанками, чтобы забрать ее, но так как моя дочь еще не поправилась, она не могла ехать. Ныне она совсем здорова, и на днях я собираюсь отправить ее.",
+      "ja": "如海は笑いて言う、「天縁湊巧（そうこう）す！賤荊（せんケイ）去世するに因り、都中の家岳母、小女の人として依傍し教育するもの無きを念じ、前（さき）に已に男女船只（せんせき）を遣わして来たりて接（むか）えしむるも、小女未だ康復せざるに因り、故に未だ行くに及ばず。今已に大いに愈（い）え、正に不日（ふじつ）送去せんとす。",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "pdf_page": 64,
+      "type": "prose",
+      "original": "亦因弟只此一女，虽不忍别，终不若归向大家去，为妥便之计。弟已预备了荐书一封，托内兄烦为周全，亦不致使弟为旅寓之困。至于盘费，弟已修下，足供一路之用，亦不劳弟费心。”",
+      "zh_modern": "也因为小弟只有这一个女儿，虽然不忍心离别，但终究不如归向大家族去，才是妥当方便的计策。小弟已经预备了一封推荐信，托付内兄（贾政）烦请周全照应，也不致使老弟遭受客居旅途的困顿。至于盘缠路费，小弟已经备好，足以供一路使用，也不劳老弟费心。”",
+      "en": "Also, because I have only this one daughter, although I cannot bear to part with her, ultimately it is better for her to return to the great family; that is the most proper plan. I have already prepared a letter of recommendation, entrusting my brother-in-law to kindly arrange everything, so that you will not suffer the hardships of being a sojourner. As for travel expenses, I have already prepared them, sufficient for the journey, so you need not worry about that either.”",
+      "ru": "К тому же, у меня только эта одна дочь. Хоть мне и невыносимо расставаться с ней, все же лучше ей вернуться в большой дом — это самый разумный план. Я уже подготовил рекомендательное письмо, поручив моему шурину позаботиться обо всем, чтобы вам не пришлось терпеть лишения на чужбине. Что до путевых расходов, я уже все приготовил, этого хватит на всю дорогу, так что не беспокойтесь об этом».",
+      "ja": "亦た弟（てい）只だ此の一女あるに因り、別れに忍びずといえども、終（つい）に大家に帰向し去くに若（し）かず、妥便の計と為す。弟已に預め荐書（せんしょ）一封を備え、内兄に托して煩わして周全を為さしめ、亦た弟をして旅寓の困を為さしむるを致さじ。盤費に至りては、弟已に修下し、一路の用に供するに足り、亦た弟の心を費やすを労せじ」と。",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "pdf_page": 64,
+      "type": "prose",
+      "original": "雨村打躬谢了。如海即打点礼物并送行盘费。至十九日，雨村先将家小送至原籍，自己带了两个小童，依附黛玉而行。",
+      "zh_modern": "雨村鞠躬致谢。林如海随即打点礼物并送行的盘缠。到了十九日，雨村先把家眷送回原籍，自己带了两个小童，依附跟随黛玉同行。",
+      "en": "Yucun bowed and thanked him. Ruhai immediately arranged gifts and travel expenses for the farewell. On the nineteenth, Yucun first sent his family to his ancestral home, then took two young servants and traveled accompanying Daiyu.",
+      "ru": "Юйцунь поклонился и поблагодарил. Жухай тут же приготовил подарки и путевые деньги. Девятнадцатого числа Юйцунь сначала отправил семью в родные места, а сам, взяв двух слуг, отправился в путь вместе с Дайюй.",
+      "ja": "雨村打躬（だきゅう）して謝す。如海即ち礼物ならびに送行の盤費を打点す。十九日に至り、雨村先ず家小を原籍に送至し、自己は兩個の小童を帯び、黛玉に依附して行く。",
+      "commentary": [
+        {
+          "type": "甲戌双行夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "这也是极忙之笔。意欲写黛玉由南至北，不得不先将雨村安置明白，方好叙出荣府众人来。",
+          "zh_modern": "这也是极匆忙的笔法。想要写黛玉由南到北，不得不先将雨村安置明白，才好叙述荣国府的众人来。",
+          "en": "This is also extremely swift writing. To write of Daiyu going from south to north, one must first settle Yucun's matters clearly, before one can properly narrate the people of the Rong Mansion.",
+          "ru": "Это тоже написано очень сжато. Чтобы описать путь Дайюй с юга на север, нужно сначала разобраться с Юйцунем, и лишь тогда можно будет перейти к описанию людей из дворца Жун.",
+          "ja": "這れも亦た極めて忙の筆なり。黛玉の南より北に至るを写さんと意欲し、不得不（やむをえず）先ず雨村を安置し明白にして、方（はじ）めて好く栄府の衆人を叙し出だす。"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "贱荆 (Jian Jing): Humble wife. A self-deprecating term used by husbands to refer to their wives.",
+    "内兄 (Nei Xiong): Wife's older brother. Refers to Jia Zheng.",
+    "依附 (Yi Fu): To attach oneself to / depend on. Yucun travels under the protection/convenience of the official entourage of the Salt Commissioner's daughter.",
+    "天缘凑巧 (Tian Yuan Cou Qiao): A coincidence ordained by Heaven. Fits the theme of karmic connections."
+  ],
+  "research_notes": [
+    "This page bridges the gap between Yangzhou and the Capital. Yucun's reinstatement is tied to Daiyu's journey.",
+    "The separation of Daiyu from her father is tragic but presented as 'proper' (to be raised by the maternal grandmother).",
+    "Zhiping commentary notes the narrative economy: using Yucun's journey to facilitate Daiyu's introduction to the Rongguo Mansion."
+  ],
+  "characters_appearing": [
+    "Jia Yucun",
+    "Lin Ruhai"
+  ],
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ]
+}
