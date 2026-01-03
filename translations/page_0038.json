@@ -1,0 +1,209 @@
+{
+  "page": 38,
+  "chapter": "第二回",
+  "chapter_title": {
+    "original": "贾夫人仙逝扬州城 冷子兴演说荣国府",
+    "zh_modern": "贾敏夫人在扬州城去世，冷子兴讲述荣国府的情况",
+    "en": "Lady Jia Dies in Yangzhou; Leng Zixing Describes the Rong-guo House",
+    "ru": "Госпожа Цзя умирает в Янчжоу; Лэн Цзысин рассказывает о доме Жунго",
+    "ja": "賈夫人、揚州城にて仙逝し、冷子興、栄国府を演説す"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "得两个女儿伴着我读书，我方能认得字，心里也明白，不然我自己心里糊涂。又常对跟他的小厮们说：『这女儿两个字，极尊贵，极清净的，比那阿弥陀佛、元始天尊的这两个宝号还更尊荣无对的呢！你们这浊口臭舌，万不可唐突了这两个字，要紧！但凡要说时，必须先用清水香茶漱了口才可，设若失错，便要龇牙咧嘴等事。』",
+      "zh_modern": "得有两个女孩陪伴着我读书，我才能认得字，心里也明白，不然我自己心里糊涂。』又常对跟随他的小厮们说：『「女儿」这两个字，极其尊贵，极其清净，比那阿弥陀佛、元始天尊这两个宝号还要更加尊荣无比呢！你们这些污浊的嘴巴、臭的舌头，万万不可亵渎了这两个字，要紧！凡是要说的时候，必须先用清水香茶漱了口才可以，如果说错了，就要被打得龇牙咧嘴等等。』",
+      "en": "With two girls keeping me company while I study, only then can I recognize characters and understand things in my heart—otherwise my mind is muddled.' He would also often say to the servant boys attending him: 'These two characters for \"daughter\" are supremely noble and supremely pure—even more honored and incomparable than the precious titles of Amitabha Buddha and the Primordial Heavenly Worthy! You with your foul mouths and stinking tongues must never profane these two characters—this is crucial! Whenever you wish to speak them, you must first rinse your mouths with pure water and fragrant tea. If you err, you shall be beaten until you bare your teeth and grimace!'",
+      "ru": "Когда две девочки составляют мне компанию во время учёбы, только тогда я могу узнавать иероглифы и понимать вещи в сердце — иначе мой разум затуманен.» Он также часто говорил мальчикам-слугам, прислуживавшим ему: «Эти два иероглифа «дочь» в высшей степени благородны и в высшей степени чисты — даже более почитаемы и несравненны, чем драгоценные титулы Будды Амитабхи и Первозданного Небесного Достопочтенного! Вы со своими грязными ртами и вонючими языками никогда не должны осквернять эти два иероглифа — это важно! Когда захотите произнести их, сначала прополощите рот чистой водой и ароматным чаем. Если ошибётесь, будете биты, пока не оскалите зубы и не скривитесь!»",
+      "ja": "両個の女児に伴われて我読書すれば、我方に字を認め得て、心裏も明白なり、然らずんば我自ら心裏糊涂す。』又常に彼に跟く小厮等に対して説う：『この「女児」両字、極めて尊貴、極めて清浄、彼の阿弥陀仏、元始天尊のこの両個の宝号よりも更に尊栄にして対なきなり！汝等この濁口臭舌、万々この両字を唐突すべからず、要緊なり！但し凡そ説かんと要する時、必ず先ず清水香茶を以て口を漱ぎてのち可なり、設し失錯あらば、便ち齜牙咧嘴等の事あるべし。』",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 不然我自己心里糊涂",
+          "original": "甄家之宝玉乃上半部不写者，故此处极力表明，以遥照贾家之宝玉。凡写贾宝玉之文，则正为真宝玉传影。",
+          "zh_modern": "甄家的宝玉是上半部不写的，所以此处极力表明，以遥遥照应贾家的宝玉。凡是写贾宝玉的文字，则正是为真宝玉作传影。",
+          "en": "Zhen family's Baoyu is not written in the first half, so here it is emphatically shown, to distantly mirror Jia Baoyu. All passages about Jia Baoyu are actually reflections of the true Baoyu.",
+          "ru": "Баоюй семьи Чжэнь не описан в первой половине, поэтому здесь это настойчиво показано, чтобы издалека отразить Цзя Баоюя. Все отрывки о Цзя Баоюе на самом деле являются отражениями истинного Баоюя.",
+          "ja": "甄家の宝玉は上半部に写さざる者なり、故に此処極力表明し、以て遥かに賈家の宝玉を照らす。凡そ賈宝玉を写す文は、則ち正に真宝玉の為に伝影す。"
+        },
+        {
+          "type": "夹批",
+          "source": "脂砚斋",
+          "position": "inline, after 要紧",
+          "original": "阎[闘]故[作]险笔，以为后文之伏线。",
+          "zh_modern": "故意写得险峻，以为后文埋下伏笔。",
+          "en": "Deliberately writing daringly, to lay groundwork for later text.",
+          "ru": "Намеренно пишет дерзко, чтобы заложить основу для дальнейшего текста.",
+          "ja": "故に険筆を作し、以て後文の伏線と為す。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "其暴虐浮躁，顽劣愚痴，种种异常。只一放了学，进去见了那些女儿们，其温厚和平，聪敏文雅，竟又变了一个。因此，他令尊也曾下死笞楚过几次，无奈竟不能改。每打的吃疼不过时，他便『姐姐』『妹妹』乱叫起来。",
+      "zh_modern": "他暴躁轻浮、顽劣愚痴，种种行为都异于常人。只是一放了学，进去见了那些女孩们，他就变得温厚和平、聪敏文雅，竟像换了一个人似的。因此，他父亲也曾狠狠打过他几次，无奈他竟然改不了。每次被打得疼痛难忍的时候，他便乱叫『姐姐』『妹妹』。",
+      "en": "He was violent and impetuous, stubborn and foolish—all manner of abnormality. But as soon as he finished school and went inside to see those girls, he would become warm and gentle, clever and refined—as if he had transformed into a different person. For this reason, his father had beaten him severely several times, but to no avail—he simply could not change. Whenever the beatings became unbearably painful, he would cry out wildly 'Sister! Sister!'",
+      "ru": "Он был жестоким и вспыльчивым, упрямым и глупым — всевозможные отклонения. Но как только он заканчивал учёбу и шёл внутрь видеть тех девочек, он становился тёплым и мягким, умным и утончённым — как будто превращался в другого человека. По этой причине отец жестоко бил его несколько раз, но безрезультатно — он просто не мог измениться. Когда побои становились невыносимо болезненными, он кричал: «Сестра! Сестра!»",
+      "ja": "その暴虐浮躁、頑劣愚痴、種種異常なり。只一たび放学するや、進みて彼の女児等を見れば、その温厚和平、聡敏文雅、竟に又一個に変ぜり。因りて、彼の令尊も曾て死に笞楚すること幾次、奈何ともすべからず竟に改むる能わず。毎に打たれて吃疼不過なる時、彼便ち『姐姐』『妹妹』と乱叫し起こす。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 竟又变了一个",
+          "original": "与前八个字嫡对。",
+          "zh_modern": "与前面八个字正好对照。",
+          "en": "Directly contrasts with the previous eight characters.",
+          "ru": "Прямо контрастирует с предыдущими восемью иероглифами.",
+          "ja": "前の八字と嫡対す。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "以自古未闻之奇语，故写成自古未有之奇文。此是一部书中大调侃寓意处。盖作者实因鹓鶵之悲、棠棣之威，故撰此闺阁庭帏之传。后来听得里面女儿们拿他取笑：『因何打急了只管唤姐姐妹做甚？莫不是求姐妹去讨情讨饶？你岂不愧些！』他回答的最妙。他说：『急疼之时，只叫姐姐、妹妹字样，或可解疼也未可知，因叫了一声，便果觉不疼了，遂得了秘方。每疼痛之极，便连叫姐妹起来了。』",
+      "zh_modern": "用自古以来未曾听闻的奇语，所以写成了自古以来未曾有过的奇文。这是整部书中大开玩笑、寄托深意的地方。因为作者实因鹓鸜之悲、棠棣之威，所以撰写这闺阁庭帷的传记。后来听说里面的女孩们拿他取笑：『为什么打急了只管叫姐姐妹妹做什么？莫不是要求姐妹去讨情求饶？你难道不觉得惭愧吗！』他回答得最妙。他说：『急疼的时候，只叫「姐姐」「妹妹」这样的字眼，或许可以解痛也说不定，因为叫了一声，便果然觉得不疼了，于是得了这个秘方。每到疼痛极点的时候，便连连叫姐妹起来了。』",
+      "en": "Using language unheard of since ancient times, he thus wrote a text unparalleled since ancient times. This is where the great jest and hidden meaning of the entire book lies. The author actually wrote this chronicle of the women's chambers because of the sorrow of the oriole and the majesty of the cherry blossom. Later, the girls inside were heard teasing him: 'Why do you keep calling for sisters when being beaten? Are you asking your sisters to plead for mercy? Aren't you ashamed!' His answer was most wonderful. He said: 'When in sudden pain, calling out \"Sister, Sister\" might relieve the pain—who knows? When I called out once, I indeed felt the pain lessen, and thus I discovered this secret remedy. Now whenever the pain becomes extreme, I call out for sisters repeatedly.'",
+      "ru": "Используя язык, неслыханный с древних времён, он написал текст, беспрецедентный с древних времён. В этом заключается великая шутка и скрытый смысл всей книги. Автор на самом деле написал эту хронику женских покоев из-за печали иволги и величия вишнёвого цвета. Позже девочки внутри дразнили его: «Почему ты продолжаешь звать сестёр, когда тебя бьют? Ты просишь сестёр просить о пощаде? Тебе не стыдно!» Его ответ был превосходен. Он сказал: «Когда внезапная боль, крик «Сестра, сестра» может облегчить боль — кто знает? Когда я крикнул один раз, я действительно почувствовал, что боль уменьшилась, и так я открыл это тайное средство. Теперь, когда боль становится невыносимой, я неоднократно зову сестёр.»",
+      "ja": "自古未聞の奇語を以て、故に自古未有の奇文を写し成す。此れ是れ一部の書中の大調侃寓意の処なり。蓋し作者実に鹓鶵の悲、棠棣の威に因り、故に此の閨閣庭帷の伝を撰す。後来裏面の女児等が彼を拿りて取笑するを聴く：『因りて何ぞ打ち急げば只管姐姐妹妹を喚ぶは何を做すや？莫とも是れ姐妹に求め討情討饒に去かしむるや？汝豈に愧じざらんや！』彼の回答最も妙なり。彼説う：『急疼の時、只姐姐、妹妹の字様を叫ばば、或いは解疼すべきやも未だ知るべからず、因りて一声叫べば、便ち果して疼まざるを覚え、遂に秘方を得たり。毎に疼痛の極に至れば、便ち連ねて姐妹を叫び起こす。』",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 闺阁庭帏之传",
+          "original": "闲闲逗出无穷奇语，都只为下文。",
+          "zh_modern": "闲闲地引出无穷的奇语，都只是为了下文。",
+          "en": "Leisurely drawing out endless marvelous language, all just for what follows.",
+          "ru": "Неспешно выводя бесконечный чудесный язык, всё только для того, что следует.",
+          "ja": "閑閑として無窮の奇語を逗き出す、都て只下文の為なり。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "你说可笑不可笑？他因祖母溺爱不明，每因孙辱师责子，因此我就辞了馆出来。如今在巡盐御史林家坐馆了。你看，这等子弟，必不能守祖父之根基，从师长之规谏的。只可惜他家几个好姊妹，都是少有的。」",
+      "zh_modern": "你说可笑不可笑？他因为祖母溺爱糊涂，每次因为孙子的缘故辱骂老师、责备儿子，因此我就辞了馆出来了。如今在巡盐御史林家坐馆了。你看，这等子弟，必定不能守住祖父的根基，听从师长的规劝。只可惜他家几个好姊妹，都是少有的。」",
+      "en": "Isn't that laughable? Because his grandmother doted on him foolishly, she would insult the tutor and blame her son on account of her grandson. So I resigned my position. Now I'm tutoring at the household of the Salt Censor Lin. You see, such a young master surely cannot preserve his ancestors' foundation or follow his elders' admonitions. It's only a pity that his several fine sisters are all exceptional.'",
+      "ru": "Разве это не смешно? Поскольку бабушка баловала его неразумно, она оскорбляла наставника и обвиняла сына из-за внука. Поэтому я ушёл с должности. Теперь я преподаю в доме Соляного цензора Линя. Видишь ли, такой молодой господин, конечно, не сможет сохранить основу предков или следовать наставлениям старших. Жаль только, что его несколько прекрасных сестёр — все исключительны.»",
+      "ja": "汝説え可笑か不可笑か？彼祖母の溺愛不明なるに因り、毎に孫の因に師を辱め子を責む、因りて此に我便ち館を辞して出で来たれり。如今巡塩御史林家に坐館す。汝看よ、此の等の子弟、必ず祖父の根基を守る能わず、師長の規諫に従う能わず。只惜しむべし彼の家の幾個の好姊妹、都て是れ少有なり。」",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 都是少有的",
+          "original": "实点一笔。余谓作者必有。",
+          "zh_modern": "实实在在点出一笔。我认为作者必定有这样的经历。",
+          "en": "A real stroke of the brush. I believe the author must have had such experience.",
+          "ru": "Реальный штрих кисти. Я считаю, что автор, должно быть, имел такой опыт.",
+          "ja": "実に一筆を点ず。余謂う作者必ず有りと。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "dialogue",
+      "original": "子兴道：「便是贾府中，现有的三个也不错。政老爷之长女，名元春，现因贤孝才德，选入宫中作女史去了。二小姐乃赦老爷前妻所出，名迎春，三小姐乃政老爷之庶出，名探春，四小姐乃宁府珍爷之胞妹，名唤惜春。因史老夫人极爱孙女，都跟在祖母这边一处读书，听得个个不错。」",
+      "zh_modern": "子兴道：「就是贾府中，现有的三个也不错。政老爷的长女，名叫元春，现在因为贤孝才德，被选入宫中做女史去了。二小姐是赦老爷前妻所生，名叫迎春；三小姐是政老爷庶出的女儿，名叫探春；四小姐是宁府珍爷的亲妹妹，名叫惜春。因为史老太太极爱孙女，都跟在祖母这边一起读书，听说个个都不错。」",
+      "en": "Zixing said: 'Just in the Jia household, the three currently there are quite fine. Master Zheng's eldest daughter, named Yuanchun, has been selected to enter the palace as a lady historian due to her virtuous filial piety and talent. The second young lady is born of Master She's former wife, named Yingchun. The third young lady is Master Zheng's daughter by a concubine, named Tanchun. The fourth young lady is the blood sister of Master Zhen of Ning-guo House, named Xichun. Because the old Lady Shi greatly loves her granddaughters, they all study together at their grandmother's side—I hear each one is quite accomplished.'",
+      "ru": "Цзысин сказал: «Только в семье Цзя трое, что там сейчас, довольно хороши. Старшая дочь господина Чжэна, по имени Юаньчунь, была выбрана во дворец как придворная дама благодаря своей добродетельной сыновней почтительности и таланту. Вторая барышня рождена от прежней жены господина Шэ, её зовут Инчунь. Третья барышня — дочь господина Чжэна от наложницы, её зовут Таньчунь. Четвёртая барышня — родная сестра господина Чжэня из дома Нинго, её зовут Сичунь. Поскольку старая госпожа Ши очень любит внучек, они все учатся вместе у бабушки — говорят, каждая из них весьма способна.»",
+      "ja": "子興道う：「便ち是れ賈府の中、現有の三個も不錯なり。政老爺の長女、名は元春、現に賢孝才徳に因り、宮中に選入して女史と作り去けり。二小姐は乃ち赦老爺の前妻の出す所、名は迎春、三小姐は乃ち政老爺の庶出、名は探春、四小姐は乃ち寧府珍爺の胞妹、名は惜春と喚ぶ。史老夫人極めて孫女を愛するに因り、都て祖母のこの辺に跟りて一処に読書す、聴くに個個不錯なり。」",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 名元",
+          "original": "「原」也。",
+          "zh_modern": "「元」通「原」。",
+          "en": "'Yuan' is homophonous with 'original.'",
+          "ru": "«Юань» омофонно слову «изначальный».",
+          "ja": "「原」なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 选入宫中作女史",
+          "original": "因汉以前例，妙！",
+          "zh_modern": "因循汉朝以前的惯例，妙！",
+          "en": "Following pre-Han precedent—wonderful!",
+          "ru": "Следуя до-ханьскому прецеденту — прекрасно!",
+          "ja": "漢以前の例に因る、妙！"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 名迎",
+          "original": "「应」也。",
+          "zh_modern": "「迎」通「应」。",
+          "en": "'Ying' is homophonous with 'respond.'",
+          "ru": "«Ин» омофонно слову «отвечать».",
+          "ja": "「応」なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 名探",
+          "original": "「叹」也。",
+          "zh_modern": "「探」通「叹」。",
+          "en": "'Tan' is homophonous with 'sigh.'",
+          "ru": "«Тань» омофонно слову «вздох».",
+          "ja": "「嘆」なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline, after 名唤惜",
+          "original": "「息」也。",
+          "zh_modern": "「惜」通「息」。",
+          "en": "'Xi' is homophonous with 'cease.'",
+          "ru": "«Си» омофонно слову «прекратить».",
+          "ja": "「息」なり。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "prose",
+      "original": "因史老夫人极爱孙女，都跟在祖母这边一处读书，听得个个不错。」原因复袭前文未及，正谓源三叠。雨村道：「更",
+      "zh_modern": "因为史老太太极爱孙女，都跟在祖母这边一起读书，听说个个都不错。」（这是重复前面没有说完的话）雨村道：「更",
+      "en": "Because the old Lady Shi greatly loves her granddaughters, they all study together at their grandmother's side—I hear each one is quite accomplished.' (This repeats what was not finished earlier.) Yucun said: 'Furthermore",
+      "ru": "Поскольку старая госпожа Ши очень любит внучек, они все учатся вместе у бабушки — говорят, каждая из них весьма способна.» (Это повторяет то, что не было закончено ранее.) Юйцунь сказал: «Более того",
+      "ja": "史老夫人極めて孫女を愛するに因り、都て祖母のこの辺に跟りて一処に読書す、聴くに個個不錯なり。」（原因前文未だ及ばざるを復袭す、正に源三畳と謂う）雨村道う：「更",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "This page contains Baoyu's famous reverence for women - comparing 'daughter' (女儿) to sacred Buddhist and Taoist titles",
+    "The Four Springs names contain hidden puns: 元迎探惜 = 原应叹息 (should sigh from the beginning) - foreshadowing their tragic fates",
+    "元春 (Yuanchun) = 原 (original); 迎春 (Yingchun) = 应 (respond); 探春 (Tanchun) = 叹 (sigh); 惜春 (Xichun) = 息 (cease/end)",
+    "Baoyu's behavior of calling 'sister' when in pain reveals his psychological attachment to women",
+    "The commentary reveals the Zhen family Baoyu (甄宝玉) mirrors Jia Baoyu - a doppelganger theme",
+    "「鹓鶵之悲、棠棣之威」alludes to classical poetry about birds and flowers, metaphors for the author's personal sorrows",
+    "女史 (lady historian/female scribe) was a palace position for educated women in imperial China"
+  ],
+  "research_notes": [
+    "The Four Springs (四春) represent the four seasons and the cycle of life, with their names progressing from 'original' to 'cease'",
+    "Yuanchun's selection as 女史 elevates the family's status but also foreshadows tragedy (she dies in the palace)",
+    "The commentary confirms that Cao Xueqin had personal experience similar to what he writes about Baoyu",
+    "The 甄/贾 (Zhen/Jia = True/False) duality is a key structural element of the novel"
+  ],
+  "characters_appearing": [
+    "贾宝玉 (Jia Baoyu) - mentioned",
+    "贾元春 (Jia Yuanchun)",
+    "贾迎春 (Jia Yingchun)",
+    "贾探春 (Jia Tanchun)",
+    "贾惜春 (Jia Xichun)",
+    "贾母/史老夫人 (Grandmother Jia/Old Lady Shi)",
+    "贾政 (Jia Zheng) - mentioned",
+    "贾赦 (Jia She) - mentioned",
+    "贾珍 (Jia Zhen) - mentioned",
+    "冷子兴 (Leng Zixing)",
+    "贾雨村 (Jia Yucun)"
+  ],
+  "total_segments": 6,
+  "manuscript_sources_on_page": ["甲戌本", "脂砚斋"]
+}
