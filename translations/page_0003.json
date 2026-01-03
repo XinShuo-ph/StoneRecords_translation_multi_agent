@@ -1,0 +1,71 @@
+{
+  "page": 3,
+  "chapter": "Front Matter",
+  "chapter_title": null,
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 3,
+      "type": "prose",
+      "original": "声明：本书由 Kolistan 汇校整理、制作并免费提供下载，允许在不改变其内容完整的前提下自由传播，但禁止用于商业用途。其他网站转载本书全部或部分内容时，必须注明整理者联系资料及抚琴居网址。照搬本书内容或仅作局部改动，而变更（或删除）整理者名字另行发表者，我们保留追究的权利。",
+      "zh_modern": "声明：本书由 Kolistan 汇校整理、制作并免费提供下载，允许在不改变其内容完整的前提下自由传播，但禁止用于商业用途。其他网站转载本书全部或部分内容时，必须注明整理者联系资料及抚琴居网址。照搬本书内容或仅作局部改动，而变更（或删除）整理者名字另行发表者，我们保留追究的权利。",
+      "en": "Statement: This book was collated, edited, and produced by Kolistan and is provided for free download. Free distribution is permitted provided the content remains intact, but commercial use is prohibited. Websites reposting all or part of this book must include the compiler's contact information and the Fuqinju URL. We reserve the right to pursue action against those who copy the content or make minor changes while altering (or deleting) the compiler's name for republication.",
+      "ru": "Заявление: Эта книга была составлена и подготовлена Kolistan и предоставляется для бесплатного скачивания. Свободное распространение разрешено при условии сохранения целостности содержания, однако коммерческое использование запрещено. Веб-сайты, перепечатывающие книгу полностью или частично, должны указывать контактные данные составителя и адрес сайта Fuqinju. Мы оставляем за собой право преследовать тех, кто копирует содержание или вносит незначительные изменения, меняя (или удаляя) имя составителя при публикации.",
+      "ja": "声明：本書はKolistanにより彙校整理・制作され、無料でダウンロード提供されている。内容の完全性を損なわない前提での自由な頒布は許可するが、商業利用は禁止する。他サイトが本書の全部または一部を転載する際は、必ず整理者の連絡先および撫琴居のURLを明記すること。本書の内容をそのまま、あるいは部分的に改変し、整理者の名前を変更（または削除）して別途発表する者に対しては、追及する権利を留保する。",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "pdf_page": 3,
+      "type": "prose",
+      "original": "红楼梦脂评汇校本 版本：3.13（2009.7.20.）",
+      "zh_modern": "红楼梦脂评汇校本 版本：3.13（2009.7.20.）",
+      "en": "Dream of the Red Chamber Zhiping Collated Edition, Version 3.13 (July 20, 2009)",
+      "ru": "Сон в красном тереме: Сводное издание с комментариями Чжияньчжая, Версия 3.13 (20.07.2009)",
+      "ja": "紅楼夢脂評彙校本 バージョン：3.13（2009.7.20.）",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "pdf_page": 3,
+      "type": "prose",
+      "original": "曹雪芹著／脂砚斋评 Kolistan 汇校整理、制作 抚琴居红楼梦文学社区发布",
+      "zh_modern": "曹雪芹 著 / 脂砚斋 评 / Kolistan 汇校整理、制作 / 抚琴居红楼梦文学社区 发布",
+      "en": "Written by Cao Xueqin / Commentary by Zhiyan Zhai / Collated by Kolistan / Published by Fuqinju Dream of the Red Chamber Literary Community",
+      "ru": "Автор: Цао Сюэцинь / Комментарии: Чжияньчжай / Составитель: Kolistan / Опубликовано: Литературное сообщество Fuqinju",
+      "ja": "曹雪芹 著／脂硯斎 評／Kolistan 彙校整理・制作／撫琴居紅楼夢文学社区 発行",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "pdf_page": 3,
+      "type": "prose",
+      "original": "联系方式：Email：kolistan@yahoo.com.cn QQ：552129470 MSN：kolistan@msn.com 网址：http://bbs.hlmbbs.com/",
+      "zh_modern": "联系方式：Email：kolistan@yahoo.com.cn QQ：552129470 MSN：kolistan@msn.com 网址：http://bbs.hlmbbs.com/",
+      "en": "Contact: Email: kolistan@yahoo.com.cn, QQ: 552129470, MSN: kolistan@msn.com, Website: http://bbs.hlmbbs.com/",
+      "ru": "Контакты: Email: kolistan@yahoo.com.cn, QQ: 552129470, MSN: kolistan@msn.com, Сайт: http://bbs.hlmbbs.com/",
+      "ja": "連絡先：Email：kolistan@yahoo.com.cn QQ：552129470 MSN：kolistan@msn.com URL：http://bbs.hlmbbs.com/",
+      "commentary": []
+    },
+    {
+      "id": 5,
+      "pdf_page": 3,
+      "type": "prose",
+      "original": "本电子版仅供网络阅读、检索之用。写文章引用务请核对相关影印本。",
+      "zh_modern": "本电子版仅供网络阅读、检索之用。写文章引用务请核对相关影印本。",
+      "en": "This electronic edition is for online reading and search purposes only. Please verify against relevant facsimiles when citing in articles.",
+      "ru": "Данная электронная версия предназначена только для чтения онлайн и поиска. При цитировании в статьях, пожалуйста, сверяйтесь с соответствующими факсимильными изданиями.",
+      "ja": "本電子版はネット上の閲覧・検索用である。論文等での引用の際は、必ず関連する影印本と照合されたい。",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "This page contains the copyright statement, version information, and contact details for the digital edition.",
+    "Important scholarly warning included regarding citation."
+  ],
+  "research_notes": [],
+  "characters_appearing": [],
+  "total_segments": 5,
+  "manuscript_sources_on_page": []
+}
