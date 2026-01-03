@@ -1,0 +1,215 @@
+{
+  "page": 20,
+  "chapter": "第一回",
+  "chapter_title": null,
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 20,
+      "type": "prose",
+      "original": "士隐意欲也跟了过去，方举步时，忽听一声霹雳，有若山崩地陷。士隐大叫一声，定睛一看，只见烈日炎炎，芭蕉冉冉，梦中之事便忘了对半。",
+      "zh_modern": "士隐也想跟着过去，刚一抬步，忽听一声霹雳，恍若山崩地裂。他惊叫一声，定睛一看，只见烈日当空，芭蕉摇曳，梦中的事已忘去大半。",
+      "en": "Shiyin was about to follow as well when, just as he stepped forward, a clap of thunder burst forth as though mountains were collapsing and the earth splitting. He cried out, fixed his gaze—and saw only the blazing sun and the drooping banana leaves; of the things in his dream he had already forgotten more than half.",
+      "ru": "Шиинь тоже хотел было последовать за ними, как вдруг, едва он шагнул, грянул гром — точно горы обрушились и земля разверзлась. Он вскрикнул, всмотрелся — и увидел лишь палящее солнце да колышущиеся банановые листья; о случившемся во сне он уже позабыл больше половины.",
+      "ja": "士隠も後を追わんと歩み出しかけた刹那、忽ち霹靂ひびき、山崩れ地裂けるがごとし。士隠は叫び、目を凝らして見るに、烈日の照りつける中、芭蕉は冉冉として、夢中の事どもは早くも半ば以上忘れ果てていた。",
+      "commentary": [
+        {
+          "type": "侧批",
+          "source": "蒙府本",
+          "position": "inline after 定睛一看",
+          "original": "真是大警觉大转身。",
+          "zh_modern": "真是一下子大惊醒、大转身。",
+          "en": "Indeed—a great awakening and a sharp turn.",
+          "ru": "И впрямь — великое пробуждение и резкий поворот.",
+          "ja": "まことに大いなる覚醒、大いなる転身なり。"
+        },
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "position": "inline after 芭蕉冉冉",
+          "original": "醒得无痕，不落旧套。",
+          "zh_modern": "醒得干干净净，不落旧套。",
+          "en": "He wakes without a trace—free of the old clichés.",
+          "ru": "Проснулся без следа — не впадая в привычную банальность.",
+          "ja": "醒めて跡なく、旧套に落ちず。"
+        },
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "position": "inline after 梦中之事便忘了对半",
+          "original": "妙极！若记得，便是俗笔了。",
+          "zh_modern": "妙极了！若还记得，那就成俗笔了。",
+          "en": "Exquisite! If he still remembered, it would be a vulgar stroke.",
+          "ru": "Восхитительно! Запомни он — и перо стало бы пошлым.",
+          "ja": "妙極なり！もし覚えておれば、俗筆となる。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pdf_page": 20,
+      "type": "prose",
+      "original": "又见奶姆正抱了英莲走来。士隐见女儿越发生得粉妆玉琢，乖觉可喜，便伸手接来，抱在怀中，斗他顽耍一回，又带至街前，看那过会的热闹。方欲进来时，只见从那边来了一僧一道。那僧则癞头跣足，那道则跛足蓬头，疯疯癫癫，挥霍谈笑而至。及至到了他门前，看见士隐抱着英莲，那僧便哭起来，又向士隐道：“施主，你把这有命无运，累及爹娘之物，抱在怀内作甚？”士隐听了，知是疯话，也不去睬他。那僧还说：“舍我罢，舍我罢！”士隐不耐烦，便抱着女儿撤身进去。那僧乃指着他大笑，口内念了四句言词，道是：",
+      "zh_modern": "又见奶妈正抱着英莲走来。士隐见女儿越发长得粉妆玉琢，乖巧可喜，便伸手接过来抱在怀里，逗她顽耍一回，又带到街前去看赶会的热闹。方欲进来时，只见从那边来了一个和尚、一个道士。那和尚癞头跣足，那道士跛足蓬头，疯疯癫癫，挥霍谈笑而至。及至到了他门前，看见士隐抱着英莲，那和尚便哭起来，又对士隐道：“施主，你把这有命无运、累及爹娘之物抱在怀里作甚？”士隐听了，知是疯话，也不去理他。那和尚还说：“舍我罢，舍我罢！”士隐不耐烦，便抱着女儿转身进去。那和尚乃指着他大笑，口内念了四句言词，道：",
+      "en": "Then he saw the nurse coming, carrying Yinglian. Seeing how his daughter had grown ever more delicate—powdered and carved like jade, clever and adorable—Shiyin reached out to take her, held her in his arms, teased and played with her awhile, and then took her to the street to watch the fair’s bustle. As he was about to go back in, he saw a monk and a Taoist coming from that direction. The monk was scab-headed and barefoot; the Taoist was lame and disheveled. Half-crazed, they swaggered along, laughing and talking. When they reached his gate and saw Shiyin holding Yinglian, the monk began to weep, and said to Shiyin, “Benefactor, why do you hold in your arms this child—fated to live yet luckless—who will bring calamity upon her parents?” Shiyin, knowing it for mad talk, paid him no heed. But the monk kept saying, “Give her to me! Give her to me!” Shiyin, losing patience, turned and carried his daughter inside. The monk then pointed at him and laughed loudly, reciting four lines, saying:",
+      "ru": "Тут он увидел, как кормилица несёт Инлянь. Увидев, как дочка всё больше расцветает — словно припудрена и выточена из нефрита, смышлёная и милая, — Шиинь протянул руки, взял её, прижал к груди, поиграл с ней немного, а потом вынес на улицу поглядеть на шум ярмарки. Он уже хотел вернуться, как увидел: с той стороны идут монах и даос. Монах — с паршивой головой и босой, даос — хромой и растрёпанный. Безумные, они подошли, расточая слова и смех. Дойдя до ворот и увидев, что Шиинь держит Инлянь, монах разрыдался и сказал Шииню: «Благодетель, зачем ты держишь на руках эту девочку — с судьбой, но без удачи, что навлечёт беду на отца с матерью?» Шиинь понял: бред, — и не стал его слушать. Но монах всё твердил: «Отдай мне! Отдай мне!» Шиинь не вытерпел, развернулся и унёс дочь в дом. Тогда монах указал на него, громко расхохотался и, бормоча четыре строки, сказал:",
+      "ja": "また乳母が英蓮を抱いて来るのが見えた。士隠は、娘がいよいよ粉妝玉琢のごとく育ち、利発で愛らしいのを見て、手を伸べて受け取り、懐に抱いてしばし戯れ、さらに通りへ連れて行って市（いち）の賑わいを見物した。戻ろうとした折、向こうから一僧一道がやって来るのが見える。僧は癩頭にして跣足、道は跛足にして蓬頭。狂気じみて、放埒に笑い語りつつ近づいた。門前に至り、士隠が英蓮を抱くのを見るや、僧は泣き出し、士隠に言う、「施主よ、なぜこの『有命無運、爹娘を累（わずら）わす』ものを懐に抱くのか」。士隠はそれを狂言と知り、取り合わぬ。僧はなおも「舍我罢、舍我罢！」と言い続ける。士隠は堪えかね、娘を抱いて身を翻し家へ入った。僧はそれを指さして大笑いし、口に四句を誦して曰く：",
+      "commentary": [
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "position": "inline after 来了一僧一道",
+          "original": "所谓“万境都如梦境看”也。",
+          "zh_modern": "这就是所谓“万境都当作梦境来看”。",
+          "en": "This is what is meant by: “All realms are to be viewed as dream-realms.”",
+          "ru": "Вот что значит: «все пределы мира следует видеть как сон».",
+          "ja": "これぞ「万境は皆夢境のごとく看る」なるものなり。"
+        },
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "position": "inline after 跛足蓬头",
+          "original": "此则是幻像。",
+          "zh_modern": "这便是幻象。",
+          "en": "This is an apparition.",
+          "ru": "Это — лишь призрак, видимость.",
+          "ja": "此れすなわち幻像なり。"
+        },
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "position": "inline after 那僧便哭起来",
+          "original": "奇怪！所谓情僧也。",
+          "zh_modern": "奇怪！这就是所谓“情僧”。",
+          "en": "Strange! This is what one calls a “monk of passion.”",
+          "ru": "Дивно! Вот он — так называемый «монах чувства/страсти».",
+          "ja": "奇なるかな！これぞ所谓（いわゆる）「情僧」なり。"
+        },
+        {
+          "type": "眉批",
+          "source": "甲戌本",
+          "position": "extended note on phrase 有命无运，累及爹娘",
+          "original": "八个字屈死多少英雄？屈死多少忠臣孝子？屈死多少仁人志士？屈死多少词客骚人？今又被作者将此一把眼泪洒与闺阁之中，见得裙钗尚遭逢此数，况天下之男子乎？看他所写开卷之第一个女子便用此二语以定终身，则知托言寓意之旨，谁谓独寄兴于一“情”字耶！◇武侯之三分，武穆之二帝，二贤之恨，及今不尽，况今之草芥乎？◇家国君父事有大小之殊，其理其运其数则略无差异。知运知数者则必谅而后叹也。",
+          "zh_modern": "这八个字屈死多少英雄？屈死多少忠臣孝子？屈死多少仁人志士？屈死多少词客骚人？如今作者又将这一把眼泪洒向闺阁之中：连裙钗女子尚且遭逢此数，何况天下男子乎？看他开卷所写第一个女子，便用这二语来定终身，可知托言寓意之旨，谁说只是寄兴于一个“情”字呢！◇武侯三分之业，武穆二帝之恨，两贤之憾，至今不尽，何况今日草芥之辈？◇家国君父之事虽有大小之别，其理、其运、其数却大略无差。知运知数者，必先谅而后叹。",
+          "en": "Those eight characters—how many heroes have they wronged to death? How many loyal ministers and filial sons? How many benevolent men and resolute worthies? How many poets and men of letters? And now the author sprinkles this handful of tears into women’s chambers: if even women in skirts and hairpins must meet such a reckoning, how much more the men of the world? See how the very first woman he writes at the opening is fixed for life by these two phrases; thus one knows the intent of speaking by indirection and lodging meaning within—who says his inspiration is pinned to the single word “qing” (passion) alone? ◇ Wuhou’s tripartite realm, Wumu’s grief over the two emperors—those two worthies’ resentments are not exhausted even now; how much less the bitterness of today’s mere weeds and dust? ◇ Affairs of state, of household, of lord and father may differ in scale, yet their principles, their fortunes, and their numbers scarcely differ. One who knows fate and number must first forgive—and only then sigh.",
+          "ru": "Эти восемь иероглифов — скольких героев они погубили? Скольких верных сановников и сыновей, чтящих родителей? Скольких людей добродетельных и стойких? Скольких поэтов и книжников? А теперь автор проливает эту пригоршню слёз и в женские покои: если даже женщины в юбках и с шпильками терпят такую долю, что же говорить о мужах Поднебесной? Посмотрите: первая же женщина, с которой он открывает книгу, двумя этими словами определена на всю жизнь — и тем яснее, что речь его прикровенна и смысл заключён в намёке; кто же скажет, будто вся его задумка держится лишь на одном слове «qing» (чувство/страсть)? ◇ Троецарствие Ухоу, скорбь Уму о двух императорах — обиды двух мудрых мужей не иссякли и поныне; что уж говорить о нашей траве да пыли? ◇ Дела государства, дома, государя и отца различны по величине, но их закон, их судьба и их число в целом не различны. Тот, кто знает судьбу и число, прежде должен простить — и лишь потом вздохнуть.",
+          "ja": "この八字は幾多の英雄を屈死せしめたか。幾多の忠臣孝子を、幾多の仁人志士を、幾多の詞客騒人を屈死せしめたか。しかるに今、作者はこの一把の涙を閨閣の中に灑ぐ。裙釵の女子すらこの数に遭うなら、まして天下の男子はいかん。開巻に最初に書かれる一人の女子が、ただちにこの二語にて終身を定められるのを見れば、托言寓意の旨は明らかであって、誰か独り「情」の一字にのみ寄興すると言えよう。◇武侯の三分、武穆の二帝、二賢の恨みはいまなお尽きず、まして今の草芥はいかん。◇家国君父の事は大小の差こそあれ、その理、その運、その数はおおむね差異なし。運と数を知る者は、必ずまず諒（ゆる）して後に嘆くべし。"
+        },
+        {
+          "type": "侧批",
+          "source": "蒙府本",
+          "position": "inline after 撤身进去",
+          "original": "如果舍出，则不成幻境矣。行文至此，又不得不有此一语。",
+          "zh_modern": "若真舍出去，这一段便不成“幻境”了。行文至此，又不得不添这一句话。",
+          "en": "If he were to give her up, it would no longer form a “dream-realm.” At this point in the writing, one cannot help but add such a line.",
+          "ru": "Отдай он её — и «сонное царство» не сложилось бы. Дойдя до этого места, автор вынужден вставить такую фразу.",
+          "ja": "もし捨て出せば、幻境は成らず。ここまで筆を運べば、かかる一句を置かざるを得ず。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "pdf_page": 20,
+      "type": "poem",
+      "original": "惯养娇生笑你痴，\n菱花空对雪澌澌。\n好防佳节元宵后，\n便是烟消火灭时。",
+      "zh_modern": "惯养娇生笑你痴，\n菱花空对雪澌澌。\n好防佳节元宵后，\n便是烟消火灭时。",
+      "en": "Pampered and coddled, you laugh at your own folly;\nBefore the diamond-mirror, you face only snow-slush.\nBeware: once the Lantern Festival has passed,\nIt will be the hour when smoke disperses and the fire goes out.",
+      "ru": "В неге взращён — и смеёшься над собственной дурью;\nПеред узорным зеркалом — лишь снежная слякоть.\nБерегись: минует праздник Юаньсяо —\nИ вот уже дым рассеялся, огонь погас.",
+      "ja": "娇養に慣れ、汝の痴を笑う。\n菱花の鏡、むなしく雪澌澌に対す。\n佳節の元宵過ぎては、よくよく用心せよ、\nその時こそ煙消え火滅ぶ。",
+      "poem_notes": {
+        "form": "七言绝句（七言四句）",
+        "theme": "Foreshadowing: loss after Lantern Festival; the ephemerality of worldly warmth",
+        "literary_devices": [
+          "Foreshadowing (伏笔)",
+          "Metaphor (镜与雪、烟与火)",
+          "Direct address"
+        ]
+      },
+      "commentary": [
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "position": "inline after line 1",
+          "original": "为天下父母痴心一哭。",
+          "zh_modern": "为天下父母的痴心痛哭一场。",
+          "en": "A single cry for the foolish, devoted hearts of all parents under heaven.",
+          "ru": "Один плач о слепой, преданной любви всех родителей Поднебесной.",
+          "ja": "天下の父母の痴心のために一哭す。"
+        },
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "position": "inline after line 2",
+          "original": "生不遇时。遇又非偶。",
+          "zh_modern": "生来不逢其时；纵逢其时，也并非良缘。",
+          "en": "Born at a time that does not meet her; and even when she meets it, it is no happy chance.",
+          "ru": "Рождена не ко времени; а встретив — встречает не по счастливому случаю.",
+          "ja": "生まれて時に遇わず。遇うともまた偶（たまたま）の幸にあらず。"
+        },
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "position": "inline after line 3",
+          "original": "前后一样，不直云前而云后，是讳知者。",
+          "zh_modern": "前后意思相同，不直说“前”而说“后”，是为避讳知者。",
+          "en": "Before and after mean the same here; it says “after” rather than “before” as a discreet avoidance for those who know.",
+          "ru": "«До» и «после» здесь по смыслу равно; сказано «после», а не «до» — из осторожности для сведущих.",
+          "ja": "前後は同じ意なり。直ちに「前」と言わずして「後」と言うは、知る者を忌みてなり。"
+        },
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "position": "inline after line 4",
+          "original": "伏后文。",
+          "zh_modern": "为后文伏笔。",
+          "en": "This foreshadows what follows.",
+          "ru": "Здесь заложен намёк на последующее.",
+          "ja": "後文に伏す。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "pdf_page": 20,
+      "type": "prose",
+      "original": "士隐听得明白，心下犹豫，意欲问他们来历。只听道人说道：“你我不必同行，就此分手，各干营生去罢。三劫后，",
+      "zh_modern": "士隐听得明白，心下犹豫，意欲问他们的来历。只听那道人说道：“你我不必同行，就此分手，各自营生去罢。三劫后，”",
+      "en": "Shiyin understood their words and hesitated, meaning to ask who they were. But he only heard the Taoist say, “You and I need not travel together—let us part here and go about our own livelihoods. After three kalpas,”",
+      "ru": "Шиинь понял сказанное, заколебался и хотел было спросить, кто они. Но услышал лишь, как даос произнёс: «Тебе и мне незачем идти вместе — разойдёмся здесь и займёмся каждый своим. Через три кальпы…»",
+      "ja": "士隠は言葉を聞き分け、心に迷い、来歴を問わんとした。だが道人はただ言う、「你我は同行するに及ばず、ここにて別れ、各々生業に就くべし。三劫の後…」",
+      "commentary": [
+        {
+          "type": "眉批",
+          "source": "甲戌本",
+          "position": "inline note on term 劫 (continues next page)",
+          "original": "佛以世谓“劫”，凡三十",
+          "zh_modern": "佛家称世间为“劫”，凡三十（下页续）。",
+          "en": "In Buddhist usage the world speaks of a “kalpa” (jie); every thirty… (continued on next page).",
+          "ru": "В буддийском словоупотреблении «цзе» (кальпа) означает мирской «век»; каждые тридцать… (продолжение на следующей странице).",
+          "ja": "仏家、世を「劫」と謂う。凡（およ）そ三十…（下頁に続く）。"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "本页“有命无运，累及爹娘”八字引出甲戌本长眉批：将闺阁女儿之“薄命”与天下男子之遭际并提，并以武侯（三分）与岳武穆（二帝）为例，强调“理、运、数”贯通，带有强烈的宿命/数理观。",
+    "诗中“元宵后”在脂评中明言为“伏后文”，通常被视为对英莲（后为香菱）失落及其悲剧命运的预示；“菱花”常指菱花纹镜，“雪澌澌”取寒冷、凄清之象。",
+    "夹带的蒙府本侧批（如“真是大警觉大转身”“如果舍出，则不成幻境矣”）强调叙事机关：若人物在关键处“舍出”，则后续“幻境/梦境”结构无法成立。"
+  ],
+  "research_notes": [
+    "Verified main text and all marginal/interlinear notes against /workspace/source_pages/page_0020.png (150dpi) and enlarged crops in /workspace/extracted/.",
+    "Used /workspace/research/glossary.md for consistent names (甄士隐、英莲/甄英莲、一僧一道).",
+    "Used /workspace/research/commentary_guide.md to classify 脂评 types and manuscript sources (甲戌本、蒙府本)."
+  ],
+  "characters_appearing": [
+    "甄士隐",
+    "甄英莲",
+    "一僧一道"
+  ],
+  "total_segments": 4,
+  "manuscript_sources_on_page": [
+    "甲戌本",
+    "蒙府本"
+  ]
+}
