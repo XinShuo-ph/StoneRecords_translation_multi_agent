@@ -1,0 +1,58 @@
+{
+  "page": 2,
+  "chapter": "前言",
+  "chapter_title": null,
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "红楼梦脂评匯校本",
+      "zh_modern": "红楼梦脂评汇校本",
+      "en": "Dream of the Red Chamber: Zhiping Commentary Collated Edition",
+      "ru": "Сон в красном тереме: сводное издание с комментариями Чжипин",
+      "ja": "紅楼夢脂評彙校本",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "曹雪芹著 / 脂砚斋评",
+      "zh_modern": "曹雪芹著 / 脂砚斋评",
+      "en": "Written by Cao Xueqin / Commentary by Zhiyan Zhai",
+      "ru": "Написано Цао Сюэцинем / Комментарии Чжияньчжая",
+      "ja": "曹雪芹著 / 脂硯斎評",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "Kolistan 汇校整理、制作",
+      "zh_modern": "Kolistan 汇校整理、制作",
+      "en": "Compiled and produced by Kolistan",
+      "ru": "Собрано и подготовлено Kolistan",
+      "ja": "Kolistan 匯校整理・制作",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "抗琴居红楼梦文学社区发布",
+      "zh_modern": "抗琴居红楼梦文学社区发布",
+      "en": "Published by Kangqinju Dream of the Red Chamber Literary Community",
+      "ru": "Опубликовано литературным сообществом «Сон в красном тереме» Канцзюйцзю",
+      "ja": "抗琴居紅楼夢文学コミュニティ発布",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "抗琴居 (Kangqinju) is the name of an online Dream of the Red Chamber literary community and forum that preserves and shares scholarly editions of the novel",
+    "This edition represents collaborative digital humanities work preserving early manuscript commentary"
+  ],
+  "research_notes": [
+    "Verified that Kangqinju is a well-known online community for 红楼梦 scholars and enthusiasts"
+  ],
+  "characters_appearing": [],
+  "total_segments": 4,
+  "manuscript_sources_on_page": []
+}
