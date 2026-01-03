@@ -1,0 +1,433 @@
+{
+  "page": 35,
+  "chapter": "第二回",
+  "chapter_title": {
+    "original": "贾夫人仙逝扬州城 冷子兴演说荣国府",
+    "zh_modern": "贾夫人在扬州城仙逝，冷子兴演说荣国府",
+    "en": "Lady Jia Ascends to the Immortals in Yangzhou City; Leng Zixing Discourses on the Rongguo Mansion",
+    "ru": "Госпожа Цзя отходит в мир иной в городе Янчжоу; Лэн Цзысин рассказывает о дворце Жунго",
+    "ja": "賈夫人、揚州城に仙逝し、冷子興、栄国府を演説す"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 35,
+      "type": "prose",
+      "original": "运筹谋画者无一，其日用排场费用，又不能将就省俭，如今外面的架子虽未甚倒，内囊却也尽上来了。",
+      "zh_modern": "能够运筹谋划的人一个也没有，而日常的排场费用，又不能将就省俭。如今外面的架子虽然还没怎么倒，但内囊却也已经尽翻上来（空虚）了。",
+      "en": "There is no one to plan and manage; and regarding the daily expenses and ostentation, they cannot bear to economize or make do. Nowadays, although the outer frame has not yet fallen, the inner purse is already exhausted [showing the bottom].",
+      "ru": "Нет никого, кто мог бы планировать и управлять; а в повседневных тратах и пышности они не могут заставить себя экономить. Нынче, хоть внешний каркас еще не рухнул, внутренние запасы уже исчерпаны.",
+      "ja": "運営や計画のできる者は一人もおらず、日用の格式や費用も、手加減して節約することができません。今では外見の体裁こそまだそれほど崩れてはいませんが、内実はもう尽きてしまっています。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline",
+          "original": "二语乃今古富贵世家之大病。",
+          "zh_modern": "这两句话是古往今来富贵世家的通病。",
+          "en": "These two phrases describe the great ailment of wealthy and noble families past and present.",
+          "ru": "Эти две фразы описывают великую болезнь богатых и знатных родов всех времен.",
+          "ja": "二語は乃ち今古の富貴世家の大病なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline after 甚倒",
+          "original": "“甚”字好！盖已半倒矣。",
+          "zh_modern": "“甚”字用得好！大概已经倒了一半了。",
+          "en": "The word 'shen' [quite/very] is excellent! It implies it has already half fallen.",
+          "ru": "Слово «шэнь» (совсем) хорошо! Значит, уже наполовину рухнул.",
+          "ja": "「甚」の字好し！蓋し已に半ば倒れたり。"
+        },
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline after 尽上来了",
+          "original": "世家兴败，寄口与人，诚可悲夫。",
+          "zh_modern": "世家的兴衰，流传于别人口中，真是可悲啊。",
+          "en": "The rise and fall of noble families is told by the mouths of others; truly tragic.",
+          "ru": "Взлет и падение знатных родов передаются из уст в уста; воистину печально.",
+          "ja": "世家の興敗、口を人に寄す、誠に悲しむべきかな。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pdf_page": 35,
+      "type": "prose",
+      "original": "这还是小事，更有一件大事。谁知这样钟鸣鼎食之家，翰墨诗书之族，如今的儿孙，竟一代不如一代了！”",
+      "zh_modern": "这还是小事，还有一件大事。谁知道这样钟鸣鼎食的豪门、翰墨诗书的望族，如今的儿孙，竟然一代不如一代了！”",
+      "en": "This is a minor matter; there is an even greater matter. Who could have known that in such a family of 'bell-ringing and cauldron-eating' [aristocratic luxury], a clan of brush, ink, poetry, and books, the sons and grandsons nowadays would be worse with each generation!\"",
+      "ru": "Но это еще мелочи, есть дело поважнее. Кто бы мог подумать, что в таком доме, где «бьют в колокола и едят из котлов» [живут в роскоши], в роду ученых и поэтов, нынешние потомки будут становиться все хуже и хуже с каждым поколением!»",
+      "ja": "これはまだ小さな事、更に一件の大事があります。あのような鐘鳴鼎食（豪奢）の家、翰墨詩書の族でありながら、今の児孫はなんと一代ごとに劣っていくのです！」",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline",
+          "original": "两句写出荣府。",
+          "zh_modern": "两句话写出了荣国府的特点。",
+          "en": "Two phrases describe the Rong mansion.",
+          "ru": "Две фразы описывают дворец Жунго.",
+          "ja": "両句、栄府を写し出す。"
+        },
+        {
+          "type": "眉批",
+          "source": "Zhiping",
+          "position": "top margin",
+          "original": "文是极好之文，理是必有之理，话则极痛极悲之话。",
+          "zh_modern": "文章是极好的文章，道理是必然的道理，话却是极痛极悲的话。",
+          "en": "The writing is excellent, the logic is inevitable, but the words are extremely painful and sad.",
+          "ru": "Текст превосходен, логика неизбежна, но слова исполнены глубочайшей боли и скорби.",
+          "ja": "文は極好の文、理は必有の理、話は則ち極痛極悲の話なり。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "pdf_page": 35,
+      "type": "prose",
+      "original": "雨村听说，也纳罕道：“这样诗书之家，岂有不善教育之理？别家不知，只说这宁、荣二宅，是最教子有方的。”",
+      "zh_modern": "雨村听了，也感到诧异，说道：“这样诗礼传家的家族，哪里有不善于教育的道理？别家我不知道，只说这宁、荣二府，是最教子有方的。”",
+      "en": "Hearing this, Yucun was also surprised and said: \"In such a family of poetry and books, how could there be a lack of proper education? I know not of others, but the Ning and Rong households were known for teaching their sons most effectively.\"",
+      "ru": "Услышав это, Юйцунь удивился: «Как же в таком доме просвещения может не быть хорошего воспитания? Не знаю насчет других, но дома Нин и Жун славились тем, что умели воспитывать сыновей».",
+      "ja": "雨村はこれを聞いて、怪しんで言った。「そのような詩書の家で、教育が善くないなどという理がありましょうか？他家は知らず、この寧・栄の二宅といえば、最も教え導く道に長けていたはずですが。」",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline",
+          "original": "一转有力。",
+          "zh_modern": "这一转折很有力。",
+          "en": "A powerful turn [in the conversation].",
+          "ru": "Сильный поворот.",
+          "ja": "一転有力なり。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "pdf_page": 35,
+      "type": "prose",
+      "original": "子兴叹道：“正说的是这两门呢。待我告诉你。当日宁国公与荣国公是一母同胞弟兄两个。",
+      "zh_modern": "子兴叹道：“说的正是这两家呢。待我告诉你。当年宁国公与荣国公是同一个母亲生的亲兄弟两个。",
+      "en": "Zixing sighed: \"It is precisely these two houses I speak of. Let me tell you. In the past, the Duke of Ningguo and the Duke of Rongguo were two brothers born of the same mother.",
+      "ru": "Цзысин вздохнул: «О них-то я и говорю. Дай-ка я тебе расскажу. В те времена Нинго-гун и Жунго-гун были родными братьями от одной матери.",
+      "ja": "子興は嘆いて言った。「まさにその両家のことを言っているのです。お話ししましょう。当時、寧国公と栄国公は同腹の兄弟でした。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline after 宁国公",
+          "original": "演。",
+          "zh_modern": "贾演。",
+          "en": "[Jia] Yan.",
+          "ru": "[Цзя] Янь.",
+          "ja": "演なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline after 荣国公",
+          "original": "源。",
+          "zh_modern": "贾源。",
+          "en": "[Jia] Yuan.",
+          "ru": "[Цзя] Юань.",
+          "ja": "源なり。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "pdf_page": 35,
+      "type": "prose",
+      "original": "宁公居长，生了四个儿子。宁公死后，长子贾代化袭了官，也养了两个儿子。",
+      "zh_modern": "宁公是哥哥，生了四个儿子。宁公死后，长子贾代化袭了爵位，也养了两个儿子。",
+      "en": "The Duke of Ning was the elder; he had four sons. After the Duke of Ning died, his eldest son Jia Daihua inherited the rank; he also raised two sons.",
+      "ru": "Нин-гун был старшим, у него родилось четыре сына. После смерти Нин-гуна титул унаследовал его старший сын Цзя Дайхуа, у которого тоже было двое сыновей.",
+      "ja": "寧公が兄で、四人の息子がいました。寧公の死後、長子の賈代化が官爵を襲ぎ、彼もまた二人の息子をもうけました。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline after 四个儿子",
+          "original": "贾蔷、贾菌之祖，不言可知矣。",
+          "zh_modern": "是贾蔷、贾菌的祖父辈，不说也就知道了。",
+          "en": "Ancestors of Jia Qiang and Jia Jun; understood without saying.",
+          "ru": "Предки Цзя Цяна и Цзя Цзюня, понятно без слов.",
+          "ja": "賈薔、賈菌の祖、言わずして知るべし。"
+        },
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline after 袭了官",
+          "original": "第二代。",
+          "zh_modern": "第二代。",
+          "en": "Second generation.",
+          "ru": "Второе поколение.",
+          "ja": "第二代なり。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "pdf_page": 35,
+      "type": "prose",
+      "original": "长名贾敷，至八九岁上便死了，只剩了次子贾敬袭了官，如今一味好道，只爱烧丹炼汞，馀者一概不在心上。",
+      "zh_modern": "长子叫贾敷，活到八九岁就死了，只剩下次子贾敬袭了爵位。如今他一味喜好道术，只爱烧丹炼汞求长生，其他事情一概不在心上。",
+      "en": "The eldest was named Jia Fu; he died at the age of eight or nine. Only the second son, Jia Jing, remained to inherit the rank. Nowadays he is solely devoted to Taoism, loving only to smelt elixirs and refine mercury [alchemy], taking nothing else to heart.",
+      "ru": "Старшего звали Цзя Фу, он умер в восемь или девять лет, остался только второй сын Цзя Цзин, который и унаследовал титул. Нынче он всецело предался даосизму, любит лишь плавить киноварь и гнать ртуть, а до остального ему и дела нет.",
+      "ja": "長男は賈敷といい、八、九歳で亡くなり、次男の賈敬だけが残って官爵を襲ぎました。今はひたすら道教に凝り、仙丹を練ることばかり好んで、他のことは一切心にかけていません。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline after 袭了官",
+          "original": "第三代。",
+          "zh_modern": "第三代。",
+          "en": "Third generation.",
+          "ru": "Третье поколение.",
+          "ja": "第三代なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline after 烧丹炼汞",
+          "original": "亦是大族末世常有之事。叹叹！",
+          "zh_modern": "这也是大家族末世常有的事。可叹！",
+          "en": "This is also a common occurrence in great families in their final age. Sigh!",
+          "ru": "Это тоже обычное дело для великих родов в эпоху упадка. Ох!",
+          "ja": "亦た是大族末世常有の事なり。歎歎！"
+        },
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline",
+          "original": "偏先从好神仙的苦处说来。",
+          "zh_modern": "偏偏先从好神仙的苦处说起。",
+          "en": "Insists on starting with the bitterness of seeking immortality.",
+          "ru": "Начинает именно с горечи поисков бессмертия.",
+          "ja": "偏に先ず神仙を好むの苦処より説き来たる。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "pdf_page": 35,
+      "type": "prose",
+      "original": "幸而早年留下一子，名唤贾珍，因他父亲一心想作神仙，把官倒让他袭了。他父亲又不肯回原籍来，只在都中城外和道士们胡羼。",
+      "zh_modern": "幸亏早年留下了一个儿子，名叫贾珍。因为他父亲一心想成仙，把爵位倒让他袭了。他父亲又不肯回原籍，只在京城外和道士们混在一起。",
+      "en": "Fortunately, in his early years he left a son named Jia Zhen. Because his father was bent on becoming an immortal, he let him [Zhen] inherit the rank. His father refused to return to their ancestral home, but only fooled around with Taoists outside the city walls.",
+      "ru": "К счастью, в ранние годы у него родился сын по имени Цзя Чжэнь. Поскольку отец всем сердцем стремился в святые, он передал титул сыну. Отец не пожелал возвращаться в родовое поместье, а лишь путался с даосами за городскими стенами.",
+      "ja": "幸い早年に一人の息子を残しており、名を賈珍といいます。父親が一心に神仙になりたがったため、官爵を彼に襲がせました。父親はまた原籍に帰ろうともせず、ただ都の城外で道士たちと胡乱な付き合いをしています。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline after 贾珍",
+          "original": "第四代。",
+          "zh_modern": "第四代。",
+          "en": "Fourth generation.",
+          "ru": "Четвертое поколение.",
+          "ja": "第四代なり。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "pdf_page": 35,
+      "type": "prose",
+      "original": "这位珍爷也倒生了一个儿子，今年才十六岁，名叫贾蓉。如今敬老爹一概不管。",
+      "zh_modern": "这位珍爷倒也生了一个儿子，今年才十六岁，名叫贾蓉。如今敬老爹（贾敬）一概不管事。",
+      "en": "This Master Zhen also had a son, just sixteen this year, named Jia Rong. Nowadays, Old Master Jing cares for nothing.",
+      "ru": "У этого господина Чжэня тоже родился сын, ему в этом году шестнадцать, зовут Цзя Жун. Нынче старик Цзин ни во что не вмешивается.",
+      "ja": "この珍爺にも息子が一人おりまして、今年十六歳、名を賈蓉といいます。今では敬老爺は一切構いません。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline after 贾蓉",
+          "original": "至蓉五代。",
+          "zh_modern": "到贾蓉是第五代。",
+          "en": "Up to Rong, it is five generations.",
+          "ru": "До Жуна — пять поколений.",
+          "ja": "蓉に至りて五代なり。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "pdf_page": 35,
+      "type": "prose",
+      "original": "这珍爷那肯读书，只是一味高乐不已，把宁国府竟翻了过来，也没有人敢来管他。再说荣府你听，方才所说异事，就出在这里。",
+      "zh_modern": "这珍爷哪里肯读书，只是一味寻欢作乐，把个宁国府竟然翻了过来，也没有人敢来管他。再说荣国府你听，刚才所说的怪事，就出在这里。",
+      "en": "How could this Master Zhen be willing to study? He simply pursues pleasure endlessly, turning the Ningguo Mansion upside down, and no one dares to control him. Now let me tell you about the Rong Mansion; the strange event I mentioned just now happened there.",
+      "ru": "Этот господин Чжэнь учиться не желает, только и знает, что развлекаться, перевернул весь дворец Нинго вверх дном, и никто не смеет его приструнить. Теперь послушай о дворце Жунго, странное дело, о котором я говорил, случилось именно там.",
+      "ja": "この珍爺は勉強などしようともせず、ただひたすら遊び呆け、寧国府をひっくり返すような有様ですが、誰も彼を諌める者はいません。さて栄府の話を聞いてください、先ほど言った異事は、ここで起きたのです。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline after 管他",
+          "original": "伏后文。",
+          "zh_modern": "埋伏后文。",
+          "en": "Foreshadowing later text.",
+          "ru": "Намек на будущее.",
+          "ja": "後文に伏す。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "pdf_page": 35,
+      "type": "prose",
+      "original": "自荣公死后，长子贾代善袭了官，娶的金陵世勋史侯家的小姐为妻，生了两个儿子：长子贾赦，次子贾政。",
+      "zh_modern": "自从荣公死后，长子贾代善袭了爵位，娶了金陵世袭勋爵史侯家的小姐为妻，生了两个儿子：长子贾赦，次子贾政。",
+      "en": "After the Duke of Rong died, his eldest son Jia Daishan inherited the rank. He took as his wife the young lady of the Shi Marquis family, a hereditary noble house of Jinling, and she bore two sons: the eldest Jia She, and the second Jia Zheng.",
+      "ru": "После смерти Жун-гуна титул унаследовал его старший сын Цзя Дайшань. Он взял в жены дочь маркиза Ши, потомственного аристократа из Цзиньлина, и у них родилось двое сыновей: старший Цзя Шэ и второй Цзя Чжэн.",
+      "ja": "栄公の死後、長子の賈代善が官爵を襲ぎ、金陵の世襲勲爵である史侯家の令嬢を妻に娶り、二人の息子をもうけました。長男は賈赦、次男は賈政です。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline after 袭了官",
+          "original": "第二代。",
+          "zh_modern": "第二代。",
+          "en": "Second generation.",
+          "ru": "Второе поколение.",
+          "ja": "第二代なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline after 小姐",
+          "original": "因湘云，故及之。",
+          "zh_modern": "因为湘云的关系，所以提到她。",
+          "en": "Mentioned here because of Xiangyun.",
+          "ru": "Упомянута из-за Сянъюнь.",
+          "ja": "湘雲に因り、故にこれに及ぶ。"
+        },
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline after 贾政",
+          "original": "第三代。",
+          "zh_modern": "第三代。",
+          "en": "Third generation.",
+          "ru": "Третье поколение.",
+          "ja": "第三代なり。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "pdf_page": 35,
+      "type": "prose",
+      "original": "如今代善早已去世，太夫人尚在。长子贾赦袭着官。",
+      "zh_modern": "如今代善早就去世了，太夫人（史太君）还健在。长子贾赦袭着爵位。",
+      "en": "Now Daishan has long since passed away, but the Dowager Lady [Grandmother Jia] is still alive. The eldest son Jia She holds the inherited rank.",
+      "ru": "Ныне Дайшань давно скончался, но старая госпожа еще жива. Старший сын Цзя Шэ унаследовал титул.",
+      "ja": "今では代善もとうに亡くなりましたが、太夫人はご健在です。長男の賈赦が官爵を襲いでいます。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline after 太夫人尚在",
+          "original": "记真，湘云祖姑史氏太君也。",
+          "zh_modern": "记清楚，这就是湘云的姑祖母史太君（贾母）。",
+          "en": "Remember clearly, this is Xiangyun's great-aunt, the Dowager Lady Shi.",
+          "ru": "Запомни, это двоюродная бабушка Сянъюнь, старая госпожа Ши.",
+          "ja": "真に記せ、湘雲の祖姑史氏太君なり。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "pdf_page": 35,
+      "type": "prose",
+      "original": "次子贾政，自幼酷喜读书，祖父最疼。原欲以科甲出身的，不料代善临终时遗本一上，皇上因恤先臣，即时令长子袭官外，问还有几子，立刻引见，遂额外赐了这政老爹一个主事之衔，令其入部习学，如今现已升了员外郎了。",
+      "zh_modern": "次子贾政，从小酷爱读书，祖父最疼爱他。原本想走科举仕途出身，没想到代善临终时上一道遗本，皇上因为体恤先臣，当即下令除长子袭爵外，问还有几个儿子，立刻引见。于是额外赐给这政老爹一个主事的头衔，让他入部学习，如今已经升任员外郎了。",
+      "en": "The second son, Jia Zheng, loved studying passionately since childhood and was his grandfather's favorite. He originally intended to start his career through the civil service examinations. Unexpectedly, when Daishan submitted his final memorial on his deathbed, the Emperor, out of pity for his former minister, immediately ordered that besides the eldest son inheriting the rank, any other sons should be presented at once. He then graciously bestowed upon Master Zheng the rank of Secretary, ordering him to join the Ministry for training. Now he has been promoted to Vice Director.",
+      "ru": "Второй сын, Цзя Чжэн, с детства обожал книги, и дед любил его больше всех. Он хотел сделать карьеру через экзамены, но когда Дайшань перед смертью подал прощальный доклад, Император, жалея покойного министра, не только повелел старшему сыну наследовать титул, но и спросил, сколько еще есть сыновей, и велел представить их. В итоге он пожаловал этому господину Чжэну звание чжуши и велел поступить в министерство для обучения; ныне он уже дослужился до юаньвайлана.",
+      "ja": "次男の賈政は、幼い頃から読書が大好きで、祖父に最も可愛がられていました。もとは科挙で身を立てようとしていたのですが、代善が臨終の際に遺本を奉ったところ、皇帝は先臣を憐れみ、即座に長子に官爵を襲がせたほか、他に息子は何人いるかと問われ、すぐに拝謁させました。そして特にこの政老爺に主事の職を賜り、入省して見習いをさせ、今では員外郎に昇進しています。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline after 主事之衔",
+          "original": "嫡真实事，非妄拟也。",
+          "zh_modern": "这是确凿的真事，并非虚构。",
+          "en": "This is a true fact, not a fabrication.",
+          "ru": "Это подлинный факт, а не вымысел.",
+          "ja": "嫡真の実事、妄に擬するに非ざるなり。"
+        },
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline",
+          "original": "总是称功颂德。",
+          "zh_modern": "总是称功颂德。",
+          "en": "Always praising merits and virtues.",
+          "ru": "Всегда воспевает заслуги и добродетели.",
+          "ja": "総て是れ功を称え徳を頌す。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "pdf_page": 35,
+      "type": "prose",
+      "original": "这政老爹的夫人王氏，头胎生的公子，名唤贾珠，",
+      "zh_modern": "这政老爹的夫人王氏，头胎生的公子，名叫贾珠，",
+      "en": "This Master Zheng's wife, Lady Wang, bore a first son named Jia Zhu,",
+      "ru": "У жены этого господина Чжэна, урожденной Ван, первым родился сын по имени Цзя Чжу,",
+      "ja": "この政老爺の夫人は王氏といい、最初に生まれた若君は名を賈珠といい、",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "inline",
+          "original": "记清。",
+          "zh_modern": "记清楚。",
+          "en": "Remember clearly.",
+          "ru": "Запомни.",
+          "ja": "記して清し。"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "The genealogy of the Ning and Rong houses is detailed here. Ning branch: Yan -> Daihua -> Jing -> Zhen -> Rong. Rong branch: Yuan -> Daishan -> She/Zheng -> Zhu.",
+    "Jia Jing's obsession with alchemy (Taoism) and neglecting family affairs mirrors the decline of the Ning House.",
+    "Jia Zheng's official career started by imperial favor (shadow privilege) rather than merit (exams), which is noted by the commentary as a 'true fact' (likely referring to Cao Xueqin's own family history).",
+    "The commentary 'two phrases describe the Rong mansion' refers to 'bell-ringing and cauldron-eating' (wealth) and 'brush and ink' (culture), highlighting the contrast with the degenerating descendants.",
+    "Inner purse exhausted (内囊却也尽上来): A metaphor for financial depletion despite outward appearance."
+  ],
+  "research_notes": [
+    "Clarified the generations and names (Yan/Yuan, Daihua/Daishan, Jing/She/Zheng).",
+    "Noted the autobiographical nature hinted at by the commentary regarding Jia Zheng's career.",
+    "Checked official titles: Zhushi (Secretary) and Yuanwailang (Vice Director)."
+  ],
+  "characters_appearing": [
+    "冷子兴",
+    "贾雨村",
+    "宁国公 (贾演)",
+    "荣国公 (贾源)",
+    "贾代化",
+    "贾敷",
+    "贾敬",
+    "贾珍",
+    "贾蓉",
+    "贾代善",
+    "贾赦",
+    "贾政",
+    "史太君 (贾母)",
+    "王夫人",
+    "贾珠"
+  ],
+  "total_segments": 13,
+  "manuscript_sources_on_page": [
+    "Zhiping"
+  ]
+}

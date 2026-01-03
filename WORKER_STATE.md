@@ -14,14 +14,14 @@
 ## Status
 - **Branch**: cursor/hong-lou-meng-translation-ebba
 - **Short ID**: ebba
-- **Heartbeat**: 1767410290
+- **Heartbeat**: 1735874240
 - **Status**: online
 
 ## Current Work
-- **Claimed Page**: 35
-- **Page Verified Available**: yes
-- **Started At**: 1735874240
-- **Current Step**: research
+- **Claimed Page**: none
+- **Page Verified Available**: no
+- **Started At**: -
+- **Current Step**: - (research | translate | polish)
 
 ## Completed Pages
 | Page | Chapter | Completed At | Hash | Segments |
@@ -30,6 +30,7 @@
 | 26 | 第一回 | 1735874400 | ddd36196 | 12 |
 | 30 | 第二回 | 1735874700 | 4496dbb3 | 13 |
 | 34 | 第二回 | 1735875000 | 7a01b206 | 12 |
+| 35 | 第二回 | 1735875300 | 00d6f994 | 13 |
 
 ## Known Workers (Last Sync - Auto-Updated by Daemon)
 | Short ID | Status | Claimed Page | Completed | Last Heartbeat |
@@ -41,4 +42,4 @@
 |--------|----------------|
 
 ## Notes
-Claimed page 35.
+Completed page 35.
