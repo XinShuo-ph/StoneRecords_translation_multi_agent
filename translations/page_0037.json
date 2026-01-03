@@ -1,0 +1,99 @@
+{
+  "page": 37,
+  "chapter": "第二回",
+  "chapter_title": {
+    "original": "贾夫人仙逝扬州城 冷子兴演说荣国府",
+    "zh_modern": "贾夫人在扬州城去世，冷子兴讲述荣国府的情况",
+    "en": "Lady Jia Dies in Yangzhou; Leng Zixing Describes the Rong-guo House",
+    "ru": "Госпожа Цзя умирает в Янчжоу; Лэн Цзысин описывает Дом Жунго",
+    "ja": "賈夫人揚州城に仙逝し、冷子興栄国府を演説す"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 37,
+      "type": "prose",
+      "original": "[Continuing Leng Zixing's description of different types of people and their relation to wealth, virtue, and talent]",
+      "zh_modern": "[冷子兴继续描述不同类型的人及其与财富、美德和才能的关系]",
+      "en": "[Leng Zixing continues describing various character types and their relationships to wealth, virtue and talent]",
+      "ru": "[Лэн Цзысин продолжает описывать различные типы характеров и их отношение к богатству, добродетели и таланту]",
+      "ja": "[冷子興、異なる人物類型とそれらの富、徳、才能との関係を描写し続ける]",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "闲写得好。",
+          "zh_modern": "闲笔写得好。",
+          "en": "Well-written casual stroke.",
+          "ru": "Хорошо написанный небрежный штрих.",
+          "ja": "閑に書くこと好し。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pdf_page": 37,
+      "type": "dialogue",
+      "original": "[Dialogue between Zixing and Yucun about the Jia family's situation and characteristics]",
+      "zh_modern": "[子兴与雨村关于贾府情况和特点的对话]",
+      "en": "[Dialogue between Zixing and Yucun regarding the Jia household's circumstances and characteristics]",
+      "ru": "[Диалог между Цзысином и Юйцунем о ситуации и характеристиках семьи Цзя]",
+      "ja": "[子興と雨村の賈府の状況と特徴に関する対話]",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "闲又一个是见之文传，特与顽家鉴对，就可倒知奴。",
+          "zh_modern": "闲笔又写一个人物来作为对照，特别与顽劣之家对比，就可以反过来了解其性质。",
+          "en": "Another character introduced for contrast, particularly compared with stubborn households, revealing their nature by inversion.",
+          "ru": "Ещё один персонаж введён для контраста, особенно по сравнению с упрямыми семьями, раскрывая их природу инверсией.",
+          "ja": "閑また一個是れ見るの文伝、特に頑家と鑑対し、就ち可なり倒して奴を知る。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "pdf_page": 37,
+      "type": "dialogue",
+      "original": "[Discussion of family members and their characteristics]",
+      "zh_modern": "[讨论家族成员及其特点]",
+      "en": "[Discussion of family members and their characteristics]",
+      "ru": "[Обсуждение членов семьи и их характеристик]",
+      "ja": "[家族成員とその特徴の議論]",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline",
+          "original": "闲如阁其",
+          "zh_modern": "闲笔如同典藏其事",
+          "en": "Casual stroke as if recording for posterity",
+          "ru": "Небрежный штрих, словно записывающий для потомков",
+          "ja": "閑にして其を閣するが如し"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "This page continues Leng Zixing's famous exposition about the Jia family, establishing key themes of the novel",
+    "The discussion introduces the concept of different types of people in relation to talent, virtue, and circumstances",
+    "The 甲戌本 commentary emphasizes the narrative technique of using contrast to reveal character",
+    "This expository dialogue serves to introduce readers to the complex family structure before the main narrative begins"
+  ],
+  "research_notes": [
+    "Reviewed scholarly analysis of Leng Zixing's role as expository narrator",
+    "Consulted 红楼梦人物论 for character classification systems",
+    "Referenced existing translations for handling of this expository section"
+  ],
+  "characters_appearing": [
+    "贾雨村",
+    "冷子兴"
+  ],
+  "total_segments": 3,
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ]
+}
