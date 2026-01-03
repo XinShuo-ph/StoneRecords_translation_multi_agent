@@ -1,0 +1,95 @@
+{
+  "page": 20,
+  "chapter": "第一回",
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 20,
+      "type": "prose",
+      "original": "那僧笑道：“此事说来好笑，竟是千古未闻的罕事。",
+      "zh_modern": "那僧人笑道：“这件事说来好笑，竟然是千古以来从未听说过的稀罕事。",
+      "en": "The monk laughed and said, “This matter is amusing to speak of; it is truly a rare occurrence, unheard of in all the ages.",
+      "ru": "Монах усмехнулся: «История эта забавна, поистине редкость, о какой не слыхали с древнейших времен.",
+      "ja": "僧は笑って言った。「この事は話せば笑い話だが、実に千古未聞の稀な事じゃ。",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "pdf_page": 20,
+      "type": "prose",
+      "original": "只因西方灵河岸上三生石畔，有绛珠草一株，时有赤瑕宫神瑛侍者，日以甘露灌溉，这绛珠草便得久延岁月。",
+      "zh_modern": "只因为在西方灵河岸边的三生石畔，长着一株绛珠仙草。当时赤瑕宫有一位神瑛侍者，每天用甘露浇灌它，这株绛珠草才得以长久地延续生命。",
+      "en": "It began on the banks of the Spirit River in the West, beside the Three Lives Stone, where there grew a Crimson Pearl Herb. There was also the Divine Luminescent Stone Attendant of the Red Flaw Palace, who daily watered it with sweet dew, allowing this Crimson Pearl Herb to prolong its life through the years.",
+      "ru": "На берегу Реки Духа на Западе, у Камня Трех Жизней, росла трава Алая Жемчужина. Служитель Божественного Сияния из Дворца Красной Яшмы ежедневно орошал её сладкой росой, благодаря чему эта трава смогла продлить свои годы.",
+      "ja": "西方霊河の岸、三生石のほとりに、一株の絳珠草（こうじゅそう）あり。時に赤瑕宮（せきかきゅう）の神瑛侍者（しんえいじしゃ）ありて、日ごとに甘露をもって灌漑し、この絳珠草をして久しく歳月を延べしむ。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "position": "inline after 三生石",
+          "original": "妙！所谓“三生石上旧精魂”也。",
+          "zh_modern": "妙！这就是所谓的“三生石上旧精魂”。",
+          "en": "Wonderful! This refers to the saying 'the old spirit on the Three Lives Stone'.",
+          "ru": "Чудесно! Это так называемая «старая душа на Камне Трех Жизней».",
+          "ja": "妙なり！いわゆる「三生石上の旧精魂」なり。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "pdf_page": 20,
+      "type": "prose",
+      "original": "后来既受天地精华，复得雨露滋养，遂得脱却草胎木质，得换人形，仅修成个女体，终日游于离恨天外，饥则食蜜青果为膳，渴则饮灌愁海水为汤。",
+      "zh_modern": "后来它既受了天地的精华，又得到雨露的滋养，于是得以脱去草木的形质，换成了人形，仅仅修成了一个女体。她整日游荡在离恨天外，饿了就吃蜜青果充饥，渴了就喝灌愁海水解渴。",
+      "en": "Later, having received the essence of heaven and earth and being further nourished by the rain and dew, it was able to shed its grassy form and woody substance, exchanging them for a human shape. It cultivated itself only into a female body, wandering all day beyond the Heaven of Separated Regrets, eating the Fruit of Secret Love when hungry, and drinking from the Sea of Pouring Sorrow when thirsty.",
+      "ru": "Позже, впитав сущность неба и земли и насытившись дождем и росой, она смогла сбросить свою травяную и деревянную плоть, приняв человеческий облик. Она воплотилась лишь в женское тело, целыми днями блуждая за пределами Неба Разлуки и Сожалений, утоляя голод Плодами Тайной Страсти и жажду — Водой из Моря Печали.",
+      "ja": "後、天地の精華を受け、また雨露の滋養を得て、ついに草胎木質を脱し、人の形に換わるを得、わずかに女体に修成し、終日離恨天の外に遊び、飢うれば蜜青果を食らいて膳となし、渇すれば灌愁海水を飲みて湯となす。",
+      "commentary": [
+         {
+          "type": "侧批",
+          "source": "甲戌本",
+          "position": "right margin",
+          "original": "饮食之名奇极！",
+          "zh_modern": "饮食的名字奇特极了！",
+          "en": "The names of the food and drink are extremely strange!",
+          "ru": "Названия еды и питья крайне причудливы!",
+          "ja": "飲食の名、奇極まりなし！"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "pdf_page": 20,
+      "type": "prose",
+      "original": "只因尚未酬报灌溉之德，故其五内便郁结着一段缠绵不尽之意。",
+      "zh_modern": "只因为还没有报答浇灌的恩德，所以她内心郁结着一段缠绵不尽的情意。",
+      "en": "Yet, because she had not yet repaid the virtue of the watering, a knot of lingering, endless emotion remained tied within her heart.",
+      "ru": "Но так как она еще не отплатила за добродетель орошения, в ее сердце завязался узел бесконечной, невыразимой нежности.",
+      "ja": "ただ未だ灌漑の徳に酬いざるにより、故にその五内にすなわち一段の纏綿として尽きざる意を鬱結す。",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "绛珠 (Jiang Zhu): Crimson Pearl. Symbolizes Lin Daiyu. 'Jiang' implies deep red/crimson.",
+    "赤瑕 (Chi Xia): Red Flaw. A pun on 'Red Clouds' but also implies a flaw, relating to the Stone's imperfection.",
+    "神瑛 (Shen Ying): Divine Lustre/Crystal. Symbolizes Jia Baoyu.",
+    "三生石 (Three Lives Stone): Alludes to the karmic bond across past, present, and future lives.",
+    "蜜青果 (Mi Qing Guo): Likely a pun on 秘情 (Mi Qing) - Secret Emotion/Love.",
+    "灌愁海 (Guan Chou Hai): Sea of Pouring Sorrow/Irrigating Sorrow. Echoes the theme of repayment with tears."
+  ],
+  "research_notes": [
+    "Verified the 'Crimson Pearl' origin story corresponds to this section of Chapter 1.",
+    "Consulted Zhiping commentary for the specific puns on names.",
+    "Checked standard translations (Hawkes, Yang) for 'Spirit River' and 'Three Lives Stone'."
+  ],
+  "characters_appearing": [
+    "Monk (Mangmang Daoshi)",
+    "Crimson Pearl Fairy (mentioned)",
+    "Divine Luminescent Stone Attendant (mentioned)"
+  ],
+  "manuscript_sources_on_page": [
+    "甲戌本",
+    "庚辰本"
+  ]
+}
