@@ -1,0 +1,283 @@
+{
+  "page": 44,
+  "chapter": "第三回",
+  "chapter_title": {
+    "original": "金陵城起复贾雨村 荣国府收养林黛玉",
+    "zh_modern": "贾雨村在金陵复官，荣国府收养林黛玉",
+    "en": "Jia Yucun Restored to Office in Jinling; The Rong Mansion Takes In Lin Daiyu",
+    "ru": "Цзя Юйцунь вновь вступает в должность в Цзиньлине; дом Жунго принимает Линь Дайюй",
+    "ja": "金陵城にて賈雨村官に起復し、栄国府、林黛玉を引き取る"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 44,
+      "type": "prose",
+      "original": "过插屏，小小三间内厅，厅后就是后面的正房大院。正面五间上房，皆是雕梁画栋，两边穿山游廊厢房，挂着各色鹦鹉、画眉等鸟雀。台矶之上，坐着几个穿红着绿的丫鬟，一见他们来了，便忙都笑迎上来，说：“才刚老太太还念呢，可巧就来了。”于是三四人争着打起帘栊，一面听得人回话：“林姑娘到了。”",
+      "zh_modern": "穿过插屏，便是一处小小的三间内厅，后面连着正房的大院。正面五间上房雕梁画栋，两侧是穿山游廊与厢房，还挂着各色鹦鹉、画眉之类的鸟雀。台阶上坐着几个穿红着绿的丫鬟，一见他们来了，忙笑着迎上来说：“方才老太太还念叨呢，正巧你们就到了。”于是三四个人争着掀起帘子，又听见那边有人回话：“林姑娘到了。”",
+      "en": "Passing the screen, they entered a small inner hall of three rooms; beyond it lay the main residential courtyard behind. Facing them were five principal bays, with carved beams and painted rafters; on either side ran covered corridors and side rooms, where cages of parrots, thrushes, and other birds of various hues hung. On the steps sat several maidservants in bright red and green; at the sight of them, they hurried forward with smiling welcomes: “Just a moment ago the old madam was speaking of you—what perfect timing that you’ve arrived.” Three or four of them vied to lift the curtain, and at the same time they heard someone report: “Miss Lin has arrived.”",
+      "ru": "Пройдя за ширму, они оказались в небольшом внутреннем зале из трёх комнат; за ним простирался главный жилой двор. Впереди — пять пролётов парадных покоев с резными балками и расписными перекрытиями; по обе стороны — проходные галереи и боковые комнаты, где висели клетки с попугаями, дроздами и другими пёстрыми птицами. На ступенях сидели несколько служанок в ярко‑красном и зелёном; увидев гостей, они поспешно поднялись, улыбаясь, и сказали: «Только что старая госпожа вспоминала о вас — как кстати вы пришли». Тут трое‑четверо наперебой подняли занавесь, и одновременно послышался доклад: «Прибыла барышня Линь».",
+      "ja": "屏風を過ぎると、小ぢんまりした三間の内庁があり、その奥は正房の大きな院に続いていた。正面の五間の上房は彫梁画棟、両側には穿山の回廊と廂房があり、色とりどりの鸚鵡や画眉などの鳥籠が掛かっている。階の上には紅や緑の衣の女中が数人座っていて、一行を見るなり笑って迎え、「たった今、老太太がまだ案じておいででしたのに、ちょうどお着きになりました」と言った。三、四人が争うように簾を掲げると、向こうから「林姑娘が着きました」との取次ぎが聞こえた。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "after “可巧就来了”",
+          "original": "如见如闻，活现于纸上之笔。好看煞！",
+          "zh_modern": "写得让人如同亲眼所见、亲耳所闻，纸上活灵活现，真好看极了！",
+          "en": "Written so that one seems to see and hear it in person—vivid on the page. Delightful to behold!",
+          "ru": "Написано так, будто видишь и слышишь собственными глазами и ушами — всё оживает на бумаге. Как хороша эта сцена!",
+          "ja": "見聞するがごとく、紙上に生き生きと現れる筆致。実に見事！"
+        },
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "after 争着打起帘栊",
+          "original": "真有是事，真有是事！",
+          "zh_modern": "真像真有其事，真有其事！",
+          "en": "It truly feels as if this really happened—indeed, as if it truly happened!",
+          "ru": "Будто всё это и впрямь было — действительно было!",
+          "ja": "まことに有りそうな事、まことに有りそうな事！"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pdf_page": 44,
+      "type": "prose",
+      "original": "黛玉方进入房时，只见两个人搀着一位鬓发如银的老母迎上来，黛玉便知是他外祖母。方欲拜见时，早被他外祖母一把搂入怀中，“心肝儿肉”叫着大哭起来。当下地下侍立之人，无不掩面涕泣，黛玉也哭个不住。一时众人慢慢的解劝住了，黛玉方拜见了外祖母。此即冷子兴所云之史氏太君，贾赦、贾政之母也。当下贾母一一指与黛玉：“这是你大舅母，邢氏。这是你二舅母，王氏。这是你先珠大哥的媳妇珠大嫂。李纨。”黛玉一一拜见过。贾母又说：“请姑娘们来。今日远客才来，可以不必上学去了。”众人答应了一声，便去了两个。",
+      "zh_modern": "黛玉刚进屋，只见两个人搀着一位鬓发如银的老太太迎了上来，黛玉便知道这就是外祖母。她正要行礼，外祖母早已一把把她搂进怀里，喊着“心肝儿肉”，放声大哭。旁边侍立的人，没有不掩面落泪的，黛玉也哭个不停。过了一会儿，众人慢慢劝住了，黛玉才拜见外祖母。这位便是冷子兴所说的史氏太君，是贾赦、贾政的母亲。贾母随即一一指给黛玉认人：“这是你大舅母邢氏；这是你二舅母王氏；这是你先珠大哥的媳妇、珠大嫂李纨。”黛玉逐一拜见。贾母又吩咐：“把姑娘们请来。今日远客才到，可以不必去上学了。”众人应了一声，便去了两个。",
+      "en": "As Daiyu entered the room, she saw two attendants supporting an old matron with hair as white as silver, coming forward to greet her; at once Daiyu knew this must be her maternal grandmother. She had scarcely begun to pay her respects when her grandmother swept her into her arms, crying “my heart’s flesh!” and burst into loud weeping. Of those standing by, not one failed to cover the face and shed tears; Daiyu too wept without ceasing. After a time the others gradually soothed them, and only then did Daiyu formally greet her grandmother. This was the Lady Shi, the venerable matriarch of whom Leng Zixing had spoken, mother of Jia She and Jia Zheng. Grandmother Jia then pointed out each person to Daiyu: “This is your elder uncle’s wife, Lady Xing. This is your second uncle’s wife, Lady Wang. This is the wife of your late elder cousin Zhu—your Sister-in-law Zhu, Li Wan.” Daiyu greeted each in turn. Grandmother Jia then said, “Call the young ladies here. Since our distant guest has only just arrived today, she need not go to her lessons.” At this, two of them answered and went out.",
+      "ru": "Едва Дайюй вошла в комнату, как увидела: двое поддерживают седовласую старую госпожу и ведут её навстречу; Дайюй сразу поняла, что это её бабушка по матери. Она ещё только собралась поклониться, как бабушка уже разом обняла её, прижимая к груди, и, восклицая «сердце моё, плоть моя!», разрыдалась. Все, кто стоял рядом, не могли удержаться от слёз; Дайюй тоже плакала без остановки. Лишь спустя некоторое время присутствующие понемногу их утешили, и тогда Дайюй смогла должным образом поклониться бабушке. Это и была госпожа Ши — почтенная матрона, о которой говорил Лэн Цзысин, мать Цзя Шэ и Цзя Чжэна. Затем бабушка Цзя по одному представила Дайюй: «Это жена твоего старшего дяди, госпожа Син. Это жена твоего второго дяди, госпожа Ван. А это жена твоего покойного двоюродного брата Чжу — старшая невестка Чжу, Ли Вань». Дайюй по очереди приветствовала всех. Потом бабушка сказала: «Позовите барышень. Раз дальняя гостья только сегодня прибыла, ей можно не идти на уроки». Двое ответили и вышли.",
+      "ja": "黛玉が部屋に入ると、二人に支えられた鬢髪銀のごとき老母が迎えに出てきたので、黛玉はこれが外祖母だと悟った。拝礼しようとする間もなく、外祖母はひと抱えにして胸に引き寄せ、「心肝児肉」と叫びながら大声で泣き出した。そこに侍る者は皆、顔を覆って涙し、黛玉もまた泣きやまない。しばらくして人々がようやくなだめ、黛玉は改めて外祖母に拝した。これが冷子興の言う史氏太君で、賈赦・賈政の母である。賈母は黛玉に一人ずつ指して言った。「これは大舅母、邢氏。これは二舅母、王氏。これは亡き珠大哥の嫁、珠大嫂の李紈。」黛玉は順に拝見した。賈母はさらに「姑娘たちを呼びなさい。今日は遠来の客が着いたばかりだから、学問所へは行かなくてよい」と言い、皆が返事をすると二人が迎えに出て行った。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "after 鬓发如银的老母迎上来",
+          "original": "此书得力处，全是此等地方，所谓“颊上三毫”也。",
+          "zh_modern": "这部书最见功力之处，全在这些细微处，可谓“颊上三毫”（靠微细处见精神）。",
+          "en": "The book’s power lies precisely in such passages—what one might call “three faint hairs upon the cheek”: minute touches that bring the spirit to life.",
+          "ru": "Сила книги — именно в подобных местах: «три тонких волоска на щеке», то есть малые детали, от которых оживает весь образ.",
+          "ja": "この書の力は、まさにこうした箇所に尽きる。「頬上の三毫」とでもいうべき、微細な一筆で精神が立つ。"
+        },
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "after “心肝儿肉”",
+          "original": "写尽天下疼女儿的神理。",
+          "zh_modern": "天下父母疼爱女儿的神情道理，都写尽了。",
+          "en": "It captures to the full the very truth of how parents cherish their daughters.",
+          "ru": "Здесь исчерпывающе передана самая суть родительской любви к дочери.",
+          "ja": "天下の親が娘を慈しむ心の理を、書き尽くしている。"
+        },
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "after 写尽天下疼女儿的神理",
+          "original": "此一段文字是天性中流出，我读时不觉泪盈双袖。",
+          "zh_modern": "这一段文字是天性自然流露出来的，我读到这里不觉泪满双袖。",
+          "en": "This passage flows straight from human nature; when I read it, my sleeves were wet with tears unawares.",
+          "ru": "Этот отрывок вытекает прямо из человеческой природы; читая его, я и сам не заметил, как слёзы наполнили рукава.",
+          "ja": "この一段は天性より自然に流れ出た文なり。読めば知らず袖を濡らす。"
+        },
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "before 当下地下侍立之人",
+          "original": "几千斤力量写此一笔。",
+          "zh_modern": "这一笔写得有千钧之力。",
+          "en": "A stroke written with the weight of a thousand catties—tremendous force in a single line.",
+          "ru": "Одна строка — а будто с тысячепудовой силой.",
+          "ja": "幾千斤の力をもってこの一筆を書く。"
+        },
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "after 无不掩面涕泣",
+          "original": "旁写一笔，更妙！",
+          "zh_modern": "顺带旁写这一笔，更妙！",
+          "en": "An added side-stroke—still more exquisite!",
+          "ru": "Попутная боковая деталь — ещё изящнее!",
+          "ja": "脇に一筆を添える、いよいよ妙。"
+        },
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "after 黛玉也哭个不住",
+          "original": "自然顺写一笔。",
+          "zh_modern": "顺势自然又写上一笔。",
+          "en": "A natural follow-through—another effortless stroke.",
+          "ru": "Естественное продолжение — ещё один непринуждённый штрих.",
+          "ja": "自然に流れて、また一筆を運ぶ。"
+        },
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "after 解劝住了",
+          "original": "逼真。",
+          "zh_modern": "写得逼真。",
+          "en": "Strikingly true to life.",
+          "ru": "Поразительно жизненно.",
+          "ja": "迫真なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "after 黛玉方拜见了外祖母",
+          "original": "书中正文之人，却如此写出，却是天生地设章法，不见一丝勉强。",
+          "zh_modern": "把正文人物写成这样，是天生地设的章法，全无一丝勉强。",
+          "en": "To bring the principal figure onstage in this way is a structure seemingly born of heaven and earth—without the least strain.",
+          "ru": "Так вывести на сцену главного персонажа — композиция будто задана самой природой: ни тени натяжки.",
+          "ja": "正文の人物をかく写し出すは、天生地設の章法にて、少しも作為の跡なし。"
+        },
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "after 贾赦、贾政之母也",
+          "original": "书中人目太繁，故明注一笔，使观者省眼。",
+          "zh_modern": "书中人物太多，故特意明注一笔，好让读者省眼不乱。",
+          "en": "There are so many characters that a clarifying note is inserted, to spare the reader’s eyes and confusion.",
+          "ru": "Персонажей слишком много, потому и дана явная помета — чтобы читателю было легче следить.",
+          "ja": "書中の人物があまりに多いゆえ、ここで明らかに一筆注し、読む者の目を省かせる。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "pdf_page": 44,
+      "type": "prose",
+      "original": "不一时，只见三个奶嬷嬷并五六个丫鬟，簇拥着三个姊妹来了。第一个肌肤微丰，合中身材，腮凝新荔，鼻腻鹅脂，温柔沉默，观之可亲。第二个削肩细腰，长挑身材，鸭蛋脸面，俊眼修眉，顾盼神飞，文彩精华，见之忘俗。第三个身量未足，形容尚小。其钗环裙袄，三人皆是一样的妆饰。",
+      "zh_modern": "不一会儿，只见三个奶嬷嬷和五六个丫鬟簇拥着三个姐妹走了进来。第一个肌肤略丰，身材匀称，脸颊像新鲜荔枝般润泽，鼻子像鹅脂般细腻，温柔沉静，看着就让人觉得亲近。第二个削肩细腰，身材修长，鸭蛋脸，俊眼修眉，顾盼之间神采飞扬，文采与灵气外露，令人一见便觉超俗。第三个个子还没长足，容貌也还稚嫩。她们头上的钗环、身上的裙袄，三人装束都差不多。",
+      "en": "Before long, three wet nurses and five or six maidservants appeared, escorting three sisters. The first had a slight fullness to her complexion and a well-proportioned figure; her cheeks were as lustrous as fresh lychees, her nose as smooth as rendered goose-fat; gentle and taciturn, she seemed amiable at a glance. The second had sloping shoulders and a slender waist, a tall figure, an oval face, bright eyes and long brows; her look sparkled as she glanced about, with visible brilliance and refinement—one could forget the vulgar world upon seeing her. The third was not yet fully grown, her features still youthful. Their hair ornaments and skirts were much the same, all three dressed alike.",
+      "ru": "Не прошло и времени, как появились три кормилицы и пять‑шесть служанок, окружая трёх сестёр. У первой кожа была чуть полнее, фигура ладная; щёки — как свежая личи, нос — как гладкий гусиный жир; мягкая и молчаливая, она сразу казалась приятной. У второй — тонкие плечи и стройная талия, высокий стан, овальное лицо, ясные глаза и длинные брови; взгляд её летал, а в облике проступали блеск и изящество — увидишь и забудешь о пошлости. Третья ещё не доросла, и черты её оставались детскими. Украшения в волосах и платье у всех трёх были почти одинаковыми.",
+      "ja": "ほどなくして、三人の乳母と五、六人の女中が三姉妹を取り囲んで入って来た。第一の姉は肌がややふっくらし、体つきは程よく、頬は新しい荔枝のように艶やかで、鼻は鵞脂のように滑らか、温和で寡黙、見れば親しみが湧く。第二の姉は削ったような肩に細い腰、背がすらりと伸び、卵形の顔、澄んだ目に長い眉、視線の動きに神が宿り、文彩と精華が現れて、見る者を俗から離れさせる。第三の姉はまだ背丈が足りず、顔つきも幼い。髪飾りや衣の装いは三人ともほぼ同じであった。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "after 簇拥着三个姊妹来了",
+          "original": "声势如现纸上。",
+          "zh_modern": "那种场面气势仿佛就呈现在纸上。",
+          "en": "The scene’s momentum seems to appear right on the page.",
+          "ru": "Размах сцены словно прямо проступает на бумаге.",
+          "ja": "声勢がそのまま紙上に現れる。"
+        },
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "before 第一个肌肤微丰",
+          "original": "从黛玉眼中写三人。",
+          "zh_modern": "这是从黛玉的眼光来写这三个人。",
+          "en": "The three are described through Daiyu’s eyes.",
+          "ru": "Трое описаны глазами Дайюй.",
+          "ja": "黛玉の目を通して三人を写す。"
+        },
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "after 肌肤微丰",
+          "original": "不犯宝钗。",
+          "zh_modern": "写法不与宝钗相犯（不写成宝钗那一类）。",
+          "en": "This portrayal does not encroach upon Baochai’s type (it is not written in Baochai’s manner).",
+          "ru": "Образ не «перекрывает» Баочай (не написан как у Баочай).",
+          "ja": "宝釵の描き方と相犯さず。"
+        },
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "after 观之可亲",
+          "original": "为迎春写照。",
+          "zh_modern": "这是为迎春写照。",
+          "en": "A portrait of Yingchun.",
+          "ru": "Портрет Инчунь.",
+          "ja": "迎春の写照なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "after 削肩细腰",
+          "original": "《洛神赋》中云“肩若削成”是也。",
+          "zh_modern": "《洛神赋》里说“肩若削成”（肩如削成般匀称），就是这个意思。",
+          "en": "This matches the Luo River Goddess Rhapsody: “shoulders as if carved.”",
+          "ru": "Это как в «Лошэнь фу»: «плечи — словно вырезанные резцом».",
+          "ja": "『洛神賦』に「肩若削成」とある、その意なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "after 见之忘俗",
+          "original": "为探春写照。",
+          "zh_modern": "这是为探春写照。",
+          "en": "A portrait of Tanchun.",
+          "ru": "Портрет Таньчунь.",
+          "ja": "探春の写照なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "after 形容尚小",
+          "original": "浑写一笔更妙！必个个写去则板矣。可笑近之小说中有一百个女子，皆是如花似玉一副脸面。",
+          "zh_modern": "这样用一笔概写更妙！若人人细写，反而板滞。可笑近世小说里写一百个女子，个个都是如花似玉一张脸。",
+          "en": "Even better to sketch her in a single stroke! To labor over each one would make the writing stiff. Ridiculous are those recent novels with a hundred women, every one ‘as fair as flowers and as lovely as jade,’ all with the same face.",
+          "ru": "Ещё лучше — обрисовать одним штрихом! Если бы каждого расписывать подробно, вышло бы деревянно. Смешны современные романы: у них хоть сто женщин — все «как цветы и как яшма», с одним и тем же лицом.",
+          "ja": "一筆でまとめて写す方がいよいよ妙。いちいち書けば却って板につく。近ごろの小説に、女が百人出ても皆「如花似玉」の同じ顔ばかりなのは可笑しい。"
+        },
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "after 其钗环裙袄",
+          "original": "是极。",
+          "zh_modern": "正是这样。",
+          "en": "Exactly so.",
+          "ru": "Именно так.",
+          "ja": "そのとおり。"
+        },
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "after 一样的妆饰",
+          "original": "毕肖。",
+          "zh_modern": "非常传神逼肖。",
+          "en": "A perfect likeness—uncannily true to life.",
+          "ru": "Полное сходство — до живости.",
+          "ja": "畢肖なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "Zhiping",
+          "position": "end of page",
+          "original": "欲画天尊，先画(纵)[众]神。如此，其天尊自当",
+          "zh_modern": "要画天尊，先画（纵）[众]神；如此一来，天尊自然就……",
+          "en": "If you would paint the Heavenly Worthy, first paint the (all / assembled) gods; then the Heavenly Worthy will naturally…",
+          "ru": "Хочешь писать Небесного Владыку — сперва изобрази (всех / собранных) богов; тогда Небесный Владыка сам собой…",
+          "ja": "天尊を画かんと欲せば、先ず(縦)[衆]神を画け。かくして、天尊は自ずから……"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "「颊上三毫」字面为“颊上三根毫毛”，用来比喻凭极细微处传神；这里评论的是叙事细节把场景写活。",
+    "「腮凝新荔，鼻腻鹅脂」为常见美人描写的比喻：以“新荔”喻面颊的润泽红白，以“鹅脂”喻肌理细腻。",
+    "「肩若削成」出自曹植《洛神赋》，以雕琢般的匀称形容肩形；批语点明此处用典。",
+    "末句「欲画天尊…」在本页戛然而止，应续在下一页；本页译文以省略号标示未完。"
+  ],
+  "research_notes": [
+    "Consulted project glossary for consistent rendering of Lin Daiyu and Xue Baochai names across languages.",
+    "Referenced common usage of allusions in 《洛神赋》 for the phrase 「肩若削成」."
+  ],
+  "characters_appearing": [
+    "林黛玉",
+    "贾母",
+    "邢夫人",
+    "王夫人",
+    "李纨",
+    "贾赦",
+    "贾政"
+  ],
+  "total_segments": 3,
+  "manuscript_sources_on_page": [
+    "Zhiping"
+  ]
+}
