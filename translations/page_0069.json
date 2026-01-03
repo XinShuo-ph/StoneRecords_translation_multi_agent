@@ -1,0 +1,89 @@
+{
+  "page": 69,
+  "chapter": "第四回",
+  "chapter_title": {
+    "original": "薄命女偏逢薄命郎 葫芦僧乱判葫芦案",
+    "zh_modern": "薄命女偏逢薄命郎，葫芦僧胡乱判断葫芦案",
+    "en": "The Ill-Fated Girl by Chance Meets an Ill-Fated Man; The Monk from the Gourd Temple Judgmentally Settles the Gourd Case",
+    "ru": "Несчастная дева встречает несчастного юношу; Монах из тыквы судит дело о тыкве",
+    "ja": "薄命の女は偏（ひとえ）に薄命の郎（おとこ）に逢い、葫芦（ころ）の僧は乱りに葫芦の案を判ず"
+  },
+  "page_content_type": "prose",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 69,
+      "type": "prose",
+      "original": "恰好这日正是贾政的生辰，宁荣二处人丁都齐集庆贺，热闹非常。忽门吏报：“金陵薛大爷来了。”",
+      "zh_modern": "恰好这一天正是贾政的生日，宁国府、荣国府两处的人丁都聚集在一起庆贺，非常热闹。忽然门吏通报：“金陵的薛大爷来了。”",
+      "en": "As it happened, this day was precisely Jia Zheng's birthday. The members of both the Ning and Rong households had gathered to celebrate, and it was extremely lively. Suddenly, the gatekeeper reported, \"Master Xue from Jinling has arrived.\"",
+      "ru": "Как раз в этот день был день рождения Цзя Чжэна. Члены обоих домов, Нин и Жун, собрались вместе, чтобы отпраздновать, и было очень оживленно. Вдруг привратник доложил: «Прибыл господин Сюэ из Цзиньлина».",
+      "ja": "恰好（ちょうど）この日は正に賈政の生辰（たんじょうび）にして、寧栄二処の人丁都（すべ）て斉しく集まって慶賀し、热闹（にぎやか）非常なり。忽ち門吏報ずらく：「金陵の薛大爺来れり」と。"
+    },
+    {
+      "id": 2,
+      "pdf_page": 69,
+      "type": "prose",
+      "original": "贾政听了，便知系姨姊之子，即忙接进去。相见也不必细述。且说贾母，也素知薛姨妈之名，今日一见，自然也是欢喜的。",
+      "zh_modern": "贾政听了，便知道是姨姐的儿子，连忙接了进去。相见的情形也不必细说了。且说贾母，也向来知道薛姨妈的名声，今天一见，自然也是欢喜的。",
+      "en": "Hearing this, Jia Zheng knew it was his wife's sister's son and hurriedly welcomed him in. There is no need to describe their meeting in detail. As for Grandmother Jia, she had long known of Aunt Xue, and seeing her today, she was naturally delighted as well.",
+      "ru": "Услышав это, Цзя Чжэн понял, что это сын сестры его жены, и поспешил встретить его. Нет нужды подробно описывать их встречу. Что касается матушки Цзя, то она давно знала о тетушке Сюэ, и, увидев ее сегодня, тоже, естественно, обрадовалась.",
+      "ja": "賈政は聴いて、便（すなわ）ち姨姉（ぎし）の子に系（かか）るを知り、即ち忙（いそが）わしく接し進む。相見ゆるも細述するに必（およ）ばず。且（しばら）く説く、賈母も、亦た素（もと）より薛姨媽の名を知り、今日一見し、自然亦た歓喜す。"
+    },
+    {
+      "id": 3,
+      "pdf_page": 69,
+      "type": "prose",
+      "original": "彼此叙说家常，又见了薛蟠。薛蟠拜见已毕，呈上土物礼物。贾母便留他们住下，薛姨妈正要和王夫人厮守几日，也便答应了。",
+      "zh_modern": "大家彼此叙说家常话，又见了薛蟠。薛蟠拜见完毕，呈上土产和礼物。贾母便留他们住下，薛姨妈正想和王夫人厮守几天，也就答应了。",
+      "en": "They chatted about family matters, and then she met Xue Pan. After Xue Pan finished paying his respects, he presented local products and gifts. Grandmother Jia invited them to stay, and since Aunt Xue wanted to spend a few days with Madame Wang, she agreed.",
+      "ru": "Они поговорили о домашних делах, а затем она встретилась с Сюэ Панем. После того как Сюэ Пань закончил свое приветствие, он преподнес местные продукты и подарки. Матушка Цзя пригласила их остаться, и, так как тетушка Сюэ хотела провести несколько дней с госпожой Ван, она согласилась.",
+      "ja": "彼此（たがい）に家常を叙説し、また薛蟠に見（まみ）ゆ。薛蟠は拝見已（すで）に畢（おわ）り、土物礼物（みやげもの）を呈上す。賈母は便（すなわ）ち彼らを留めて住ましめ、薛姨媽は正に王夫人と幾日か厮守（あいともに）せんと要（ほっ）し、也就（すなわ）ち答応せり。"
+    }
+  ],
+  "commentary": [
+    {
+      "type": "interlinear",
+      "source": "Zhiping",
+      "original": "恰好这日正是贾政的生辰（甲戌侧批：写得极便，不用特备一席。）",
+      "translation_en": "(Jiaxu Side Note: Written very conveniently; no need to prepare a special banquet.)",
+      "position": "segment_1"
+    },
+    {
+      "type": "interlinear",
+      "source": "Zhiping",
+      "original": "也便答应了（甲戌侧批：趁心如意。）",
+      "translation_en": "(Jiaxu Side Note: Exactly as one wished.)",
+      "position": "segment_3"
+    }
+  ],
+  "translator_notes": [
+    {
+      "original_term": "姨姊",
+      "english_translation": "Wife's older sister / Sister-in-law",
+      "explanation": "Refers to Aunt Xue (Xue Yima), who is the older sister of Jia Zheng's wife, Madame Wang."
+    },
+    {
+      "original_term": "土物",
+      "english_translation": "Local products / Native specialties",
+      "explanation": "Gifts characteristic of one's home region, commonly presented when visiting relatives."
+    }
+  ],
+  "research_notes": [
+    {
+      "topic": "The Arrival of the Xue Family",
+      "content": "The arrival of the Xue family at the Rongguo Mansion is a major plot point, bringing key characters like Xue Baochai (implied) and Xue Pan into the central setting of the novel."
+    }
+  ],
+  "characters_appearing": [
+    "Jia Zheng (贾政)",
+    "Xue Pan (薛蟠)",
+    "Grandmother Jia (贾母)",
+    "Aunt Xue (薛姨妈)",
+    "Madame Wang (王夫人)"
+  ],
+  "manuscript_sources_on_page": [
+    "Jiaxu (甲戌本)",
+    "Gengchen (庚辰本)"
+  ]
+}
