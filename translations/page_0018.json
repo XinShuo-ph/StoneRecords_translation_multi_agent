@@ -1,0 +1,129 @@
+{
+  "page": 18,
+  "chapter": "第一回",
+  "chapter_title": null,
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "心，如今现有一段风流公案正该了结，这一干风流冤家，尚未投胎入世。趁此机会，就将此蠢物夹带于中，使他去经历经历。那道人道：原来近日风流冤孽又将造劫历世去不成？庚侧若悟是造劫历世，又不能不造劫历世，悲夫！但不知落于何方何处？",
+      "zh_modern": "心中，如今正好有一段风流公案该了结了，这一群风流冤家，还没有投胎转世。趁此机会，就将这个蠢物夹带在其中，让他去经历经历。那道人说：原来近日这些风流冤孽又将要造劫历世去了不成？（庚辰本侧批：若悟是造劫历世，又不能不造劫历世，悲夫！）但不知会落到何方何处？",
+      "en": "...in mind, there is currently a case of romantic destiny that should be resolved, and this group of romantic fated ones have not yet been reborn into the world. Taking this opportunity, we shall include this foolish thing among them to let him experience the world. The Taoist said: So these romantic fated ones are about to descend into the world of tribulation again? (Gengchen side note: If one realizes it is to undergo worldly tribulation, yet one cannot avoid undergoing worldly tribulation - how sad!) But I wonder where they will land?",
+      "ru": "...на уме, в настоящее время есть дело романтической судьбы, которое следует разрешить, и эта группа романтических предначертанных еще не переродилась в мире. Воспользовавшись этой возможностью, мы включим эту глупую вещь среди них, чтобы дать ей испытать мир. Даос сказал: Так эти романтические предначертанные снова собираются спуститься в мир страданий? (Боковое примечание Гэнчэнь: Если осознаешь, что это пережить мирские страдания, но не можешь избежать мирских страданий - как печально!) Но интересно, где они окажутся?",
+      "ja": "心中、今まさに一段の風流公案が了結すべきところ、この一群の風流の冤家、未だ投胎入世せず。此の機会に乗じ、此の蠢物を夾帯し、彼をして経歴せしめん。彼の道人道う：原来近日の風流冤孽又将に造劫歴世せんとするか？（庚辰側批：若し造劫歴世なりと悟らば、又造劫歴世せざるを能わず、悲しいかな！）但だ知らず何方何処に落つるやを？",
+      "commentary": [
+        {
+          "type": "侧批",
+          "source": "庚辰本",
+          "position": "side",
+          "original": "若悟是造劫历世，又不能不造劫历世，悲夫！",
+          "zh_modern": "如果悟到这是造劫历世，却又不能不造劫历世，多么悲哀啊！",
+          "en": "If one realizes it is to undergo worldly tribulation, yet one cannot avoid undergoing worldly tribulation - how sad!",
+          "ru": "Если осознаешь, что это пережить мирские страдания, но не можешь избежать мирских страданий - как печально!",
+          "ja": "若し造劫歴世なりと悟らば、又造劫歴世せざるを能わず、悲しいかな！"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "那僧笑道：此事说来好笑，竟是千古未闻的罕事。只因西方灵河岸上三生石畔，甲侧妙！所谓三生石上旧精魂也。甲眉全用幻，情之至。莫如此。今来未压卷，其后可知。有绛甲侧点红字。珠甲侧细思绛珠二字岂非血泪乎。草一株，时有赤瑕甲侧点红字玉字二。甲眉按瑕字本注：玉小赤也，又玉有病也。以此命名恰极。宫神瑛甲侧毕点玉字二。侍者，日以甘露灌溉，这绛珠草便得久延岁月。后来既受天地精华，复得雨露滋养，遂得脱却草胎木质，得换人形，仅修成个女体，终日游于离恨天外，饥则食密青果为膳，渴则饮灌愁海水为汤。甲侧饮食之名奇甚，出身履历更奇甚，写宝玉来历自与别个不同。只因尚未酬报灌溉之德，故其五衷便郁结着一段缠绵不尽之意。甲侧妙极！恩怨不清，西方尚如此，况世之人乎？趣甚警甚！",
+      "zh_modern": "那僧笑道：此事说来好笑，竟是千古未闻的罕事。只因西方灵河岸上三生石畔（甲戌本侧批：妙！所谓三生石上旧精魂也。甲戌本眉批：全用幻，情之至。莫如此。今来未压卷，其后可知。）有绛（甲戌本侧批：点红字。）珠（甲戌本侧批：细思绛珠二字岂非血泪乎。）草一株，时有赤瑕（甲戌本侧批：点红字玉字二。甲戌本眉批按瑕字本注：玉小赤也，又玉有病也。以此命名恰极。）宫神瑛（甲戌本侧批：毕点玉字二。）侍者，日以甘露灌溉，这绛珠草便得久延岁月。后来既受天地精华，复得雨露滋养，遂得脱却草胎木质，得换人形，仅修成个女体，终日游于离恨天外，饥则食密青果为膳，渴则饮灌愁海水为汤。（甲戌本侧批：饮食之名奇甚，出身履历更奇甚，写宝玉来历自与别个不同。）只因尚未酬报灌溉之德，故其五衷便郁结着一段缠绵不尽之意。（甲戌本侧批：妙极！恩怨不清，西方尚如此，况世之人乎？趣甚警甚！）",
+      "en": "The monk laughed and said: This matter is quite amusing to tell - it is an unheard-of rarity through the ages. Only because on the bank of the Spirit River in the West, beside the Three-Lives Stone (Jiaxu side note: Wonderful! This refers to the ancient souls on the Three-Lives Stone. Jiaxu top note: All using illusion, the utmost of feeling. Nothing compares. What comes after can be anticipated.), there was a Crimson (Jiaxu side note: Points to the character red.) Pearl (Jiaxu side note: Consider carefully - are not the two characters crimson pearl actually blood and tears?) plant. At that time there was an Attendant named Shenying with Red Flaws (Jiaxu side note: Points to red and jade characters. Jiaxu top note on the character flaw: The original note says jade with small redness, also jade with illness. The name is most apt.) from the Divine Luminescence Palace (Jiaxu side note: Points to two jade characters.), who daily watered it with sweet dew, allowing the Crimson Pearl plant to extend its years. Later, having received the essence of heaven and earth and the nourishment of rain and dew, it shed its plant form and took on human shape, cultivating only a female body. It spent its days wandering beyond the Heaven of Departed Sorrow, eating honey-green fruit when hungry and drinking water from the Sea of Grieving Tears when thirsty. (Jiaxu side note: The names of food and drink are most strange, the life history even stranger - Baoyus origins are written differently from everyone elses.) Only because the favor of irrigation had not yet been repaid, the five inner feelings were bound up in an endless lingering sentiment. (Jiaxu side note: Most wonderful! Debts of gratitude and resentment unclear - even in the West it is thus, how much more so for people in this world? Most interesting and most cautionary!)",
+      "ru": "Монах засмеялся и сказал: Эта история довольно забавна - это неслыханная редкость на протяжении веков. Только потому, что на берегу Духовной Реки на Западе, у Камня Трех Жизней (боковое примечание Цзясюй: Прекрасно! Это относится к древним душам на Камне Трех Жизней. Верхнее примечание Цзясюй: Все через иллюзию, высшая степень чувства. Ничто не сравнится. Что последует, можно предугадать.), росло растение Багряная Жемчужина (боковое примечание Цзясюй: Указывает на иероглиф красный. Боковое примечание Цзясюй: Подумайте внимательно - разве два иероглифа багряная жемчужина не означают кровь и слезы?). В то время был Служитель по имени Шэньин с Красными Изъянами (боковое примечание Цзясюй: Указывает на иероглифы красный и яшма.) из Дворца Божественного Сияния (боковое примечание Цзясюй: Указывает на два иероглифа яшма.), который ежедневно поливал его сладкой росой, позволяя растению Багряная Жемчужина продлить свои годы. Позже, получив сущность неба и земли и питание дождя и росы, оно сбросило растительную форму и приняло человеческий облик, обретя только женское тело. Оно проводило дни, странствуя за Небесами Ушедшей Печали, питаясь медово-зелеными плодами и утоляя жажду водой из Моря Скорбных Слез. (Боковое примечание Цзясюй: Названия еды и питья весьма странны, жизненная история еще страннее - происхождение Баоюя написано иначе, чем у всех остальных.) Только потому, что благодеяние полива еще не было возмещено, пять внутренних чувств были связаны бесконечным томительным чувством. (Боковое примечание Цзясюй: Превосходно! Долги благодарности и обиды неясны - даже на Западе так, что уж говорить о людях в этом мире? Весьма интересно и весьма поучительно!)",
+      "ja": "彼の僧笑いて道う：此の事説き来れば好笑、竟に千古未聞の罕事なり。只だ西方霊河の岸上、三生石の畔に（甲戌側批：妙なり！所謂三生石上の旧精魂なり。甲戌眉批：全て幻を用う、情の至りなり。此の如きは莫し。今来未だ圧巻せず、其の後知る可し。）絳（甲戌側批：紅の字を点す。）珠（甲戌側批：細かに思えば絳珠の二字、豈に血涙に非ざらんや。）草一株有り。時に赤瑕（甲戌側批：紅の字、玉の字二つを点す。甲戌眉批、瑕の字の本注に按ずるに：玉の小赤なり、又玉病有り。此を以て命名す、恰も極まれり。）宮の神瑛（甲戌側批：畢ね玉の字二つを点す。）侍者有りて、日に甘露を以て灌漑す。此の絳珠草便ち久しく歳月を延ぶるを得たり。後来既に天地の精華を受け、復た雨露の滋養を得、遂に草胎木質を脱却するを得て、人形に換わるを得、僅かに女体を修成し、終日離恨天の外に遊び、飢うれば則ち密青果を食いて膳と為し、渇けば則ち灌愁海の水を飲みて湯と為す。（甲戌側批：飲食の名奇甚し、出身履歴更に奇甚し、宝玉の来歴を書くこと自ずと別個と同じからず。）只だ尚お灌漑の徳を酬報せざるに因り、故に其の五衷便ち一段の纏綿不尽の意を鬱結す。（甲戌側批：妙極まれり！恩怨清からず、西方尚お此の如し、況んや世の人をや？趣甚だ警甚だし！）",
+      "commentary": [
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "position": "side, multiple locations",
+          "original": "妙！所谓三生石上旧精魂也。点红字。细思绛珠二字岂非血泪乎。点红字玉字二。畢点玉字二。饮食之名奇甚，出身履历更奇甚，写宝玉来历自与别个不同。妙极！恩怨不清，西方尚如此，况世之人乎？趣甚警甚！",
+          "zh_modern": "妙！所谓三生石上旧精魂。点出红字。细思绛珠二字岂非血泪吗？点出红字和玉字两处。全部点出玉字两处。饮食的名字非常奇特，出身履历更加奇特，写宝玉的来历自然与别人不同。妙极了！恩怨不清楚，西方尚且如此，何况人世间的人呢？既有趣又警醒！",
+          "en": "Wonderful! This refers to the ancient souls on the Three-Lives Stone. Points to the character red. Consider carefully - are not the two characters crimson pearl actually blood and tears? Points to red and jade characters. Points to two jade characters. The names of food and drink are most strange, the life history even stranger - Baoyus origins are written differently from everyone elses. Most wonderful! Debts of gratitude and resentment unclear - even in the West it is thus, how much more so for people in this world? Most interesting and most cautionary!",
+          "ru": "Прекрасно! Это относится к древним душам на Камне Трех Жизней. Указывает на иероглиф красный. Подумайте - разве два иероглифа багряная жемчужина не означают кровь и слезы? Указывает на иероглифы красный и яшма. Указывает на два иероглифа яшма. Названия еды и питья весьма странны, жизненная история еще страннее. Превосходно! Долги благодарности и обиды неясны - даже на Западе так!",
+          "ja": "妙なり！所謂三生石上の旧精魂。紅の字を点す。細かに思えば絳珠の二字、豈に血涙に非ざらんや。紅と玉の字を点す。玉の字二つを点す。飲食の名奇甚し、出身履歴更に奇甚し。妙極まれり！恩怨清からず、西方尚お此の如し、況んや世の人をや！"
+        },
+        {
+          "type": "眉批",
+          "source": "甲戌本",
+          "position": "top margin",
+          "original": "全用幻，情之至。莫如此。今来未压卷，其后可知。按瑕字本注：玉小赤也，又玉有病也。以此命名恰极。",
+          "zh_modern": "全部用幻，这是情之至。没有比这更好的了。如今还没到最后，以后可以知道。按瑕字的本注：玉的小红点，又指玉有瑕疵。用这来命名恰到好处。",
+          "en": "All using illusion, the utmost of feeling. Nothing compares. What comes after can be anticipated. The original note on the character flaw says: jade with small redness, also jade with illness. The name is most apt.",
+          "ru": "Все через иллюзию, высшая степень чувства. Ничто не сравнится. Что последует, можно предугадать. Примечание к иероглифу изъян: яшма с небольшой краснотой, также яшма с болезнью. Название весьма уместно.",
+          "ja": "全て幻を用う、情の至りなり。此の如きは莫し。今来未だ圧巻せず、其の後知る可し。瑕の字の本注に按ずるに：玉の小赤なり、又玉病有り。此を以て命名す、恰も極まれり。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "甲眉以硕石草木为偶，实历尽风月波澜，尝遍情缘滋味，至无可如何，始结此木石因果，以泄胸中忆憾。古人之一花一石如有意，不语不笑能留人，此之谓耶？蒙侧点题处，清雅。恰近日神瑛侍者凡心偶炽，甲侧总悔轻举妄动之意。乘此昌明太平朝世，意欲下凡造历幻甲侧点幻字。缘，已在警幻甲侧又出一警幻，皆大关键处。仙子案前挂了号。警幻亦曾问及，灌溉之情未偿，趁此倒可了结的。那绛珠仙子道：他是甘露之惠，我并无此水可还。他既下世为人，我也去下世为人，但把我一生所有的眼泪还他，也偿还得过他了。甲侧观者至此请掩卷思想，历来小说中可曾有此句？千古未闻之奇文。甲眉知眼泪还债，大都作者一人耳。余亦知此意，但不能说得出。知者虽多，不能道得出，蒙侧思情山海债，惟有泪堪还。因此一事，就勾出多少风流冤家来，甲侧余不及一人者，盖全部之主惟二玉二人也。陪他们去了结此案。",
+      "zh_modern": "（甲戌本眉批：以顽石草木为配偶，实际上历尽风月波澜，尝遍情缘滋味，到无可奈何时，才结成这木石因果，以发泄胸中的忆恨。古人所谓一花一石若有情意，不语不笑也能留人，说的就是这个吗？蒙府本侧批：点题之处，清雅。）恰逢近日神瑛侍者凡心偶然炽热（甲戌本侧批：总有悔恨轻举妄动之意。）乘此昌明太平朝世，意欲下凡造历幻（甲戌本侧批：点幻字。）缘，已在警幻（甲戌本侧批：又出一警幻，皆大关键处。）仙子案前挂了号。警幻亦曾问及，灌溉之情未偿，趁此倒可了结的。那绛珠仙子道：他是甘露之惠，我并无此水可还。他既下世为人，我也去下世为人，但把我一生所有的眼泪还他，也偿还得过他了。（甲戌本侧批：观者至此请掩卷思想，历来小说中可曾有此句？千古未闻之奇文。甲戌本眉批：知眼泪还债，大都作者一人耳。余亦知此意，但不能说得出。知者虽多，不能道得出。蒙府本侧批：思情山海债，惟有泪堪还。）因此一事，就勾出多少风流冤家来（甲戌本侧批：余不及一人者，盖全部之主惟二玉二人也。）陪他们去了结此案。",
+      "en": "(Jiaxu top note: Using stubborn stone and plants as companions, having truly experienced all the waves of romance, tasted all the flavors of love, only when there was no alternative did this wood-and-stone destiny come together to release the memories and regrets in the heart. The ancients said that one flower and one stone seem to have feeling, and without words or smiles can keep a person - is this what they meant? Mengfu side note: The thematic point is elegant and refined.) It happened that recently the Divine Luminescent Attendant Shenyings mortal heart was stirred (Jiaxu side note: Always implying regret for rash action.), and taking advantage of this enlightened and peaceful age, he wished to descend to the mortal world to experience illusion (Jiaxu side note: Points to the character illusion.) and fate. He had already registered at the desk of the Fairy Disenchantment (Jiaxu side note: Another Disenchantment appears - all are crucial points.). Disenchantment had also inquired about this, saying the debt of irrigation remained unpaid and could now be settled. The Crimson Pearl Fairy said: His is the kindness of sweet dew, but I have no such water to repay him. Since he is going down to become human, I too shall go down to become human. Let me repay him with all the tears of my lifetime - that should settle the debt. (Jiaxu side note: Readers reaching this point should close the book and reflect - has any novel ever contained such a line? An extraordinary passage unheard of through the ages. Jiaxu top note: Knowing that tears repay debts, this is mostly just the author alone. I too know this meaning but cannot express it. Though many know, none can express it. Mengfu side note: The debt of love is like mountains and seas, only tears can repay it.) Because of this matter, many romantic fated ones were drawn in (Jiaxu side note: The one I cannot match is because the protagonists of the entire work are only the two Jades.), accompanying them to resolve this case.",
+      "ru": "(Верхнее примечание Цзясюй: Используя упрямый камень и растения как спутников, действительно испытав все волны романтики, вкусив все оттенки любви, только когда не было альтернативы, эта судьба дерева и камня соединилась, чтобы освободить воспоминания и сожаления в сердце. Древние говорили, что один цветок и один камень как будто имеют чувства, и без слов или улыбок могут удержать человека - это ли имелось в виду? Боковое примечание Мэнфу: Тематический момент элегантен и изыскан.) Случилось так, что недавно мирское сердце Божественного Сияющего Служителя Шэньина было взволновано (Боковое примечание Цзясюй: Всегда подразумевая сожаление о необдуманном действии.), и воспользовавшись этим просвещенным и мирным веком, он захотел спуститься в мир смертных, чтобы испытать иллюзию (Боковое примечание Цзясюй: Указывает на иероглиф иллюзия.) и судьбу. Он уже зарегистрировался у стола Феи Разочарования (Боковое примечание Цзясюй: Появляется еще одно Разочарование - все это ключевые моменты.). Разочарование также спросила об этом, сказав, что долг полива остался невыплаченным и теперь может быть улажен. Фея Багряная Жемчужина сказала: Его - доброта сладкой росы, но у меня нет такой воды, чтобы вернуть ему. Раз он спускается стать человеком, я тоже спущусь стать человеком. Позвольте мне отплатить ему всеми слезами моей жизни - это должно погасить долг. (Боковое примечание Цзясюй: Читатели, дойдя до этого места, должны закрыть книгу и задуматься - содержал ли когда-либо какой-либо роман такую строку? Необыкновенный отрывок, неслыханный на протяжении веков. Верхнее примечание Цзясюй: Зная, что слезы погашают долги, это в основном только сам автор. Я тоже знаю это значение, но не могу выразить его. Хотя многие знают, никто не может выразить. Боковое примечание Мэнфу: Долг любви как горы и моря, только слезы могут его погасить.) Из-за этого дела многие романтические предначертанные были вовлечены (Боковое примечание Цзясюй: Тот, с кем я не могу сравниться, потому что главные герои всего произведения - только две Яшмы.), сопровождая их, чтобы разрешить это дело.",
+      "ja": "（甲戌眉批：頑石草木を以て偶と為し、実に風月の波瀾を歴尽し、情縁の滋味を嘗め尽くし、如何ともすべからざるに至り、始めて此の木石の因果を結び、以て胸中の忆憾を泄す。古人の所謂一花一石意有るが如く、語らず笑わずして能く人を留む、此の謂いか？蒙府側批：題を点ずる処、清雅なり。）恰も近日神瑛侍者凡心偶たま熾なり（甲戌側批：総て軽挙妄動を悔ゆるの意。）此の昌明太平の朝世に乗じ、下凡して幻（甲戌側批：幻の字を点す。）縁を造歴せんと意欲す。已に警幻（甲戌側批：又一警幻を出す、皆大関鍵の処なり。）仙子の案前に号を掛けたり。警幻も亦て問い及び、灌漑の情未だ償わず、此に乗じて倒に了結す可しと。彼の絳珠仙子道う：彼は甘露の恵なり、我並びに此の水の還す可き無し。彼既に下世して人と為らば、我も亦た往きて下世して人と為らん。但だ我が一生所有の眼涙を彼に還せば、也た彼を償い還し得過ぎん。（甲戌側批：観者此に至りて請う巻を掩いて思想せよ、歴来の小説中に曾て此の句有りしや？千古未聞の奇文なり。甲戌眉批：眼涙もて債を還すを知る、大都作者一人のみ。余も亦た此の意を知るも、但だ説き出す能わず。知る者多しと雖も、道い出す能わず。蒙府側批：情山海の債を思えば、惟だ涙のみ還すに堪えたり。）此の一事に因りて、就ち多少の風流冤家を勾き出す（甲戌側批：余の一人に及ばざる者は、蓋し全部の主は惟だ二玉二人のみなればなり。）彼らに陪して往きて此の案を了結せしむ。",
+      "commentary": [
+        {
+          "type": "眉批",
+          "source": "甲戌本",
+          "position": "top margin",
+          "original": "以硕石草木为偶，实历尽风月波澜，尝遍情缘滋味，至无可如何，始结此木石因果，以泄胸中忆憾。古人之一花一石如有意，不语不笑能留人，此之谓耶？知眼泪还债，大都作者一人耳。余亦知此意，但不能说得出。知者虽多，不能道得出。",
+          "zh_modern": "以顽石草木为配偶，确实历尽风月波澜，尝遍情缘滋味，到无可奈何时，才结成这木石因果，以发泄胸中的忆恨。古人所说一花一石若有情意，不说话不笑也能留人，说的就是这个吗？知道眼泪还债，大都是作者一人而已。我也知道这个意思，但说不出来。知道的人虽多，却说不出来。",
+          "en": "Using stubborn stone and plants as companions, having truly experienced all the waves of romance, tasted all the flavors of love, only when there was no alternative did this wood-and-stone destiny come together to release the memories and regrets in the heart. The ancients said one flower and one stone seem to have feeling, without words or smiles can keep a person - is this what they meant? Knowing that tears repay debts, this is mostly just the author alone. I too know this meaning but cannot express it. Though many know, none can express it.",
+          "ru": "Используя упрямый камень и растения как спутников, действительно испытав все волны романтики, вкусив все оттенки любви, только когда не было альтернативы, эта судьба дерева и камня соединилась, чтобы освободить воспоминания и сожаления в сердце. Древние говорили, что один цветок и один камень как будто имеют чувства, без слов или улыбок могут удержать человека - это ли имелось в виду? Зная, что слезы погашают долги, это в основном только сам автор. Я тоже знаю это значение, но не могу выразить его.",
+          "ja": "頑石草木を以て偶と為し、実に風月の波瀾を歴尽し、情縁の滋味を嘗め尽くし、如何ともすべからざるに至り、始めて此の木石の因果を結び、以て胸中の忆憾を泄す。古人の所謂一花一石意有るが如く、語らず笑わずして能く人を留む、此の謂いか？眼涙もて債を還すを知る、大都作者一人のみ。余も亦た此の意を知るも、但だ説き出す能わず。"
+        },
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "position": "side",
+          "original": "观者至此请掩卷思想，历来小说中可曾有此句？千古未闻之奇文。余不及一人者，盖全部之主惟二玉二人也。",
+          "zh_modern": "读者看到这里请合上书思考，历来小说中可曾有过这样的句子？这是千古未闻的奇文。我比不上的那一人，因为全书的主角只有两块玉两个人。",
+          "en": "Readers reaching this point should close the book and reflect - has any novel ever contained such a line? An extraordinary passage unheard of through the ages. The one I cannot match is because the protagonists of the entire work are only the two Jades.",
+          "ru": "Читатели, дойдя до этого места, должны закрыть книгу и задуматься - содержал ли когда-либо какой-либо роман такую строку? Необыкновенный отрывок, неслыханный на протяжении веков. Тот, с кем я не могу сравниться, потому что главные герои всего произведения - только две Яшмы.",
+          "ja": "観者此に至りて請う巻を掩いて思想せよ、歴来の小説中に曾て此の句有りしや？千古未聞の奇文なり。余の一人に及ばざる者は、蓋し全部の主は惟だ二玉二人のみなればなり。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "那道人道：果是罕闻，实未闻有还泪之说。蒙侧作想得奇！想来这一段故事，比历来风月事故更加琐碎细腻了。那僧道：历来几个风",
+      "zh_modern": "那道人说道：果然是罕见，实在未曾听闻有还泪之说。（蒙府本侧批：作者想得奇！）想来这一段故事，比历来风月事故更加琐碎细腻了。那僧说道：历来几个风……",
+      "en": "The Taoist said: Indeed this is rare - I have truly never heard of repaying with tears. (Mengfu side note: The authors imagination is extraordinary!) I imagine this story will be even more delicate and intricate than any romantic tale of the past. The monk said: Throughout history, how many romantic...",
+      "ru": "Даос сказал: Действительно это редкость - я поистине никогда не слышал о возвращении долга слезами. (Боковое примечание Мэнфу: Воображение автора необыкновенно!) Полагаю, эта история будет еще более деликатной и замысловатой, чем любая романтическая история прошлого. Монах сказал: На протяжении истории сколько романтических...",
+      "ja": "彼の道人道う：果たして罕聞なり、実に未だ還涙の説を聞かず。（蒙府側批：作者想い得ること奇なり！）想い来れば此の一段の故事、歴来の風月事故より更に瑣砕細膩ならん。彼の僧道う：歴来幾個の風……",
+      "commentary": [
+        {
+          "type": "侧批",
+          "source": "蒙府本",
+          "position": "side",
+          "original": "作想得奇！",
+          "zh_modern": "作者想得真奇特！",
+          "en": "The authors imagination is extraordinary!",
+          "ru": "Воображение автора необыкновенно!",
+          "ja": "作者想い得ること奇なり！"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "This page contains the crucial mythology of Lin Daiyus origin as the Crimson Pearl Flower (绛珠仙草)",
+    "绛珠 (Crimson Pearl) is noted by commentary as containing 血泪 (blood and tears) - foreshadowing Daiyus fate",
+    "The debt of tears is the mythological explanation for why Daiyu constantly weeps for Baoyu throughout the novel",
+    "神瑛侍者 (Attendant of Divine Luminescence) is Baoyus previous incarnation",
+    "The commentary explicitly states the two Jades (二玉) - Baoyu and Daiyu - are the true protagonists",
+    "三生石 (Three-Lives Stone) is a Buddhist concept of karmic connections across three lifetimes",
+    "离恨天 (Heaven of Departed Sorrow) and 灌愁海 (Sea of Grieving Tears) are mythological locations reflecting emotional themes"
+  ],
+  "research_notes": [
+    "The commentary calls this passage 千古未闻之奇文 (extraordinary writing unheard of through the ages)",
+    "The annotation suggests autobiographical elements - the author himself knows about repaying debts with tears",
+    "Multiple manuscript sources provide commentary: 甲戌本, 庚辰本, 蒙府本"
+  ],
+  "characters_appearing": ["神瑛侍者", "绛珠仙草", "警幻仙姑", "一僧一道"],
+  "total_segments": 4,
+  "manuscript_sources_on_page": ["甲戌本", "庚辰本", "蒙府本"]
+}
