@@ -1,0 +1,131 @@
+{
+  "page": 39,
+  "chapter": "第二回",
+  "chapter_title": {
+    "original": "贾夫人仙逝扬州城 冷子兴演说荣国府",
+    "zh_modern": "贾夫人在扬州城去世 冷子兴讲述荣国府的故事",
+    "en": "Lady Jia Passes Away in Yangzhou; Leng Zixing Discourses on the Rong Mansion",
+    "ru": "Госпожа Цзя скончалась в Янчжоу; Лэн Цзысин рассказывает о поместье Жун",
+    "ja": "賈夫人揚州城にて仙逝し、冷子興榮國府を演説す"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "type": "dialogue",
+      "original": "妙在甄家之风俗，女儿之名，亦皆从男子之名命字，不似别家另外用这些春红香玉等字的，何得贾府亦落此俗套？",
+      "zh_modern": "妙在甄家的风俗，女儿的名字，也都从男子的名字取字，不像别家另外用这些春、红、香、玉等字的，为何贾府也落入此俗套？",
+      "en": "What's interesting is that in the Zhen family custom, daughters' names are also derived from men's names, unlike other families that separately use characters like Spring, Red, Fragrance, and Jade. How did the Jia family also fall into this common practice?",
+      "ru": "Интересно то, что в семейном обычае Чжэнь имена дочерей также происходят от мужских имен, в отличие от других семей, которые отдельно используют иероглифы, такие как Весна, Красный, Аромат и Нефрит. Как семья Цзя также попала в эту общую практику?",
+      "ja": "妙なるは甄家の風俗にて、女児の名も、亦た皆男子の名より命字し、別家の別に此等の春・紅・香・玉等の字を用うるに似ず、何ぞ賈府も亦た此の俗套に落つるや？",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "type": "dialogue",
+      "original": "子兴道：不然，只因现今大小姐是正月初一日所生，故名元春，余者方从了春字，上一辈的，却也是兄弟而来的。【庚辰】家主之义入守国内的根据，却据也二人之口，下文便不见力。现有对证：且今你贵东家林公之夫人，即荣府中赫，政二公之胞妹，在家时唤名贾敏，不信时，你回去细访可知。",
+      "zh_modern": "子兴说：不然，只因现今大小姐是正月初一日所生，故名元春，其余的才从了春字，上一辈的，却也是从兄弟而来的。现有对证：目前你贵东家林公的夫人，即荣府中赫政二公的胞妹，在家时唤名贾敏，不信时，你回去细访可知。",
+      "en": "Zixing said: Not so. It's only because the current eldest young lady was born on the first day of the first month, hence the name Yuanchun (Original Spring). The others then followed with the Spring character. The previous generation also derived from brothers' names. There's proof: your honored master Mr. Lin's wife is the biological sister of the two gentlemen She and Zheng of the Rong Mansion. At home she was called Jia Min. If you don't believe it, you can inquire carefully when you return.",
+      "ru": "Цзысин сказал: Не так. Это только потому, что нынешняя старшая барышня родилась в первый день первого месяца, отсюда имя Юаньчунь (Изначальная Весна). Остальные затем последовали с иероглифом Весна. Предыдущее поколение также происходило от имен братьев. Есть доказательство: жена вашего почтенного господина мистера Линя является родной сестрой двух господ Шэ и Чжэна из поместья Жун. Дома ее звали Цзя Минь. Если вы не верите, можете расспросить, когда вернетесь.",
+      "ja": "子興道う：然らず、只だ現今の大小姐は正月初一日に生まれし故に、故に元春と名づく、余者は方に春字に従えり、上一輩は、却って也た兄弟より来たるなり。現に対証有り：且つ今汝の貴東家林公の夫人、即ち栄府中赫政二公の胞妹、家に在りし時名を賈敏と喚ぶ、信ぜずば、汝帰りて細かに訪ねば知るべし。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline after 兄弟而来的",
+          "original": "家主之義入守國內的根據，卻據也二人之口，下文便不見力。",
+          "zh_modern": "家主之义入守国内的根据，却据也二人之口，下文便不见力。",
+          "en": "The principle of the family head entering and defending the nation's foundation, yet relying on these two people's words, the following text lacks force.",
+          "ru": "Принцип главы семьи, входящего и защищающего основы нации, но полагаясь на слова этих двух людей, следующий текст лишен силы.",
+          "ja": "家主の義、国内を守るの根拠に入る、却って也た二人の口に拠り、下文便ち力を見ず。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "dialogue",
+      "original": "雨村拍手笑道：怪道这女学生读至凡书中有敏字，他皆念作密字，每每如是，写字时遇着敏字，又减一二笔，我心中就有些疑惑。今听你说，是为此无疑矣。怪不得这女子语言行事，另是一样，温柔娴静，差不多的。",
+      "zh_modern": "雨村拍手笑道：怪不得这女学生读书时凡遇到敏字，她都念作密字，每每如此，写字时遇着敏字，又减一二笔，我心中就有些疑惑。今天听你说，是为此无疑了。怪不得这女子语言行事，另是一样，温柔娴静，差不多的。",
+      "en": "Yucun clapped his hands and laughed: No wonder this female student, whenever reading books with the character Min, pronounces it as Mi, always doing so. When writing and encountering the Min character, she reduces it by one or two strokes. I had some doubts in my heart. Now hearing you speak, this is undoubtedly why. No wonder this lady's speech and conduct are exceptional—gentle and refined, quite remarkable.",
+      "ru": "Юйцунь хлопнул в ладоши и рассмеялся: Неудивительно, что эта студентка, когда читает книги с иероглифом Минь, произносит его как Ми, всегда так делая. При написании, встречая иероглиф Минь, она уменьшает его на один-два штриха. У меня были некоторые сомнения в сердце. Теперь, слушая вас, это несомненно почему. Неудивительно, что речь и поведение этой дамы исключительны—нежны и утонченны, весьма замечательны.",
+      "ja": "雨村手を拍ち笑いて道う：怪しむに道理あり、此の女学生書を読みて凡そ書中に敏字有らば、彼は皆密字と念じ、毎毎かくの如し、字を写す時敏字に遇えば、又た一二筆を減ず、我心中就ち些か疑惑有り。今汝の説を聞き、是れ此の為なること疑い無し。怪しむ勿れ此の女子の語言行事、別に一様なり、温柔娴静、差ほど多からず。",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "type": "dialogue",
+      "original": "雨村听了，笑道：正是，方才说的政公，已有了一个衔玉之儿，【庚辰】快入主一揭只是一透也，向后主演家势也？又有子孙大夫人之内任女，【庚辰】一个字矣就是一人，今已聚了二年。这政老爷中年得此一二子，合家欢喜不尽。【庚辰】另有新风一人，今已聚矣。",
+      "zh_modern": "雨村听了，笑道：正是，方才说的政公，已有了一个衔玉而生的儿子，又有子孙。大夫人之内还有女儿，今已出嫁了二年。这政老爷中年得此子女，合家欢喜不尽。",
+      "en": "Hearing this, Yucun laughed: Exactly. The Mr. Zheng you just mentioned already has a son born with jade in his mouth, and also has grandchildren. The First Lady also has daughters who have been married for two years. This Mr. Zheng obtained these children in middle age, and the whole family rejoices endlessly.",
+      "ru": "Услышав это, Юйцунь рассмеялся: Именно. Господин Чжэн, о котором вы только что упомянули, уже имеет сына, родившегося с нефритом во рту, а также имеет внуков. У Первой леди также есть дочери, которые замужем уже два года. Этот господин Чжэн получил этих детей в среднем возрасте, и вся семья бесконечно радуется.",
+      "ja": "雨村聞きて、笑いて道う：正に是なり、方才説きし政公、已に一個の玉を銜みし児有り、又た子孫有り。大夫人の内に女有り、今已に二年を聚えたり。此の政老爺中年にして此の子女を得、合家歓喜尽きず。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline after 衔玉之儿",
+          "original": "快入主一揭只是一透也，向後主演家勢也？",
+          "zh_modern": "快入主一揭只是一透也，向后主演家势也？",
+          "en": "Quickly entering as the protagonist, just one revelation, will he lead the family's fortunes hereafter?",
+          "ru": "Быстро войдя как главный герой, лишь одно откровение, будет ли он вести состояние семьи впредь?",
+          "ja": "速やかに主と入り一揭するは只だ一透なり、後に向かいて家勢を主演せんか？"
+        },
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline after 内任女",
+          "original": "一個字矣就是一人，",
+          "zh_modern": "一个字就是一个人，",
+          "en": "One character is one person,",
+          "ru": "Один иероглиф—один человек,",
+          "ja": "一個の字は就ち一人なり、"
+        },
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline after 欢喜不尽",
+          "original": "另有新風一人，今已聚矣。",
+          "zh_modern": "另有新风一人，今已聚矣。",
+          "en": "Another person with fresh style, now already gathered.",
+          "ru": "Еще один человек со свежим стилем, теперь уже собран.",
+          "ja": "別に新風の一人有り、今已に聚えたり。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "dialogue",
+      "original": "雨村听了，笑道：可知我前言不谬。【庚辰】食一透也，你方才所说的这几个人，都只怕是那正邪两赋而来一路之人，未可知也。",
+      "zh_modern": "雨村听了，笑道：可知我前言不谬。你方才所说的这几个人，都只怕是那正邪两赋而来的一路之人，未可知也。",
+      "en": "Hearing this, Yucun laughed: You see my earlier words were not mistaken. These people you just mentioned are probably all among those who inherit both righteous and perverse energies, though we cannot be certain.",
+      "ru": "Услышав это, Юйцунь рассмеялся: Видите, мои более ранние слова не были ошибочными. Эти люди, о которых вы только что упомянули, вероятно, все среди тех, кто наследует как праведные, так и извращенные энергии, хотя мы не можем быть уверены.",
+      "ja": "雨村聞きて、笑いて道う：我が前言謬ならざるを知るべし。汝方才説きし此の幾個の人、都て只だ恐らくは彼の正邪両つながら賦して来たる一路の人、未だ知るべからず。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "庚辰本",
+          "position": "inline after 前言不谬",
+          "original": "食一透也，",
+          "zh_modern": "实一透也，",
+          "en": "Indeed fully revealed,",
+          "ru": "Действительно полностью раскрыто,",
+          "ja": "実に一透なり、"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "The discussion reveals the naming convention in the Jia family where daughters' names are derived from their male relatives' names.",
+    "元春 (Yuanchun) - literally 'Original Spring', named for being born on the first day of the first lunar month.",
+    "贾敏 (Jia Min) - Lin Daiyu's mother, sister of Jia She and Jia Zheng. The avoidance of writing her name (name taboo) explains why Daiyu alters the character when reading or writing.",
+    "衔玉而生 (born with jade) - refers to Jia Baoyu, the protagonist, who was born with a piece of jade in his mouth.",
+    "The commentary continues the theme of characters inheriting mixed spiritual energies (正邪两赋)."
+  ],
+  "research_notes": [
+    "This page establishes the connection between the Jia and Lin families through marriage",
+    "The name taboo custom (avoiding writing deceased relatives' names) is illustrated through Daiyu's behavior"
+  ],
+  "characters_appearing": ["贾雨村", "冷子兴"],
+  "total_segments": 5,
+  "manuscript_sources_on_page": ["庚辰本"]
+}
