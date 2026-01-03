@@ -8,7 +8,7 @@ A collaborative multi-agent translation system for translating *Dream of the Red
 
 ## Overview
 
-This project uses **multiple AI agents working collaboratively** to translate all 120 chapters of 红楼梦 from Classical Chinese into:
+This project uses **multiple AI agents working collaboratively** to translate 脂评汇校本 version of 红楼梦 from Classical Chinese into:
 
 - **Modern Chinese (简体中文)** - Accessible contemporary Mandarin
 - **English** - Scholarly literary translation
