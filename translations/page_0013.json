@@ -1,0 +1,82 @@
+{
+  "page": 13,
+  "chapter": "第一回",
+  "chapter_title": {
+    "original": "甄士隐梦幻识通灵 贾雨村风尘怀闺秀",
+    "zh_modern": "甄士隐在梦幻中认识通灵宝玉，贾雨村在风尘中怀念闺中秀女",
+    "en": "Zhen Shiyin in a Dream Perceives the Jade of Spiritual Understanding; Jia Yucun in Humble Circumstances Thinks Fondly of a Beautiful Maiden",
+    "ru": "Чжэнь Шиинь во сне постигает волшебную яшму; Цзя Юйцунь в скромных обстоятельствах вспоминает прекрасную деву",
+    "ja": "甄士隠、夢幻の中で通霊を識り、賈雨村、風塵にありて閨秀を懐う"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "山甲侧荒唐也。无稽崖甲侧无稽也。炼成高经十二丈、甲侧总应十二钗。方经二十四丈甲侧照应副十二钗。顽石三万六千五百零一块。娲皇氏只用了三万六千五百块，甲侧合周天之数。只单单的剩了一块未用，便弃在此山青埂峰下。谁知此石自经煅炼之后，灵性已通。因见众石俱得补天，独自己无材不堪入选，遂自怨自叹，日夜悲号惭愧。",
+      "zh_modern": "（甲戌本侧批：荒唐也。）无稽崖（甲戌本侧批：无稽也。）炼成高十二丈（甲戌本侧批：总应十二钗。）、方经二十四丈（甲戌本侧批：照应副十二钗。）的顽石三万六千五百零一块。女娲皇氏只用了三万六千五百块（甲戌本侧批：合周天之数。）只单单的剩了一块未用，便弃在此山青埂峰下。谁知此石自经煅炼之后，灵性已通。因见众石俱得补天，独自己无材不堪入选，遂自怨自叹，日夜悲号惭愧。",
+      "en": "...the mountain (Jiaxu side note: Absurd indeed.). Baseless Cliff (Jiaxu side note: Baseless indeed.). The stones were refined to a height of twelve zhang (Jiaxu side note: Corresponds to the Twelve Beauties.), and twenty-four zhang square (Jiaxu side note: Corresponds to the Secondary Twelve Beauties.) — 36,501 stubborn stones in all. The Goddess Nuwa used only 36,500 (Jiaxu side note: Matching the number of the Zhou astronomical cycle.). Only this single stone was left unused and was abandoned at the foot of Greensickness Peak. Who knew that after this stone was refined, its spiritual nature awakened. Seeing all the other stones chosen to mend the sky while it alone lacked the material to qualify, it fell to self-pity and lamentation, wailing in shame day and night.",
+      "ru": "...гора (боковое примечание Цзясюй: Нелепо!). Утес Безосновательности (боковое примечание Цзясюй: Безосновательно!). Камни были отшлифованы до высоты двенадцать чжанов (боковое примечание Цзясюй: Соответствует Двенадцати Красавицам.), двадцать четыре чжана в ширину (боковое примечание Цзясюй: Соответствует второстепенным Двенадцати Красавицам.) — всего 36501 упрямый камень. Богиня Нюйва использовала только 36500 (боковое примечание Цзясюй: Число совпадает с астрономическим циклом Чжоу.). Только один этот камень остался неиспользованным и был брошен у подножия пика Цинцэн. Кто знал, что после обработки этого камня его духовная природа пробудилась. Видя, что все другие камни выбраны для починки неба, а он один не имел нужного качества для отбора, он погрузился в самосожаление и причитания, рыдая от стыда день и ночь.",
+      "ja": "山（甲戌側批：荒唐なり。）無稽崖（甲戌側批：無稽なり。）高さ十二丈（甲戌側批：総て十二釵に応ず。）、方経二十四丈（甲戌側批：副十二釵に照応す。）に煉成された頑石三万六千五百零一塊。媧皇氏はただ三万六千五百塊を用いたのみ（甲戌側批：周天の数に合す。）ただ単々と一塊が剩って未だ用いられず、此の山の青埂峰下に棄てらる。誰か知らん此の石自ら煅煉を経て後、霊性已に通ずるを。衆石皆天を補うを得るを見て、独り己は材無く選に入るに堪えず、遂に自ら怨み自ら歎き、日夜悲号慚愧す。",
+      "commentary": [
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "position": "side, multiple locations",
+          "original": "荒唐也。无稽也。总应十二钗。照应副十二钗。合周天之数。",
+          "zh_modern": "荒唐啊。无稽啊。总是对应十二钗。照应副十二钗。合周天之数。",
+          "en": "Absurd indeed. Baseless indeed. Corresponds entirely to the Twelve Beauties. Corresponds to the Secondary Twelve Beauties. Matches the number of the Zhou astronomical cycle.",
+          "ru": "Нелепо! Безосновательно! Полностью соответствует Двенадцати Красавицам. Соответствует второстепенным Двенадцати Красавицам. Совпадает с астрономическим циклом Чжоу.",
+          "ja": "荒唐なり。無稽なり。総て十二釵に応ず。副十二釵に照応す。周天の数に合す。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "一日，正当嗟悼之际，俄见一僧一道远远而来，生得骨格不凡，丰神迥别。说说笑笑来至峰下，坐于石边，高谈快论。先是说些云山雾海、神仙玄幻之事，后说到红尘中荣华富贵。此石听了，不觉打动凡心，也想要到人间去享一享这荣华富贵。二仙师听毕，齐憨笑道：善哉，善哉！那红尘中有却有些乐事，但不能永远依恃，况又有美中不足，好事多磨八个字紧相连属，瞬息间则又乐极悲生、人非物换，究竟是到头一梦、万境归空。倒不如不去的好。",
+      "zh_modern": "一天，正当他嗟叹悲伤之际，忽然看见一僧一道远远而来，长得骨骼不凡，风神迥异。说说笑笑来到峰下，坐在石旁，高谈阔论。先是说些云山雾海、神仙玄幻的事情，后来说到红尘中的荣华富贵。这石头听了，不觉动了凡心，也想到人间去享受一番那荣华富贵。两位仙师听完，齐声憨笑道：善哉，善哉！那红尘中确实有些乐事，但不能永远依靠，况且又有美中不足、好事多磨八个字紧紧相连，瞬息之间便会乐极生悲、人非物换，到头来终究是一场梦、万境归空。倒不如不去的好。",
+      "en": "One day, while he was lamenting, he suddenly saw a Buddhist monk and a Taoist priest approaching from afar, both of extraordinary bearing and distinguished spirit. Chatting and laughing, they came to the foot of the peak and sat beside the stone, engaging in elevated discourse. First they spoke of misty mountains and seas, of immortals and mystical matters, then turned to worldly glory and wealth. Hearing this, the stones mundane heart was stirred, and it too wished to experience such earthly splendor. The two immortal masters laughed heartily together: Excellent, excellent! That mortal world does have its pleasures, but they cannot be relied upon forever. Moreover, the eight characters beauty marred by defect, good things fraught with difficulty are closely linked, and in an instant joy turns to sorrow, people change and things transform. In the end it is all but a dream, all realms return to emptiness. Better not to go at all.",
+      "ru": "Однажды, когда он сокрушался, он вдруг увидел буддийского монаха и даосского священника, приближающихся издалека, оба необычайной осанки и выдающегося духа. Беседуя и смеясь, они подошли к подножию пика и сели рядом с камнем, ведя возвышенную беседу. Сначала они говорили о туманных горах и морях, о бессмертных и мистических вещах, затем перешли к мирской славе и богатству. Услышав это, мирское сердце камня взволновалось, и он тоже захотел испытать земное великолепие. Два бессмертных учителя весело рассмеялись вместе: Превосходно, превосходно! В том мире смертных действительно есть свои удовольствия, но на них нельзя полагаться вечно. Более того, восемь иероглифов красота омрачена изъяном, хорошие дела сопряжены с трудностями тесно связаны, и в мгновение ока радость превращается в печаль, люди меняются и вещи преображаются. В конце концов все это лишь сон, все царства возвращаются к пустоте. Лучше вообще не ходить.",
+      "ja": "一日、正に嗟歎悲傷の際、俄かに一僧一道遠くより来たるを見る。骨格凡ならず、風神迥かに別なり。説笑しつつ峰下に至り、石の辺に坐して、高談快論す。先ずは雲山霧海、神仙玄幻のことを説き、後に紅塵中の栄華富貴を説く。此の石これを聴きて、覚えず凡心を動かし、人間に往きて此の栄華富貴を享けんと欲す。二仙師斉しく憨笑して道う：善きかな、善きかな！彼の紅塵中には確かに些かの楽事有り、但だ永く依恃す能わず。況んや又美中不足、好事多磨の八字緊く相連属し、瞬息の間にして則ち又楽極まりて悲生じ、人非物換、究竟は頭に到りて一夢、万境空に帰す。却って去らざるの好きに如かず。",
+      "commentary": [
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "position": "side",
+          "original": "四句乃一部之总纲。",
+          "zh_modern": "这四句话是全书的总纲领。",
+          "en": "These four phrases form the general outline of the entire book.",
+          "ru": "Эти четыре фразы составляют общий план всей книги.",
+          "ja": "四句乃ち一部の総綱なり。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "这石凡心已炽，那里听得进这话去，乃复苦求再四。二仙知不可强制，乃叹道：此亦静极思动，无中生有之数也。既如此，我们便携你去受享受享，只是到不得意时，切莫后悔。石道：自然，自然。",
+      "zh_modern": "这石头凡心已炽热，哪里听得进这些话，于是又苦苦哀求再三再四。两位仙师知道不可强制，便叹道：这也是静极思动，无中生有之数啊。既然如此，我们便携带你去享受享受，只是到了不得意的时候，切莫后悔。石头说道：自然，自然。",
+      "en": "The stones mundane heart was already aflame and could not take in these words, so it pleaded bitterly again and again. The two immortals knew they could not force him, and sighed: This is also the principle of stillness reaching its extreme and seeking movement, something arising from nothing. Since it is so, we shall take you to enjoy the experience, but when things do not go your way, do not regret it. The stone said: Of course, of course.",
+      "ru": "Мирское сердце камня уже пылало и не могло воспринять эти слова, поэтому он горько умолял снова и снова. Два бессмертных знали, что не могут его принудить, и вздохнули: Это тоже принцип покоя, достигшего крайности и ищущего движения, нечто возникающее из ничего. Раз так, мы возьмем тебя насладиться этим опытом, но когда дела пойдут не так, не сожалей. Камень сказал: Конечно, конечно.",
+      "ja": "この石の凡心已に熾烈にして、何ぞこの話を聴き入れん。乃ち復た苦しく求むること再四。二仙強制す可からざるを知り、乃ち歎じて曰く：此れ亦た静極まりて動を思い、無中より有を生ずるの数なり。既に此の如くんば、我ら便ち汝を携えて往きて享受せしめん。只だ意を得ざる時に到りて、切に後悔する莫れ。石道う：自然なり、自然なり。",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "This page contains the core mythology of the Stone - the foundation of the entire novel",
+    "36,501 stones matches the astronomical Zhou cycle (周天之数) of 365.25 days times 100",
+    "青埂峰 (Greensickness Peak) is a pun on 情根 (root of passion/love)",
+    "The Stone as leftover and useless for mending heaven symbolizes the authors self-deprecation",
+    "美中不足，好事多磨 (beauty marred by defect, good things fraught with difficulty) - this phrase is identified by commentary as the novels central thesis",
+    "The Monk and Taoist appear throughout as supernatural guides"
+  ],
+  "research_notes": [
+    "The commentary explicitly identifies the four phrases about impermanence as the general outline (总纲) of the book",
+    "The numerical symbolism (12 zhang = 12 Beauties, 24 zhang = Secondary 12) shows careful allegorical construction",
+    "Multiple manuscript sources contribute commentary here: 甲戌本, 戚序本, 庚辰本"
+  ],
+  "characters_appearing": ["石头", "一僧一道"],
+  "total_segments": 3,
+  "manuscript_sources_on_page": ["甲戌本", "戚序本", "庚辰本"]
+}
