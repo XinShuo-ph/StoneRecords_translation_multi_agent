@@ -1,0 +1,110 @@
+{
+  "page": 30,
+  "chapter": "第一回",
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 30,
+      "type": "prose",
+      "original": "士隐不觉大叫一声：“适才那道人带了宝玉何处去了？”复又瞧时，并不见那僧道，并无宝玉，并没有什么“太虚幻境”字样，乃是一梦。",
+      "zh_modern": "士隐不由得大叫一声：“刚才那个道人带着宝玉到哪里去了？”再看时，并没有看见那个僧人和道人，也没有宝玉，更没有什么“太虚幻境”的字样，原来是一场梦。",
+      "en": "Shiyin unconsciously shouted: “Where did that Taoist take the Precious Jade just now?” When he looked again, he saw neither the monk nor the Taoist, nor any Precious Jade, nor any words like “Illusion Land of Great Void”. It was all a dream.",
+      "ru": "Шиинь невольно вскрикнул: «Куда же даос унес Драгоценную Яшму?» Взглянув снова, он не увидел ни монаха, ни даоса, ни яшмы, ни надписи «Иллюзорный Край Великой Пустоты». Это был сон.",
+      "ja": "士隠は覚えず大いに一声叫ぶ、「適才（さっき）の道人は宝玉を帯びて何処へ去りしや」と。復たまた瞧（み）る時は、並びにその僧道を見ず、並びに宝玉無く、並びに何の「太虚幻境」の字様も無く、すなわち一夢なり。",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "pdf_page": 30,
+      "type": "prose",
+      "original": "忽见那边来了一个癞头和尚，一个跛足道人，疯疯癫癫，挥霍谈笑而至。",
+      "zh_modern": "忽然看见那边来了一个癞头和尚和一个跛脚道人，疯疯癫癫，挥手顿足，谈笑而来。",
+      "en": "Suddenly he saw coming from that side a mangy-headed monk and a lame-footed Taoist, behaving madly and talking and laughing wildly as they approached.",
+      "ru": "Вдруг он увидел приближающихся плешивого монаха и хромого даоса. Они вели себя как безумцы, размахивая руками и громко смеясь.",
+      "ja": "忽ち見る、那边（あちら）より一人の癩頭（らいとう）の和尚、一人の跛足（はそく）の道人来たり、瘋瘋癲癲（ふうふうてんてん）として、揮霍談笑して至る。",
+      "commentary": [
+        {
+          "type": "甲戌侧批",
+          "source": "甲戌本",
+          "position": "right margin",
+          "original": "僧道也是一对。",
+          "zh_modern": "僧道也是一对。",
+          "en": "The monk and Taoist are also a pair.",
+          "ru": "Монах и даос — тоже пара.",
+          "ja": "僧道もまた一対なり。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "pdf_page": 30,
+      "type": "prose",
+      "original": "那僧见士隐抱着英莲，便大哭起来，又向士隐道：“施主，你把这有命无运、累及爹娘之物，抱在怀内作甚？”",
+      "zh_modern": "那僧人看见士隐抱着英莲，便大哭起来，又对士隐说：“施主，你把这个有命无运、连累爹娘的东西，抱在怀里做什么？”",
+      "en": "The monk saw Shiyin holding Yinglian and began to weep loudly. He then said to Shiyin: “Benefactor, why do you hold this ill-fated creature, who will bring trouble to her parents, in your arms?”",
+      "ru": "Монах, увидев, что Шиинь держит Инлянь, громко заплакал и сказал Шииню: «Благодетель, зачем ты держишь на руках это существо, которому дана жизнь, но не дана судьба, и которое принесет беду родителям?»",
+      "ja": "僧は士隠が英蓮を抱けるを見て、すなわち大いに哭きだし、また士隠に向かいて言う、「施主、汝この有命無運、爹娘に累を及ぼすの物を、懐内に抱きて何をか作（な）さん」と。",
+      "commentary": [
+        {
+          "type": "甲戌侧批",
+          "source": "甲戌本",
+          "position": "right margin",
+          "original": "八个字注定一世。",
+          "zh_modern": "八个字注定了一生。",
+          "en": "Eight characters determine a lifetime.",
+          "ru": "Восемь иероглифов предопределяют всю жизнь.",
+          "ja": "八個の字、一世を注定す。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "pdf_page": 30,
+      "type": "poem",
+      "original": "士隐以为是疯癫之语，不理他。那僧乃指着士隐大笑，口内念了四句言词道：\n惯养娇生笑你痴，\n菱花空对雪澌澌。\n好防佳节元宵后，\n便是烟消火灭时。",
+      "zh_modern": "士隐以为是疯话，不理睬他。那僧人便指着士隐大笑，口中念了四句词道：\n娇生惯养笑你太痴心，\n菱花空对风雪飘零。\n好生防备元宵佳节后，\n便是烟消火灭之时。",
+      "en": "Shiyin thought it was the talk of a madman and paid him no heed. The monk then pointed at Shiyin and laughed loudly, chanting four lines:\nAccustomed to pampering and doting, I laugh at your folly;\nThe water caltrop blossom faces the melting snow in vain.\nBeware after the Lantern Festival;\nThat will be the time when smoke vanishes and fire dies.",
+      "ru": "Шиинь счел это бредом сумасшедшего и не обратил внимания. Монах же, указывая на Шииня, рассмеялся и прочел четыре строчки:\nПривык баловать и лелеять, смеюсь над твоей глупостью,\nЦветок водяного ореха напрасно встречает тающий снег.\nОстерегайся после Праздника Фонарей,\nТогда дым рассеется и огонь погаснет.",
+      "ja": "士隠、もって疯癲の語となし、これを理（かえりみ）ず。僧すなわち士隠を指して大いに笑い、口内に四句の言詞を念じて曰く：\n慣養驕生（かんようきょうせい）、汝が痴を笑う、\n菱花（りょうか）空しく対す雪の澌澌（しし）たるに。\n好し防げ佳節元宵の後、\nすなわちこれ煙消え火滅するの時ならん。",
+      "poem_notes": {
+        "form": "七言绝句 (Seven-character quatrain)",
+        "rhyme_scheme": "AABA",
+        "literary_devices": ["Foreshadowing", "Pun (Xue/Snow)", "Symbolism (Ling/Caltrop)"]
+      },
+      "commentary": [
+        {
+          "type": "甲戌眉批",
+          "source": "甲戌本",
+          "position": "top margin",
+          "original": "雪，薛也。澌澌，声音也。",
+          "zh_modern": "雪，指薛家（薛蟠）。澌澌，是雪落的声音。",
+          "en": "Snow refers to the Xue family. 'Sisi' is the sound of falling snow.",
+          "ru": "Снег означает семью Сюэ. «Сы-сы» — это звук падающего снега.",
+          "ja": "雪は、薛なり。澌澌は、声音なり。"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "英莲 (Yinglian): Shiyin's daughter. Her name is a homophone for 应怜 (Ying Lian), meaning 'Deserving Pity'.",
+    "菱花 (Ling Hua): Water Caltrop Blossom. Yinglian is later renamed Xiangling (Fragrant Caltrop).",
+    "雪 (Xue): Snow. A pun on the surname 薛 (Xue), foreshadowing that Yinglian will be kidnapped/bought by Xue Pan.",
+    "元宵 (Yuanxiao): Lantern Festival (15th of the 1st lunar month). A time of celebration, but here marks the tragedy (Yinglian's loss and the fire).",
+    "有命无运 (You Ming Wu Yun): 'Has life but no luck'. A fortune-telling idiom meaning one is destined to live but suffer misfortune."
+  ],
+  "research_notes": [
+    "This scene establishes the tragic fate of the first female character introduced (Yinglian).",
+    "The Monk's poem is the first direct prophecy in the main narrative.",
+    "Verified the 'Snow' pun in Zhiping commentary."
+  ],
+  "characters_appearing": [
+    "Zhen Shiyin",
+    "Yinglian",
+    "Monk (Mangmang Daoshi)",
+    "Taoist (Miaomiao Zhenren)"
+  ],
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ]
+}
