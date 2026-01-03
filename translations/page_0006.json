@@ -1,0 +1,240 @@
+{
+  "page": 6,
+  "chapter": "目录",
+  "chapter_title": {
+    "original": "红楼梦脂评汇校本目录",
+    "zh_modern": "《红楼梦》脂评汇校本目录",
+    "en": "Dream of the Red Chamber: Zhiping Commentary Collation - Table of Contents",
+    "ru": "Сон в красном тереме: Сводное издание с комментариями Чжипин — Оглавление",
+    "ja": "紅楼夢 脂評彙校本 目次"
+  },
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "脂砚斋重评石头记凡例…………………………………………………… 1",
+      "zh_modern": "脂砚斋重评《石头记》凡例（编辑体例说明）…………第1页",
+      "en": "Zhiyan Zhai's Editorial Principles for Re-evaluating The Story of the Stone ... p. 1",
+      "ru": "Редакционные принципы Чжияньчжая для переоценки «Записок о камне» ... стр. 1",
+      "ja": "脂硯斎重評『石頭記』凡例 ……………… 第1頁",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "第一回 甄士隐梦幻识通灵 贾雨村风尘怀闺秀………………… 3",
+      "zh_modern": "第一回 甄士隐在梦幻中认识通灵宝玉，贾雨村在风尘中怀念闺中秀女 …………第3页",
+      "en": "Chapter 1: Zhen Shiyin in a Dream Perceives the Jade of Spiritual Understanding; Jia Yucun in Humble Circumstances Thinks Fondly of a Beautiful Maiden ... p. 3",
+      "ru": "Глава 1: Чжэнь Шиинь во сне постигает волшебную яшму; Цзя Юйцунь в бедности вспоминает прекрасную деву ... стр. 3",
+      "ja": "第一回 甄士隠、夢幻の中で通霊を識り、賈雨村、風塵にありて閨秀を懐う …… 第3頁",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "第二回 贾夫人仙逝扬州城 冷子兴演说荣国府………………… 20",
+      "zh_modern": "第二回 贾夫人在扬州城去世，冷子兴讲述荣国府的情况 …………第20页",
+      "en": "Chapter 2: Lady Jia Passes Away in Yangzhou; Leng Zixing Relates the Affairs of Rong-guo House ... p. 20",
+      "ru": "Глава 2: Госпожа Цзя умирает в Янчжоу; Лэн Цзысин рассказывает о делах дома Жунго ... стр. 20",
+      "ja": "第二回 賈夫人、揚州城にて仙逝し、冷子興、栄国府を演説す …… 第20頁",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "第三回 金陵城起复贾雨村 荣国府收养林黛玉………………… 32",
+      "zh_modern": "第三回 贾雨村在金陵城得以复职，荣国府收养了林黛玉 …………第32页",
+      "en": "Chapter 3: In Jinling Jia Yucun Is Reinstated; Rong-guo House Takes in Lin Daiyu ... p. 32",
+      "ru": "Глава 3: В Цзиньлине Цзя Юйцунь восстановлен в должности; Дом Жунго принимает Линь Дайюй ... стр. 32",
+      "ja": "第三回 金陵城にて賈雨村復職し、栄国府にて林黛玉を収養す …… 第32頁",
+      "commentary": []
+    },
+    {
+      "id": 5,
+      "type": "prose",
+      "original": "第四回 薄命女偏逢薄命郎 葫芦僧乱判葫芦案………………… 50",
+      "zh_modern": "第四回 薄命的女子偏偏遇到薄命的男子，葫芦僧胡乱判决了葫芦案 …………第50页",
+      "en": "Chapter 4: An Ill-fated Girl Encounters an Ill-fated Young Man; The Gourd Monk Muddles Through the Gourd Case ... p. 50",
+      "ru": "Глава 4: Несчастная девушка встречает несчастного юношу; Монах-тыква запутанно решает дело о тыкве ... стр. 50",
+      "ja": "第四回 薄命の女、偏に薄命の郎に逢い、葫蘆僧、乱りに葫蘆案を判ず …… 第50頁",
+      "commentary": []
+    },
+    {
+      "id": 6,
+      "type": "prose",
+      "original": "第五回 开生面梦演红楼梦 立新场情传幻境情………………… 62",
+      "zh_modern": "第五回 别开生面，在梦中演绎《红楼梦》；另立新场，传述幻境中的情缘 …………第62页",
+      "en": "Chapter 5: A Dream Within a Dream Unfolds the Dream of Red Chambers; A New Scene Conveys the Passions of the Land of Illusion ... p. 62",
+      "ru": "Глава 5: Сон во сне раскрывает «Сон в красном тереме»; Новая сцена передаёт страсти Царства Иллюзий ... стр. 62",
+      "ja": "第五回 生面を開き夢に紅楼夢を演じ、新場を立て情を幻境に伝う …… 第62頁",
+      "commentary": []
+    },
+    {
+      "id": 7,
+      "type": "prose",
+      "original": "第六回 贾宝玉初试云雨情 刘姥姥一进荣国府………………… 80",
+      "zh_modern": "第六回 贾宝玉初次体验了云雨之情，刘姥姥第一次进入荣国府 …………第80页",
+      "en": "Chapter 6: Jia Baoyu First Experiences the Pleasures of Love; Granny Liu Makes Her First Visit to Rong-guo House ... p. 80",
+      "ru": "Глава 6: Цзя Баоюй впервые познаёт радости любви; Бабушка Лю впервые посещает дом Жунго ... стр. 80",
+      "ja": "第六回 賈宝玉、初めて雲雨の情を試み、劉姥姥、一たび栄国府に進む …… 第80頁",
+      "commentary": []
+    },
+    {
+      "id": 8,
+      "type": "prose",
+      "original": "第七回 送宫花周瑞叹英莲 谈肆业秦钟结宝玉………………… 93",
+      "zh_modern": "第七回 周瑞家的送宫花时感叹英莲的命运，秦钟与贾宝玉谈论学业后结为好友 …………第93页",
+      "en": "Chapter 7: Zhou Rui's Wife Delivers Palace Flowers and Sighs over Yinglian; Discussing Studies, Qin Zhong Becomes Friends with Baoyu ... p. 93",
+      "ru": "Глава 7: Жена Чжоу Жуя доставляет дворцовые цветы и вздыхает об Инлянь; Обсуждая учёбу, Цинь Чжун подружился с Баоюем ... стр. 93",
+      "ja": "第七回 宮花を送りて周瑞英蓮を嘆き、肆業を談じて秦鐘宝玉と結ぶ …… 第93頁",
+      "commentary": []
+    },
+    {
+      "id": 9,
+      "type": "prose",
+      "original": "第八回 薛宝钗小恙梨香院 贾宝玉大醉绛芸轩…………………107",
+      "zh_modern": "第八回 薛宝钗在梨香院小病，贾宝玉在绛芸轩大醉 …………第107页",
+      "en": "Chapter 8: Xue Baochai Falls Ill at Pear Fragrance Court; Jia Baoyu Gets Drunk at Crimson Cloud Studio ... p. 107",
+      "ru": "Глава 8: Сюэ Баочай заболевает во Дворе Грушевого Аромата; Цзя Баоюй напивается в Студии Пурпурных Облаков ... стр. 107",
+      "ja": "第八回 薛宝釵、梨香院にて小恙あり、賈宝玉、絳芸軒にて大いに酔う …… 第107頁",
+      "commentary": []
+    },
+    {
+      "id": 10,
+      "type": "prose",
+      "original": "第九回 恋风流情友入家塾 起嫌疑顽童闹学堂…………………122",
+      "zh_modern": "第九回 贪恋风流的情友进入家塾，起了嫌疑的顽童大闹学堂 …………第122页",
+      "en": "Chapter 9: Romantic Friends Enter the Family School; Troublesome Boys Create Havoc in the Classroom ... p. 122",
+      "ru": "Глава 9: Романтичные друзья поступают в семейную школу; Озорные мальчики устраивают беспорядок в классе ... стр. 122",
+      "ja": "第九回 風流を恋い情友家塾に入り、嫌疑を起こし頑童学堂を騒がす …… 第122頁",
+      "commentary": []
+    },
+    {
+      "id": 11,
+      "type": "prose",
+      "original": "第十回 金寡妇贪利权受辱 张太医论病细穷源…………………132",
+      "zh_modern": "第十回 金寡妇贪图权利而受到侮辱，张太医详细诊察病情追究病源 …………第132页",
+      "en": "Chapter 10: Widow Jin Is Humiliated Through Greed for Profit and Influence; Doctor Zhang Meticulously Investigates the Source of Illness ... p. 132",
+      "ru": "Глава 10: Вдова Цзинь унижена из-за жадности к выгоде и влиянию; Доктор Чжан тщательно исследует источник болезни ... стр. 132",
+      "ja": "第十回 金寡婦、利権を貪りて辱めを受け、張太医、病を論じて細かく源を窮む …… 第132頁",
+      "commentary": []
+    },
+    {
+      "id": 12,
+      "type": "prose",
+      "original": "第十一回 庆寿辰宁府排家宴 见熙凤贾瑞起淫心…………………140",
+      "zh_modern": "第十一回 庆祝寿辰，宁国府摆设家宴；看见王熙凤，贾瑞起了淫邪之心 …………第140页",
+      "en": "Chapter 11: For a Birthday Celebration, Ning-guo House Holds a Family Banquet; Seeing Xi-feng, Jia Rui Conceives Lustful Thoughts ... p. 140",
+      "ru": "Глава 11: На празднование дня рождения дом Нинго устраивает семейный банкет; Увидев Сифэн, Цзя Жуй воспылал похотливыми мыслями ... стр. 140",
+      "ja": "第十一回 寿辰を慶び寧府家宴を排し、熙鳳を見て賈瑞淫心を起こす …… 第140頁",
+      "commentary": []
+    },
+    {
+      "id": 13,
+      "type": "prose",
+      "original": "第十二回 王熙凤毒设相思局 贾天祥正照风月鉴…………………149",
+      "zh_modern": "第十二回 王熙凤设下毒计来惩治相思之人，贾天祥（贾瑞）照了风月宝鉴 …………第149页",
+      "en": "Chapter 12: Wang Xifeng Sets a Cruel Trap for the Lovesick; Jia Tianxiang Looks into the Mirror of Romance ... p. 149",
+      "ru": "Глава 12: Ван Сифэн устраивает жестокую ловушку для влюблённого; Цзя Тяньсян смотрит в Зеркало Любви ... стр. 149",
+      "ja": "第十二回 王熙鳳、毒を設けて相思の局を設け、賈天祥、正しく風月鑑を照らす …… 第149頁",
+      "commentary": []
+    },
+    {
+      "id": 14,
+      "type": "prose",
+      "original": "第十三回 秦可卿死封龙禁尉 王熙凤协理宁国府…………………157",
+      "zh_modern": "第十三回 秦可卿去世后被追封为龙禁尉，王熙凤协助管理宁国府 …………第157页",
+      "en": "Chapter 13: Qin Keqing Dies and Is Posthumously Honored as a Dragon Guard Captain; Wang Xifeng Helps Manage Ning-guo House ... p. 157",
+      "ru": "Глава 13: Цинь Кэцин умирает и посмертно удостоена звания капитана Драконьей Стражи; Ван Сифэн помогает управлять домом Нинго ... стр. 157",
+      "ja": "第十三回 秦可卿死して龍禁尉に封ぜられ、王熙鳳、寧国府を協理す …… 第157頁",
+      "commentary": []
+    },
+    {
+      "id": 15,
+      "type": "prose",
+      "original": "第十四回 林如海捐馆扬州城 贾宝玉路谒北静王…………………168",
+      "zh_modern": "第十四回 林如海在扬州城去世，贾宝玉在路上拜谒北静王 …………第168页",
+      "en": "Chapter 14: Lin Ruhai Dies in Yangzhou; Jia Baoyu Pays Respects to the Prince of Bei-jing on the Road ... p. 168",
+      "ru": "Глава 14: Линь Жухай умирает в Янчжоу; Цзя Баоюй оказывает почтение Князю Бэйцзин на дороге ... стр. 168",
+      "ja": "第十四回 林如海、揚州城にて館を捐て、賈宝玉、路にて北静王に謁す …… 第168頁",
+      "commentary": []
+    },
+    {
+      "id": 16,
+      "type": "prose",
+      "original": "第十五回 王熙凤弄权铁槛寺 秦鲸卿得趣馒头庵…………………178",
+      "zh_modern": "第十五回 王熙凤在铁槛寺玩弄权术，秦钟在馒头庵得到乐趣 …………第178页",
+      "en": "Chapter 15: Wang Xifeng Wields Power at Iron Threshold Temple; Qin Zhong Finds Pleasure at Steamed Bun Convent ... p. 178",
+      "ru": "Глава 15: Ван Сифэн злоупотребляет властью в Храме Железного Порога; Цинь Чжун находит удовольствие в Монастыре Пампушек ... стр. 178",
+      "ja": "第十五回 王熙鳳、鉄檻寺にて権を弄し、秦鯨卿、饅頭庵にて趣を得 …… 第178頁",
+      "commentary": []
+    },
+    {
+      "id": 17,
+      "type": "prose",
+      "original": "第十六回 贾元春才选凤藻宫 秦鲸卿夭逝黄泉路…………………187",
+      "zh_modern": "第十六回 贾元春因才华被选入凤藻宫，秦钟夭折走上黄泉路 …………第187页",
+      "en": "Chapter 16: Jia Yuanchun Is Selected for Phoenix Elegance Palace; Qin Zhong Dies Young and Departs for the Yellow Springs ... p. 187",
+      "ru": "Глава 16: Цзя Юаньчунь избрана во Дворец Феникса; Цинь Чжун умирает молодым и отправляется к Жёлтым Источникам ... стр. 187",
+      "ja": "第十六回 賈元春、才を以て鳳藻宮に選ばれ、秦鯨卿、夭逝して黄泉路に赴く …… 第187頁",
+      "commentary": []
+    },
+    {
+      "id": 18,
+      "type": "prose",
+      "original": "第十七回 大观园试才题对额 荣国府归省庆元宵…………………202",
+      "zh_modern": "第十七回 大观园中试验才华题写对联匾额，荣国府迎接省亲庆祝元宵 …………第202页",
+      "en": "Chapter 17: Testing Talents by Inscribing Couplets in Grand View Garden; Rong-guo House Celebrates the Lantern Festival for the Imperial Visit ... p. 202",
+      "ru": "Глава 17: Испытание талантов написанием надписей в Саду Великого Вида; Дом Жунго празднует Праздник Фонарей для императорского визита ... стр. 202",
+      "ja": "第十七回 大観園にて才を試して対額を題し、栄国府帰省して元宵を慶ぶ …… 第202頁",
+      "commentary": []
+    },
+    {
+      "id": 19,
+      "type": "prose",
+      "original": "第十八回 大观园试才题对额 荣国府归省庆元宵（续）…………217",
+      "zh_modern": "第十八回 大观园试才题对额，荣国府归省庆元宵（续上回）…………第217页",
+      "en": "Chapter 18: Testing Talents by Inscribing Couplets in Grand View Garden; Rong-guo House Celebrates the Lantern Festival (continued) ... p. 217",
+      "ru": "Глава 18: Испытание талантов написанием надписей в Саду Великого Вида; Дом Жунго празднует Праздник Фонарей (продолжение) ... стр. 217",
+      "ja": "第十八回 大観園にて才を試して対額を題し、栄国府帰省して元宵を慶ぶ（続） …… 第217頁",
+      "commentary": []
+    },
+    {
+      "id": 20,
+      "type": "prose",
+      "original": "第十九回 情切切良宵花解语 意绵绵静日玉生香…………………234",
+      "zh_modern": "第十九回 情深切切在良宵中花能解语，意绵绵在静日里玉能生香 …………第234页",
+      "en": "Chapter 19: On a Tender Night, Flowers Speak with Feeling; On a Quiet Day, Jade Emits Fragrance with Affection ... p. 234",
+      "ru": "Глава 19: В нежную ночь цветы говорят с чувством; В тихий день яшма источает аромат с нежностью ... стр. 234",
+      "ja": "第十九回 情切切として良宵に花語を解し、意綿綿として静日に玉香を生ず …… 第234頁",
+      "commentary": []
+    },
+    {
+      "id": 21,
+      "type": "prose",
+      "original": "第二十回 王熙凤正言弹妒意 林黛玉俏语谑娇音…………………252",
+      "zh_modern": "第二十回 王熙凤用正言抑制妒意，林黛玉用俏皮话戏弄娇音 …………第252页",
+      "en": "Chapter 20: Wang Xifeng Uses Frank Words to Suppress Jealousy; Lin Daiyu Teases with Clever Words ... p. 252",
+      "ru": "Глава 20: Ван Сифэн прямыми словами подавляет ревность; Линь Дайюй дразнит остроумными словами ... стр. 252",
+      "ja": "第二十回 王熙鳳、正言して妒意を弾じ、林黛玉、俏語して嬌音を謔う …… 第252頁",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "This table of contents page lists chapters 1-20 with their titles and page numbers",
+    "Chapter titles in Dream of the Red Chamber typically consist of two parallel phrases summarizing key events",
+    "「凡例」refers to the editorial principles/guidelines written by Zhiyan Zhai commentator",
+    "「通灵」refers to the Jade of Spiritual Understanding (通灵宝玉), the magical jade Baoyu is born with",
+    "「风月鉴」(Mirror of Romance/Wind and Moon Mirror) is a magical mirror that plays a key role in Chapter 12",
+    "Chapter 17-18 share the same title as they were originally one chapter that was later split",
+    "Page numbers refer to the internal pagination of this edition, not PDF page numbers"
+  ],
+  "research_notes": [
+    "The chapter titles follow the classical Chinese convention of parallel couplets (对仗)",
+    "Many chapter titles contain wordplay and foreshadowing that becomes clear only upon re-reading"
+  ],
+  "characters_appearing": ["甄士隐", "贾雨村", "林黛玉", "贾宝玉", "冷子兴", "刘姥姥", "薛宝钗", "秦钟", "王熙凤", "贾瑞", "秦可卿", "林如海", "贾元春"],
+  "total_segments": 21,
+  "manuscript_sources_on_page": []
+}
