@@ -1,0 +1,70 @@
+{
+  "page": 3,
+  "chapter": "前言",
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 3,
+      "type": "prose",
+      "original": "本电子版仅供网络阅读、检索之用。写文章引用务请核对相关影印本。",
+      "zh_modern": "本电子版仅供网络阅读、检索之用。写文章引用务请核对相关影印本。",
+      "en": "This electronic version is for online reading and retrieval purposes only. When citing in articles, please verify against relevant facsimile editions.",
+      "ru": "Эта электронная версия предназначена только для чтения в Интернете и поиска. При цитировании в статьях, пожалуйста, сверяйте с соответствующими факсимильными изданиями.",
+      "ja": "本電子版はネット閲覧・検索用である。論文引用の際は必ず関連影印本と照合されたい。",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "pdf_page": 3,
+      "type": "prose",
+      "original": "声明：本书由 Kolistan 汇校整理、制作并免费提供下载，允许在不改变其内容完整的前提下自由传播，但禁止用于商业用途。",
+      "zh_modern": "声明：本书由 Kolistan 汇校整理、制作并免费提供下载，允许在不改变其内容完整的前提下自由传播，但禁止用于商业用途。",
+      "en": "Statement: This book was collated and produced by Kolistan and is provided for free download. Free distribution is permitted provided the content remains intact, but commercial use is prohibited.",
+      "ru": "Заявление: Эта книга была составлена и подготовлена Kolistan и предоставляется для бесплатного скачивания. Свободное распространение разрешено при условии сохранения целостности содержания, но коммерческое использование запрещено.",
+      "ja": "声明：本書はKolistanが彙校整理・制作し無料でダウンロード提供するものであり、内容の完全性を変更しない前提で自由な伝播を許可するが、商業利用は禁止する。",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "pdf_page": 3,
+      "type": "prose",
+      "original": "其他网站转载本书全部或部分内容时，必须注明整理者联系资料及抚琴居网址。照搬本书内容或仅作局部改动，而变更（或删除）整理者名字另行发表者，我们保留追究的权利。",
+      "zh_modern": "其他网站转载本书全部或部分内容时，必须注明整理者联系资料及抚琴居网址。照搬本书内容或仅作局部改动，而变更（或删除）整理者名字另行发表者，我们保留追究的权利。",
+      "en": "When other websites repost all or part of this book's content, they must indicate the compiler's contact information and the Fuqinju website address. We reserve the right to pursue action against those who copy this book's content or make only partial changes while altering (or deleting) the compiler's name and publishing it elsewhere.",
+      "ru": "При перепечатке всего или части содержания этой книги другими веб-сайтами необходимо указывать контактную информацию составителя и адрес веб-сайта «Фуциньцзюй». Мы оставляем за собой право преследовать тех, кто копирует содержание этой книги или вносит лишь частичные изменения, меняя (или удаляя) имя составителя и публикуя это где-либо еще.",
+      "ja": "他サイトが本書の全部または一部を転載する際は、必ず整理者の連絡先および撫琴居のURLを明記しなければならない。本書の内容をそのまま、あるいは局所的な改変のみ行い、整理者の名前を変更（または削除）して別途発表する者に対しては、追及する権利を留保する。",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "pdf_page": 3,
+      "type": "prose",
+      "original": "红楼梦脂评汇校本 版本：3.13（2009.7.20.）",
+      "zh_modern": "红楼梦脂评汇校本 版本：3.13（2009.7.20.）",
+      "en": "Dream of the Red Chamber: Zhiping Commentary Collated Edition, Version: 3.13 (2009.7.20.)",
+      "ru": "Сон в красном тереме: Издание с комментариями Чжияньчжая, Версия: 3.13 (20.07.2009)",
+      "ja": "紅楼夢 脂評彙校本 バージョン：3.13（2009.7.20.）",
+      "commentary": []
+    },
+    {
+      "id": 5,
+      "pdf_page": 3,
+      "type": "prose",
+      "original": "联系方式：Email：kolistan@yahoo.com.cn QQ：552129470 MSN：kolistan@msn.com 网址：http://bbs.hlmbbs.com/",
+      "zh_modern": "联系方式：Email：kolistan@yahoo.com.cn QQ：552129470 MSN：kolistan@msn.com 网址：http://bbs.hlmbbs.com/",
+      "en": "Contact: Email: kolistan@yahoo.com.cn QQ: 552129470 MSN: kolistan@msn.com URL: http://bbs.hlmbbs.com/",
+      "ru": "Контакты: Email: kolistan@yahoo.com.cn QQ: 552129470 MSN: kolistan@msn.com URL: http://bbs.hlmbbs.com/",
+      "ja": "連絡先：Email：kolistan@yahoo.com.cn QQ：552129470 MSN：kolistan@msn.com URL：http://bbs.hlmbbs.com/",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "Disclaimer and contact page.",
+    "Contains copyright and usage terms for this digital edition."
+  ],
+  "research_notes": [],
+  "characters_appearing": [],
+  "manuscript_sources_on_page": [],
+  "total_segments": 5
+}
