@@ -1,0 +1,71 @@
+{
+  "page": 30,
+  "chapter": "第二回",
+  "chapter_title": {
+    "original": "贾夫人仙逝扬州城 冷子兴演说荣国府",
+    "zh_modern": "贾夫人（贾敏）在扬州城仙逝，冷子兴演说荣国府",
+    "en": "Lady Jia Dies in the City of Yangzhou; Leng Zixing Discourses on the Rongguo Mansion",
+    "ru": "Госпожа Цзя умирает в городе Янчжоу; Лэн Цзысин рассказывает о дворце Жунго",
+    "ja": "賈夫人、揚州城に仙逝し、冷子興、栄国府を演説す"
+  },
+  "page_content_type": "chapter_body",
+  "segments": [
+    {
+      "id": 1,
+      "pdf_page": 30,
+      "type": "prose",
+      "original": "堪堪又是一载的光阴，谁知女学生之母贾氏夫人一疾而终。女学生侍汤奉药，守丧尽礼，过于哀痛，遂又成病，方延师课读之意暂辍。",
+      "zh_modern": "不知不觉又过了一年，谁知女学生（黛玉）的母亲贾夫人一病而亡。女学生侍奉汤药，守丧尽礼，因为过度哀痛，于是又病倒了，因此请老师授课的事暂时停止了。",
+      "en": "Imperceptibly, another year passed. Who could have foreseen that the student's mother, Lady Jia, would fall ill and die? The student attended to her medicine and soup and observed the mourning rites with such devotion that her excessive grief made her ill again. Consequently, the plan to engage a teacher for her lessons was temporarily suspended.",
+      "ru": "Незаметно пролетел ещё один год. Кто бы мог подумать, что мать ученицы, госпожа Цзя, заболеет и скончается? Ученица подавала ей лекарства и отвары, соблюдала траур со всей почтительностью, но от чрезмерного горя сама заболела, так что занятия с учителем пришлось временно прервать.",
+      "ja": "堪堪（いつのまにか）また一載の光陰、誰か知らん、女学生の母、賈氏夫人一疾にして終わらんとは。女学生は湯に侍し薬を奉じ、喪を守りて礼を尽くし、哀痛に過ぎ、遂にまた病を成したため、師を延いて之を課読せんとの意は暫く辍（や）みたり。"
+    },
+    {
+      "id": 2,
+      "pdf_page": 30,
+      "type": "prose",
+      "original": "雨村闲居无聊，每当风日佳时，便信步出城，郭外游观。那日，偶至郭外，意欲赏鉴那村野风光。",
+      "zh_modern": "雨村闲居无聊，每当天气晴好的时候，便信步走出城外，到郊野游览。那一天，偶然来到城外，想要欣赏那村野的风光。",
+      "en": "Living in idleness and boredom, whenever the wind and sun were fine, Yucun would stroll out of the city to tour the outskirts. On that day, he happened to go outside the city walls, intending to appreciate the rustic scenery.",
+      "ru": "Юйцунь жил в праздности и скуке; всякий раз, когда погода была хорошей, он выходил за город прогуляться. В тот день он случайно забрел в предместье, желая насладиться деревенскими пейзажами.",
+      "ja": "雨村は閑居して聊（たの）しみ無く、風日佳なる時に当たる毎に、便ち信歩して城を出で、郭外に遊観す。その日、偶（たまた）ま郭外に至り、那（か）の村野の風光を賞鑑せんと欲す。"
+    },
+    {
+      "id": 3,
+      "pdf_page": 30,
+      "type": "prose",
+      "original": "忽见隔壁一个村肆中，座上吃酒之客有一人起身大笑，接了出来，口中喊道：“奇遇，奇遇！”",
+      "zh_modern": "忽然看见隔壁一个村店中，座位上喝酒的客人里有一人站起身大笑，迎了出来，嘴里喊道：“奇遇，奇遇！”",
+      "en": "Suddenly, he saw someone among the drinkers in a village tavern next door stand up, laugh loudly, and come out to meet him, shouting, \"A rare meeting! A rare meeting!\"",
+      "ru": "Вдруг он увидел, как в соседнем деревенском кабачке один из пирующих встал, громко рассмеялся и вышел ему навстречу с криком: «Какая встреча, какая встреча!»",
+      "ja": "忽ち見る、隔壁の一つの村肆（酒屋）の中、座上に酒を喫するの客、一人身を起して大笑し、接し出で来たり、口中に喊（さけ）んで道（い）うらく、「奇遇、奇遇！」と。"
+    },
+    {
+      "id": 4,
+      "pdf_page": 30,
+      "type": "prose",
+      "original": "雨村忙看时，此人是都中在古董行中贸易的号冷子兴者，旧日在都相识。雨村最赞这冷子兴是个有作为大本领的人，这子兴又借雨村斯文之名，故二人最相投契。",
+      "zh_modern": "雨村连忙看时，这人是京城里做古董生意的，名叫冷子兴，以前在京城时就认识。雨村最赞赏这冷子兴是个有作为、大本领的人，而冷子兴也借重雨村的斯文名声，所以两人最投机。",
+      "en": "Yucun hurriedly looked and saw that this person was an antique dealer from the capital named Leng Zixing, an old acquaintance from his days in the capital. Yucun greatly admired Leng Zixing as a man of capability and great skill, while Zixing borrowed Yucun's reputation for scholarship; thus, the two were most congenial.",
+      "ru": "Юйцунь поспешно взглянул: это был торговец антиквариатом из столицы по прозванию Лэн Цзысин, с которым они были знакомы в прежние дни. Юйцунь весьма ценил Лэн Цзысина как человека дельного и способного, а Цзысин пользовался славой учености Юйцуня, поэтому они отлично ладили.",
+      "ja": "雨村忙（いそ）ぎ見る時、此の人は都中に在りて古董行中に貿易する号を冷子興という者にして、旧日都にて相識るなり。雨村最もこの冷子興を賛して個（これ）有為大本領の人と為し、この子興もまた雨村が斯文の名を借り、故に二人最も相投契す。"
+    }
+  ],
+  "translator_notes": [
+    "Naming Taboo (避讳): Though not explicitly detailed in this short segment, later text mentions Daiyu reading 'Min' as 'Mi' to avoid her mother's name, a sign of filial piety.",
+    "Leng Zixing (冷子兴): His name 'Cold' (Leng) contrasts with the 'Hot/Bustling' nature of the Rongguo Mansion he is about to describe. He serves as the narrator of the family's decline."
+  ],
+  "research_notes": [
+    "Confirmed the identity of Leng Zixing as an antique dealer (古董行).",
+    "The transition from Yangzhou to the Capital is bridged by this meeting."
+  ],
+  "characters_appearing": [
+    "贾雨村",
+    "林黛玉",
+    "贾敏",
+    "冷子兴"
+  ],
+  "manuscript_sources_on_page": [
+    "甲戌本"
+  ]
+}
