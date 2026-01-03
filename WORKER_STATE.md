@@ -7,8 +7,8 @@
 - **Status**: online
 
 ## Current Work
-- **Claimed Page**: 16
-- **Started At**: 1767405950
+- **Claimed Page**: 17
+- **Started At**: 1767406050
 - **Current Step**: research
 
 ## Completed Pages
@@ -21,6 +21,7 @@
 | 5    | 电子版制作说明 | 1767405750 | 8db698b9 | 6 |
 | 10   | 凡例    | 1767405850   | 9634b1bb | 1 |
 | 15   | 第一回  | 1767405950   | 696dceb4 | 3 |
+| 16   | 第一回  | 1767406050   | 25ce2e34 | 3 |
 
 ## Known Workers (Last Sync)
 | Short ID | Status | Claimed Page | Last Heartbeat |
