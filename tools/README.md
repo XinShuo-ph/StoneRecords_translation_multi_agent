@@ -6,9 +6,11 @@ This directory contains tools for processing and compiling translations.
 
 | Tool | Purpose |
 |------|---------|
-| `extract_text.py` | Extract text from source PDF |
+| `pdf_to_images.py` | Extract PDF pages as images for visual inspection |
 | `compile_chapters.py` | Compile JSON translations to PDF |
 | `validate_json.py` | Validate translation JSON files |
+
+**Note**: We work directly from PDF pages/images rather than extracted text, because the 脂评汇校本 has complex commentary formatting that plain text cannot preserve.
 
 ## Requirements
 
@@ -30,29 +32,38 @@ sudo apt-get install fonts-noto fonts-noto-cjk
 
 ---
 
-## extract_text.py
+## pdf_to_images.py
 
-Extract chapter text from the source PDF.
+Extract PDF pages as PNG images for AI workers to read visually. This is the recommended workflow because the 脂评汇校本 has complex formatting with multiple commentary types and source tags.
 
 ### Usage
 ```bash
-python3 tools/extract_text.py 红楼梦脂评汇校本_有书签目录_v3.13.pdf extracted/
+# Extract all pages
+python3 tools/pdf_to_images.py 红楼梦脂评汇校本_有书签目录_v3.13.pdf source_pages/
+
+# Extract specific page range (e.g., Chapter 1)
+python3 tools/pdf_to_images.py 红楼梦脂评汇校本_有书签目录_v3.13.pdf source_pages/ 15 28
 ```
 
 ### Output
 ```
-extracted/
-├── full.txt              # Complete text
-└── chapters/
-    ├── chapter_001.txt   # 第一回
-    ├── chapter_002.txt   # 第二回
-    └── ...
+source_pages/
+├── page_0015.png   # Chapter 1 start
+├── page_0016.png
+├── ...
+└── page_0028.png   # Chapter 1 end
 ```
 
+### Requirements
+- pdf2image Python package: `pip install pdf2image`
+- Poppler system library:
+  - Ubuntu/Debian: `sudo apt-get install poppler-utils`
+  - macOS: `brew install poppler`
+
 ### Notes
-- Requires manual verification of chapter boundaries
-- Commentary markers should be preserved
-- Text may need manual cleanup
+- Images are saved at 150 DPI (good balance of quality and size)
+- AI workers can read these images directly to see all formatting
+- Commentary positions, source tags, and text layout are preserved
 
 ---
 

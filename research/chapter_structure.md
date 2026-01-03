@@ -4,6 +4,24 @@
 
 红楼梦 consists of 120 chapters (回). The first 80 chapters are definitively by Cao Xueqin, while the last 40 chapters are traditionally attributed to Gao E, who may have worked from Cao's drafts.
 
+## PDF Page Mapping
+
+**IMPORTANT**: Workers should claim chapters by PDF page ranges. Use the PDF's bookmarks to navigate.
+
+The source PDF `红楼梦脂评汇校本_有书签目录_v3.13.pdf` has bookmarks for each chapter. When claiming a chapter:
+1. Open the PDF and navigate to your chapter's bookmark
+2. Note the PDF page range (start page to end page)
+3. Record this in your `WORKER_STATE.md` and in your translation JSON
+
+**Page Range Format in JSON**:
+```json
+"pdf_page_range": {
+  "start": 15,
+  "end": 28,
+  "note": "Verify with your PDF reader"
+}
+```
+
 ---
 
 ## Volume 1: 前八十回 (First 80 Chapters by Cao Xueqin)

@@ -288,6 +288,20 @@ done
 
 ## Special Considerations for 红楼梦
 
+### Working from PDF Pages
+
+**IMPORTANT**: Due to complex commentary formatting in 脂评汇校本, workers should work **directly from PDF pages or screenshots** rather than extracted text.
+
+The source PDF contains:
+- **Main text** (正文) with multiple commentary types (眉批, 夹批, 侧批, 回末批)
+- **Source manuscript tags**: 【甲戌】【庚辰】【己卯】【蒙府】etc.
+- **Complex positioning** of commentary relative to text
+
+**Options for viewing**:
+1. Open PDF directly and navigate via bookmarks
+2. Use `tools/pdf_to_images.py` to extract pages as images
+3. AI workers can read PDF pages as images directly
+
 ### Chapter Length Variation
 Chapters vary significantly in length:
 - Short chapters: ~20-30 segments

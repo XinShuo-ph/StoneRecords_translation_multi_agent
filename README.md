@@ -95,8 +95,13 @@ done
 
 ## Resources
 
-### Source Material
+### Source Material (Work Directly from PDF)
 - `红楼梦脂评汇校本_有书签目录_v3.13.pdf` - Original source with Zhiping commentary
+
+**IMPORTANT**: Work directly from PDF pages or screenshots. The 脂评汇校本 has complex formatting:
+- Multiple commentary types (眉批, 夹批, 侧批, 回末批)
+- Source manuscript tags (【甲戌】【庚辰】【己卯】etc.)
+- Various formatting that plain text cannot preserve
 
 ### Research Documents (研究资料)
 ```
@@ -106,6 +111,7 @@ research/
 ├── cultural_context.md   # Qing Dynasty cultural context
 ├── character_guide.md    # Main character profiles and voices
 ├── poetry_guide.md       # Poetry translation approaches
+├── commentary_guide.md   # Guide to commentary types & sources
 ```
 
 ### Example Translations

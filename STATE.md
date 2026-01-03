@@ -97,12 +97,14 @@ See `research/character_guide.md` for complete character profiles.
 
 ## Resources Available
 
-### Source Text
-- `红楼梦脂评汇校本_有书签目录_v3.13.pdf` - Original source PDF
+### Source Material (Work Directly from PDF)
+- `红楼梦脂评汇校本_有书签目录_v3.13.pdf` - Original source PDF with bookmarks
 
-### Extracted Text (After Extraction)
-- `extracted/chapters/chapter_001.txt` through `chapter_120.txt`
-- `extracted/full.txt` - Complete book text
+**IMPORTANT**: Work directly from PDF pages or screenshots, NOT extracted text. The complex commentary formatting (眉批, 夹批, 侧批, etc.) with multiple manuscript source tags (【甲戌】【庚辰】etc.) is best preserved by visual inspection.
+
+### Page Images (Optional)
+- `source_pages/page_XXXX.png` - PDF pages as images (for AI workers that read images)
+- Workers can also open the PDF directly
 
 ### Research Documents
 - `research/glossary.md` - Character names & terminology in all languages

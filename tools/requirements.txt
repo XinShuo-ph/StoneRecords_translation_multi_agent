@@ -1,8 +1,10 @@
 # Translation Tools Requirements
 
-# PDF text extraction
-PyPDF2>=3.0.0
-pdfplumber>=0.10.0
+# PDF page extraction as images
+pdf2image>=1.16.0
+# Note: Also requires poppler system package:
+#   Ubuntu/Debian: sudo apt-get install poppler-utils
+#   macOS: brew install poppler
 
 # JSON processing
 jsonschema>=4.0.0

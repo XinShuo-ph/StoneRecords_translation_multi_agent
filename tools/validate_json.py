@@ -16,6 +16,7 @@ from pathlib import Path
 REQUIRED_CHAPTER_FIELDS = [
     "chapter",
     "chapter_title",
+    "pdf_page_range",
     "segments",
     "translator_notes",
     "total_segments"
@@ -25,10 +26,16 @@ REQUIRED_CHAPTER_FIELDS = [
 REQUIRED_TITLE_FIELDS = ["original", "zh_modern", "en", "ru", "ja"]
 
 # Required fields for each segment
-REQUIRED_SEGMENT_FIELDS = ["id", "type", "original", "zh_modern", "en", "ru", "ja"]
+REQUIRED_SEGMENT_FIELDS = ["id", "pdf_page", "type", "original", "zh_modern", "en", "ru", "ja"]
 
 # Valid segment types
-VALID_SEGMENT_TYPES = ["prose", "poem", "dialogue", "commentary"]
+VALID_SEGMENT_TYPES = ["prose", "poem", "dialogue"]
+
+# Required fields for commentary objects
+REQUIRED_COMMENTARY_FIELDS = ["type", "source", "original", "zh_modern", "en", "ru", "ja"]
+
+# Valid commentary types
+VALID_COMMENTARY_TYPES = ["眉批", "夹批", "侧批", "回前批", "回末批", "回末总批"]
 
 
 def validate_chapter(filepath: str) -> tuple[bool, list[str]]:
@@ -111,6 +118,22 @@ def validate_chapter(filepath: str) -> tuple[bool, list[str]]:
             if segment.get("type") == "poem" and "poem_notes" not in segment:
                 # This is just a warning, not an error
                 pass
+            
+            # Validate commentary array if present
+            if "commentary" in segment and segment["commentary"]:
+                for c_idx, commentary in enumerate(segment["commentary"]):
+                    c_prefix = f"{segment_prefix}.commentary[{c_idx}]"
+                    
+                    # Check required commentary fields
+                    for field in REQUIRED_COMMENTARY_FIELDS:
+                        if field not in commentary:
+                            errors.append(f"{c_prefix}: Missing field '{field}'")
+                        elif commentary[field] is None or commentary[field] == "":
+                            errors.append(f"{c_prefix}: Empty field '{field}'")
+                    
+                    # Check commentary type is valid
+                    if commentary.get("type") not in VALID_COMMENTARY_TYPES:
+                        errors.append(f"{c_prefix}: Invalid commentary type '{commentary.get('type')}'. Must be one of {VALID_COMMENTARY_TYPES}")
     
     # Check total_segments matches actual count
     if data.get("total_segments") != len(segments):
@@ -119,6 +142,22 @@ def validate_chapter(filepath: str) -> tuple[bool, list[str]]:
     # Check translator_notes is a list
     if not isinstance(data.get("translator_notes"), list):
         errors.append("translator_notes must be an array")
+    
+    # Check pdf_page_range if present
+    if "pdf_page_range" in data:
+        page_range = data["pdf_page_range"]
+        if not isinstance(page_range, dict):
+            errors.append("pdf_page_range must be an object")
+        elif "start" not in page_range or "end" not in page_range:
+            errors.append("pdf_page_range must have 'start' and 'end' fields")
+    
+    # Check chapter_end_commentary if present
+    if "chapter_end_commentary" in data and data["chapter_end_commentary"]:
+        for c_idx, commentary in enumerate(data["chapter_end_commentary"]):
+            c_prefix = f"chapter_end_commentary[{c_idx}]"
+            for field in REQUIRED_COMMENTARY_FIELDS:
+                if field not in commentary:
+                    errors.append(f"{c_prefix}: Missing field '{field}'")
     
     return len(errors) == 0, errors
 
