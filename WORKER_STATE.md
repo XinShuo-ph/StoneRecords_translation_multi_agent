@@ -14,18 +14,19 @@
 ## Status
 - **Branch**: cursor/hong-lou-meng-translation-40bc
 - **Short ID**: 40bc
-- **Heartbeat**: 1767409589
-- **Status**: researching
+- **Heartbeat**: 1767409900
+- **Status**: online
 
 ## Current Work
-- **Claimed Page**: 21
-- **Page Verified Available**: yes
-- **Started At**: 1767409490
-- **Current Step**: research
+- **Claimed Page**: none
+- **Page Verified Available**: no
+- **Started At**: -
+- **Current Step**: - (research | translate | polish)
 
 ## Completed Pages
 | Page | Chapter | Completed At | Hash | Segments |
 |------|---------|--------------|------|----------|
+| 21   | 第一回  | 1767409900   | 92281143 | 9 |
 
 ## Known Workers (Last Sync - Auto-Updated by Daemon)
 | Short ID | Status | Claimed Page | Completed | Last Heartbeat |
@@ -37,4 +38,4 @@
 |--------|----------------|
 
 ## Notes
-Claiming page 21.
+Completed page 21.
