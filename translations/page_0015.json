@@ -1,0 +1,293 @@
+{
+  "page": 15,
+  "chapter": "第一回",
+  "total_segments": 18,
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "诗后便是此石堕落之乡，投胎之处，亲自经历的一段陈迹故事。其中家庭闺阁琐事，以及闲情诗词倒还全备，或",
+      "zh_modern": "诗歌后面便是这块石头堕落的家乡，投胎的地方，以及它亲自经历的一段陈旧往事。其中关于家庭闺阁的琐事，以及闲情逸致的诗词倒还齐全，或许",
+      "en": "Following the poem is the story of the place where this stone fell, where it was incarnated, and the traces of the past it personally experienced. The trifles of family and boudoir life, as well as leisure poetry, are quite complete; perhaps",
+      "ru": "Вслед за стихами следует история о том месте, куда пал этот камень, где он воплотился, и о следах прошлого, которые он лично пережил. Мелочи семейной жизни и женских покоев, а также досужие стихи здесь представлены довольно полно; быть может,",
+      "ja": "詩（し）の後（のち）便（すなわ）ち是（こ）れ此（こ）の石（いし）の堕落（だらく）の郷（きょう）、投胎（とうたい）の処（ところ）、親（みずか）ら経歴（けいれき）せる一段（いちだん）の陳跡（ちんせき）の故事（こじ）なり。其（そ）の中（うち）家庭（かてい）閨閣（けいかく）の瑣事（さじ）、以（およ）び閑情（かんじょう）詩詞（しし）は倒（かえ）って還（ま）た全備（ぜんび）す、或（ある）いは",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "original": "“或”字谦得好。",
+          "zh_modern": "“或”字用得谦虚，很好。",
+          "en": "The word 'perhaps' shows modesty nicely.",
+          "ru": "Слово «быть может» употреблено скромно и к месту.",
+          "ja": "「或（あるい）」の字（じ）謙（けん）なること好（よ）し。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "可适趣解闷，然朝代年纪，地舆邦国，",
+      "zh_modern": "可以供人消遣解闷，然而关于朝代年代、地理邦国，",
+      "en": "they may serve to amuse and dispel boredom. However, the dynasty and age, the geography and state,",
+      "ru": "они сгодятся, чтобы развлечь и разогнать скуку. Однако династия и годы, география и государство,",
+      "ja": "適趣（てきしゅ）解悶（かいもん）すべし、然（しか）れども朝代（ちょうだい）年紀（ねんき）、地輿（ちよ）邦国（ほうこく）、",
+      "commentary": [
+        {
+          "type": "侧批",
+          "source": "脂批",
+          "original": "若用此套者，胸中必无好文字，手中断无新笔墨。",
+          "zh_modern": "如果用了这些俗套，胸中必定没有好文章，手中决无新笔墨。",
+          "en": "If one uses these clichés, one surely has no good writing in one's heart and certainly no new ink in one's hand.",
+          "ru": "Тот, кто использует эти штампы, наверняка не имеет в душе хороших текстов, а в руке — новой туши.",
+          "ja": "若（も）し此（こ）の套（とう）を用（もち）うる者（もの）は、胸中（きょうちゅう）必（かなら）ず好（よ）き文字（もじ）無（な）く、手中（しゅちゅう）断（だん）じて新（あたら）しき筆墨（ひつぼく）無（な）し。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "却反失落无考。",
+      "zh_modern": "却反而失落无法考证了。",
+      "en": "are lost and unverifiable.",
+      "ru": "напротив, утеряны и не поддаются проверке.",
+      "ja": "却（かえ）って反（そ）って失落（しつらく）して考（かんが）うる無（な）し。",
+      "commentary": [
+        {
+          "type": "侧批",
+          "source": "脂批",
+          "original": "据余说，却大有考证。",
+          "zh_modern": "据我说，却大有考证。",
+          "en": "In my opinion, there is much evidence to verify.",
+          "ru": "По-моему, здесь есть что исследовать.",
+          "ja": "余（よ）に拠（よ）りて説（と）けば、却（かえ）って大（おお）いに考証（こうしょう）有（あ）り。"
+        },
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "original": "妙在“无考”。",
+          "zh_modern": "妙就妙在“无法考证”。",
+          "en": "The beauty lies in 'unverifiable'.",
+          "ru": "Прелесть именно в «невозможности проверки».",
+          "ja": "妙（みょう）は「無考（むこう）」に在（あ）り。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "空空道人遂向石头说道：“石兄，你这一段故事，据你自己说有些趣味，故编写在此，意欲问世传奇。据我看来：第一件，无朝代年纪可考，",
+      "zh_modern": "空空道人便对石头说道：“石兄，你这一段故事，据你自己说有些趣味，所以编写在这里，想要问世流传。据我看来：第一，没有朝代年代可考，",
+      "en": "Taoist Vanitas then said to the stone: \"Brother Stone, this story of yours, according to you, has some interest, so you recorded it here, intending to publish it as a legend. But as I see it: firstly, there is no dynasty or age to verify,",
+      "ru": "Тогда даос Пустота сказал камню: «Брат Камень, эта твоя история, по твоим же словам, занимательна, поэтому ты записал ее здесь, желая поведать миру. Но, на мой взгляд: во-первых, здесь нет ни династии, ни дат, которые можно было бы проверить,",
+      "ja": "空空（くうくう）道人（どうじん）遂（つい）に石頭（せきとう）に向（む）かいて説（と）き道（い）う、「石兄（せきけい）、爾（なんじ）の此（こ）の一段（いちだん）の故事（こじ）、爾（なんじ）自己（じこ）に拠（よ）りて説（と）くに些（いささ）かの趣味（しゅみ）有（あ）り、故（ゆえ）に編（あ）み写（うつ）して此（ここ）に在（あ）り、世（よ）に問（と）い奇（き）を伝（つた）えんと意欲（いよく）す。我（われ）に拠（よ）りて看（み）るに：第一件（だいいっけん）、朝代（ちょうだい）年紀（ねんき）の考（かんが）うべき無（な）く、",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "original": "先驳得妙。",
+          "zh_modern": "首先驳斥得妙。",
+          "en": "First rebuttal is excellent.",
+          "ru": "Сначала отлично опровергает.",
+          "ja": "先（ま）づ駁（ばく）すること妙（みょう）なり。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "prose",
+      "original": "第二件，并无大贤大忠理朝廷、治风俗的善政，",
+      "zh_modern": "第二，并没有大贤大忠治理朝廷、整顿风俗的善政，",
+      "en": "secondly, there are no good administrations of great sages and loyal ministers governing the court or regulating customs,",
+      "ru": "во-вторых, нет описания благого правления великих мудрецов и верных слуг, управляющих двором и исправляющих нравы,",
+      "ja": "第二件（だいにけん）、並（なら）びに大賢（たいけん）大忠（たいちゅう）の朝廷（ちょうてい）を理（おさ）め、風俗（ふうぞく）を治（おさ）むるの善政（ぜんせい）無（な）く、",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "original": "将世人欲驳之腐言预先代人驳尽。妙！",
+          "zh_modern": "将世人想要反驳的陈腐之言预先替人驳尽了。妙！",
+          "en": "Anticipating and exhausting the stale arguments that people might use to refute it. Excellent!",
+          "ru": "Заранее исчерпал все избитые доводы, которыми люди могли бы опровергнуть это. Чудесно!",
+          "ja": "世人（せじん）の駁（ばく）せんと欲（ほっ）するの腐言（ふげん）を将（もっ）て預（あらかじ）め人（ひと）に代（か）わりて駁（ばく）し尽（つ）くす。妙（みょう）！"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "prose",
+      "original": "其中只不过几个异样的女子，或情或痴，或小才微善，亦无班姑、蔡女之德能。我纵抄去，恐世人不爱看呢。”",
+      "zh_modern": "其中只不过是几个与众不同的女子，或者是多情，或者是痴情，或者有些小才干、小善行，也没有班昭、蔡文姬那样的大德大能。我即使抄录了去，恐怕世人也不爱看呢。”",
+      "en": "Inside there are only a few unusual women, either sentimental or infatuated, or with minor talents and small virtues, possessing none of the abilities or morals of Ban Zhao or Cai Yan. Even if I copy it, I fear people in the world will not care to read it.\"",
+      "ru": "Там лишь несколько необычных женщин, то страстных, то безумных, с малыми талантами и крошечными добродетелями, лишенных достоинств Бань Чжао или Цай Вэньцзи. Даже если я перепишу это, боюсь, людям не захочется это читать».",
+      "ja": "其（そ）の中（うち）只（た）だ是（こ）れ幾（いく）個（こ）の異様（いよう）の女子（じょし）、或（ある）いは情（じょう）、或（ある）いは痴（ち）、或（ある）いは小才（しょうさい）微善（びぜん）にして、亦（ま）た班姑（はんこ）、蔡女（さいじょ）の徳能（とくのう）無（な）し。我（われ）縦（たと）い抄（しょう）し去（ゆ）くとも、恐（おそ）らくは世人（せじん）看（み）るを愛（あい）せざらん。」",
+      "commentary": []
+    },
+    {
+      "id": 7,
+      "type": "prose",
+      "original": "石头笑答道：“我师何太痴耶！若云无朝代可考，今我师竟假借汉唐等年纪添缀，又有何难？",
+      "zh_modern": "石头笑着回答：“老师为何太迂腐了！如果说没有朝代可考，如今老师您竟然假借汉唐等年代添补上去，又有什么难的？",
+      "en": "The stone laughed and replied: \"Why are you so foolish, Master! If you say there is no dynasty to verify, what difficulty is there for you to borrow the dates of Han or Tang to fill it in?",
+      "ru": "Камень с улыбкой ответил: «Как же вы наивны, наставник! Если говорите, что нет династии для проверки, то что мешает вам позаимствовать даты из Хань или Тан и приписать их?",
+      "ja": "石頭（せきとう）笑（わら）って答（こた）えて道（い）う、「我（わ）が師（し）何（なん）ぞ太（はなは）だ痴（ち）なるや！若（も）し朝代（ちょうだい）の考（かんが）うべき無（な）しと云（い）わば、今（いま）我（わ）が師（し）竟（つい）に漢（かん）唐（とう）等（とう）の年紀（ねんき）を仮借（かしゃ）して添綴（てんてつ）するに、又（また）何（なん）の難（かた）きか有（あ）らん？",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "original": "所以答得好。",
+          "zh_modern": "所以回答得好。",
+          "en": "That is why the answer is good.",
+          "ru": "Поэтому ответ хорош.",
+          "ja": "所（ゆえ）に答（こた）うること好（よ）し。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "prose",
+      "original": "但我想，历来野史，皆蹈一辙，莫如我这不借此套者，反倒新奇别致，不过只取其事体情理罢了，又何必拘拘于朝代年纪哉！",
+      "zh_modern": "但我想，历来的野史，都重蹈覆辙（千篇一律），不如我这不借用俗套的，反而新奇别致，不过只取其中的事理情趣罢了，又何必拘泥于朝代年代呢！",
+      "en": "But I think that unofficial histories through the ages have all followed the same rut. It is better that my story, avoiding these clichés, is novel and unique. It simply captures the essence of events and feelings—why must one be constrained by specific dynasties and dates?",
+      "ru": "Но я думаю, что все неофициальные истории прошлого следовали одной колее. Лучше уж моя история, не использующая эти штампы, она нова и своеобразна. Я лишь взял суть событий и чувств — зачем же цепляться за династии и годы!",
+      "ja": "但（た）だ我（われ）想（おも）うに、歴来（れきらい）の野史（やし）、皆（みな）一轍（いってつ）を蹈（ふ）む、我（われ）が此（こ）の此（こ）の套（とう）を借（か）らざる者（もの）の、反（かえ）って倒（こ）け新奇（しんき）別致（べっち）なるに如（し）かず、不過（ただ）其（その）事体（じたい）情理（じょうり）を取（と）るのみにして、又（また）何（なん）ぞ朝代（ちょうだい）年紀（ねんき）に拘拘（こうこう）とせんや！",
+      "commentary": []
+    },
+    {
+      "id": 9,
+      "type": "prose",
+      "original": "再者，市井俗人喜看理治之书者甚少，爱看适趣闲文者特多。",
+      "zh_modern": "再说，市井俗人喜欢看治理教化之书的人很少，爱看趣味闲文的人特别多。",
+      "en": "Furthermore, very few common people in the marketplace like to read books on governance, while a great many enjoy reading amusing leisure literature.",
+      "ru": "К тому же, среди простого люда мало кто любит читать книги о правлении, зато многие обожают занимательное чтиво.",
+      "ja": "再（ま）た、市井（しせい）の俗人（ぞくじん）理治（りち）の書（しょ）を看（み）るを喜（よろこ）ぶ者（もの）は甚（はなは）だ少（すく）なく、適趣（てきしゅ）の閑文（かんぶん）を看（み）るを愛（あい）する者（もの）は特（とく）に多（おお）し。",
+      "commentary": []
+    },
+    {
+      "id": 10,
+      "type": "prose",
+      "original": "历来野史，或讪谤君相，或贬人妻女，",
+      "zh_modern": "历来的野史，有的诽谤君主宰相，有的贬低别人的妻女，",
+      "en": "Historically, unofficial histories either slander monarchs and ministers or disparage other people's wives and daughters,",
+      "ru": "В неофициальных историях прошлого либо клевещут на государей и министров, либо порочат чужих жен и дочерей,",
+      "ja": "歴来（れきらい）の野史（やし）、或（ある）いは君相（くんしょう）を謗（そし）り、或（ある）いは人（ひと）の妻女（さいじょ）を貶（おとし）め、",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "original": "先批其大端。",
+          "zh_modern": "先批判其主要弊端。",
+          "en": "First criticizing their major faults.",
+          "ru": "Сначала критикует их главные пороки.",
+          "ja": "先（ま）づ其（その）大端（だいたん）を批（ひ）す。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": "prose",
+      "original": "奸淫凶恶，不可胜数。",
+      "zh_modern": "充满奸淫凶恶的内容，数不胜数。",
+      "en": "filled with adultery and wickedness beyond counting.",
+      "ru": "они полны разврата и злодейства, которым нет числа.",
+      "ja": "奸淫（かんいん）凶悪（きょうあく）、勝（あ）げて数（かぞ）うべからず。",
+      "commentary": []
+    },
+    {
+      "id": 12,
+      "type": "prose",
+      "original": "更有一种风月笔墨，其淫秽污臭，涂毒笔墨，坏人子弟，又不可胜数。",
+      "zh_modern": "更有一种风月文章，其淫秽污臭，毒害人的笔墨，败坏人家子弟，也是数不胜数。",
+      "en": "There is also a type of erotic writing that is filthy and foul, poisoning with ink and corrupting young people; these too are innumerable.",
+      "ru": "Есть еще род любовной литературы, грязной и зловонной, отравляющей ядом и развращающей молодежь, и таких книг тоже не счесть.",
+      "ja": "更（さら）に一種（いっしゅ）の風月（ふうげつ）の筆墨（ひつぼく）有（あ）り、其（その）淫穢（いんわい）汚臭（おしゅう）、毒（どく）を塗（ぬ）るの筆墨（ひつぼく）、人（ひと）の子弟（してい）を壊（やぶ）る、又（また）勝（あ）げて数（かぞ）うべからず。",
+      "commentary": []
+    },
+    {
+      "id": 13,
+      "type": "prose",
+      "original": "至若佳人才子等书，则又千部共出一套，且其中终不能不涉于淫滥，以致满纸潘安子建、西子文君，",
+      "zh_modern": "至于那些才子佳人的书，则又是千部共用一套路，而且其中终究免不了涉及淫乱，以致满纸都是潘安、曹植、西施、卓文君（的比喻），",
+      "en": "As for books about 'scholars and beauties', a thousand volumes follow the exact same formula, and they inevitably descend into licentiousness, filling pages with names like Pan An, Cao Zhi, Xi Shi, and Zhuo Wenjun.",
+      "ru": "Что же до книг о «красавицах и талантах», то тысячи их написаны по одному шаблону, и они неизбежно скатываются к распутству, так что страницы пестрят именами Пань Аня, Цзыцзяня, Си Ши и Вэньцзюнь.",
+      "ja": "佳人（かじん）才子（さいし）等（とう）の書（しょ）の若（ごと）きに至（いた）りては、則（すなわ）ち又（また）千部（せんぶ）共（とも）に一套（いっとう）を出（いだ）し、且（か）つ其（その）中（うち）終（つい）に淫濫（いんらん）に渉（わた）らざる能（あた）わず、致（いた）して紙（かみ）に満（み）つるは潘安（はんあん）子建（しけん）、西子（せいし）文君（ぶんくん）、",
+      "commentary": []
+    },
+    {
+      "id": 14,
+      "type": "prose",
+      "original": "不过作者要写出自己的那两首情诗艳赋来，故假拟出男女二人名姓，又必旁出一小人其间拨乱，",
+      "zh_modern": "不过是作者要写出自己的那两首情诗艳赋来，所以假拟出男女二人的姓名，又必须在旁边编排一个小人从中拨弄是非，",
+      "en": "The author merely wants to showcase his own love poems, so he invents names for a man and a woman, and invariably introduces a villain to cause trouble between them,",
+      "ru": "Автор просто хочет вставить свои любовные стишки, вот и выдумывает имена героя и героини, да еще непременно вводит злодея, чтобы тот чинил козни,",
+      "ja": "不過（ただ）作者（さくしゃ）自己（じこ）の那（か）の両首（りょうしゅ）の情詩（じょうし）艶賦（えんぷ）を書（か）き出（いだ）さんと要（ほっ）し、故（ゆえ）に仮（かり）に男女（だんじょ）二人（ににん）の名姓（めいせい）を擬（ぎ）し出（いだ）し、又（また）必（かなら）ず旁（かたわ）ら一小人（いちしょうじん）を出（いだ）し其（その）間（あいだ）に撥乱（はつらん）せしめ、",
+      "commentary": [
+        {
+          "type": "侧批",
+          "source": "脂批",
+          "original": "放笔以情趣世人，并评倒多少传奇。文气淋漓，字句切实。亦如剧中之小丑然。",
+          "zh_modern": "放笔以情趣打动世人，并评倒了多少传奇小说。文气淋漓，字句切实。也像戏中的小丑一样。",
+          "en": "Writing freely to amuse the world, and criticizing countless romances. The literary style is flowing, the words are precise. Like the clown in a play.",
+          "ru": "Пишет свободно, чтобы развлечь людей, и критикует множество романов. Стиль живой, слова точны. Словно шут в пьесе.",
+          "ja": "筆（ふで）を放（はな）ち情趣（じょうしゅ）を以（もっ）て世人（せじん）にし、并（あわ）せて多少（たしょう）の伝奇（でんき）を評（ひょう）し倒（たお）す。文気（ぶんき）淋漓（りんり）、字句（じく）切実（せつじつ）。亦（ま）た劇中（げきちゅう）の小丑（しょうちゅう）の如（ごと）き然（なり）。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "type": "prose",
+      "original": "且鬟婢开口即者也之乎，非文即理。故逐一看去，悉皆自相矛盾，大不近情理之话。",
+      "zh_modern": "而且丫鬟婢女开口就是“者也之乎”，不是文绉绉的就是讲大道理。所以一个个看去，全都是自相矛盾，大不近情理的话。",
+      "en": "Moreover, maids and servants speak in classical particles 'zhe, ye, zhi, hu', full of literary affectation or moralizing. So upon inspection, they are all self-contradictory and highly unrealistic.",
+      "ru": "К тому же служанки, стоит им открыть рот, сыплют книжными частицами «чжэ», «е», «чжи», «ху», говоря либо высокопарно, либо нравоучительно. Поэтому, если посмотреть, все это противоречиво и совершенно неправдоподобно.",
+      "ja": "且（か）つ鬟婢（かんぴ）口（くち）を開（ひら）けば即（すなわ）ち者（しゃ）也（や）之（し）乎（こ）、文（ぶん）に非（あら）ざれば即（すなわ）ち理（り）なり。故（ゆえ）に逐一（ちくいち）看（み）去（ゆ）けば、悉（ことごと）く皆（みな）自（みずか）ら相（あい）矛盾（むじゅん）し、大（おお）いに情理（じょうり）に近（ちか）づかざるの話（はなし）なり。",
+      "commentary": []
+    },
+    {
+      "id": 16,
+      "type": "prose",
+      "original": "竟不如我半世亲睹亲闻的这几个女子，虽不敢说强似前代书中所有之人，但事迹原委，亦可以消愁破闷，",
+      "zh_modern": "竟然不如我半生亲眼所见、亲耳所闻的这几个女子，虽然不敢说比前代书中所有的人都强，但她们的事迹原委，也可以消愁解闷，",
+      "en": "They are truly not as good as these few women I have personally seen and heard of in my half-lifetime. Although I dare not say they are better than everyone in previous books, their stories and origins can serve to dispel sorrow and boredom,",
+      "ru": "Уж лучше эти несколько женщин, которых я видел и слышал сам за полжизни. Хоть не смею сказать, что они лучше всех героинь прошлых книг, но их истории могут развеять тоску,",
+      "ja": "竟（つい）に我（われ）半世（はんせい）親（みずか）ら睹（み）、親（みずか）ら聞（き）ける此（こ）の幾（いく）個（こ）の女子（じょし）に如（し）かず、敢（あ）えて前代（ぜんだい）の書中（しょちゅう）所有（あらゆる）の人（ひと）に強（まさ）り似（に）たりと説（と）かずと雖（いえど）も、但（た）だ事跡（じせき）原委（げんい）、亦（ま）た以（もっ）て愁（うれ）いを消（け）し悶（もだ）えを破（やぶ）るべく、",
+      "commentary": []
+    },
+    {
+      "id": 17,
+      "type": "prose",
+      "original": "也有几首歪诗熟话，可以喷饭供酒。",
+      "zh_modern": "也有几首歪诗俗话，可以让人喷饭大笑，佐酒助兴。",
+      "en": "and there are a few doggerel verses and familiar sayings that can make one laugh out loud and accompany wine.",
+      "ru": "да и найдется пара-тройка неуклюжих стишков и простых слов, чтобы посмеяться за вином.",
+      "ja": "亦（ま）た幾首（いくしゅ）の歪詩（わいし）熟話（じゅくわ）有（あ）り、以（もっ）て噴飯（ふんぱん）し酒（さけ）に供（きょう）すべし。",
+      "commentary": []
+    },
+    {
+      "id": 18,
+      "type": "prose",
+      "original": "至若离合悲欢，兴衰际遇，则又追踪蹑迹，不敢稍加穿凿，徒为供人之目而反失其真传者。",
+      "zh_modern": "至于离合悲欢、兴衰际遇，则是追踪蹑迹（如实记录），不敢稍加穿凿附会，以免为了取悦人的眼目而反而失去了真传。",
+      "en": "As for separations and reunions, joys and sorrows, rise and fall of fortunes, I have followed the traces exactly, daring not to embellish in the slightest, lest I lose the true transmission merely to please the eyes of others.",
+      "ru": "Что же касается разлук и встреч, радостей и горестей, взлетов и падений, то я следовал по пятам событий, не смея ничего приукрашивать, чтобы не утратить истины в угоду читателю.",
+      "ja": "離合（りごう）悲歓（ひかん）、興衰（こうすい）際遇（さいぐう）の若（ごと）きに至（いた）りては、則（すなわ）ち又（また）蹤（あと）を追（お）い跡（あと）を躡（ふ）み、敢（あ）えて稍（いささ）かも穿鑿（せんさく）を加（くわ）えず、徒（いたずら）に人（ひと）の目（め）に供（きょう）すると為（な）して反（かえ）って其（その）真伝（しんでん）を失（うしな）う者（もの）なり。",
+      "commentary": [
+        {
+          "type": "侧批",
+          "source": "脂批",
+          "original": "事则实事，然亦叙得有间架、有曲折、有顺逆、有映带、有隐有见、有正有闰，以致草蛇灰线、空谷传声、一击两鸣、明修栈道、暗渡陈仓、云龙雾雨、两山对峙、烘云托月、背面傅粉、千皴万染诸奇。书中之秘法，亦不复少。余亦于逐回中搜剔刳剖，明白注释，以待高明，再",
+          "zh_modern": "事情是真事，然而叙述得有结构、有曲折、有顺叙倒叙、有映衬照应、有隐有显、有正统有闰位，以致运用了草蛇灰线、空谷传声、一击两鸣、明修栈道暗渡陈仓、云龙雾雨、两山对峙、烘云托月、背面傅粉、千皴万染等各种奇法。书中的秘法，也不在少数。我也会在每一回中搜寻剖析，明白注释，以等待高明的人，再",
+          "en": "The events are real events, but narrated with structure, twists, directness and reversal, reflection, hidden and visible aspects, main and intercalary elements, using techniques like 'grass snake and gray line' (subtle clues), 'sound in an empty valley', 'one strike ringing twice', 'openly repairing the plank road while secretly crossing Chencang', 'clouds, dragons, mist and rain', 'two mountains facing each other', 'shading clouds to highlight the moon', 'powdering the back', 'thousand wrinkles and ten thousand dyes'. The secret methods in the book are numerous. I will also search and analyze them in each chapter, clearly annotating them, awaiting the wise, and then...",
+          "ru": "События реальны, но изложены со структурой, поворотами, прямо и обратно, с отражениями, скрытым и явным, основным и добавочным, используя такие приемы, как «змея в траве и серая линия», «эхо в пустой долине», «один удар — два звука», «явно чинить мостки, скрытно переправляться в Чэньцан», «облака, драконы, туман и дождь», «две горы друг против друга», «оттенять облака, чтобы выделить луну», «пудрить спину», «тысяча штрихов и десять тысяч мазков». Тайных методов в книге немало. Я также буду выискивать и разбирать их в каждой главе, давая ясные комментарии в ожидании мудрых, и...",
+          "ja": "事（こと）は則（すなわ）ち実事（じつじ）、然（しか）れども亦（ま）た叙（じょ）し得（う）るに間架（かんか）有（あ）り、曲折（きょくせつ）有（あ）り、順逆（じゅんぎゃく）有（あ）り、映帯（えいたい）有（あ）り、隠（いん）有（あ）り見（けん）有（あ）り、正（せい）有（あ）り閏（じゅん）有（あ）り、致（いた）して草蛇（そうじゃ）灰線（かいせん）、空谷（くうこく）伝声（でんせい）、一撃（いちげき）両鳴（りょうめい）、明（あき）らかに桟道（さんどう）を修（おさ）めて暗（ひそ）かに陳倉（ちんそう）に渡（わた）り、雲龍（うんりゅう）霧雨（むう）、両山（りょうざん）対峙（たいじ）し、雲（くも）を烘（あぶ）りて月（つき）を托（たく）し、背面（はいめん）に粉（こ）を傅（つ）け、千皴（せんしゅん）万染（ばんせん）する諸（もろもろ）の奇（き）を以（もっ）てす。書中（しょちゅう）の秘法（ひほう）、亦（ま）た復（ま）た少（すく）なからず。余（よ）も亦（ま）た逐回（ちくかい）中（ちゅう）に於（お）いて捜剔（そうてき）刳剖（こほう）し、明白（めいはく）に註釈（ちゅうしゃく）し、以（もっ）て高明（こうめい）を待（ま）ち、再（ま）た"
+        }
+      ]
+    }
+  ],
+  "translator_notes": [
+    "班姑 (Ban Gu) refers to Ban Zhao, the first female historian of China.",
+    "蔡女 (Cai Nu) refers to Cai Yan (Cai Wenji), a famous female poet and musician.",
+    "Pan An, Cao Zhi (Zijian), Xi Shi, Zhuo Wenjun are standard archetypes of beauty and talent in classical literature.",
+    "草蛇灰线 (Grass snake, gray line) is a key literary technique in Red Chamber Dream, referring to subtle clues woven throughout the text.",
+    "烘云托月 (Shading clouds to highlight the moon) refers to emphasizing a subject by describing its surroundings or contrasts."
+  ]
+}

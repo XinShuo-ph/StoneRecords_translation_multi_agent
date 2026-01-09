@@ -1,0 +1,212 @@
+{
+  "page": 12,
+  "chapter": "第一回",
+  "total_segments": 13,
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "第一回 甄士隐梦幻识通灵 贾雨村风尘怀闺秀",
+      "zh_modern": "第一回 甄士隐梦幻之中识得通灵宝玉 贾雨村红尘之中怀念闺阁佳秀",
+      "en": "Chapter 1: Zhen Shiyin Encounters the Spirit Stone in a Dream; Jia Yucun Remembers a Maiden in the Dusty World",
+      "ru": "Глава 1. Чжэнь Шиинь во сне постигает природу Духовного Камня; Цзя Юйцунь в мирской суете вспоминает о прекрасной деве",
+      "ja": "第一回　甄士隠（しんしいん）夢幻（むげん）に通霊（つうれい）を識（し）り　賈雨村（かうそん）風塵（ふうじん）に閨秀（けいしゅう）を懐（おも）う",
+      "commentary": [
+        {
+          "type": "回前批",
+          "source": "脂批",
+          "original": "此开卷第一回也。",
+          "zh_modern": "这是开卷的第一回。",
+          "en": "This is the opening first chapter.",
+          "ru": "Это первая, открывающая книгу глава.",
+          "ja": "此れ開巻の第一回なり。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "作者自云：因曾历过一番梦幻之后，故将真事隐去，而借通灵之说，撰此《石头记》一书也，故曰“甄士隐”云云。",
+      "zh_modern": "作者自述：因为曾经经历过一番如梦似幻的遭遇，所以将真事隐去，而借用“通灵”的说法，撰写了这部《石头记》，所以取名叫“甄士隐”（真事隐）等等。",
+      "en": "The author says: Having experienced a dream-like passage of life, I have hidden the true events and, borrowing the legend of the Spiritual Stone, written this book \"The Story of the Stone\"; hence the name \"Zhen Shiyin\" (True Matters Hidden).",
+      "ru": "Сам автор говорит: пережив жизнь, подобную сну и иллюзии, я скрыл истинные события и, воспользовавшись преданием о Духовном Камне, написал эту книгу «Записки о Камне», поэтому и назвался Чжэнь Шиинь (Истинные события скрыты).",
+      "ja": "作者自（みずか）ら云（い）う。曽（かつ）て一番（ひとつ）の夢幻（むげん）を歴（へ）たるに因（よ）りて、故（ことさ）らに真事（しんじ）を隠し去り、通霊（つうれい）の説を借りて、此（こ）の『石頭記（せきとうき）』の一書を撰（せん）するなり。故（ゆえ）に「甄士隠（しんしいん）」と曰（い）う云々（うんぬん）。",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "但书中所记何事何人？自又云：“今风尘碌碌，一事无成，忽念及当日所有之女子，一一细考较去，觉其行止见识皆出于我之上。",
+      "zh_modern": "但是书中记载的是什么事、什么人呢？他又说：“如今在这个红尘世俗中劳碌奔波，一事无成，忽然想起当年结识的那些女子，一个个细细考查较量起来，觉得她们的行为举止和见识都在我之上。",
+      "en": "But what events and what people are recorded in this book? He continues: \"In this dusty world, busy yet achieving nothing, I suddenly recalled the young ladies of those days. Examining them one by one, I realized their conduct and understanding were all superior to mine.",
+      "ru": "Но о чем и о ком повествуется в этой книге? Далее он говорит: «Ныне, пребывая в мирской суете и ничего не достигнув, я вдруг вспомнил всех девушек, которых знал в прошлом. Тщательно сравнив их, я понял, что их поступки и суждения превосходили мои.",
+      "ja": "但（た）だ書中（しょちゅう）に記（しる）す所（ところ）は何事（なにごと）何人（なにびと）ぞや。自（みずか）ら又（また）云（い）う。「今（いま）風塵（ふうじん）に碌碌（ろくろく）として、一事（いちじ）も成（な）る無（な）く、忽（たちま）ち当日（とうじ）所有（あらゆる）の女子（じょし）に念（おも）い及（およ）び、一一（いちいち）細（こま）かに考較（こうこう）し去（さ）るに、其（そ）の行止（こうし）見識（けんしき）皆（みな）我（われ）の上（うえ）に出（い）づるを覚（おぼ）ゆ。",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "何我堂堂须眉，诚不若此裙钗哉？",
+      "zh_modern": "为什么我一个堂堂男子汉，竟然连这些女子都不如呢？",
+      "en": "How could I, a dignified man, truly be inferior to these women?",
+      "ru": "Как же я, достойный мужчина, оказался поистине хуже этих женщин?",
+      "ja": "何（なん）ぞ我（われ）堂堂（どうどう）たる須眉（しゅび）として、誠（まこと）に此（こ）の裙釵（くんさい）に若（し）かざらんや。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "original": "何非梦幻，何不通灵？作者托言，原当有自。受气清浊，本无男女之别。实愧则有馀，悔又无益之大无可如何之日也！",
+          "zh_modern": "既然全是梦幻，为何不可通灵？作者借言寄托，原本就有缘由。禀受的灵气清浊，本来就没有男女的区别。实在是惭愧有余，后悔也无益，真是无可奈何的日子啊！",
+          "en": "If it is all a dream illusion, why not imply spiritual communication? The author uses allegory, which must have its origin. The endowment of pure or turbid qi has no distinction between male and female. Truly, shame is abundant, and regret is useless in these days of helplessness!",
+          "ru": "Если это не сон и иллюзия, то почему бы не быть духовному общению? Автор говорит иносказательно, и на то есть причина. Восприятие чистого и мутного эфира не зависит от пола. Поистине, стыда с избытком, а сожалеть бесполезно в эти дни безысходности!",
+          "ja": "何（なん）ぞ夢幻（むげん）に非（あら）ざらん、何（なん）ぞ通霊（つうれい）ならざらん。作者（さくしゃ）言（げん）を托（たく）するは、原（もと）自（よ）り当（まさ）に自（よ）る有（あ）り。気（き）を受（う）くる清濁（せいだく）、本（もと）男女（だんじょ）の別（べつ）無（な）し。実（じつ）に愧（は）づれば則（すなわ）ち余（あま）り有（あ）り、悔（く）ゆとも又（また）益（えき）無（な）きの大（おお）いに如何（いかん）ともす無（な）きの日（ひ）なり。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "prose",
+      "original": "实愧则有馀，悔又无益之大无可如何之日也！当此，则自欲将已往所赖天恩祖德，锦衣纨绔之时，饫甘餍肥之日，背父兄教育之恩，负师友规谈之德，以至今日一技无成、半生潦倒之罪，",
+      "zh_modern": "实在是惭愧有余，后悔也无益，在这无可奈何的日子里！既然如此，我就想将以往仰赖皇恩祖德，身穿锦衣纨裤之时，饱食美味佳肴之日，以及辜负父兄养育之恩，背离师友规劝之德，以致如今一技无成、半生潦倒的罪过，",
+      "en": "In these days of overwhelming helplessness, with abundant shame and useless regret! Therefore, I wish to record my past: the times I relied on heavenly grace and ancestral virtue, wearing silk breeches and eating rich food; how I turned my back on the teachings of my father and brothers and failed the guidance of my teachers and friends; leading to my present state of having no skills and half a lifetime of destitution.",
+      "ru": "Стыд мой безмерен, а сожаления бесполезны в эти дни полной безысходности! Поэтому я хочу поведать о прошлом: о днях, когда я, полагаясь на милость Неба и добродетели предков, носил шелковые одежды и вкушал изысканные яства; о том, как я пренебрег наставлениями отца и братьев и не оправдал надежд учителей и друзей, что привело меня к нынешнему состоянию, когда я не имею никакого мастерства и полжизни провел в нищете.",
+      "ja": "実（じつ）に愧（は）づれば則（すなわ）ち余（あま）り有（あ）り、悔（く）ゆとも又（また）益（えき）無（な）きの大（おお）いに如何（いかん）ともす無（な）きの日（ひ）なり！此（こ）こに当（あた）りて、則（すなわ）ち自（みずか）ら已往（いおう）頼（たの）む所（ところ）の天恩（てんおん）祖徳（そとく）、錦衣（きんい）纨袴（がんこ）の時（とき）、饫甘（よかん）餍肥（えんぴ）の日（ひ）、父兄（ふけい）教育（きょういく）の恩（おん）に背（そむ）き、師友（しゆう）規談（きだん）の徳（とく）に負（そむ）き、以（もっ）て今日（こんにち）一技（いちぎ）も成（な）る無（な）く、半生（はんせい）潦倒（ろうとう）するの罪（つみ）に至（いた）るを将（もっ）て、",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "original": "明告看者。",
+          "zh_modern": "明白地告诉读者。",
+          "en": "Explicitly telling the reader.",
+          "ru": "Ясно говорит читателю.",
+          "ja": "明白（めいはく）に看者（かんしゃ）に告（つ）ぐ。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "prose",
+      "original": "编述一集，以告天下人：我之罪固不免，然闺阁中本自历历有人，万不可因我之不肖，自护己短，一并使其泯灭也。",
+      "zh_modern": "编述成这一部书，来告诉天下人：我的罪过固然不可免除，但闺阁中本来就历历有奇女子，万万不可因为我的不肖，为了掩饰自己的短处，而让她们的事迹也一并泯灭了。",
+      "en": "I have compiled this record to tell the world: while my own sins are inescapable, there were truly remarkable people in the inner chambers. I must not, because of my own unworthiness or to hide my shortcomings, allow their stories to vanish along with me.",
+      "ru": "Я составил этот сборник, чтобы поведать людям Поднебесной: хотя моя вина несомненна, в женских покоях действительно были достойные люди. Нельзя допустить, чтобы из-за моей никчемности и желания скрыть свои недостатки память о них исчезла вместе со мной.",
+      "ja": "編述（へんじゅつ）して一集（いっしゅう）とし、以（もっ）て天下（てんか）の人（ひと）に告（つ）ぐ。我（わ）が罪（つみ）は固（もと）より免（まぬか）れず、然（しか）れども閨閣（けいかく）中（ちゅう）本（もと）自（よ）り歴歴（れきれき）として人（ひと）有（あ）り、万（ばん）我（わ）が不肖（ふしょう）に因（よ）りて、自（みずか）ら己（おの）が短（たん）を護（まも）り、一并（あわ）せて其（そ）れをして泯滅（びんめつ）せしむべからざるなり。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "original": "因为传他，并可传我。",
+          "zh_modern": "因为在传扬她们的同时，也可以附带传扬我自己。",
+          "en": "Because in transmitting them, I can also transmit myself.",
+          "ru": "Ибо, передавая о них, я могу передать и о себе.",
+          "ja": "他（か）を伝（つた）うるを因（い）とし、并（あわ）せて我（われ）を伝（つた）うべし。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "prose",
+      "original": "虽今日之茅椽蓬牖，瓦灶绳床，其晨夕风露，阶柳庭花，亦未有妨我之襟怀笔墨。虽我未学，下笔无文，又何妨用假语村言敷演出一段故事来？",
+      "zh_modern": "虽然今天我住在茅草蓬窗之下，用的是瓦灶绳床，面对的是晨风夕露，阶前柳树庭中花草，但这并不妨碍我的胸怀和笔墨。虽然我没有学问，下笔没有文采，但这又何妨用假托的话语和粗俗的言辞，敷衍出一段故事来呢？",
+      "en": "Although today I live under a thatched roof with mat windows, using a clay stove and rope bed, exposed to the morning wind and evening dew, with willows by the steps and flowers in the courtyard, this does not hinder my inspiration or my writing. Though I am unlearned and my writing lacks literary polish, what harm is there in using fictional words and rustic language to develop a story?",
+      "ru": "Хотя сегодня я живу под соломенной крышей с плетеными окнами, пользуюсь глиняной печью и веревочной кроватью, открытый утренним ветрам и вечерним росам, среди ив у ступеней и цветов во дворе, это не мешает моему вдохновению и письму. Хотя я неуч и пишу без изысков, что мешает мне воспользоваться вымышленными речами и простыми словами, чтобы изложить эту историю?",
+      "ja": "今日（こんにち）の茅椽（ぼうてん）蓬牖（ほうゆう）、瓦灶（がそう）縄床（じょうしょう）、其（そ）の晨夕（しんせき）の風露（ふうろ）、階柳（かいりゅう）庭花（ていか）と雖（いえど）も、亦（ま）た未（いま）だ我（わ）が襟懐（きんかい）筆墨（ひつぼく）を妨（さまた）ぐる有（あ）らず。我（われ）未（いま）だ学（がく）ならず、筆（ふで）を下（くだ）すに文（ぶん）無（な）しと雖（いえど）も、又（また）何（なん）ぞ仮語（かご）村言（そんげん）を用（もち）いて一段（いちだん）の故事（こじ）を敷演（ふえん）し出（い）だすを妨（さまた）げんや。",
+      "commentary": []
+    },
+    {
+      "id": 8,
+      "type": "prose",
+      "original": "亦可使闺阁昭传，复可悦世之目，破人愁闷，不亦宜乎？”故曰“贾雨村”云云。",
+      "zh_modern": "也可以使闺阁女子的事迹得以流传，又能取悦世人的耳目，排解人们的忧愁烦闷，不也是很好的吗？”所以叫作“贾雨村”（假语存）等等。",
+      "en": "It can also make the stories of the inner chambers known, please the eyes of the world, and dispel people's sorrow and boredom—is this not appropriate?\" Hence the name \"Jia Yucun\" (False Words Remain).",
+      "ru": "Это также позволит сохранить память о женщинах из внутренних покоев, порадовать взор людей и развеять их тоску — разве это не прекрасно?» Поэтому и говорится «Цзя Юйцунь» (Лживые слова сохранились).",
+      "ja": "亦（ま）た閨閣（けいかく）をして昭伝（しょうでん）せしめ、復（ま）た世（よ）の目（め）を悦（よろこ）ばし、人（ひと）の愁悶（しゅうもん）を破（やぶ）るべきは、亦（ま）た宜（よろ）しからずや。」故（ゆえ）に「賈雨村（かうそん）」と曰（い）う云々（うんぬん）。",
+      "commentary": []
+    },
+    {
+      "id": 9,
+      "type": "prose",
+      "original": "此回中凡用“梦”用“幻”等字，是提醒阅者眼目，亦是此书立意本旨。①",
+      "zh_modern": "这一回中凡是用到“梦”、“幻”等字眼，都是为了提醒读者的注意，这也是本书立意的本旨。",
+      "en": "Whenever the words \"dream\" or \"illusion\" are used in this chapter, it is to alert the reader's attention; this is also the fundamental theme of this book.",
+      "ru": "Всякий раз, когда в этой главе встречаются слова «сон» или «иллюзия», это сделано, чтобы привлечь внимание читателя; в этом также заключается основной замысел книги.",
+      "ja": "此（こ）の回中（かいちゅう）凡（およ）そ「夢（ゆめ）」を用（もち）い「幻（まぼろし）」を用（もち）うる等（とう）の字（じ）は、是（こ）れ閲者（えっしゃ）の眼目（がんもく）を提（さ）げ醒（さ）ます、亦（ま）た是（こ）れ此（こ）の書（しょ）立意（りつい）の本旨（ほんし）なり。",
+      "commentary": []
+    },
+    {
+      "id": 10,
+      "type": "prose",
+      "original": "列位看官，你道此书从何而来？说起根由虽近荒唐，",
+      "zh_modern": "各位看官，你们说这本书是从哪里来的呢？说起根由虽然近乎荒唐，",
+      "en": "Gentlemen readers, where do you suppose this book comes from? Although the origin sounds somewhat absurd,",
+      "ru": "Уважаемые читатели, откуда же, по-вашему, взялась эта книга? Хотя рассказ о ее происхождении и может показаться нелепым,",
+      "ja": "列位（れつい）看官（かんかん）、道（い）え此（こ）の書（しょ）は何（いず）くより来（きた）れるか。根由（こんゆう）を説（と）き起（お）こすに荒唐（こうとう）に近（ちか）しと雖（いえど）も、",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "original": "自占地步。",
+          "zh_modern": "这是在为自己留退路。",
+          "en": "Establishing one's own ground.",
+          "ru": "Заранее подготавливает почву.",
+          "ja": "自（みずか）ら地歩（ちほ）を占（し）む。"
+        },
+        {
+          "type": "侧批",
+          "source": "脂批",
+          "original": "自首荒唐，妙！",
+          "zh_modern": "自己先承认荒唐，妙极！",
+          "en": "Admitting absurdity oneself, excellent!",
+          "ru": "Сам признает нелепость, чудесно!",
+          "ja": "自（みずか）ら荒唐（こうとう）を首（しゅ）す、妙（みょう）！"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": "prose",
+      "original": "细谙则深有趣味。待在下将此来历注明，方使阅者了然不惑。",
+      "zh_modern": "但细细体味却深有趣味。等我把这个来历注明，才能使读者一目了然，不再疑惑。",
+      "en": "Upon close examination, it is deeply interesting. Let me clarify its history so that you, the reader, may understand it clearly and without confusion.",
+      "ru": "При ближайшем рассмотрении он весьма интересен. Позвольте мне пояснить его происхождение, чтобы вы, читатели, все поняли и не испытывали сомнений.",
+      "ja": "細（こま）かに諳（そら）んずれば則（すなわ）ち深（ふか）く趣味（しゅみ）有（あ）り。待（ま）て在下（ざいか）此（こ）の来歴（らいれき）を注明（ちゅうめい）し、方（まさ）に閲者（えっしゃ）をして了然（りょうぜん）として惑（まど）わざらしむべし。",
+      "commentary": []
+    },
+    {
+      "id": 12,
+      "type": "prose",
+      "original": "原来，女娲氏炼石补天之时，",
+      "zh_modern": "原来，当年女娲氏炼石补天的时候，",
+      "en": "Originally, when the Goddess Nuwa smelted stones to repair the heavens,",
+      "ru": "В давние времена, когда богиня Нюйва плавила камни, чтобы починить небо,",
+      "ja": "原来（げんらい）、女媧氏（じょかし）石（いし）を煉（ね）りて天（てん）を補（おぎな）うの時（とき）、",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "original": "补天济世，勿认真，用常言。",
+          "zh_modern": "补天济世，不要太认真，只是借用常言。",
+          "en": "Repairing the heavens to save the world; do not take it literally, using a common saying.",
+          "ru": "Починка неба и спасение мира; не принимайте всерьез, это лишь расхожее выражение.",
+          "ja": "天（てん）を補（おぎな）い世（よ）を済（すく）う、真（しん）と認（みと）むる勿（な）かれ、常言（じょうげん）を用（もち）う。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": "prose",
+      "original": "于大荒",
+      "zh_modern": "在这一片大荒之中",
+      "en": "At the Great Wilderness",
+      "ru": "В Великой Пустоши",
+      "ja": "大荒（たいこう）に於（お）いて",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "甄士隐 (Zhen Shiyin) is a homophone for 真事隐 (True events hidden).",
+    "贾雨村 (Jia Yucun) is a homophone for 假语存 (False words remain).",
+    "This opening section serves as the author's preface (楔子) embedded in the first chapter.",
+    "The commentary emphasizes the allegorical nature of the 'dream' and 'illusion' motifs."
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "page": 13,
+  "chapter": "第一回",
+  "total_segments": 17,
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "山 无稽崖 炼成高经十二丈、",
+      "zh_modern": "山（大荒山），在无稽崖下，炼成高十二丈、",
+      "en": "Mountain (Great Wilderness Mountain), at the Cliff of No Record, [the stones were] smelted to a height of twelve zhang,",
+      "ru": "Гору (Гору Великой Пустоши), у Скалы Небытия, [камни были] выплавлены высотой в двенадцать чжанов,",
+      "ja": "山（さん）、無稽崖（むけいがい）、煉（ね）り成（な）すこと高（たか）さ経（たて）十二丈（じゅうにじょう）、",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "original": "荒唐也。",
+          "zh_modern": "真是荒唐啊。",
+          "en": "Absurd indeed.",
+          "ru": "Воистину нелепо.",
+          "ja": "荒唐（こうとう）なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "original": "无稽也。",
+          "zh_modern": "无据可查啊。",
+          "en": "Unverifiable indeed.",
+          "ru": "Ничем не подтверждено.",
+          "ja": "無稽（むけい）なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "original": "总应十二钗。",
+          "zh_modern": "总共对应金陵十二钗。",
+          "en": "Corresponds in total to the Twelve Beauties.",
+          "ru": "В целом соответствует Двенадцати Красавицам.",
+          "ja": "総（すべ）て十二釵（じゅうにさい）に応（おう）ず。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "方经二十四丈",
+      "zh_modern": "见方二十四丈",
+      "en": "and twenty-four zhang square.",
+      "ru": "и двадцать четыре чжана в ширину.",
+      "ja": "方（よこ）経（たて）二十四丈（にじゅうよんじょう）",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "original": "照应副十二钗。",
+          "zh_modern": "照应副册十二钗。",
+          "en": "Corresponds to the Secondary Twelve Beauties.",
+          "ru": "Соответствует Двенадцати Красавицам из побочного реестра.",
+          "ja": "副（ふく）十二釵（じゅうにさい）に照応（しょうおう）す。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "顽石三万六千五百零一块。娲皇氏只用了三万六千五百块，",
+      "zh_modern": "顽石共有三万六千五百零一块。女娲氏只用了三万六千五百块，",
+      "en": "There were 36,501 blocks of stone in total. Goddess Nuwa used only 36,500 blocks,",
+      "ru": "Всего было 36 501 каменная глыба. Императрица Нюйва использовала лишь 36 500 глыб,",
+      "ja": "頑石（がんせき）三万六千五百零一塊（さんまんろくせんごひゃくれいいっかい）。媧皇氏（かこうし）只（た）だ三万六千五百塊（さんまんろくせんごひゃっかい）を用（もち）い、",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "original": "合周天之数。",
+          "zh_modern": "合乎周天三百六十五日之数。",
+          "en": "Matching the number of days in the heavenly cycle.",
+          "ru": "Что соответствует числу дней небесного цикла.",
+          "ja": "周天（しゅうてん）の数（すう）に合（がっ）す。"
+        },
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "original": "数足，偏遗我。“不堪入选”句中透出心眼。",
+          "zh_modern": "数目已足，偏偏遗漏了我。“不堪入选”这句透出了作者的心眼。",
+          "en": "The number was complete, leaving me out alone. The phrase \"unworthy of selection\" reveals the author's intent.",
+          "ru": "Число было полным, и только меня оставили. Фраза «недостоин избрания» раскрывает замысел автора.",
+          "ja": "数（すう）足（た）りて、偏（ひとえ）に我（われ）を遺（のこ）す。「入選（にゅうせん）に堪（た）えず」の句中（くちゅう）心眼（しんがん）を透（す）き出（いだ）す。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "只单单的剩了一块未用，",
+      "zh_modern": "单单剩下了这一块没有使用，",
+      "en": "leaving just this single block unused,",
+      "ru": "оставив неиспользованной только эту единственную глыбу,",
+      "ja": "只（た）だ単単（たんたん）的（と）して一塊（いっかい）の未（いま）だ用（もち）いざるを剰（あま）し、",
+      "commentary": [
+        {
+          "type": "侧批",
+          "source": "脂批",
+          "original": "剩了这一块便生出这许多故事。使当日虽不以此补天，就该去补地之坑陷，使地平坦，而不得有此一部鬼话。",
+          "zh_modern": "剩下了这一块，便生出了这么多故事。假使当初虽然不用它补天，也该拿去填补地上的坑陷，使大地平坦，也就不会有这一部“鬼话”了。",
+          "en": "This single remaining block gave rise to all these stories. If it wasn't used to repair the sky, it should have been used to fill pits in the earth to level the ground, and then this book of \"ghost talk\" would not exist.",
+          "ru": "Эта оставшаяся глыба и породила множество историй. Если уж она не сгодилась для починки неба, следовало бы использовать ее, чтобы заровнять ямы на земле, и тогда не появилась бы эта «чертовщина».",
+          "ja": "此（こ）の一塊（いっかい）を剰（あま）して便（すなわ）ち此（こ）の許多（そこばく）の故事（こじ）を生（しょう）ず。当日（とうじ）此（こ）れを以（もっ）て天（てん）を補（おぎな）わずと雖（いえど）も、就（すなわ）ち該（当）に地（ち）の坑陥（こうかん）を補（おぎな）いに去（ゆ）き、地（ち）をして平坦（へいたん）ならしむべくして、此（こ）の一部の鬼話（きわ）を有（あ）るを得（え）ざらしむべし。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "prose",
+      "original": "便弃在此山青埂峰下。",
+      "zh_modern": "便被弃置在这座大荒山的青埂峰下。",
+      "en": "so it was abandoned at the foot of Blue Ridge Peak on this mountain.",
+      "ru": "и была брошена у пика Зеленого Гребня этой горы.",
+      "ja": "便（すなわ）ち此（こ）の山（やま）青埂峰（せいこうほう）下（か）に棄（す）つ。",
+      "commentary": [
+        {
+          "type": "侧批",
+          "source": "脂批",
+          "original": "妙！自谓落堕情根，故无补天之用。",
+          "zh_modern": "妙！自称堕落于“情根”（青埂谐音），所以没有补天的用处。",
+          "en": "Excellent! Calling itself fallen into the \"Root of Passion\" (homophone for Blue Ridge), hence useless for repairing the heavens.",
+          "ru": "Чудесно! Сам говорит, что упал к «Корню Чувств» (омоним Пика Зеленого Гребня), поэтому и непригоден для починки неба.",
+          "ja": "妙（みょう）！自（みずか）ら情根（じょうこん）に落堕（らくだ）すと謂（い）う、故（ゆえ）に天（てん）を補（おぎな）うの用（よう）無（な）し。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "prose",
+      "original": "谁知此石自经煅炼之后，灵性已通，",
+      "zh_modern": "谁知道这块石头自从经过锻炼之后，已经通了灵性，",
+      "en": "Who would have known that this stone, having undergone the smelting process, had become spiritually possessed,",
+      "ru": "Кто же знал, что этот камень, пройдя закалку, обрел духовную природу,",
+      "ja": "誰（たれ）か知（し）らん此（こ）の石（いし）鍛煉（たんれん）を軽（へ）てよりの後（のち）、霊性（れいせい）已（すで）に通（つう）じ、",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "original": "煅炼后性方通，甚哉！人生不能[不]学也。",
+          "zh_modern": "锻炼之后本性才通达，太重要了！人生不能不学习啊。",
+          "en": "Only after tempering does one's nature become enlightened, how profound! One cannot go through life without learning.",
+          "ru": "Только после закалки природа становится проницательной, как это важно! Человек не может не учиться.",
+          "ja": "鍛煉（たんれん）して後（のち）性（せい）方（まさ）に通（つう）ず、甚（はなは）だしいかな！人生（じんせい）学（まな）ばざる能（あた）わざるなり。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "prose",
+      "original": "因见众石俱得补天，独自己无材不堪入选，遂自怨自叹，日夜悲号惭愧。",
+      "zh_modern": "因为它看见别的石头都能去补天，唯独自己没有才干不能入选，于是自怨自叹，日夜悲伤哀号，感到惭愧。",
+      "en": "Seeing that all other stones were used to repair the heavens, while it alone was rejected as unworthy, it lamented its fate, wailing day and night in shame and sorrow.",
+      "ru": "Видя, что все прочие камни сгодились для починки неба, и лишь он один оказался непригодным и не был избран, он роптал и вздыхал, дни и ночи напролет скорбя и стыдясь.",
+      "ja": "衆石（しゅうせき）の俱（とも）に天（てん）を補（おぎな）うを得（え）るを見（み）、独（ひと）り自己（おのれ）無材（むざい）にして選（せん）に入（い）るに堪（た）えざるに因（よ）りて、遂（つい）に自（みずか）ら怨（うら）み自（みずか）ら嘆（なげ）き、日夜（にちや）悲号（ひごう）し慚愧（ざんき）す。",
+      "commentary": []
+    },
+    {
+      "id": 8,
+      "type": "prose",
+      "original": "一日，正当嗟悼之际，俄见一僧一道远远而来，生得骨格不凡，丰神迥别，",
+      "zh_modern": "有一天，正当它嗟叹哀悼的时候，忽然看见一个和尚和一个道士远远走来，生得骨骼不凡，神采与众不同，",
+      "en": "One day, while it was lamenting, it suddenly saw a monk and a Taoist approaching from afar. They had extraordinary appearances and distinctively divine auras,",
+      "ru": "Однажды, когда он предавался скорби, вдруг увидел вдали монаха и даоса, приближающихся к нему. Облик их был необычен, а вид возвышен и отличен от мирского,",
+      "ja": "一日（いちにち）、正（まさ）に嗟悼（さとう）するの際（さい）に当（あた）り、俄（にわ）かに一僧（いっそう）一道（いちどう）の遠遠（えんえん）と来（きた）るを見（み）るに、生（う）まれ得（え）て骨格（こっかく）凡（ぼん）ならず、豊神（ほうしん）迥（はる）かに別（べつ）なり。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "original": "这是真像，非幻像也。",
+          "zh_modern": "这是真实的形象，不是幻像。",
+          "en": "This is a true image, not an illusion.",
+          "ru": "Это истинный облик, а не иллюзия.",
+          "ja": "是（こ）れ真像（しんぞう）なり、幻像（げんぞう）に非（あら）ざるなり。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": "prose",
+      "original": "说说笑笑来至峰下，坐于石边，高谈快论。先是说些云山雾海、神仙玄幻之事，后便说到红尘中荣华富贵。此石听了，不觉打动凡心，也想要到人间去享一享这荣华富贵，但自恨粗蠢，不得已，便口吐人言，",
+      "zh_modern": "说说笑笑来到峰下，坐在石头旁边，高谈阔论。先是说些云山雾海、神仙玄幻的事，后来便说到人世间的荣华富贵。这石头听了，不觉打动了凡心，也想要到人间去享受一番这荣华富贵，但恨自己粗笨愚蠢，不得已，便口吐人言，",
+      "en": "Chatting and laughing, they arrived at the foot of the peak and sat by the stone, talking with great animation. At first they spoke of misty mountains and foggy seas, of immortals and mysteries, but then they turned to the glory and wealth of the red dust world. Hearing this, the stone was moved by worldly desires and wanted to go to the human world to enjoy this glory and wealth. But regretting its own clumsiness and stupidity, it had no choice but to speak in human language,",
+      "ru": "Болтая и смеясь, они подошли к подножию пика и сели у камня, ведя оживленную беседу. Сначала они говорили о заоблачных горах и туманных морях, о небожителях и чудесах, а затем речь зашла о славе и богатстве в мире красной пыли. Услышав это, камень невольно проникся мирскими желаниями и захотел отправиться к людям, чтобы насладиться этой славой и богатством. Но, досадуя на свою грубость и тупость, он был вынужден заговорить человеческим языком,",
+      "ja": "説説（せつせつ）笑笑（しょうしょう）として峰下（ほうか）に来（き）たり、石辺（せきへん）に坐（ざ）し、高談（こうだん）快論（かいろん）す。先（ま）づ是（こ）れ些（いささ）かの雲山（うんざん）霧海（むかい）、神仙（しんせん）玄幻（げんげん）の事（こと）を説（と）き、後（のち）便（すなわ）ち紅塵（こうじん）中（ちゅう）の栄華（えいが）富貴（ふうき）に説（と）き到（いた）る。此（こ）の石（いし）聴（き）き了（おわ）り、覚（おぼ）えず凡心（ぼんしん）を打動（だどう）し、亦（ま）た人間（じんかん）に到（いた）り去（ゆ）きて一（ひと）たび此（こ）の栄華（えいが）富貴（ふうき）を享（う）け享（う）けんと想（おも）うも、但（た）だ自（みずか）ら粗蠢（そしゅん）なるを恨（うら）み、已（や）むを得（え）ず、便（すなわ）ち口（くち）に人言（じんげん）を吐（は）き、",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "original": "竟有人问：“口生于何处？”其无心肝，可笑可恨之极！",
+          "zh_modern": "竟然有人问：“嘴长在哪里？”这种人真是没心没肺，可笑可恨到了极点！",
+          "en": "Someone actually asked: \"Where is the mouth growing?\" Such a person has no soul, ridiculous and detestable in the extreme!",
+          "ru": "Нашелся же кто-то, кто спросил: «А где у него рот?» У этого человека нет души, это смехотворно и отвратительно до крайности!",
+          "ja": "竟（つい）に人（ひと）有（あ）りて問（と）う、「口（くち）は何（いず）れの処（ところ）に生（しょう）ずるや」と。其（そ）の心肝（しんかん）無（な）きこと、可笑（おか）しく可恨（うら）むべきの極（きょく）なり！"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": "prose",
+      "original": "向那僧道说道：“大师，弟子蠢物，",
+      "zh_modern": "向那和尚道士说道：“大师，弟子是个蠢物，",
+      "en": "addressing the monk and the Taoist: \"Great Masters, I am but a stupid object,",
+      "ru": "обратившись к монаху и даосу: «Великие наставники, я — вещь глупая,",
+      "ja": "那（か）の僧道（そうどう）に向（む）かいて説（と）き道（い）う、「大師（だいし）、弟子（ていし）は蠢物（しゅんぶつ）にして、",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "original": "岂敢岂敢。",
+          "zh_modern": "岂敢岂敢（谦词）。",
+          "en": "I dare not, I dare not (modesty).",
+          "ru": "Не смею, не смею (скромность).",
+          "ja": "豈（あ）に敢（あ）えてせんや、豈（あ）に敢（あ）えてせんや。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": "prose",
+      "original": "不能见礼了。适闻二位谈那人世间荣耀繁华，心切慕之。弟子质虽粗蠢，",
+      "zh_modern": "不能给二位行礼了。刚才听到二位谈论人世间的荣耀繁华，心里非常羡慕。弟子资质虽然粗笨愚蠢，",
+      "en": "and cannot perform the proper salutations. Just now I heard you discussing the glory and splendor of the human world, and I admire it deeply. Although my nature is coarse and stupid,",
+      "ru": "не могу поприветствовать вас как подобает. Только что я слышал, как вы толковали о славе и великолепии мира людей, и сердце мое загорелось желанием. Хоть природа моя груба и тупа,",
+      "ja": "礼（れい）を見（まみ）ゆること能（あた）わず。適（たまたま）二位（にい）の那（か）の人世間（じんせけん）の栄耀（えいよう）繁華（はんか）を談（だん）ずるを聞（き）、心（こころ）切（せつ）に之（これ）を慕（した）う。弟子（ていし）質（しつ）粗蠢（そしゅん）なりと雖（いえど）も、",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "original": "岂敢岂敢。",
+          "zh_modern": "岂敢岂敢。",
+          "en": "I dare not, I dare not.",
+          "ru": "Не смею, не смею.",
+          "ja": "豈（あ）に敢（あ）えてせんや、豈（あ）に敢（あ）えてせんや。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": "prose",
+      "original": "性却稍通，况见二师仙形道体，定非凡品，必有补天济世之材，利物济人之德。如蒙发一点慈心，携带弟子得入红尘，在那富贵场中、温柔乡里受享几年，自当永佩洪恩，万劫不忘也。”",
+      "zh_modern": "性情却稍微通达一些，何况看见二位大师仙风道骨，定不是凡人，必有补天济世的才干，利物济人的德行。如果承蒙发一点慈悲心，带弟子进入红尘，在那富贵场中、温柔乡里享受几年，自然应当永远铭记大恩，万劫不忘。”",
+      "en": "my understanding is slightly awakened. Moreover, seeing your immortal forms and Taoist bodies, you are surely no ordinary beings, but must have the talent to repair heaven and save the world, and the virtue to benefit things and save people. If you would show a little mercy and take me into the red dust, to enjoy a few years in that realm of wealth and tenderness, I will forever be grateful for your vast kindness and never forget it for ten thousand kalpas.\"",
+      "ru": "разум мой немного прояснился. К тому же, видя ваши бессмертные образы и даосские тела, я понимаю, что вы не простые смертные, а непременно обладаете талантом чинить небо и спасать мир, добродетелью приносить пользу вещам и спасать людей. Если вы проявите хоть каплю милосердия и возьмете меня с собой в мир красной пыли, чтобы я мог насладиться несколькими годами в том краю богатства и нежности, я буду вечно благодарен за вашу великую милость и не забуду ее во веки веков».",
+      "ja": "性（せい）却（かえ）って稍（やや）通（つう）ず、況（いわ）んや二師（にし）の仙形（せんけい）道体（どうたい）、定（さだ）めて凡品（ぼんぴん）に非（あら）ざるを見（み）るをや、必（かなら）ず天（てん）を補（おぎな）い世（よ）を済（すく）うの材（ざい）、物（もの）を利（り）し人（ひと）を済（すく）うの徳（とく）有（あ）らん。如（も）し一点（いってん）の慈心（じしん）を発（はっ）せられ、弟子（ていし）を携帯（けいたい）して紅塵（こうじん）に入（い）るを得（え）、那（か）の富貴（ふうき）場（じょう）中（ちゅう）、温柔（おんじゅう）郷（きょう）裏（り）に在（あ）りて受享（じゅきょう）すること幾年（いくねん）なれば、自（おの）ずから当（まさ）に永（なが）く洪恩（こうおん）を佩（お）び、万劫（まんごう）忘（わす）れざるべきなり。」",
+      "commentary": []
+    },
+    {
+      "id": 13,
+      "type": "prose",
+      "original": "二仙师听毕，齐憨笑道：“善哉，善哉！那红尘中有却有些乐事，但不能永远依恃，况又有‘美中不足，好事多魔’八个字紧相连属，瞬息间则又乐极悲生、人非物换，究竟是到头一梦、万境归空。",
+      "zh_modern": "二位仙师听完，一起憨笑道：“善哉，善哉！那红尘中虽然有些乐事，但不能永远依靠，何况又有‘美中不足，好事多魔’八个字紧紧相连，转瞬间又是乐极生悲、人非物换，终究是到头一梦、万境归空。",
+      "en": "The two immortals heard this and smiled broadly together: \"Excellent, excellent! There are indeed some joys in that red dust world, but they cannot be relied upon forever. Moreover, the eight characters 'Flaw in perfection, many demons in good deeds' are closely attached to them. In the twinkling of an eye, extreme joy turns to sorrow, people change and things are replaced; ultimately it is all a dream in the end, and all phenomena return to emptiness.",
+      "ru": "Выслушав его, оба бессмертных простодушно рассмеялись: «Благо, благо! В мире красной пыли действительно есть свои радости, но на них нельзя полагаться вечно. К тому же, с ними неразрывно связаны восемь иероглифов: „Недостаток в прекрасном, много демонов в добрых делах“. В мгновение ока великая радость рождает печаль, люди меняются, вещи сменяются другими, и в конечном счете все это — лишь сон, и все сущее возвращается в пустоту.",
+      "ja": "二仙師（にせんし）聴（き）き畢（おわ）り、斉（ひと）しく憨笑（かんしょう）して道（い）う、「善（よ）きかな、善（よ）きかな！那（か）の紅塵（こうじん）中（ちゅう）却（かえ）って些（いささ）かの楽事（らくじ）有（あ）れども、但（た）だ永遠（えいえん）に依恃（いじ）する能（あた）わず、況（いわ）んや又（また）『美中（びちゅう）不足（ふそく）、好事（こうじ）多魔（たま）』の八個（はっこ）の字（じ）緊（きん）として相（あい）連属（れんぞく）し、瞬息（しゅんそく）の間（あいだ）則（すなわ）ち又（また）楽（らく）極（きわ）まりて悲（ひ）生（しょう）じ、人（ひと）非（ひ）にして物（もの）換（か）わり、究竟（くきょう）是（こ）れ頭（こうベ）に到（いた）れば一夢（いちむ）、万境（ばんきょう）空（くう）に帰（き）す。",
+      "commentary": [
+        {
+          "type": "侧批",
+          "source": "脂批",
+          "original": "四句乃一部之总纲。",
+          "zh_modern": "这也是全书的总纲。",
+          "en": "These four sentences are the general outline of the whole book.",
+          "ru": "Эти четыре фразы — основной план всей книги.",
+          "ja": "四句（しく）は乃（すなわ）ち一部（いちぶ）の総綱（そうこう）なり。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": "prose",
+      "original": "倒不如不去的好。”",
+      "zh_modern": "倒不如不去的好。”",
+      "en": "It would be better not to go.\"",
+      "ru": "Лучше уж не ходить».",
+      "ja": "倒（かえ）って去（ゆ）かざるの好（よ）きに如（し）かず。」",
+      "commentary": []
+    },
+    {
+      "id": 15,
+      "type": "prose",
+      "original": "这石凡心已炽，那里听得进这话去，乃复苦求再四。二仙知不可强制，乃叹道：“此亦静极思动，无中生有之数也。既如此，我们便携你去受享受享，只是到不得意时，切莫后悔。”石道：“自然，自然。”",
+      "zh_modern": "但这石头凡心已经炽热，哪里听得进这话去，于是又再三苦苦哀求。二位仙人知道不可强行制止，便叹息道：“这也是静极思动、无中生有的定数。既然如此，我们就带你去享受享受，只是到了不得意的时候，千万不要后悔。”石头说：“自然，自然。”",
+      "en": "The stone's worldly heart was already ablaze; how could it listen to these words? It begged again and again. The two immortals knew they could not forcibly stop it, so they sighed: \"This is also destiny: when stillness reaches its limit, movement is thought of; existence is born from non-existence. Since it is so, we will take you to enjoy yourself, but when things do not go as you wish, do not regret it.\" The stone said: \"Naturally, naturally.\"",
+      "ru": "Но сердце камня уже пылало мирскими желаниями, где уж ему было прислушаться к этим словам! Он снова и снова умолял их. Бессмертные поняли, что силой его не удержать, и вздохнули: «Это тоже судьба: когда покой достигает предела, рождается стремление к движению, из небытия рождается бытие. Раз так, мы возьмем тебя насладиться жизнью, но когда придет разочарование, не жалей об этом». Камень ответил: «Конечно, конечно».",
+      "ja": "此（こ）の石（いし）凡心（ぼんしん）已（すで）に熾（さか）んにして、那（いず）くんぞ此（こ）の話（はなし）を聞（き）き得（う）るに進（すす）まん、乃（すなわ）ち復（ま）た苦求（くきゅう）すること再四（さいし）す。二仙（にせん）強（し）いて制（せい）すべからざるを知（し）り、乃（すなわ）ち歎（たん）じて道（い）う、「此（こ）れ亦（ま）た静（せい）極（きわ）まりて動（どう）を思（おも）い、無（む）中（ちゅう）有（う）を生（しょう）ずるの数（すう）なり。既（すで）に此（か）くの如（ごと）くんば、我（われ）們（ら）便（すなわ）ち爾（なんじ）を携（たずさ）え去（ゆ）きて受享（じゅきょう）受享（じゅきょう）せしめん、只（た）だ得意（とくい）ならざるの時（とき）に到（いた）りて、切（せつ）に後悔（こうかい）する莫（な）かれ。」石（いし）道（い）う、「自然（しぜん）、自然（しぜん）。」",
+      "commentary": []
+    },
+    {
+      "id": 16,
+      "type": "prose",
+      "original": "那僧又道：“若说你性灵，却又如此质蠢，并更无奇贵之处，如此也只好踮脚而已。",
+      "zh_modern": "那和尚又说：“若说你有灵性，却又资质如此愚蠢，并没有什么奇特贵重的地方，这样也只好给你当个垫脚石罢了。",
+      "en": "The monk added: \"To say you are spiritual, yet your substance is so stupid, and you have no strange or precious qualities; in this way, you are only good for propping up table legs.",
+      "ru": "Монах добавил: «Говоришь, что ты одухотворен, но природа твоя так глупа, и нет в тебе ничего необычного или драгоценного, так что годишься ты разве что ножки у стола подпирать.",
+      "ja": "那（か）の僧（そう）又（また）道（い）う、「若（も）し爾（なんじ）性霊（せいれい）ありと説（と）くも、却（かえ）って又（また）此（か）くの如（ごと）く質（しつ）蠢（しゅん）にして、並（なら）びに更（さら）に奇貴（きき）の処（ところ）無（な）し、此（か）くの如（ごと）くんば亦（ま）た只（た）だ踮脚（てんきゃく）を好（よ）くするのみ。",
+      "commentary": [
+        {
+          "type": "侧批",
+          "source": "脂批",
+          "original": "煅炼过尚与人踮脚，不学者又当如何？",
+          "zh_modern": "锻炼过了还只能给人当垫脚石，那些不肯学习的人又该如何呢？",
+          "en": "If even after tempering one only serves as a stepping stone, what about those who do not learn?",
+          "ru": "Если даже после закалки годишься лишь на подпорки, что же тогда будет с теми, кто не учится?",
+          "ja": "鍛煉（たんれん）し過（す）ぐるも尚（な）お人（ひと）と踮脚（てんきゃく）となる、学（まな）ばざる者（もの）は又（また）当（まさ）に如何（いかん）。"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "type": "prose",
+      "original": "也罢，我如今大施佛",
+      "zh_modern": "也罢，我现在大施佛法",
+      "en": "Never mind, I will now greatly exercise my Buddha power",
+      "ru": "Ну да ладно, я сейчас проявлю великую силу Будды",
+      "ja": "也（ま）た罷（や）んぬ、我（われ）如今（いま）大（おお）いに仏（ほとけ）を施（ほどこ）し",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "青埂峰 (Qinggeng Peak) is a homophone for 情根 (Root of Passion).",
+    "36,500 blocks corresponds to the number of days in a hundred years (a full lifespan/cycle).",
+    "踮脚 (dian jiao) usually means tiptoe, but here implies being used as a prop/support (垫脚) or stepping stone, indicating a lowly function.",
+    "The 12 zhang and 24 zhang dimensions symbolize the Twelve Beauties and the Secondary Twelve Beauties."
+  ]
+}
