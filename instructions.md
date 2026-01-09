@@ -26,7 +26,11 @@ The source contains:
 
 ### Step 1: View the Page
 
-Open the page image or PDF. Identify all content:
+Read both:
+- The page image (`source_pages/page_XXXX.png`) for visual layout
+- The PDF for text selection and formatting context
+
+Identify all content:
 - Main narrative text
 - Any commentary (眉批, 夹批, 侧批)
 - Any poetry
@@ -82,79 +86,44 @@ Continue to the next page immediately. Do not pause between pages.
     {
       "id": 1,
       "type": "prose",
-      "original": "士隐意欲也跟了过去，方举步时，忽听一声霹雳，有若山崩地陷。士隐大叫一声，定睛一看，只见烈日炎炎，芭蕉冉冉，梦中之事便忘了对半。",
-      "zh_modern": "士隐也想要跟着过去，刚举步的时候，忽然听见一声霹雳，好像山崩地陷一般。士隐大叫一声，定睛一看，只见烈日炎炎，芭蕉叶缓缓摇动，梦中的事便忘了一大半。",
-      "en": "Shiyin wished to follow them, but just as he was about to step forward, he suddenly heard a thunderclap, as if mountains were crumbling and the earth was caving in. Shiyin cried out in alarm and, fixing his eyes, saw only the blazing sun and the banana leaves gently swaying—half of what had happened in the dream was already forgotten.",
-      "ru": "Шиинь хотел последовать за ними, но едва он сделал шаг, как вдруг раздался удар грома, словно горы рушились и земля разверзалась. Шиинь вскрикнул и, присмотревшись, увидел лишь палящее солнце и мерно колышущиеся банановые листья — половина того, что было во сне, уже забылась.",
-      "ja": "士隠も後を追おうとして、まさに足を踏み出そうとした時、突然雷鳴が轟き、山が崩れ地が陥没するかのようであった。士隠は大声で叫び、目を凝らして見れば、ただ烈日が照りつけ、芭蕉の葉がゆらゆらと揺れるばかり。夢の中の出来事は半ば忘れてしまった。",
+      "original": "原文...",
+      "zh_modern": "现代文...",
+      "en": "English...",
+      "ru": "Русский...",
+      "ja": "日本語...",
       "commentary": [
         {
           "source": "脂批",
-          "original": "真是大警觉大转身。",
-          "zh_modern": "真是大警醒大转折。",
-          "en": "Truly a great awakening and great turning point.",
-          "ru": "Поистине великое пробуждение и великий поворот.",
-          "ja": "まことに大いなる警醒、大いなる転身なり。"
+          "original": "批语原文",
+          "zh_modern": "...",
+          "en": "...",
+          "ru": "...",
+          "ja": "..."
         }
       ]
-    },
-    {
-      "id": 2,
-      "type": "dialogue",
-      "original": ""施主，你把这有命无运，累及爹娘之物，抱在怀内作甚？"",
-      "zh_modern": ""施主，你把这个有命无运、会连累爹娘的东西，抱在怀里干什么？"",
-      "en": "\"Benefactor, why do you hold in your arms this creature who has fate but no fortune, who will bring calamity upon her parents?\"",
-      "ru": "«Благодетель, зачем вы держите на руках это существо, у которого есть судьба, но нет удачи, которое навлечёт беду на своих родителей?»",
-      "ja": "「施主よ、この命はあれど運なく、父母に災いを及ぼす者を、何故に懐に抱いておられるのか？」",
-      "commentary": []
-    },
-    {
-      "id": 3,
-      "type": "poem",
-      "original": "惯养娇生笑你痴，\n菱花空对雪澌澌。\n好防佳节元宵后，\n便是烟消火灭时。",
-      "zh_modern": "惯常娇生惯养，笑你太痴愚，\n镜中容颜空对着纷纷飘落的雪花。\n要提防佳节元宵节之后，\n那便是烟消火灭之时。",
-      "en": "You dote and pamper her—how foolish you are!\nThe water-chestnut flower faces the drifting snow in vain.\nBeware the time after the Lantern Festival—\nThat will be when smoke disperses and fire dies.",
-      "ru": "Ты балуешь её — как ты глуп!\nЦветок водяного ореха тщетно глядит на падающий снег.\nОстерегайся времени после Праздника фонарей —\nТогда рассеется дым и погаснет огонь.",
-      "ja": "惯れ養い娇に生ず、汝の痴を笑う、\n菱花空しく雪澌澌に対す。\n好く防げよ佳節元宵の後、\n便ち是れ煙消え火滅する時。",
-      "commentary": []
     }
   ],
-  "notes": [
-    "英莲 (Yinglian): Her name puns on 应怜 (should be pitied). Foreshadows her tragic fate.",
-    "菱花: Puns on her later name 香菱, also means 'mirror' (菱花镜).",
-    "元宵: Lantern Festival—foreshadows when Yinglian will be kidnapped.",
-    "烟消火灭: Foreshadows the fire destroying the Zhen family home."
-  ]
+  "notes": ["Research findings: puns, allusions, cultural context"]
 }
 ```
 
+See `examples/page_0020.json` for a complete example with 7 segments and 12 commentary annotations.
+
 ### Required Fields
 
-| Field | Type | Description |
-|-------|------|-------------|
-| `page` | int | PDF page number |
-| `chapter` | string | "前言", "第一回", "第二回", etc. |
-| `segments` | array | Array of translated segments |
-| `segments[].id` | int | Sequential ID (1, 2, 3...) |
-| `segments[].type` | string | "prose", "poem", "dialogue" |
-| `segments[].original` | string | Original Classical Chinese |
-| `segments[].zh_modern` | string | Modern Chinese translation |
-| `segments[].en` | string | English translation |
-| `segments[].ru` | string | Russian translation |
-| `segments[].ja` | string | Japanese translation |
-| `segments[].commentary` | array | Commentary annotations (empty `[]` if none) |
-| `notes` | array | Research findings: puns, allusions, cultural context |
-
-### Commentary Object Fields
-
-| Field | Type | Description |
-|-------|------|-------------|
-| `source` | string | Manuscript source: "甲戌本", "庚辰本", "脂批", etc. |
-| `original` | string | Original commentary text |
-| `zh_modern` | string | Modern Chinese translation |
-| `en` | string | English translation |
-| `ru` | string | Russian translation |
-| `ja` | string | Japanese translation |
+| Field | Description |
+|-------|-------------|
+| `page` | PDF page number |
+| `chapter` | "前言", "第一回", "第二回", etc. |
+| `segments[].id` | Sequential ID (1, 2, 3...) |
+| `segments[].type` | "prose", "poem", "dialogue" |
+| `segments[].original` | Original Classical Chinese |
+| `segments[].zh_modern` | Modern Chinese translation |
+| `segments[].en` | English translation |
+| `segments[].ru` | Russian translation |
+| `segments[].ja` | Japanese translation |
+| `segments[].commentary` | Array of commentary (empty `[]` if none) |
+| `notes` | Research findings |
 
 ---
 
@@ -262,9 +231,3 @@ Before moving to the next page, verify:
 - [ ] Sequential IDs (1, 2, 3...)
 - [ ] JSON is valid
 - [ ] Notes include research findings
-
----
-
-## Example
-
-See `examples/page_0020.json` for a complete reference.
