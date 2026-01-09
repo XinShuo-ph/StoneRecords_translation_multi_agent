@@ -1,0 +1,181 @@
+{
+  "page": 23,
+  "chapter": "第一回",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌",
+          "original": "表过黛玉，则紧接上宝钗。",
+          "zh_modern": "提过黛玉之后，紧接着就接上宝钗。",
+          "en": "After mentioning Daiyu, Baochai is immediately connected.",
+          "ru": "После упоминания Дайюй сразу связывается Баочай.",
+          "ja": "黛玉を表し過ぎれば、則ち緊く宝釵に接ぐ。"
+        },
+        {
+          "type": "夹批",
+          "source": "脂砺",
+          "original": "偏有些脂气。",
+          "zh_modern": "偏偏有些脂粉气。",
+          "en": "It has a somewhat feminine quality.",
+          "ru": "В нём есть некоторая женственность.",
+          "ja": "偏に脂気有り。"
+        }
+      ],
+      "original": "合传，自是书中正眼。",
+      "zh_modern": "合传，这自然是书中的正眼。",
+      "en": "Combined narrative—this is naturally the central vision of the book.",
+      "ru": "Объединённое повествование — это, естественно, центральный взгляд книги.",
+      "ja": "合伝とは、自ずから書中の正眼なり。"
+    },
+    {
+      "id": 2,
+      "type": "dialogue",
+      "commentary": [],
+      "original": "恰值士隐走来听见，笑道：“雨村兄真抱负不浅也！”雨村忙笑道：“岂敢！不过偶吟前人之句，何敢狂诞至此。”因问：“老先生何兴至此？”士隐笑道：“今夜中秋，俗谓‘团圆之节’，想尊兄旅寄僧房，不无寂寞之感，故特具小酌，邀兄到敝斋一饮，不知可纳芹意否？”",
+      "zh_modern": "正好士隐走来听见，笑道：“雨村兄真是抱负不浅啊！”雨村忙笑道：“岂敢！不过偶然吟诵前人的诗句，哪敢如此狂妄。”于是问道：“老先生怎么有此雅兴？”士隐笑道：“今夜中秋，俗称‘团圆之节’，想兄台旅居寺庙，不免有寂寞之感，所以特意准备了薄酒，邀请兄到寒舍一饮，不知可否接受我的一点心意？”",
+      "en": "Just then Shiyin came along and heard him. He laughed and said: Brother Yucun, your ambitions are truly not shallow! Yucun hastily laughed and replied: How dare I! I was merely reciting lines from the ancients—how could I be so presumptuous? He then asked: What brings you here at this hour, sir? Shiyin smiled and said: Tonight is the Mid-Autumn Festival, commonly called the Festival of Reunion. I imagine you must feel lonely lodging in a monk quarters, so I have specially prepared a small meal and come to invite you to my humble study for a drink. Would you accept my modest offer?",
+      "ru": "Как раз в этот момент Шиинь подошёл и услышал его. Он рассмеялся и сказал: Брат Юйцунь, ваши амбиции поистине велики!",
+      "ja": "ちょうど士隐が来て聞いていた。笑って言った。「雨村兄、抱負は誠に浅からずですな！」雨村は急いで笑って答えた。「どうして！ただ先人の句を偶々吟じただけで、どうしてそこまで狂言を吐けましょう。」"
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂砺",
+          "original": "不推辞，话便不入故套。",
+          "zh_modern": "不推辞，话便不落俗套。",
+          "en": "By not declining, the dialogue avoids falling into cliches.",
+          "ru": "Не отказываясь, диалог избегает клише.",
+          "ja": "推辞せず、話は故套に入らず。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌",
+          "original": "写雨村豁达，气象不俗。",
+          "zh_modern": "描写雨村豁达，气度不俗。",
+          "en": "This portrays Yucun as broad-minded, with an uncommon bearing.",
+          "ru": "Это изображает Юйцуня широкомыслящим, с необычной осанкой.",
+          "ja": "雨村の豁達を写し、気象俗ならず。"
+        }
+      ],
+      "original": "雨村听了，并不推辞，便笑道：“既蒙谬爱，何敢拂此盛情。”说着，便同了士隐复过这边书院中来。",
+      "zh_modern": "雨村听了，并不推辞，便笑道：“既然承蒙错爱，怎敢辜负这番盛情。”说着，便和士隐一起到这边书院中来。",
+      "en": "Hearing this, Yucun did not decline, but smiled and said: Since you show me such undeserved favor, how could I refuse your generous kindness? Saying this, he accompanied Shiyin back to his study.",
+      "ru": "Услышав это, Юйцунь не стал отказываться, а улыбнулся и сказал: Раз вы оказываете мне такую незаслуженную честь, как я могу отвергнуть вашу щедрую доброту?",
+      "ja": "雨村はこれを聞いて、辞退することなく、笑って言った。「既に謬って愛を蒙る、何ぞ敢えて此の盛情を拂わん。」そう言って、士隐と共にこちらの書院に来た。"
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "commentary": [],
+      "original": "须臾茶毕，早已设下杯盘，那美酒佳肴自不必说。二人归坐，先是款斟漫饮，次渐谈至兴浓，不觉飞觥限斛起来。当时街坊上家家箫管，户户弦歌，当头一轮明月，飞彩凝辉，二人愈添豪兴，酒到杯干。雨村此时已有七八分酒意，狂兴不禁，乃对月寓怀，口号一绝云：",
+      "zh_modern": "不一会儿茶毕，早已摆上杯盘，那美酒佳肴自不必说。二人坐定，先是慢斟慢饮，渐渐谈到兴浓，不觉就开始行酒令了。当时街坊上家家吹箫弄管，户户弹弦唱歌，头顶一轮明月，飞彩凝辉，二人更添豪兴，酒到杯干。雨村此时已有七八分酒意，狂兴不禁，于是对月寓怀，口占一首绝句：",
+      "en": "Before long, after the tea was finished, cups and dishes had already been set out, and needless to say the wine and delicacies were excellent. The two sat down and began with leisurely drinking, gradually talking until their spirits were high, and before they knew it, they were playing drinking games. At that time, every house in the neighborhood was playing flutes and pipes, every home was singing to strings; overhead was a full bright moon, its radiance shimmering. The two men grew even more spirited, draining every cup. By now Yucun was seven or eight parts drunk, and in his wild elation could not restrain himself. He composed a quatrain to the moon:",
+      "ru": "Вскоре, после того как чай был выпит, уже были расставлены чашки и блюда, и, разумеется, вино и яства были превосходны.",
+      "ja": "しばらくして茶が終わり、早くも杯盤が並べられた。美酒佳肴は言うまでもない。二人は座に着き、まずはゆっくりと酒を酌み交わし、次第に話が盛り上がり、いつの間にか酒令を行い始めた。"
+    },
+    {
+      "id": 5,
+      "type": "poem",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌",
+          "original": "是将发之机。满把晴光护玉栏。",
+          "zh_modern": "这是将要发迹的征兆。满把晴光护玉栏。",
+          "en": "This is a sign of impending success. Bright light fills and guards the jade balustrade.",
+          "ru": "Это знак грядущего успеха. Яркий свет наполняет и охраняет нефритовую балюстраду.",
+          "ja": "これは将に発せんとするの機なり。満把の晴光玉欄を護る。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌",
+          "original": "奸雄心事，不觉露出。",
+          "zh_modern": "奸雄的心事，不觉露出。",
+          "en": "The scheming hero inner thoughts are inadvertently revealed.",
+          "ru": "Внутренние мысли коварного героя невольно раскрываются.",
+          "ja": "奸雄の心事、覚えず露出す。"
+        }
+      ],
+      "original": "时逢三五便团圆，满把晴光护玉栏。\n天上一轮才捧出，人间万姓仰头看。",
+      "zh_modern": "每逢十五月便团圆，满把晴光护着玉栏。\n天上的一轮明月刚刚升起，人间万姓都仰头观看。",
+      "en": "When the fifteenth arrives, the moon becomes full; Bright light fills and guards the jade balustrade.\nBarely has one wheel risen in the heavens, When all the people on earth look up to gaze.",
+      "ru": "Когда наступает пятнадцатое число, луна становится полной; Яркий свет наполняет и охраняет нефритовую балюстраду.\nЕдва одно колесо поднялось на небесах, Как все люди на земле поднимают головы, чтобы смотреть.",
+      "ja": "時に三五に逢えば便ち団円、満把の晴光玉欄を護る。\n天上に一輪才に捧げ出せば、人間の万姓仰ぎ頭して看る。"
+    },
+    {
+      "id": 6,
+      "type": "dialogue",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂砺",
+          "original": "伏笔。妙！",
+          "zh_modern": "伏笔。妙！",
+          "en": "Foreshadowing. Wonderful!",
+          "ru": "Предзнаменование. Прекрасно!",
+          "ja": "伏筆。妙なり！"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌",
+          "original": "作巨眼语。",
+          "zh_modern": "这是说有巨眼识人。",
+          "en": "This is speaking with great discernment.",
+          "ru": "Это говорит с большой проницательностью.",
+          "ja": "巨眼の語を作す。"
+        }
+      ],
+      "original": "士隐听了，大叫：“妙哉！吾每谓兄必非久居人下者，今所吟之句，飞腾之兆已见，不日可接履于云霄之上矣。可贺，可贺！”",
+      "zh_modern": "士隐听了，大叫：“妙极！我常说兄必定不是久居人下的人，今天所吟的诗句，飞腾的征兆已经显现，不久就可以青云直上了。可贺，可贺！”",
+      "en": "Hearing this, Shiyin exclaimed: Wonderful! I have always said you would not long remain among common men. The lines you have just recited show clear signs of soaring—soon you will rise to the clouds above! Congratulations, congratulations!",
+      "ru": "Услышав это, Шиинь воскликнул: Прекрасно! Я всегда говорил, что вы не будете долго оставаться среди простых людей. Скоро вы вознесётесь к облакам! Поздравляю!",
+      "ja": "士隐はこれを聞いて、大声で叫んだ。「妙なり！我常に兄は必ず久しく人の下に居る者に非ずと謂う。今吟ずる所の句、飛騰の兆し已に見ゆ。日ならずして雲霄の上に履を接すべし。賀すべし、賀すべし！」"
+    },
+    {
+      "id": 7,
+      "type": "dialogue",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌",
+          "original": "这个「斗」字美作升斗之斗看。○可笑。",
+          "zh_modern": "这个「斗」字要作升斗的斗看。○可笑。",
+          "en": "This character dou should be read as the dou measure. Laughable.",
+          "ru": "Этот иероглиф доу следует читать как меру доу. Смешно.",
+          "ja": "この「斗」の字は升斗の斗と看作すべし。○笑うべし。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌",
+          "original": "四字新而含蓄最广，若必指明，则又落套矣。",
+          "zh_modern": "四字新颖而含蓄最广，若必指明，则又落俗套了。",
+          "en": "These four characters are fresh and most broadly suggestive; if they must be explained explicitly, it would fall into cliche.",
+          "ru": "Эти четыре иероглифа свежи и наиболее широко намекающие.",
+          "ja": "四字は新にして含蓄最も広し、若し必ず指明すれば、則ち又套に落つ。"
+        }
+      ],
+      "original": "乃亲斟一斗为贺。雨村因干过，叹道：“非晚生酒后狂言，若论时尚之学，晚生也或可去充数泽名，只是目今行囊、路费一概无措，神京路远，非赖卖字撰文可能到者。”士隐不待说完，便道：“兄何不早言。愚每有此心，但每遇兄时，兄并未谈及，愚故未敢唐突。今既及此，愚虽不才，‘义利’二字却还识得。”",
+      "zh_modern": "于是亲自斟了一大杯为他祝贺。雨村喝干了，叹道：“不是晚生酒后狂言，若论应付时下的学问，晚生也或许可以去凑个数、泽个名，只是如今行囊、路费一概没有着落，神京路途遥远，不是靠卖字写文章能到达的。”士隐不等他说完，便道：“兄为何不早说？我一直有此心意，但每次遇到兄时，兄并未提及，我所以不敢冒昧。今天既然说到这里，愚虽然不才，‘义利’二字却还认得。”",
+      "en": "So he personally poured a large cup to congratulate him. Yucun drained it and sighed: These are not drunken ravings—when it comes to fashionable learning, I might be able to make a showing and gain some reputation. But at present I have no travel money or provisions whatsoever, and the divine capital is far away—it cannot be reached by selling calligraphy and writing essays. Before he could finish, Shiyin said: Why did you not say so earlier? I have long had this in mind, but whenever I met you, you never mentioned it, so I dared not presume. Since you bring it up now, though I am unworthy, I still understand the meaning of righteousness and profit.",
+      "ru": "Тогда он лично налил большую чашу, чтобы поздравить его. Юйцунь осушил её и вздохнул.",
+      "ja": "そこで自ら一斗を斟いで祝った。雨村は杯を干して、嘆じて言った。「晚生の酒後の狂言に非ず、若し時尚の学を論ぜば、晚生も或いは数に充り名を泽うに去くべし。只だ目今行囊・路費一概に措く無し、神京路遠く、卖字撰文に頼りて到るべき能はざる者に非ず。」"
+    }
+  ],
+  "translator_notes": [
+    "sanwu (three-five) is a classical way to say fifteen, referring to the 15th day of the lunar month when the moon is full.",
+    "The moon poem reveals Yucun ambitious and scheming hero (jiangxiong) nature. The moon being watched by all people suggests imperial ambitions.",
+    "shenjing (Divine Capital) refers to Beijing, the capital city.",
+    "yili (righteousness and profit) is a key Confucian concept about the balance between moral duty and material benefit. Shiyin is offering to help Yucun financially.",
+    "The commentary notes that this poem is not the main point but serves to introduce Yucun character.",
+    "sanchun/sanqiu: The commentary mentions that what is lamented is three springs referring to the three Jia sisters but three autumns are the key—a cryptic foreshadowing.",
+    "This page shows Shiyin generosity and his recognition of Yucun talent, setting up their patron-client relationship."
+  ],
+  "total_segments": 7
+}

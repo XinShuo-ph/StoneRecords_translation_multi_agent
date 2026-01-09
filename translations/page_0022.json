@@ -1,0 +1,167 @@
+{
+  "page": 22,
+  "chapter": "第一回",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌",
+          "original": "是养、操遗容。",
+          "zh_modern": "像是曹操的遗像。",
+          "en": "This resembles the appearance of Cao Cao.",
+          "ru": "Это напоминает облик Цао Цао.",
+          "ja": "曹操の遺容の如し。"
+        }
+      ],
+      "original": "口方，更兼剑眉星眼，直鼻权腮。这丫鬟忙转身回避，心下乃想：“这人生得这样雄壮，却又这样褴褵，想他定是我家主人常说的什么贾雨村了，每有意帮助周济，只是没甚机会。我家并无这样贫穷亲友。想定是此人无疑了。怪道又说他必非久困之人。”如此想，不免又回头两次。",
+      "zh_modern": "脸方正，还加上剑眉星目，直鼻方腮。这丫鬟忙转身回避，心下想道：“这人长得这样雄壮，却又穿得这样破旧，想必他定是我家主人常说的那个贾雨村了，主人每每有意帮助周济他，只是没什么机会。我家并没有这样贫穷的亲友。想必就是此人无疑了。怪不得又说他必定不是久困之人。”这样想着，不由得又回头看了两次。",
+      "en": "His face was square, and he had sword-shaped brows and starry eyes, a straight nose and angular cheeks. The maid quickly turned away to avoid his gaze, but thought to herself: This man has such an imposing figure, yet his clothes are so shabby. He must be that Jia Yucun my master often speaks of—he is always wanted to help him out, but never found the opportunity. We have no such impoverished relatives. It must be him without doubt. No wonder they also say he will not remain in poverty for long. Thinking thus, she could not help but glance back twice.",
+      "ru": "Лицо его было квадратным, брови напоминали мечи, глаза сияли как звёзды, нос был прямой, а скулы угловатые. Служанка поспешно отвернулась, но подумала про себя: У этого человека такая внушительная фигура, а одежда такая поношенная. Должно быть, это тот самый Цзя Юйцунь, о котором часто говорит хозяин. Неудивительно, что говорят, он недолго будет в нужде. Думая так, она невольно оглянулась дважды.",
+      "ja": "口は方正で、剑眉星眼、直鼻権腮であった。この女中は急いで身を翻して避けたが、心中思った。「この人はこんなに雄壮な姿なのに、こんなにぼろぼろの服を着ている。きっとご主人様がいつもおっしゃっている賈雨村という方に違いない。道理で、この人は長く困窂する人ではないとも言っていたわけだ。」こう思って、思わず二度振り返った。"
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌",
+          "original": "今古穷酸皆会替女妇心中取中自己。",
+          "zh_modern": "古今穷酸书生都会替女子心中取中自己。",
+          "en": "In all ages, down-and-out scholars assume women have chosen them in their hearts.",
+          "ru": "Во все времена бедные учёные воображают, что женщины выбрали их.",
+          "ja": "古今の貧乏書生は皆、女子の心中に己を選ばせる。"
+        }
+      ],
+      "original": "雨村见他回了头，便自为这女子心中有意于他，便狂喜不禁，自为此女子必是个巨眼英豪，风尘中之知己也。",
+      "zh_modern": "雨村见她回了头，便自以为这女子心中对他有意，便狂喜不禁，自以为此女子必是个巨眼英豪，是风尘中的知己。",
+      "en": "When Yucun saw her look back, he immediately assumed the girl had feelings for him. He was wild with joy, thinking she must be a woman of great discernment, a kindred spirit amid the dust of the world.",
+      "ru": "Когда Юйцунь увидел, что она оглянулась, он тут же решил, что девушка питает к нему чувства. Он был вне себя от радости.",
+      "ja": "雨村は彼女が振り返ったのを見て、この女子が自分に気があるのだと思い込み、狂喜を禁じ得なかった。"
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "commentary": [],
+      "original": "一时小童进来，雨村打听得前面留饭，不可久待，遂从夹道中自便出门去了。士隐待客既散，知雨村自便，也不去再邀。",
+      "zh_modern": "一会儿小童进来，雨村打听到前面留饭，不可久待，便从夹道中自行出门去了。士隐送走客人后，知道雨村自行离去，也就不再去邀请。",
+      "en": "Soon the servant boy came in. Yucun learned that the visitors in front were staying for a meal and he could not wait long, so he quietly left through the side passage. After Shiyin saw his guests off, knowing Yucun had left on his own, he did not go to invite him again.",
+      "ru": "Вскоре вошёл слуга-мальчик. Юйцунь узнал, что гостей впереди оставляют на обед и ему долго ждать нельзя, поэтому он тихо вышел через боковой проход.",
+      "ja": "しばらくすると小童が入って来た。雨村は前で食事が振る舞われるので長居は出来ないと聞き、脇道から自分で出て行った。"
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌",
+          "original": "写士隐爱才好客。",
+          "zh_modern": "描写士隐爱才好客。",
+          "en": "This describes Shiyin love of talent and hospitality.",
+          "ru": "Это описывает любовь Шииня к талантам и его гостеприимство.",
+          "ja": "士隐の才を愛し客を好むを描写す。"
+        }
+      ],
+      "original": "一日，早又中秋佳节。士隐家宴已毕，乃又另具一席于书房，却自己步月至庙中来邀雨村。",
+      "zh_modern": "一天，早又到了中秋佳节。士隐家宴已毕，又另外准备了一席在书房，自己踏着月色到庙中来邀请雨村。",
+      "en": "One day, it was already the Mid-Autumn Festival again. After Shiyin family banquet was finished, he prepared another feast in his study and walked by moonlight to the temple to invite Yucun.",
+      "ru": "Однажды наступил праздник Середины осени. После того как семейный банкет Шииня закончился, он приготовил ещё один пир в кабинете и при лунном свете пошёл в храм.",
+      "ja": "ある日、早くも中秋の佳節となった。士隐は家宴を終え、また別に一席を書房に設け、自ら月を踏んで廟に雨村を招きに来た。"
+    },
+    {
+      "id": 5,
+      "type": "prose",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂砺",
+          "original": "也是不得不留心。不独因好色，多半感知音。",
+          "zh_modern": "这也是不得不留心。不只是因为好色，多半是感念知音。",
+          "en": "He could not help but pay attention. It is not just lust; mostly it is appreciating a kindred spirit.",
+          "ru": "Он не мог не обращать внимания. Это не только похоть; в основном это признательность родственной душе.",
+          "ja": "これも留心せざるを得ず。独り好色の故のみならず、多半は知音を感ずればなり。"
+        }
+      ],
+      "original": "原来雨村自那日见了甄家之婢曾回头顾他两次，自为是个知己，便时刻放在心上。",
+      "zh_modern": "原来雨村自从那日看见甄家的婢女曾回头看了他两次，便自以为是个知己，时刻放在心上。",
+      "en": "As it happened, ever since Yucun saw the Zhen family maidservant glance back at him twice that day, he had assumed she was a kindred spirit and kept her constantly in his heart.",
+      "ru": "Оказывается, с того дня, как Юйцунь увидел, что служанка семьи Чжэнь дважды оглянулась на него, он решил, что она родственная душа.",
+      "ja": "もともと雨村はあの日甄家の婢が二度振り返って彼を見たのを見て以来、知己であると思い込み、常に心に掛けていた。"
+    },
+    {
+      "id": 6,
+      "type": "prose",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌",
+          "original": "这是第一首诗。后文香奕闺情皆不落空。余谓雪芹撰此书，中亦有传诗之意。",
+          "zh_modern": "这是第一首诗。后文香奕闺情皆有照应。我说雪芹撰写此书，其中也有传诗的用意。",
+          "en": "This is the first poem. Later, the boudoir sentiments all have their echoes. I say when Xueqin wrote this book, he also intended to transmit poetry.",
+          "ru": "Это первое стихотворение. Позже все будуарные чувства найдут отклик.",
+          "ja": "これは第一首の詩なり。後文の香奩閨情は皆落空せず。"
+        }
+      ],
+      "original": "今又正值中秋，不免对月有怀，因而口占五言一律云：",
+      "zh_modern": "今天又正值中秋，不免对月有怀，于是口占五言律诗一首：",
+      "en": "Now that it was again the Mid-Autumn Festival, he could not help but be moved by the moon, and so composed a five-character regulated verse:",
+      "ru": "Теперь, когда снова наступил праздник Середины осени, он не мог не растрогаться при виде луны и сложил пятисловное регулярное стихотворение:",
+      "ja": "今又正に中秋に当たり、月を対して懐いを禁じ得ず、因って口占で五言律詩一首を詠じた："
+    },
+    {
+      "id": 7,
+      "type": "poem",
+      "commentary": [],
+      "original": "未卜三生愿，频添一段愁。\n闷来时敛额，行去几回头。\n自顾风前影，谁堪月下偶？\n蟾光如有意，先上玉人楼。",
+      "zh_modern": "三生的愿望尚未卜定，频频增添一段愁绪。\n闷闷不乐时皱起眉头，她走时几次回头。\n自己看看风前的孤影，谁能配做月下的佳偶？\n蟾宫的月光若有情意，先照上那美人的楼阁。",
+      "en": "The wishes of three lives remain unforetold, Adding ever more to my sorrow.\nWhen melancholy comes, she knits her brow; As she walks away, how many times she turns her head.\nI look at my own shadow before the wind— Who could be my match beneath the moon?\nIf the toad-palace light has any feeling, Let it first shine upon that beauty tower.",
+      "ru": "Желания трёх жизней ещё не предсказаны, Всё больше прибавляется печали.\nКогда грустно, она хмурит брови; Уходя, сколько раз оглядывается.\nСмотрю на свою тень перед ветром— Кто достоин быть парой под луной?\nЕсли лунный свет имеет чувства, Пусть сначала озарит башню красавицы.",
+      "ja": "未だ三生の願いを卜せず、頼りに一段の愁いを添う。\n悶える時は額をひそめ、行く時は幾度か振り返る。\n自ら風前の影を顧みれば、誰か月下の偶に堪えん。\n蟾光若し意有らば、先ず玉人の楼に上れ。"
+    },
+    {
+      "id": 8,
+      "type": "prose",
+      "commentary": [],
+      "original": "雨村吟罢，因又思及平生抱负，苦未逢时，乃又搒首对天长叹，复高吟一联云：",
+      "zh_modern": "雨村吟罢，又想起平生的抱负，苦于没有遇到好时机，于是又搒首对天长叹，又高声吟咏一联：",
+      "en": "After reciting this, Yucun thought again of his lifelong ambitions and lamented that he had never met with good fortune. Scratching his head and sighing to the heavens, he recited another couplet:",
+      "ru": "Закончив декламировать, Юйцунь снова подумал о своих жизненных амбициях и посетовал, что ему так и не повезло.",
+      "ja": "雨村は吟じ終わり、また平生の抱負を思い、時に逢わぬ苦しみを感じ、頭を殴いて天に向かって長嘆し、また高らかに一聯を吟じた："
+    },
+    {
+      "id": 9,
+      "type": "poem",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌",
+          "original": "前用二玉合传，今用二宝合传。",
+          "zh_modern": "前面用二玉合传，现在用二宝合传。",
+          "en": "Earlier, the two jades were combined in the narrative; now the two treasures are combined.",
+          "ru": "Раньше две яшмы объединялись в повествовании; теперь объединяются два сокровища.",
+          "ja": "前は二玉を合わせて伝え、今は二宝を合わせて伝う。"
+        }
+      ],
+      "original": "玉在匣中求善价，钗于奕内待时飞。",
+      "zh_modern": "宝玉在匣中等待好价钱，金钗在妆奕内等待时机飞黄腾达。",
+      "en": "The jade in its case seeks a worthy price; The hairpin in its box awaits the time to fly.",
+      "ru": "Яшма в шкатулке ждёт достойной цены; Шпилька в ларце ждёт времени взлететь.",
+      "ja": "玉は匣中にありて善き価を求め、釵は奩内にありて時の飛ぶを待つ。"
+    }
+  ],
+  "translator_notes": [
+    "娇杏 (Jiaoxing): The maidservant name literally means Delicate Apricot but puns on 侥幸 (lucky/fortunate by chance). Her two glances at Yucun will lead to her becoming his concubine and later wife when he rises to power.",
+    "三生愿 (Three lives wish): A Buddhist concept referring to past, present, and future lives. The three lives predestined bond is a common theme in Chinese literature.",
+    "蟾光 (Toad-palace light): Refers to moonlight. In Chinese mythology, there is a toad in the moon.",
+    "玉在匣中求善价 (The jade in its case seeks a worthy price): This line from Confucius Analerta (9.13) expresses the scholar desire to serve a worthy ruler. Here it foreshadows Yucun eventual success.",
+    "钗于奕内待时飞 (The hairpin awaits the time to fly): 时飞 (Shifei) is Yucun courtesy name, creating a self-referential pun. 钗 (hairpin) foreshadows 宝钗 (Baochai).",
+    "二玉/二宝 (Two jades/Two treasures): The commentary notes the parallel between 宝玉 (Baoyu, precious jade) and 黛玉 (Daiyu, black jade) earlier, and now 宝玉 and 宝钗 (Baochai, precious hairpin). This establishes the love triangle theme.",
+    "This page shows Yucun character: his self-delusion about the maid interest, his scholarly ambition, and his poetic talent.",
+    "The page ends with the second poem/couplet, continuing to page 23."
+  ],
+  "total_segments": 9
+}
