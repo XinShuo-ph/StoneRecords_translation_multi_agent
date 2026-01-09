@@ -1,6 +1,4 @@
-# 红楼梦 Translation Instructions
-
-## Your Task
+## Goal
 
 Translate pages from 红楼梦脂评汇校本 (Dream of the Red Chamber with Zhiping Commentary) into four languages:
 - **Modern Chinese (简体中文)** - Accessible contemporary Mandarin
@@ -26,42 +24,51 @@ The source contains:
 
 ## Workflow: For Each Page
 
-**Target time: 15-20 minutes per page**
+### Step 1: View the Page
 
-### Step 1: View the Page (1-2 min)
-
-Open the page image or PDF:
-```bash
-# View page image (if extracted)
-ls source_pages/page_0020.png
-
-# Or open PDF to the specific page
-```
-
-Identify all content:
+Open the page image or PDF. Identify all content:
 - Main narrative text
 - Any commentary (眉批, 夹批, 侧批)
 - Any poetry
 
-### Step 2: Translate All Content (10-15 min)
+### Step 2: Research
+
+Before translating, research each segment:
+- Read relevant materials in `research/` directory
+- Search online for scholarly interpretations
+- Look up classical allusions (典故)
+- Understand character name puns and hidden meanings
+- Note historical and cultural context
+
+Document findings in the `notes` field.
+
+### Step 3: Translate
 
 For each text segment on the page:
-
 1. Copy the original Classical Chinese
 2. Translate to Modern Chinese
 3. Translate to English
 4. Translate to Russian
 5. Translate to Japanese
 
-**Translate commentary too** - it's part of the scholarly apparatus.
+Translate all commentary as well.
 
-### Step 3: Save as JSON (2 min)
+### Step 4: 润色 (Polish)
+
+Review and refine each translation:
+- Ensure literary quality matches the original's elegance
+- Verify cultural nuances are preserved
+- Check that poetry maintains its structure and rhythm
+- Confirm consistency with glossary terms
+- Read translations aloud mentally—do they flow naturally?
+
+### Step 5: Save as JSON
 
 Save to `translations/page_XXXX.json` (4-digit page number).
 
-### Step 4: Move to Next Page
+### Step 6: Next Page
 
-**Do NOT pause between pages.** Continue to the next page immediately.
+Continue to the next page immediately. Do not pause between pages.
 
 ---
 
@@ -98,7 +105,8 @@ Save to `translations/page_XXXX.json` (4-digit page number).
       "zh_modern": ""施主，你把这个有命无运、会连累爹娘的东西，抱在怀里干什么？"",
       "en": "\"Benefactor, why do you hold in your arms this creature who has fate but no fortune, who will bring calamity upon her parents?\"",
       "ru": "«Благодетель, зачем вы держите на руках это существо, у которого есть судьба, но нет удачи, которое навлечёт беду на своих родителей?»",
-      "ja": "「施主よ、この命はあれど運なく、父母に災いを及ぼす者を、何故に懐に抱いておられるのか？」"
+      "ja": "「施主よ、この命はあれど運なく、父母に災いを及ぼす者を、何故に懐に抱いておられるのか？」",
+      "commentary": []
     },
     {
       "id": 3,
@@ -107,7 +115,8 @@ Save to `translations/page_XXXX.json` (4-digit page number).
       "zh_modern": "惯常娇生惯养，笑你太痴愚，\n镜中容颜空对着纷纷飘落的雪花。\n要提防佳节元宵节之后，\n那便是烟消火灭之时。",
       "en": "You dote and pamper her—how foolish you are!\nThe water-chestnut flower faces the drifting snow in vain.\nBeware the time after the Lantern Festival—\nThat will be when smoke disperses and fire dies.",
       "ru": "Ты балуешь её — как ты глуп!\nЦветок водяного ореха тщетно глядит на падающий снег.\nОстерегайся времени после Праздника фонарей —\nТогда рассеется дым и погаснет огонь.",
-      "ja": "惯れ養い娇に生ず、汝の痴を笑う、\n菱花空しく雪澌澌に対す。\n好く防げよ佳節元宵の後、\n便ち是れ煙消え火滅する時。"
+      "ja": "惯れ養い娇に生ず、汝の痴を笑う、\n菱花空しく雪澌澌に対す。\n好く防げよ佳節元宵の後、\n便ち是れ煙消え火滅する時。",
+      "commentary": []
     }
   ],
   "notes": [
@@ -133,23 +142,19 @@ Save to `translations/page_XXXX.json` (4-digit page number).
 | `segments[].en` | string | English translation |
 | `segments[].ru` | string | Russian translation |
 | `segments[].ja` | string | Japanese translation |
-| `notes` | array | Important observations (names, allusions, puns) |
+| `segments[].commentary` | array | Commentary annotations (empty `[]` if none) |
+| `notes` | array | Research findings: puns, allusions, cultural context |
 
-### Optional: Commentary
+### Commentary Object Fields
 
-If a segment has commentary, add:
-```json
-"commentary": [
-  {
-    "source": "甲戌本",
-    "original": "批语原文",
-    "zh_modern": "现代文",
-    "en": "English",
-    "ru": "Русский",
-    "ja": "日本語"
-  }
-]
-```
+| Field | Type | Description |
+|-------|------|-------------|
+| `source` | string | Manuscript source: "甲戌本", "庚辰本", "脂批", etc. |
+| `original` | string | Original commentary text |
+| `zh_modern` | string | Modern Chinese translation |
+| `en` | string | English translation |
+| `ru` | string | Russian translation |
+| `ja` | string | Japanese translation |
 
 ---
 
@@ -198,7 +203,7 @@ See `research/glossary.md` for complete terminology.
 
 ---
 
-## Character Name Puns (Important!)
+## Character Name Puns
 
 Many names contain hidden meanings:
 
@@ -225,8 +230,6 @@ When translating, keep transliterated names and note the pun in `notes`.
 
 ## Continuous Execution
 
-**Do NOT stop between pages to ask for confirmation.**
-
 Work continuously:
 1. Complete page → Save JSON → Next page → Repeat
 2. Continue until you've completed all assigned pages
@@ -239,12 +242,12 @@ If stuck on a passage for more than 5 minutes:
 
 ## Anti-Patterns to Avoid
 
-❌ **Skipping content** - Translate EVERYTHING on the page  
-❌ **Empty translations** - Every field must have content  
-❌ **Wrong page number** - Verify you're on the correct page  
-❌ **Stopping to ask questions** - Keep working, add notes  
-❌ **Invalid JSON** - Validate before saving  
-❌ **Only translating main text** - Commentary is required too
+- Skipping content - Translate EVERYTHING on the page
+- Empty translations - Every field must have content
+- Wrong page number - Verify you're on the correct page
+- Stopping to ask questions - Keep working, add notes
+- Invalid JSON - Validate before saving
+- Skipping research - Always research before translating
 
 ---
 
@@ -255,20 +258,13 @@ Before moving to the next page, verify:
 - [ ] Page number is correct
 - [ ] ALL visible text is translated (main + commentary)
 - [ ] All 4 target languages are present for each segment
+- [ ] All segments have `commentary` field (empty `[]` if none)
 - [ ] Sequential IDs (1, 2, 3...)
 - [ ] JSON is valid
-- [ ] Notes include any important observations
+- [ ] Notes include research findings
 
 ---
 
-## Example: Complete Page Translation
+## Example
 
-See `examples/page_0020.json` for a complete reference showing:
-- 7 segments (prose, dialogue, poem)
-- 12 commentary annotations with translations
-- 8 translator notes explaining allusions and foreshadowing
-- Proper handling of mid-sentence page breaks
-
----
-
-*Focus on translation quality. Every page of 红楼梦 is a masterpiece deserving careful attention.*
+See `examples/page_0020.json` for a complete reference.
