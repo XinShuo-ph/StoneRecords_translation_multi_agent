@@ -98,9 +98,10 @@ Clear list of what NOT to do, with the most important being:
 ## Files Created
 
 1. `TRANSLATION_INSTRUCTION_ANALYSIS.md` - Detailed analysis of what went wrong
-2. `TRANSLATION_INSTRUCTIONS_v2.md` - New simplified translation instructions
-3. `examples/page_0020_complete.json` - Complete example in new format
+2. `TRANSLATION_INSTRUCTIONS_v2.md` - New simplified translation instructions (259 lines)
+3. `examples/page_0020_example.json` - Complete example from actual PDF page 20 (7 segments, 12 commentary annotations, 8 notes)
 4. `INSTRUCTION_COMPARISON.md` - This comparison document
+5. `source_pages/page_0001.png` through `page_0025.png` - Extracted PDF pages for agent viewing
 
 ---
 

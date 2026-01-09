@@ -342,14 +342,37 @@ Translate PDF pages from Classical Chinese to 4 languages, saving each as JSON.
 
 ---
 
+## PDF Structure (Verified)
+
+After extracting pages 1-25, the actual PDF structure is:
+
+| PDF Page | Content | Section |
+|----------|---------|---------|
+| 1 | Title page (红楼梦脂评汇校本) | Front matter |
+| 2-9 | Preface, table of contents | Front matter |
+| 10 | 凡例 begins (content page 1) | Editorial notes |
+| 10-16 | 凡例 + author's notes | Prologue |
+| 16+ | 第一回 header appears | Chapter 1 |
+| 17 | Novel text begins: "当日地陷东南..." | Chapter 1 body |
+| 20 | Shiyin wakes from dream, meets monk/Taoist | Chapter 1 body |
+
+**Key insight**: PDF page numbers ≠ content page numbers. The content page numbering starts at page 10 of the PDF.
+
+---
+
 ## Next Steps
 
-1. Create `TRANSLATION_INSTRUCTIONS_v2.md` following the simplified structure
-2. Extract source pages to images (if not done)
-3. Create 3 "golden example" complete page translations
-4. Test with a single agent before parallel deployment
-5. Separate parallel protocol to different document
+1. ✅ Created `TRANSLATION_INSTRUCTIONS_v2.md` (259 lines, down from 778)
+2. ✅ Extracted source pages 1-25 to `source_pages/`
+3. ✅ Created golden example: `examples/page_0020_example.json` (7 segments, 12 commentary annotations)
+4. **Test with a single agent** before parallel deployment
+5. **Extract remaining PDF pages**:
+   ```bash
+   python3 tools/pdf_to_images.py "红楼梦脂评汇校本_有书签目录_v3.13.pdf" source_pages/
+   ```
+6. **Separate parallel protocol** to different document (if still needed)
 
 ---
 
 *Analysis completed: 2026-01-09*
+*Updated with PDF structure verification and completed items*

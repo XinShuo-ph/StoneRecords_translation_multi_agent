@@ -75,35 +75,46 @@ Save to `translations/page_XXXX.json` (4-digit page number).
     {
       "id": 1,
       "type": "prose",
-      "original": "那僧笑道："此事说来好笑，竟是千古未闻的罕事。",
-      "zh_modern": "那僧人笑道："这件事说来好笑，竟然是千古以来从未听说过的稀罕事。",
-      "en": "The monk laughed and said, \"This matter is amusing to speak of—truly a rare occurrence, unheard of through the ages.\"",
-      "ru": "Монах усмехнулся: «Эта история забавна — поистине редкость, неслыханная с древних времён».",
-      "ja": "僧は笑って言った。「この事は話せば笑い話だが、実に千古未聞の稀な事じゃ。」"
+      "original": "士隐意欲也跟了过去，方举步时，忽听一声霹雳，有若山崩地陷。士隐大叫一声，定睛一看，只见烈日炎炎，芭蕉冉冉，梦中之事便忘了对半。",
+      "zh_modern": "士隐也想要跟着过去，刚举步的时候，忽然听见一声霹雳，好像山崩地陷一般。士隐大叫一声，定睛一看，只见烈日炎炎，芭蕉叶缓缓摇动，梦中的事便忘了一大半。",
+      "en": "Shiyin wished to follow them, but just as he was about to step forward, he suddenly heard a thunderclap, as if mountains were crumbling and the earth was caving in. Shiyin cried out in alarm and, fixing his eyes, saw only the blazing sun and the banana leaves gently swaying—half of what had happened in the dream was already forgotten.",
+      "ru": "Шиинь хотел последовать за ними, но едва он сделал шаг, как вдруг раздался удар грома, словно горы рушились и земля разверзалась. Шиинь вскрикнул и, присмотревшись, увидел лишь палящее солнце и мерно колышущиеся банановые листья — половина того, что было во сне, уже забылась.",
+      "ja": "士隠も後を追おうとして、まさに足を踏み出そうとした時、突然雷鳴が轟き、山が崩れ地が陥没するかのようであった。士隠は大声で叫び、目を凝らして見れば、ただ烈日が照りつけ、芭蕉の葉がゆらゆらと揺れるばかり。夢の中の出来事は半ば忘れてしまった。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "真是大警觉大转身。",
+          "zh_modern": "真是大警醒大转折。",
+          "en": "Truly a great awakening and great turning point.",
+          "ru": "Поистине великое пробуждение и великий поворот.",
+          "ja": "まことに大いなる警醒、大いなる転身なり。"
+        }
+      ]
     },
     {
       "id": 2,
-      "type": "prose",
-      "original": "只因西方灵河岸上三生石畔，有绛珠草一株...",
-      "zh_modern": "只因为在西方灵河岸边的三生石旁...",
-      "en": "It began on the banks of the Spirit River in the West, beside the Three Lives Stone...",
-      "ru": "На берегу Духовной Реки на Западе, у Камня Трёх Жизней...",
-      "ja": "西方霊河の岸、三生石のほとりに...",
-      "commentary": [
-        {
-          "source": "甲戌本",
-          "original": "妙！所谓"三生石上旧精魂"也。",
-          "zh_modern": "妙！这就是所谓的"三生石上旧精魂"。",
-          "en": "Wonderful! This refers to 'the old spirit on the Three Lives Stone.'",
-          "ru": "Чудесно! Это о «старой душе на Камне Трёх Жизней».",
-          "ja": "妙なり！いわゆる「三生石上の旧精魂」なり。"
-        }
-      ]
+      "type": "dialogue",
+      "original": ""施主，你把这有命无运，累及爹娘之物，抱在怀内作甚？"",
+      "zh_modern": ""施主，你把这个有命无运、会连累爹娘的东西，抱在怀里干什么？"",
+      "en": "\"Benefactor, why do you hold in your arms this creature who has fate but no fortune, who will bring calamity upon her parents?\"",
+      "ru": "«Благодетель, зачем вы держите на руках это существо, у которого есть судьба, но нет удачи, которое навлечёт беду на своих родителей?»",
+      "ja": "「施主よ、この命はあれど運なく、父母に災いを及ぼす者を、何故に懐に抱いておられるのか？」"
+    },
+    {
+      "id": 3,
+      "type": "poem",
+      "original": "惯养娇生笑你痴，\n菱花空对雪澌澌。\n好防佳节元宵后，\n便是烟消火灭时。",
+      "zh_modern": "惯常娇生惯养，笑你太痴愚，\n镜中容颜空对着纷纷飘落的雪花。\n要提防佳节元宵节之后，\n那便是烟消火灭之时。",
+      "en": "You dote and pamper her—how foolish you are!\nThe water-chestnut flower faces the drifting snow in vain.\nBeware the time after the Lantern Festival—\nThat will be when smoke disperses and fire dies.",
+      "ru": "Ты балуешь её — как ты глуп!\nЦветок водяного ореха тщетно глядит на падающий снег.\nОстерегайся времени после Праздника фонарей —\nТогда рассеется дым и погаснет огонь.",
+      "ja": "惯れ養い娇に生ず、汝の痴を笑う、\n菱花空しく雪澌澌に対す。\n好く防げよ佳節元宵の後、\n便ち是れ煙消え火滅する時。"
     }
   ],
   "notes": [
-    "三生石 (Three Lives Stone): Buddhist concept of karmic bonds across past, present, future",
-    "绛珠草 symbolizes Lin Daiyu; 神瑛侍者 symbolizes Jia Baoyu"
+    "英莲 (Yinglian): Her name puns on 应怜 (should be pitied). Foreshadows her tragic fate.",
+    "菱花: Puns on her later name 香菱, also means 'mirror' (菱花镜).",
+    "元宵: Lantern Festival—foreshadows when Yinglian will be kidnapped.",
+    "烟消火灭: Foreshadows the fire destroying the Zhen family home."
   ]
 }
 ```
@@ -252,7 +263,11 @@ Before moving to the next page, verify:
 
 ## Example: Complete Page Translation
 
-See `examples/page_example.json` for a complete reference.
+See `examples/page_0020_example.json` for a complete reference showing:
+- 7 segments (prose, dialogue, poem)
+- 12 commentary annotations with translations
+- 8 translator notes explaining allusions and foreshadowing
+- Proper handling of mid-sentence page breaks
 
 ---
 
