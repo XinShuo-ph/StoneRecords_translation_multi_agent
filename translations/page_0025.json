@@ -1,0 +1,123 @@
+{
+  "page": 25,
+  "chapter": "第一回",
+  "total_segments": 5,
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "他岳丈名唤封肃，本贯大如州人氏，虽是务农，家中都还殷实。今见女婿这等狼狈而来，心中便有些不乐。幸而士隐还有折变田地的银子未曾用完，拿出来托他随分就价薄置些须房地，为后日衣食之计。那封肃便半哄半赚，些须与他些薄田朽屋。士隐乃读书之人，不惯生理稼穑等事，勉强支持了一二年，越觉穷了下去。",
+      "zh_modern": "他岳父名叫封肃，本籍大如州人，虽然是务农的，家中都还殷实富足。如今见女婿这样狼狈地来投奔，心中便有些不高兴。幸好士隐还有变卖田地的银子没有用完，拿出来托他随便找个价钱买些房屋田地，作为日后衣食之计。那封肃便半哄半骗，只给了他一些薄田破屋。士隐是读书人，不习惯做生意种地等事，勉强支撑了一二年，越来越觉得穷困下去。",
+      "en": "His father-in-law was named Feng Su, originally from Daru Prefecture. Though he was a farmer, his household was still quite prosperous. Now, seeing his son-in-law arrive in such a desperate state, he was somewhat displeased. Fortunately, Shiyin still had silver left from selling his land, which he brought out and entrusted to Feng Su to buy some modest property at whatever price, to provide for future needs. That Feng Su, half-deceiving and half-cheating, gave him only some poor fields and dilapidated houses. Shiyin was a man of books, unaccustomed to trade or farming; he struggled on for a year or two, feeling himself grow poorer by the day.",
+      "ru": "Его тестя звали Фэн Су, родом из префектуры Дажу. Хотя он был фермером, его хозяйство всё ещё было довольно процветающим. Теперь, видя своего зятя в таком отчаянном состоянии, он был несколько недоволен. К счастью, у Шииня ещё осталось серебро от продажи земли, которое он принёс и доверил Фэн Су, чтобы тот купил немного скромной собственности по любой цене, для обеспечения будущих нужд. Этот Фэн Су, наполовину обманывая, дал ему лишь бедные поля и ветхие дома. Шиинь был человеком книжным, непривычным к торговле или земледелию; он с трудом продержался год или два, чувствуя, как беднеет с каждым днём.",
+      "ja": "彼の岳丈、名を封粛と喚び、本貫は大如州の人氏なり。是れ務農なりと雖も、家中都還お殷実なり。今、女婿の是の等狼狽して来たるを見て、心中便ち些か不楽有り。幸いにして士隠、還た折変して田地を売りたる銀子の未だ曾て用い完わらざる有り。拿出して彼に托して随分就価して些須の房地を薄置し、後日の衣食の計と為さんとす。彼の封粛、便ち半ば哄し半ば賺し、些須彼に些薄田朽屋を与う。士隠乃ち読書の人にして、生理稼穑等の事に惯れず、勉強して一二年を支持するも、越々窮して下り去るを覚ゆ。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌",
+          "original": "风俗。",
+          "zh_modern": "（暗示）风俗（封肃谐音）。",
+          "en": "'Customs' (a pun on Feng Su's name).",
+          "ru": "«Обычаи» (каламбур на имени Фэн Су).",
+          "ja": "風俗なり（封粛の諧音）。"
+        },
+        {
+          "type": "侧批",
+          "source": "甲戌",
+          "original": "托言大概如此之风俗也。",
+          "zh_modern": "托言大概如此的风俗也。",
+          "en": "This implies that such are roughly the customs.",
+          "ru": "Это подразумевает, что таковы примерно обычаи.",
+          "ja": "托言、大概此の如きの風俗なりと。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌",
+          "original": "所以大概之人情如是，风俗如是也。",
+          "zh_modern": "所以大概的人情如此，风俗如此。",
+          "en": "This is how human feelings generally are, and customs as well.",
+          "ru": "Таковы в общем человеческие чувства, таковы и обычаи.",
+          "ja": "所以大概の人情是の如く、風俗是の如きなり。"
+        },
+        {
+          "type": "侧批",
+          "source": "庚辰",
+          "original": "大都不过如此。幸而非「幸而」，则有不留之意。",
+          "zh_modern": "大都不过如此。幸而（这个词若不是「幸而」），则有不留的意思。",
+          "en": "Most are merely like this. 'Fortunately'—if it were not 'fortunately,' there would be an intention not to keep him.",
+          "ru": "Большинство просто таковы. «К счастью» — если бы не «к счастью», было бы намерение не оставлять его.",
+          "ja": "大都過ぎて此の如きなり。幸いにして「幸いにして」に非ざれば、則ち留めざるの意有り。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "封肃每见面时，便说些现成话，且人前人后又怨他们不善过活，只一味好吃懒做等语。士隐知投人不着，心中未免悔恨，再兼上年惊唬，急忿怨痛，已有积伤，暮年之人，贫病交攻，竟渐渐露出那下世的光景来。",
+      "zh_modern": "封肃每次见面时，便说些现成的大道理，而且人前人后又抱怨他们不会过日子，只是一味好吃懒做之类的话。士隐知道投奔错了人，心中不免后悔怨恨，再加上去年的惊吓，急忿怨痛，已经积下旧伤，作为暮年之人，贫病交攻，竟渐渐露出了快要离世的光景来。",
+      "en": "Whenever Feng Su saw him, he would spout ready-made platitudes, and behind his back and to his face he complained that they did not know how to manage their lives—just eating well and being lazy, and so forth. Shiyin realized he had placed his trust in the wrong person, and his heart was filled with regret and resentment. Moreover, the shock of the previous year, the anxiety and grief, had already left him with accumulated injuries. As a man in his twilight years, beset by poverty and illness, he gradually began to show signs of approaching death.",
+      "ru": "Всякий раз, когда Фэн Су видел его, он изрекал готовые банальности, а за спиной и в лицо жаловался, что они не умеют жить — только едят хорошо и ленятся, и тому подобное. Шиинь понял, что доверился не тому человеку, и его сердце было полно сожаления и обиды. Более того, потрясение прошлого года, тревога и горе уже оставили накопившиеся травмы. Как человек на закате лет, обуреваемый бедностью и болезнью, он постепенно начал проявлять признаки приближающейся смерти.",
+      "ja": "封粛、毎に面に見ゆる時、便ち些かの現成の話を説き、且つ人前人後に又た彼らの過活を善くせざるを怨み、只だ一味に好吃懶做等の語のみを言う。士隠、人に投ずること着かざるを知り、心中、悔恨を免れず。再び上年の驚唬を兼ね、急忿怨痛、已に積傷有り。暮年の人、貧病交々攻め、竟に漸々と彼の下世の光景を露出す。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌",
+          "original": "此等人何多之极！等语。",
+          "zh_modern": "这等人何其多！等语。",
+          "en": "How numerous such people are! And so on.",
+          "ru": "Как много таких людей! И так далее.",
+          "ja": "此等の人、何ぞ之多きの極みなるや！等の語。"
+        },
+        {
+          "type": "侧批",
+          "source": "庚辰",
+          "original": "几几乎。世人则不能止于几几乎，可悲！观至此不……（下缺）",
+          "zh_modern": "几几乎。世人则不能止于几几乎，可悲！读到这里不……（下文残缺）",
+          "en": "Almost there. Yet people of the world cannot stop at 'almost'—how sad! Reading to this point... (the rest is missing)",
+          "ru": "Почти там. Но люди мира не могут остановиться на «почти» — как печально! Читая до этого места... (остальное отсутствует)",
+          "ja": "幾々乎。世人は則ち幾々乎に止まること能わず、悲しむべし！此に至りて観るに不……（下缺く）"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "可巧这日，拄了拐杖挣挫在街前散散心时，忽见那边来了一个跛足道人，疯狂落脱，麻屣鹑衣，口内念着几句言词，道是：",
+      "zh_modern": "正巧这一天，他拄着拐杖挣扎着到街前散散心时，忽然看见那边来了一个跛脚道人，疯疯癫癫、落拓不羁，穿着麻鞋破衣，口中念着几句言词，说的是：",
+      "en": "As it happened, on this day, while he was struggling along with a cane to take some air in the street, he suddenly saw a lame Taoist coming from that direction—wild and disheveled, wearing straw sandals and ragged clothes, chanting some verses in his mouth, which went:",
+      "ru": "Как раз в этот день, когда он с трудом шёл с тростью, чтобы подышать воздухом на улице, он вдруг увидел хромого даоса, идущего с той стороны — дикого и растрёпанного, в соломенных сандалиях и рваной одежде, бормочущего какие-то стихи, которые гласили:",
+      "ja": "可巧なること此の日、杖を拄きて挣挫して街前に在り心を散ずる時、忽ち彼辺より一人の跛足道人の来たるを見る。瘋狂落脱、麻屣鶉衣にして、口内に幾句かの言詞を念じ、道う是れ：",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "type": "poem",
+      "original": "世人都晓神仙好，惟有功名忘不了！\n古今将相在何方？荒冢一堆草没了。\n世人都晓神仙好，只有金银忘不了！\n终朝只恨聚无多，及到多时眼闭了。\n世人都晓神仙好，只有娇妻忘不了！\n君生日日说恩情，君死又随人去了。\n世人都晓神仙好，只有儿孙忘不了！\n痴心父母古来多，孝顺儿孙谁见了？",
+      "zh_modern": "世人都知道神仙好，只有功名忘不了！\n古往今来的将相在何方？不过是荒冢一堆，野草没过了。\n世人都知道神仙好，只有金银忘不了！\n整天只恨钱财聚得不够多，等到聚得多时眼睛却闭上了。\n世人都知道神仙好，只有娇妻忘不了！\n你活着时她天天说恩情，你死了她又随别人去了。\n世人都知道神仙好，只有儿孙忘不了！\n痴心的父母古往今来有许多，可孝顺的儿孙有谁见到过？",
+      "en": "All men know that immortals are good, but fame and glory they cannot forget!\nWhere are the generals and ministers of old? Just a mound of weeds on a desolate grave.\n\nAll men know that immortals are good, but gold and silver they cannot forget!\nAll day long they lament that wealth does not accumulate fast enough—by the time it does, their eyes have closed.\n\nAll men know that immortals are good, but their lovely wives they cannot forget!\nWhile you live, she speaks daily of love and gratitude—when you die, she goes off with another.\n\nAll men know that immortals are good, but sons and grandsons they cannot forget!\nDoting parents have been many since ancient times—but who has ever seen filial children?",
+      "ru": "Все люди знают, что бессмертные — благо, но славу и почести забыть не могут!\nГде генералы и министры древности? Лишь холм сорняков на заброшенной могиле.\n\nВсе люди знают, что бессмертные — благо, но золото и серебро забыть не могут!\nВесь день они сетуют, что богатство накапливается недостаточно быстро — к тому времени, как накопится, их глаза закрылись.\n\nВсе люди знают, что бессмертные — благо, но своих прелестных жён забыть не могут!\nПока ты жив, она каждый день говорит о любви и благодарности — когда умрёшь, она уйдёт с другим.\n\nВсе люди знают, что бессмертные — благо, но сыновей и внуков забыть не могут!\nЛюбящих родителей было много с древних времён — но кто когда-либо видел почтительных детей?",
+      "ja": "世人皆な神仙の好きを暁（し）る、惟だ功名のみ忘れ了らず！\n古今の将相何方に在りや？荒冢一堆、草に没し了れり。\n\n世人皆な神仙の好きを暁る、只だ金銀のみ忘れ了らず！\n終朝只だ聚むること多き無きを恨む、多き時に及んで眼閉じ了れり。\n\n世人皆な神仙の好きを暁る、只だ嬌妻のみ忘れ了らず！\n君生きて日日恩情を説く、君死して又た人に随いて去り了れり。\n\n世人皆な神仙の好きを暁る、只だ児孫のみ忘れ了らず！\n痴心の父母古来多し、孝順の児孫誰か見了りや？",
+      "commentary": []
+    },
+    {
+      "id": 5,
+      "type": "prose",
+      "original": "士隐听了，便迎上来道：「你满口说些什么？只听见些'好''了''好''了'。」那道人笑道：「你若果听见'好''了'二字，还算你明白。可知世上万般，好便是了，了便是好。若不了，便不好；若要好，须是了。我这歌儿，便名《好了歌》。」士隐本是有宿慧的，一闻此言，心中早已彻悟，因笑道：「且住！待我将你这《好了歌》解注出来何如？」道人笑道：「你解，你解。」",
+      "zh_modern": "士隐听了，便迎上前来说道：「你满口说的是什么？我只听见什么'好''了''好''了'的。」那道人笑着说：「你若真的听见了'好''了'二字，还算你明白。要知道世上万般事物，好便是了，了便是好。若不了，便不好；若要好，须是了。我这首歌儿，便叫做《好了歌》。」士隐本来就是有宿慧的人，一听到这话，心中早已彻悟，于是笑着说：「且住！让我把你这《好了歌》解注出来如何？」那道人笑着说：「你解，你解。」",
+      "en": "Shiyin heard this and came forward to say: 'What is all this you are saying? I only heard you say \"good\" and \"done,\" \"good\" and \"done.\"' The Taoist laughed and said: 'If you truly heard the two words \"good\" and \"done,\" you may count yourself enlightened. You should know that of all things in this world, \"good\" is \"done,\" and \"done\" is \"good.\" If not \"done,\" then not \"good\"; if you want \"good,\" it must be \"done.\" This song of mine is called \"The Song of Good-Done.\"' Shiyin was a man of innate wisdom; upon hearing these words, his heart was already thoroughly awakened. He laughed and said: 'Wait a moment! Let me compose an explanation of your \"Song of Good-Done\"—what do you say?' The Taoist laughed and said: 'Explain away, explain away.'",
+      "ru": "Шиинь услышал это и подошёл, говоря: «Что это ты всё говоришь? Я только слышал, как ты говоришь \"хорошо\" и \"конец\", \"хорошо\" и \"конец\".» Даос засмеялся и сказал: «Если ты действительно услышал два слова \"хорошо\" и \"конец\", ты можешь считать себя просветлённым. Тебе следует знать, что из всех вещей в этом мире \"хорошо\" — это \"конец\", а \"конец\" — это \"хорошо\". Если не \"конец\", то не \"хорошо\"; если хочешь \"хорошо\", должно быть \"конец\". Эта моя песня называется \"Песня о Хорошо-Конец\".» Шиинь был человеком врождённой мудрости; услышав эти слова, его сердце уже полностью пробудилось. Он засмеялся и сказал: «Подожди минутку! Позволь мне составить объяснение твоей \"Песни о Хорошо-Конец\" — что скажешь?» Даос засмеялся и сказал: «Объясняй, объясняй».",
+      "ja": "士隠聞き了り、便ち迎え上がりて道う「汝満口に些か何を説くや？只だ些かの'好''了''好''了'を聞くのみ」と。彼の道人笑いて曰く「汝若し果たして'好''了'の二字を聞かば、還た汝の明白を算う。知るべし世上の万般、好は便ち是れ了、了は便ち是れ好なり。若し了らずんば、便ち好ならず。若し好ならんと要せば、須らく是れ了なるべし。我が此の歌児、便ち《好了歌》と名づく」と。士隠本と是れ宿慧有る者なり。一たび此の言を聞くに、心中早く已に徹悟す。因りて笑いて曰く「且く住め！我をして汝の此の《好了歌》を解注し出さしめて何如」と。道人笑いて曰く「汝解せよ、汝解せよ」と。",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "封肃 (Feng Su): The name puns on 风俗 (fēng sú), meaning 'customs' or 'social mores.' The commentary explicitly notes this, suggesting that Feng Su represents how ordinary people treat relatives in distress—with exploitation rather than generosity.",
+    "大如州: A fictional place name, punning on 大概如此 (dà gài rú cǐ), meaning 'generally like this' or 'more or less the same,' reinforcing the theme that such behavior is common.",
+    "跛足道人 (Lame Taoist): One of the two mysterious immortals who appear throughout the novel. He first appeared with the scabby-headed monk on page 20. His lameness symbolizes the imperfection of the mortal world.",
+    "好了歌 (Hǎo Liǎo Gē, Song of Good-Done): The title contains a profound pun. 好 (hǎo) means 'good' but also 'to like/love.' 了 (liǎo) means 'finished/done' but also 'to understand.' The song argues that worldly attachments (fame, wealth, wives, children) are ultimately meaningless—only by letting go (了) can one achieve what is truly good (好).",
+    "宿慧 (sù huì): Innate wisdom or wisdom from a past life—a Buddhist concept suggesting Shiyin has karmic preparation for enlightenment.",
+    "The four stanzas of the Good-Done Song address four worldly attachments: 功名 (fame/career), 金银 (wealth), 娇妻 (wife), and 儿孙 (descendants). Each stanza shows how these attachments ultimately lead to disappointment or are rendered meaningless by death.",
+    "The repetition of 好了 throughout creates a rhythmic, almost hypnotic effect, emphasizing the Buddhist theme of renunciation and the emptiness of worldly pursuits.",
+    "This is one of the most famous poems in Chinese literature, encapsulating the novel's Buddhist-Taoist philosophical foundation."
+  ]
+}

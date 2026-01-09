@@ -1,0 +1,228 @@
+{
+  "page": 21,
+  "chapter": "第一回",
+  "total_segments": 7,
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "年为一世，三劫者，想以九十春光寓言也。我在北邙山等你，会齐了同往太虚幻境销号。'那僧道：'妙，妙，妙！'说毕，二人一去，再不见个踪影了。士隐心中此时自付：这两个人必有来历，该试一问，如今悔却晚也。",
+      "zh_modern": "三十年为一世，三劫就是九十年，想来是用九十年春光作寓言。我在北邙山等你，到时候聚齐了一同前往太虚幻境去销号。'那和尚说道：'妙，妙，妙！'说完，二人一去，再也不见踪影了。士隐心中此时暗自思忖：这两个人必有来历，应该试着问一问，如今后悔却已经太晚了。",
+      "en": "Thirty years make one generation, and three kalpas equal ninety years—this seems to be an allegory for ninety springs of life. I shall wait for you at Mount Beimang; when we have gathered together, we shall go to the Land of Illusion to cancel our registration.' The monk said: 'Wonderful, wonderful, wonderful!' When they had finished speaking, the two departed and were never seen again. At this moment, Shiyin thought to himself: 'These two men must have some extraordinary origin; I should have tried to ask them about it. Now it is too late for regrets.'",
+      "ru": "Тридцать лет составляют одно поколение, а три кальпы — девяносто лет; похоже, это аллегория девяноста вёсен жизни. Я буду ждать тебя на горе Бэйман; когда мы соберёмся вместе, мы отправимся в Царство Иллюзий, чтобы снять наши имена с учёта». Монах сказал: «Чудесно, чудесно, чудесно!» Когда они закончили говорить, оба ушли и больше не появлялись. В этот момент Шиинь подумал про себя: «Эти двое, должно быть, имеют необычное происхождение; мне следовало бы попытаться расспросить их об этом. Теперь уже поздно сожалеть».",
+      "ja": "三十年を一世と為し、三劫は則ち九十年なり。思うに九十年の春光を以て寓言と為すなり。我は北邙山にて汝を待たん。揃い次第、共に太虚幻境に往きて銷号せん」と。かの僧曰く「妙なり、妙なり、妙なり！」と。言い畢りて、二人は去り、再び姿を見ることなし。士隠は此の時、心中密かに思えらく「此の二人、必ず来歴有るべし。試みに一問すべかりしを、今悔いても既に遅し」と。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "脂批",
+          "original": "三劫者，想以九十春光寓言也。",
+          "zh_modern": "三劫，想来是用九十年春光作寓言。",
+          "en": "'Three kalpas' is likely an allegory for ninety springs of life.",
+          "ru": "«Три кальпы» — это, вероятно, аллегория девяноста вёсен жизни.",
+          "ja": "三劫とは、九十年の春光を以て寓言と為すと想う。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "这士隐正痴想，忽见隔壁葫芦庙内寄居的一个穷儒，姓贾名化，表字时飞，别号雨村者走了出来。",
+      "zh_modern": "这士隐正在痴痴地想着，忽然看见隔壁葫芦庙里寄居的一个穷书生走了出来。此人姓贾名化，表字时飞，别号雨村。",
+      "en": "While Shiyin was lost in such ruminations, he suddenly saw a poor scholar who lodged at the neighboring Gourd Temple walking out. This man's surname was Jia, given name Hua, courtesy name Shifei, and literary name Yucun.",
+      "ru": "Пока Шиинь был погружён в такие размышления, он вдруг увидел бедного учёного, который жил при соседнем Храме Тыквы, выходящего наружу. Фамилия этого человека была Цзя, имя Хуа, второе имя Шифэй, а литературный псевдоним Юйцунь.",
+      "ja": "此の士隠、正に痴然として想いに耽る折、忽ち隣の葫蘆廟に寄居せる一人の貧儒の出で来るを見る。此の人、姓は賈、名は化、字は時飛、別号を雨村と云う者なり。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌",
+          "original": "「隔壁」二字极细极险，记清。",
+          "zh_modern": "「隔壁」二字用得极其细致、极其危险，要记清楚。",
+          "en": "The two characters 'neighboring' (隔壁) are extremely subtle and perilous—note this carefully.",
+          "ru": "Два иероглифа «соседний» (隔壁) чрезвычайно тонки и опасны — запомните это.",
+          "ja": "「隔壁」の二字、極めて細かく極めて険し。記して清にせよ。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌",
+          "original": "假话。妙！",
+          "zh_modern": "假话（贾化的谐音）。妙！",
+          "en": "'False words' (homophone of Jia Hua). Wonderful!",
+          "ru": "«Ложные слова» (омофон имени Цзя Хуа). Чудесно!",
+          "ja": "假話（賈化の諧音）。妙なり！"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌",
+          "original": "实非。妙！",
+          "zh_modern": "实非（时飞的谐音，意为「实际上不是」）。妙！",
+          "en": "'Actually not so' (homophone of Shifei). Wonderful!",
+          "ru": "«На самом деле нет» (омофон имени Шифэй). Чудесно!",
+          "ja": "実非（時飛の諧音、「実際にはそうではない」の意）。妙なり！"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌",
+          "original": "两村者，村言粗语也，言以村粗之言演出一段假话也。",
+          "zh_modern": "雨村，是村言粗语的意思，意思是用粗俗的话语演绎出一段假话。",
+          "en": "'Yucun' means rustic, coarse speech—using vulgar words to perform a tale of falsehood.",
+          "ru": "«Юйцунь» означает грубую, деревенскую речь — используя простонародные слова, чтобы разыграть историю лжи.",
+          "ja": "雨村とは、村言粗語なり。村粗の言を以て一段の假話を演出するの意なり。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "这贾雨村原系胡州人氏，也是诗书仕宦之族，因他生于末世，父母祖宗根基一尽，人口衰丧，只剩得他一身一口，在家乡无益。因进京求取功名，再整基业。自前岁来此，又淹蹇住了，暂寄庙中安身，每日卖字作文为生，故士隐常与他交接。",
+      "zh_modern": "这贾雨村原本是胡州人，也是诗书传家、世代做官的人家。因为他生于家族衰落的末世，父母和祖宗留下的基业全都没有了，人丁也凋零了，只剩下他孤身一人，待在家乡也没有什么出路。于是进京城求取功名，想要重整家业。自从前年来到这里，又被困住了，暂时寄住在庙里安身，每天靠卖字写文章为生，所以士隐常常与他来往。",
+      "en": "This Jia Yucun was originally from Huzhou, also from a family of scholars and officials. Because he was born at the end of his family's decline, the foundation left by his parents and ancestors was completely exhausted, and the family had withered away, leaving only himself alone. Staying in his hometown offered no prospects, so he went to the capital to seek fame through the examinations and restore his family's fortunes. Since arriving here the year before last, he had again become stranded, temporarily lodging in the temple, and making a living by selling calligraphy and writing essays each day. This is why Shiyin often associated with him.",
+      "ru": "Этот Цзя Юйцунь был родом из Хучжоу, также из семьи учёных и чиновников. Поскольку он родился во времена упадка своего рода, основа, оставленная его родителями и предками, была полностью исчерпана, а род угас, оставив его одного. Оставаться на родине не имело смысла, поэтому он отправился в столицу искать славы через экзамены и восстановить состояние семьи. С тех пор как он прибыл сюда в позапрошлом году, он снова застрял, временно поселившись в храме и зарабатывая на жизнь продажей каллиграфии и написанием эссе каждый день. Вот почему Шиинь часто общался с ним.",
+      "ja": "此の賈雨村、原は胡州の人氏にして、亦た詩書仕宦の族なり。彼、末世に生まれたるが故に、父母祖宗の根基は尽き、人口は衰喪し、只だ彼一身一口のみ残る。家郷に在りても益無し。因りて京に進みて功名を求取し、再び基業を整えんとす。前歳より此に来たりて以来、又た淹蹇して、暫く廟中に寄りて身を安んじ、毎日字を売り文を作りて生を為す。故に士隠、常に彼と交接す。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌",
+          "original": "胡诌也。",
+          "zh_modern": "胡诌（胡州的谐音，意为胡说八道）。",
+          "en": "'Nonsense' (homophone of Huzhou, meaning 'made-up talk').",
+          "ru": "«Вздор» (омофон Хучжоу, означающий «выдумки»).",
+          "ja": "胡謅なり（胡州の諧音、でたらめの意）。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌",
+          "original": "又写一末世男子。",
+          "zh_modern": "又描写了一个生于末世的男子。",
+          "en": "Here is another man born in an age of decline.",
+          "ru": "Вот ещё один мужчина, рождённый в эпоху упадка.",
+          "ja": "又た一末世の男子を写す。"
+        },
+        {
+          "type": "侧批",
+          "source": "庚辰",
+          "original": "形容落破诗书子弟。逼真。",
+          "zh_modern": "描写落魄的书香子弟。非常逼真。",
+          "en": "Describing a down-and-out son of a scholarly family. Very realistic.",
+          "ru": "Описание обедневшего сына учёной семьи. Очень реалистично.",
+          "ja": "落魄せる詩書の子弟を形容す。逼真なり。"
+        },
+        {
+          "type": "夹批",
+          "source": "庚辰",
+          "original": "「庙中安身」、「卖字为生」，想是过午不食的了。",
+          "zh_modern": "「庙中安身」、「卖字为生」，想来是过了中午就不吃饭的了（形容贫困）。",
+          "en": "'Lodging in a temple' and 'selling calligraphy for a living'—he probably doesn't eat after noon (describing his poverty).",
+          "ru": "«Живёт в храме» и «зарабатывает каллиграфией» — вероятно, не ест после полудня (описывая его бедность).",
+          "ja": "「廟中に安身」「字を売りて生を為す」とは、想うに過午不食ならん（貧困を形容す）。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌",
+          "original": "又失写士隐实是翰林文苑，非守钱房也，直撞入「某雅女雅集若吟诗」一回。",
+          "zh_modern": "又略去了士隐其实是翰林文苑中人，而非守财奴，直接跳入「某雅女雅集若吟诗」那一回。",
+          "en": "Again omitting that Shiyin is actually a man of letters and culture, not a miser—jumping straight into the chapter about 'certain refined ladies gathering to compose poetry.'",
+          "ru": "Снова опущено, что Шиинь на самом деле человек литературы и культуры, а не скупец — перескакивая прямо к главе о «собрании изысканных дам для сочинения стихов».",
+          "ja": "又た士隠の実は翰林文苑の人にして、守銭奴に非ざるを失写し、直ちに「某雅女雅集、若しくは詩を吟ずる」の一回に撞入す。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "dialogue",
+      "original": "当下雨村见了士隐，忙施礼陪笑道：「老先生倚门仁望，敢是街市上有甚新闻否？」士隐笑道：「非也，适因小女啼哭，引他出来作耍，正是无聊之甚，兄来得正妙，请入小斋一谈，彼此皆可消此永昼。」说着，便令人送女儿进去，自携了雨村来至书房中。小童献茶。",
+      "zh_modern": "当下雨村见了士隐，连忙行礼陪着笑脸说道：「老先生倚门远望，莫非街市上有什么新闻吗？」士隐笑着说道：「不是，刚才因为小女啼哭，把她带出来玩耍，正是无聊得很，兄台来得正好，请进小书房一叙，彼此都可以消磨这漫长的白昼。」说着，便让人把女儿送进去，自己携着雨村来到书房中。小书童献上茶来。",
+      "en": "When Yucun saw Shiyin, he hastily bowed and said with a smile: 'Dear sir, you are leaning against your gate looking out—might there be some news from the marketplace?' Shiyin smiled and replied: 'No, I just brought my little daughter out to play because she was crying. I am terribly bored. Your arrival is perfectly timed—please come into my study for a chat; we can both while away this long day.' As he spoke, he had someone take his daughter inside, and himself led Yucun to the study. A young servant brought tea.",
+      "ru": "Когда Юйцунь увидел Шииня, он поспешно поклонился и сказал с улыбкой: «Уважаемый господин, вы стоите у ворот и смотрите вдаль — может быть, есть какие-то новости с рынка?» Шиинь улыбнулся и ответил: «Нет, я просто вывел свою маленькую дочь погулять, потому что она плакала. Мне ужасно скучно. Ваш приход как раз вовремя — пожалуйста, зайдите в мой кабинет побеседовать; мы оба можем скоротать этот долгий день». Говоря это, он велел кому-то отвести дочь внутрь, а сам повёл Юйцуня в кабинет. Молодой слуга принёс чай.",
+      "ja": "当下、雨村、士隠を見て、忙しく礼を施し笑いを陪えて曰く「老先生、門に倚りて仁望せらる。敢えて問う、街市の上に甚の新聞か有りや否や」と。士隠笑いて曰く「非なり。適（さき）に小女の啼哭するに因り、彼を引き出して耍（あそ）ばしむ。正に是れ無聊の甚だしきなり。兄の来たること正に妙なり。請う、小斎に入りて一談せん。彼此皆此の永昼を消すべし」と。言いつつ、便ち人をして女児を送り入れしめ、自ら雨村を携えて書房中に来たる。小童、茶を献ず。",
+      "commentary": []
+    },
+    {
+      "id": 5,
+      "type": "prose",
+      "original": "方谈得三五句话，忽家人飞报：「严老爷来拜。」士隐忙的起身谢罪道：「恕诳驾之罪，略坐，即来陪。」雨村忙起身亦让道：「老先生请便。晚生乃常造之客，稍候何妨。」说着，士隐已出前厅去了。",
+      "zh_modern": "刚谈了三五句话，忽然家人飞报：「严老爷来拜访。」士隐忙着起身谢罪道：「恕我怠慢之罪，请稍坐，我马上回来陪你。」雨村忙着起身也谦让道：「老先生请便。晚生是常来拜访的客人，稍等一会儿又何妨。」说着，士隐已经出到前厅去了。",
+      "en": "They had only exchanged a few words when a servant came rushing in to report: 'Master Yan has come to pay a visit.' Shiyin hurriedly rose and apologized: 'Forgive me for this discourtesy—please sit for a moment; I shall return to keep you company shortly.' Yucun hastily rose and deferred: 'Please attend to your business, sir. I am a frequent visitor; waiting a while is no trouble.' As he spoke, Shiyin had already gone out to the front hall.",
+      "ru": "Они только обменялись несколькими словами, когда слуга вбежал с докладом: «Господин Янь прибыл с визитом». Шиинь поспешно встал и извинился: «Простите за эту невежливость — пожалуйста, присядьте на минуту; я скоро вернусь составить вам компанию». Юйцунь поспешно встал и уступил: «Пожалуйста, займитесь своими делами, господин. Я частый гость; подождать немного — не проблема». Пока он говорил, Шиинь уже вышел в переднюю залу.",
+      "ja": "方に三五句の話を談ずるに、忽ち家人飛びて報じて曰く「厳老爺来たりて拜す」と。士隠忙しく起身して謝罪して曰く「誑駕の罪を恕せよ。暫く坐せよ、即ち来たりて陪せん」と。雨村忙しく起身して亦た讓りて曰く「老先生、請う便にせよ。晩生は乃ち常に造る之客なり、暫く候つも何ぞ妨げん」と。言いつつ、士隠は已に前庁に出で去れり。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌",
+          "original": "「关」也，夫妻来，大将至矣。",
+          "zh_modern": "「严」是「关」的谐音，夫妻来了，大难将至。",
+          "en": "'Yan' is a homophone of 'pass/barrier'—the couple has come, great disaster approaches.",
+          "ru": "«Янь» — омофон слова «застава/барьер» — пара пришла, великое бедствие приближается.",
+          "ja": "「厳」は「関」の諧音なり。夫妻来たり、大難将に至らんとす。"
+        },
+        {
+          "type": "侧批",
+          "source": "庚辰",
+          "original": "世态人情，如闻其声。",
+          "zh_modern": "世态人情，写得如闻其声。",
+          "en": "The ways of the world and human feelings—written so vividly one can hear the voices.",
+          "ru": "Нравы мира и человеческие чувства — написано так живо, что слышишь голоса.",
+          "ja": "世態人情、其の声を聞くが如し。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "prose",
+      "original": "这里雨村且翻弄书籍解闷。忽听得窗外有女子嗽声，雨村遂起身往窗外一看，原来是一个丫鬟，在那里摘花，生得仪容不俗，眉目清朗，虽无十分姿色，却亦有动人之处。雨村不觉看得呆了。",
+      "zh_modern": "这边雨村姑且翻弄书籍解闷。忽然听得窗外有女子的咳嗽声，雨村便起身往窗外一看，原来是一个丫鬟，在那里摘花。她生得仪容不俗，眉目清朗，虽然没有十分姿色，却也有动人之处。雨村不觉看得呆住了。",
+      "en": "Meanwhile, Yucun idly leafed through some books to pass the time. Suddenly he heard a woman coughing outside the window. Yucun rose and looked out the window to see a maidservant picking flowers there. Her bearing was refined, her brows and eyes clear and bright. Though she was not exceptionally beautiful, she had a certain charm. Yucun found himself gazing at her, transfixed.",
+      "ru": "Тем временем Юйцунь лениво листал книги, чтобы скоротать время. Вдруг он услышал, как женщина кашлянула за окном. Юйцунь встал и выглянул в окно, увидев служанку, которая срывала цветы. Её осанка была изысканной, брови и глаза ясными и яркими. Хотя она не была исключительно красива, в ней было определённое очарование. Юйцунь обнаружил, что смотрит на неё, не в силах отвести взгляд.",
+      "ja": "此処にて雨村、且く書籍を翻弄して悶を解く。忽ち窓外に女子の嗽声有るを聞き、雨村遂に起身して窓外を看れば、原来一人の丫鬟にして、彼処にて花を摘む。生まれつき儀容俗ならず、眉目清朗なり。十分の姿色無しと雖も、亦た動人の処有り。雨村、覚えず看て呆れたり。",
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌",
+          "original": "八字足矣。",
+          "zh_modern": "八个字就足够了。",
+          "en": "Eight characters are sufficient [to describe her].",
+          "ru": "Восьми иероглифов достаточно [чтобы описать её].",
+          "ja": "八字にて足れり。"
+        },
+        {
+          "type": "侧批",
+          "source": "甲戌",
+          "original": "更好。这便是真正情理之文。可笑近之小说中满纸「蕙花闭月」等字。这是两村目中，又不与后之人相似。",
+          "zh_modern": "更好。这才是真正合乎情理的文字。可笑近来的小说中满纸都是「闭月羞花」之类的字眼。这是从雨村眼中看到的，又与后面的人物不相似。",
+          "en": "Even better. This is truly writing that accords with reason and feeling. How laughable that recent novels are filled with phrases like 'beauty that shames the moon and flowers.' This is from Yucun's perspective, and she is not like the characters who appear later.",
+          "ru": "Ещё лучше. Это действительно письмо, соответствующее разуму и чувству. Как смешно, что современные романы полны фраз вроде «красота, затмевающая луну и цветы». Это с точки зрения Юйцуня, и она не похожа на персонажей, которые появятся позже.",
+          "ja": "更に好し。是れ便ち真正の情理の文なり。近頃の小説中、満紙「閉月羞花」等の字あるは可笑しきなり。是れ雨村の目中にして、又た後の人と相似ざるなり。"
+        },
+        {
+          "type": "夹批",
+          "source": "甲戌",
+          "original": "今古穷酸色心最重。",
+          "zh_modern": "古今穷酸书生色心最重。",
+          "en": "Poor scholars, past and present, have the strongest lustful hearts.",
+          "ru": "Бедные учёные, прошлые и нынешние, имеют самые сильные похотливые сердца.",
+          "ja": "今古の窮酸、色心最も重し。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "prose",
+      "original": "那甄家丫鬟撷了花，方欲走时，猛抬头见窗内有人，敝巾旧服，虽是贫窘，然生得腰圆背厚，面阔",
+      "zh_modern": "那甄家丫鬟摘了花，正要走的时候，猛然抬头看见窗内有人，头戴破旧的头巾，身穿旧衣服，虽然是贫穷窘迫的样子，然而生得腰圆背厚，面庞宽阔",
+      "en": "When that maidservant of the Zhen family had finished picking flowers and was about to leave, she suddenly raised her head and saw someone at the window—wearing a shabby headcloth and old clothes. Though he appeared poor and distressed, he was born with a round waist, broad back, and wide face",
+      "ru": "Когда та служанка семьи Чжэнь закончила срывать цветы и собиралась уходить, она вдруг подняла голову и увидела кого-то у окна — в потрёпанной головной повязке и старой одежде. Хотя он выглядел бедным и стеснённым, он был рождён с округлой талией, широкой спиной и широким лицом",
+      "ja": "かの甄家の丫鬟、花を撷りて、方に去らんと欲する時、猛然として頭を抬げて窓内に人有るを見る。敝巾旧服にして、貧窘なりと雖も、然れども生まれつき腰圓く背厚く、面闊く",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "贾雨村 (Jia Yucun): His name is a pun on 假语存 (jiǎ yǔ cún), meaning 'false words remain.' His given name 化 (Hua) sounds like 话 (huà, words/speech), and his courtesy name 时飞 (Shifei) puns on 实非 (shí fēi), meaning 'actually not so.' These puns suggest that he represents falsehood and opportunism.",
+    "胡州 (Huzhou): A pun on 胡诌 (hú zhōu), meaning 'to make things up' or 'nonsense.' This reinforces the theme that Jia Yucun's story is fabricated.",
+    "北邙山 (Mount Beimang): A famous burial ground near Luoyang where many emperors and nobles were buried. The monk's reference to meeting there suggests death and the afterlife.",
+    "太虚幻境 (Land of Illusion): The mythical realm where the fates of all characters are recorded. 「销号」(canceling registration) means completing one's worldly mission and returning to the spiritual realm.",
+    "葫芦庙 (Gourd Temple): 葫芦 (húlu, gourd) puns on 糊涂 (hútú, muddle-headed/confused), suggesting that those who dwell there are confused about the true nature of reality.",
+    "隔壁 (neighboring): The commentary notes this term is 'extremely subtle and perilous' because it establishes the fateful proximity between Zhen Shiyin's household and the temple, which will later lead to the fire that destroys both.",
+    "严老爷: The surname 严 (Yán) puns on 关 (guān, pass/barrier), foreshadowing that this visit brings the obstacle or disaster that will lead to the Zhen family's downfall.",
+    "The maidservant picking flowers is 娇杏 (Jiaoxing), whose name puns on 侥幸 (jiǎo xìng, 'lucky by chance'). She will later become Jia Yucun's concubine and then principal wife—a 'fortunate' outcome from this chance encounter.",
+    "The page ends mid-sentence, continuing the description of Jia Yucun's appearance as seen by the maid."
+  ]
+}
