@@ -1,0 +1,103 @@
+{
+  "page": 22,
+  "chapter": "第一回",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "口方，更兼剑眉星眼，直鼻权腮。这丫鬟忙转身回避，心下乃想：「这人生得这样雄壮，却又这样褴褛，想他定是我家主人常说的什么贾雨村了。」如此想，不免又回头两次。",
+      "zh_modern": "方口，更有剑眉星眼，直鼻权腮。这丫鬟忙转身回避，心下便想：「这人生得这样雄壮，却又这样褴褛，想他定是我家主人常说的贾雨村了。」这样想着，不免又回头看了两次。",
+      "en": "—a square mouth, sword-like eyebrows and star-bright eyes, a straight nose and strong cheekbones. The maidservant hastily turned away, thinking: 'This man has such a heroic build, yet dresses so shabbily. He must be that Jia Yucun my master mentions.' Thinking thus, she could not help but look back twice more.",
+      "ru": "—квадратный рот, мечеподобные брови и глаза, яркие как звёзды, прямой нос и крепкие скулы. Служанка поспешно отвернулась, думая: «У этого человека героическое телосложение, но одет он так убого. Это, должно быть, тот самый Цзя Юйцунь.»",
+      "ja": "方口で、さらに剣眉星眼、直鼻権腮であった。この丫鬟は急いで身を翻して避けたが、心の中で思った：「この人はこんなに雄壮に生まれているのに、こんなにも襤褸を着ている。きっと賈雨村という人に違いない。」こう思いながら、また二度振り返った。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "是弄、操遗容。",
+          "zh_modern": "是弄、操遗容（指曹操的相貌）。",
+          "en": "This is the appearance of Cao Cao.",
+          "ru": "Это облик Цао Цао.",
+          "ja": "是れ弄・操の遺容なり。",
+          "type": "夹批"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "雨村见他回了头，便自为这女子心中有意于他，便狂喜不禁，自为此女子必是个巨眼英豪，风尘中之知己也。",
+      "zh_modern": "雨村见她回了头，便自以为这女子心中对他有意，便不禁狂喜，自以为此女子必是个巨眼英豪，是风尘中的知己。",
+      "en": "When Yucun saw her look back, he took it to mean this woman had feelings for him, and could not contain his wild joy, imagining that this woman must be a person of great discernment.",
+      "ru": "Когда Юйцунь увидел, что она обернулась, он решил, что эта женщина питает к нему чувства, и не смог сдержать радости.",
+      "ja": "雨村は彼女が振り返ったのを見て、この女子が自分に心を寄せていると思い込み、狂喜を禁じ得なかった。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "今古穷酸皆会替女妇人中取中自己。",
+          "zh_modern": "古往今来穷酸书生都会替女人心中取中自己。",
+          "en": "Throughout the ages, impoverished scholars imagine themselves selected by women.",
+          "ru": "На протяжении веков обедневшие учёные воображают, что женщины выбирают их.",
+          "ja": "今古、窮酸皆女婦人中に替りて自己を取中せん。",
+          "type": "夹批"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "一日，早又中秋佳节。士隐家宴已毕，乃又另具一席于书房，却自己步月至庙中来邀雨村。原来雨村自那日见了甄家之婢曾回头顾他两次，自为是个知己，便时刻放在心上。今又正值中秋，不免对月有怀，因而口占五言一律云：",
+      "zh_modern": "一日，早又到了中秋佳节。士隐家宴已毕，乃又另外准备了一席于书房，自己踏着月色步行到庙中来邀请雨村。原来雨村自那日见了甄家的婢女曾回头看他两次，自以为她是个知己，便时刻放在心上。今又正值中秋，不免对月有所怀想，因而口占五言律诗一首云：",
+      "en": "One day, the Mid-Autumn Festival arrived again. After the family banquet at Shiyin's home was over, he prepared another feast in the study and walked by moonlight to the temple to invite Yucun. Yucun had kept the maid in his thoughts since she looked back at him. Now that it was Mid-Autumn, he could not help but feel moved by the moon:",
+      "ru": "Однажды снова наступил праздник Середины осени. Шиинь приготовил пир и пошёл при свете луны в храм пригласить Юйцуня. Юйцунь держал служанку в мыслях. Теперь, при виде луны, он сочинил стихотворение:",
+      "ja": "ある日、早くも中秋の佳節となった。士隠は書房に席を設け、月を踏んで廟に雨村を招きに行った。雨村はあの婢女を心に留めていた。今また中秋に当たり、月を見て感慨を覚え、口占にて五言律詩一首を詠んだ：",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "这是第一首诗。",
+          "zh_modern": "这是第一首诗。",
+          "en": "This is the first poem.",
+          "ru": "Это первое стихотворение.",
+          "ja": "これは第一首の詩なり。",
+          "type": "夹批"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "poem",
+      "original": "未卜三生愿，频添一段愁。\n闷来时敛额，行去几回头。\n自顾风前影，谁堪月下俦？\n蟾光如有意，先上玉人楼。",
+      "zh_modern": "未能预知三生的愿望，频频增添一段忧愁。\n烦闷时皱起眉头，离去时几次回头。\n自己看顾风前的身影，谁能配得上月下的伴侣？\n蟾蜍的光辉若有意，先照上美人的楼阁。",
+      "en": "Not knowing if my three-life wish will come true,\nI add again and again to my sorrow.\nIn gloom I furrow my brow,\nWhen leaving, how many times I look back.\nI gaze at my shadow in the wind—\nWho is worthy to be my companion beneath the moon?\nIf the toad's light has any meaning,\nLet it first shine upon the jade beauty's tower.",
+      "ru": "Не зная, сбудется ли желание трёх жизней,\nЯ снова и снова множу печаль.\nВ тоске хмурю брови,\nУходя, сколько раз оглядываюсь.\nСмотрю на свою тень на ветру —\nКто достоин быть спутником под луной?",
+      "ja": "未だ卜せず三生の願、頻りに一段の愁を添う。\n悶える時は額を斂め、行き去る時幾度か回頭す。\n自ら顧みる風前の影、誰か堪えん月下の俦。\n蟾光若し意有らば、先ず玉人の楼に上れ。",
+      "commentary": []
+    },
+    {
+      "id": 5,
+      "type": "poem",
+      "original": "玉在匮中求善价，钗于奁内待时飞。",
+      "zh_modern": "美玉在匣中求取好价，金钗在妆奁内等待时机飞黄腾达。",
+      "en": "The jade in its casket awaits a worthy price,\nThe hairpin in its box bides its time to soar.",
+      "ru": "Яшма в шкатулке ждёт достойной цены,\nЗаколка в ларце выжидает время взлететь.",
+      "ja": "玉は匱中に在りて善価を求め、釵は奩内に於いて時飛を待つ。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "前用二玉合传，今用二宝。",
+          "zh_modern": "前用二玉合传，今用二宝（暗示宝玉和宝钗）。",
+          "en": "Previously using 'two jades,' now using 'two treasures' (hinting at Baoyu and Baochai).",
+          "ru": "Ранее «две яшмы», теперь «два сокровища» (намёк на Баоюй и Баочай).",
+          "ja": "前に二玉を用いて合伝し、今二宝を用う。",
+          "type": "夹批"
+        }
+      ]
+    }
+  ],
+  "total_segments": 5,
+  "translator_notes": [
+    "三生 (Three Lives): A Buddhist concept referring to past, present, and future lives.",
+    "蟾光 (Toad's light): The toad in the moon. 'Toad's light' means moonlight.",
+    "玉在匮中求善价，钗于奁内待时飞: This couplet foreshadows 林黛玉 (with 玉 'jade') and 薛宝钗 (with 钗 'hairpin').",
+    "时飞 (Shifei): Yucun's courtesy name, used here as a pun—'waiting for the time to fly/soar.'"
+  ]
+}

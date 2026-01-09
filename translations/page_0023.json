@@ -1,0 +1,83 @@
+{
+  "page": 23,
+  "chapter": "第一回",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "恰值士隐走来听见，笑道：「雨村兄真抱负不浅也！」雨村忙笑道：「岂敢！不过偶吟前人之句，何敢狂诞至此。」因问：「老先生何兴至此？」士隐笑道：「今夜中秋，俗谓'团圆之节'，想尊兄旅寄僧房，不无寂寞之感，故特具小酌，邀兄到敝斋一饮，不知可纳芹意否？」",
+      "zh_modern": "恰好士隐走来听见了，笑道：「雨村兄真是抱负不浅啊！」雨村忙笑道：「岂敢！不过是偶然吟诵前人的诗句，哪敢如此狂妄。」因而问道：「老先生有何雅兴至此？」士隐笑道：「今夜是中秋，俗称'团圆之节'，想到兄台旅居僧房，不免有寂寞之感，所以特地备了小酌，邀请兄台到敝斋一饮，不知可否接受我这点心意？」",
+      "en": "Just then Shiyin came by and heard this. He laughed: 'Brother Yucun, your ambitions are truly not shallow!' Yucun hastily laughed: 'How dare I! I was merely reciting ancient lines.' Shiyin laughed: 'Tonight is the Mid-Autumn Festival. I imagined you might feel lonely, so I prepared a small repast to invite you for a drink.'",
+      "ru": "Как раз в этот момент Шиинь подошёл и услышал. Он рассмеялся: «Брат Юйцунь, ваши амбиции не малы!» Юйцунь поспешно ответил: «Как я смею! Я лишь декламировал древние строки.» Шиинь рассмеялся: «Сегодня праздник Середины осени. Я приготовил угощение.»",
+      "ja": "ちょうどその時、士隠が来てこれを聞き、笑って言った。「雨村兄、真に抱負浅からざるなり！」雨村は急いで笑って言った。「豈に敢えてせんや！ただ前人の句を吟じただけです。」士隠は笑って言った。「今夜は中秋です。小酌を用意いたしました。」",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "不推辞，语便不入故套。",
+          "zh_modern": "不推辞，语便不入故套。",
+          "en": "Not declining—his words thus avoid clichés.",
+          "ru": "Не отказываясь — его слова избегают клише.",
+          "ja": "推辞せず、語便ち故套に入らず。",
+          "type": "夹批"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "须臾茶毕，早已设下杯盘，那美酒佳肴自不必说。二人归坐，先是款斟漫饮，次渐谈至兴浓，不觉飞觥限斝起来。当时街坊上家家箫管，户户弦歌，当头一轮明月，飞彩凝辉，二人愈添豪兴，酒到杯干。雨村此时已有七八分酒意，狂兴不禁，乃对月寓怀，口号一绝云：",
+      "zh_modern": "须臾茶毕，早已设下杯盘，那美酒佳肴自不必说。二人落座，先是慢慢斟酒饮酒，后来渐渐谈至兴浓，不觉飞觥限斝起来。当时街坊上家家箫管，户户弦歌，当头一轮明月，二人愈添豪兴，酒到杯干。雨村此时已有七八分酒意，狂兴不禁，乃对月寓怀，口号一绝云：",
+      "en": "Soon the tea was finished, cups and dishes laid out. The two sat: first leisurely drinking, then conversation growing animated. Every household was playing music, a full moon hung overhead. The two grew spirited, draining every cup. Yucun was seven or eight parts drunk and improvised a quatrain:",
+      "ru": "Вскоре чай был выпит, чашки расставлены. Двое сели: сначала пили неспешно, затем беседа оживилась. В каждом доме звучала музыка, над головой висела полная луна. Юйцунь был пьян и экспромтом сочинил четверостишие:",
+      "ja": "しばらくして茶を終え、杯盤が設けられた。二人は席に着き、先ずは漫飲し、次第に興が乗って飛觥限斝となった。街坊の家々は音楽を奏で、頭上には明月が輝いていた。雨村はすでに七八分の酒意があり、口号にて一絶を詠んだ：",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "type": "poem",
+      "original": "时逢三五便团圆，满把晴光护玉栏。\n天上一轮才捧出，人间万姓仰头看。",
+      "zh_modern": "时逢十五便团圆，满把晴朗的月光照护着玉栏杆。\n天上一轮明月刚刚捧出，人间万姓都仰头观看。",
+      "en": "When the time comes for the fifteenth, there is reunion,\nFull clear light guards the jade balustrade.\nAs soon as the orb in heaven is borne aloft,\nAll the people on earth look up to see.",
+      "ru": "Когда приходит пятнадцатый день, наступает воссоединение,\nПолный ясный свет охраняет яшмовую балюстраду.\nКак только небесный диск поднимается,\nВсе люди на земле задирают головы.",
+      "ja": "時、三五に逢えば便ち団圓、満把の晴光玉欄を護る。\n天上一輪才に捧げ出せば、人間万姓頭を仰いで看る。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "奸雄心事，不觉露出。",
+          "zh_modern": "奸雄心事，不觉露出。",
+          "en": "The scheming ambitions of a treacherous hero inadvertently revealed.",
+          "ru": "Коварные амбиции предателя невольно раскрыты.",
+          "ja": "奸雄の心事、覚えず露出す。",
+          "type": "夹批"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "士隐听了，大叫：「妙哉！吾每谓兄必非久居人下者，今所吟之句，飞腾之兆已见，不日可接履于云霄之上矣。可贺，可贺！」乃亲斟一斗为贺。雨村因干过，叹道：「非晚生酒后狂言，若论时尚之学，晚生也或可去充数沽名，只是目今行囊、路费一概无措，神京路远，非赖卖字撰文可能到者。」士隐不待说完，便道：「兄何不早言。愚每有此心，但每遇兄时，兄并未谈及，愚故未敢唐突。今既及此，愚虽不才，'义利'二字却还识得。」",
+      "zh_modern": "士隐听了，大叫道：「妙哉！我常说兄必定不是久居人下之人，今天所吟之句，飞腾之兆已经显现，不日便可踏上云霄之上了。可贺，可贺！」于是亲自斟了一斗酒为贺。雨村干了这杯酒后，叹道：「并非晚生酒后狂言，若论当今学问，晚生也或许可以去沽名钓誉，只是如今路费没有着落，神京路途遥远。」士隐不等他说完，便道：「兄为何不早说呢。愚弟每每有此心，'义利'二字却还认识。」",
+      "en": "Shiyin exclaimed: 'Marvelous! I have always said you are not one to remain beneath others. The verses show signs of soaring flight—soon you will tread upon the clouds. Congratulations!' He poured a cup to toast him. After Yucun drained it, he sighed: 'These are not drunken ravings. I might gain reputation, but road expenses are unprovided for, and the Divine Capital is far.' Shiyin said: 'Why did you not speak earlier? I understand righteousness and profit.'",
+      "ru": "Шиинь воскликнул: «Чудесно! Строки показывают признаки воспарения — скоро вы будете ступать по облакам. Поздравляю!» После того как Юйцунь осушил чашу, он вздохнул: «Это не пьяный бред. Но дорожные расходы не обеспечены.» Шиинь сказал: «Почему вы не сказали раньше? Я понимаю праведность и выгоду.»",
+      "ja": "士隠は聞いて大いに叫んだ。「妙なるかな！今吟じた句には、飛騰の兆しが見える。賀すべし！」雨村は干した後、嘆いて言った。「晩生の狂言に非ず。只だ路費がなく、神京路遠し。」士隠は言った。「兄、何ぞ早く言わざるや。愚は『義利』二字は識り得る。」",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "伏笔，作巨眼语。妙！",
+          "zh_modern": "伏笔，作巨眼语。妙！",
+          "en": "Foreshadowing, speaking with great discernment. Wonderful!",
+          "ru": "Предвосхищение, слова проницательности. Чудесно!",
+          "ja": "伏筆、巨眼の語を作す。妙！",
+          "type": "夹批"
+        }
+      ]
+    }
+  ],
+  "total_segments": 4,
+  "translator_notes": [
+    "三五 (Sanwu): The fifteenth day of the lunar month. 三五 = 3×5 = 15.",
+    "神京 (Divine Capital): The imperial capital, Beijing.",
+    "义利 (Righteousness and Profit): A key Confucian dichotomy. Shiyin will help Yucun financially.",
+    "The poem reveals Yucun's ambition—the moon representing imperial favor and success."
+  ]
+}

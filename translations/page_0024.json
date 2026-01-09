@@ -1,0 +1,113 @@
+{
+  "page": 24,
+  "chapter": "第一回",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "故自不讹。且喜明岁正当大比，兄宜作速入都，春闱一战，方不负兄之所学也。其盘费馀事，弟自代为处置，亦不枉兄之谬识矣！」当下即命小童进去，速封五十两白银，并两套冬衣。又云：「十九日乃黄道之期，兄可即买舟西上，待雄飞高举，明冬再晤，岂非大快之事耶！」雨村收了银、衣，不过略谢一语，并不介意，仍是吃酒谈笑。那天已交三鼓，二人方散。",
+      "zh_modern": "故自不会有错。而且高兴的是明年正好是大考之年，兄宜速速进入京都，春闱一战，才不辜负兄的所学啊。至于盘费等事，弟自当代为处置，也不枉兄错误地赏识我了！」当下即命小童进去，速封五十两白银，并两套冬衣。又说：「十九日是黄道吉日，兄可即刻买船西上，待到飞黄腾达之时，明年冬天再见面，岂不是大快之事！」雨村收了银子和衣服，只略略谢了一句，并不介意，仍旧吃酒谈笑。那天已交三更，二人方才散去。",
+      "en": "So there will be no mistake. Next year is the examination year; you should proceed to the capital. I shall arrange travel expenses.' He ordered fifty taels of silver and two sets of winter clothing to be wrapped up. 'The nineteenth is an auspicious day; hire a boat and head west. When you succeed, we shall meet next winter.' Yucun accepted the silver and clothes with brief thanks and continued drinking. It was the third watch when they parted.",
+      "ru": "Ошибки не будет. В следующем году экзамены; вам следует отправиться в столицу. Я устрою дорожные расходы.» Он приказал завернуть пятьдесят лян серебра и два комплекта зимней одежды. «Девятнадцатое — благоприятный день; наймите лодку. Когда преуспеете, встретимся следующей зимой.» Юйцунь принял серебро и одежду, кратко поблагодарив. Была третья стража, когда они расстались.",
+      "ja": "故に誤りなし。明歳は大比に当たる、兄は都に入るべし。盤費は弟が処置す。」小童に命じて五十両の白銀と二套の冬衣を封じさせた。「十九日は黄道の期なり、舟を買いて西上すべし。成功を待ちて明冬再び会おう。」雨村は銀・衣を収め、略謝して酒を吃し談笑す。三鼓に至りて二人散ず。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "写士隐如此豪爽，愧杀近之读书假道学矣。",
+          "zh_modern": "写士隐如此豪爽，愧煞近来的假道学了。",
+          "en": "This depicts Shiyin as so magnanimous—it shames hypocritical scholars.",
+          "ru": "Это изображает Шииня столь великодушным — это позорит лицемерных учёных.",
+          "ja": "士隠の豪爽を写し、近来の假道学を愧殺す。",
+          "type": "夹批"
+        },
+        {
+          "source": "脂批",
+          "original": "写雨村真是个英雄。",
+          "zh_modern": "写雨村真是个英雄。",
+          "en": "This depicts Yucun as truly a hero.",
+          "ru": "Это изображает Юйцуня как героя.",
+          "ja": "雨村を写すに真に英雄なり。",
+          "type": "夹批"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "士隐送雨村去后，回房一觉，直至红日三竿方醒。因思昨夜之事，意欲再写两封荐书，与雨村带至神京，使雨村投谒个仕宦之家，为寄足之地。因使人过去请时，那家人去了回来说：「和尚说，贾爷今日五鼓已进京去了，也曾留下话与和尚转达老爷，说：'读书人不在黄道黑道，总以事理为要，不及面辞了。'」士隐听了，也只得罢了。",
+      "zh_modern": "士隐送雨村去后，回房一觉，直到红日三竿才醒来。因想起昨夜之事，想要再写两封推荐信。于是派人过去请时，家人回来说：「和尚说，贾老爷今天五更时分已经进京去了，留下话说：'读书人不在乎黄道黑道，以事理为重，来不及当面辞别了。'」士隐听了，也只得作罢。",
+      "en": "After seeing Yucun off, Shiyin slept until the sun was high. Thinking of the previous night, he wished to write recommendation letters. When he sent someone to invite Yucun, the servant returned: 'The monk said Master Jia left at the fifth watch, leaving word: A scholar does not worry about auspicious days; practical reasoning matters. I could not take leave in person.' Shiyin could only let it go.",
+      "ru": "Проводив Юйцуня, Шиинь спал до полудня. Думая о вчерашнем, он хотел написать рекомендательные письма. Слуга вернулся: «Монах сказал, господин Цзя уехал в пятую стражу, оставив слово: Учёный не заботится о благоприятных днях; важно практическое рассуждение.» Шиинь смирился.",
+      "ja": "士隠は雨村を送った後、房に戻って眠り、紅日三竿に醒めた。昨夜の事を思い、薦書を書こうとした。人を使わして請いに行かせると、家人は言った：「和尚が言うには、賈爺は五鼓に京に進んだ、話を残した：『読書人は黄道黒道を在らず、事理を要と為す、面辞するに及ばず。』と。」士隠は罷んだ。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "写雨村真令人爽快。",
+          "zh_modern": "写雨村真令人爽快。",
+          "en": "The portrayal of Yucun is truly refreshing.",
+          "ru": "Изображение Юйцуня освежающе.",
+          "ja": "雨村を写すに人をして爽快ならしむ。",
+          "type": "夹批"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "真是闲处光阴易过，倏忽又是元宵佳节矣。士隐命家人霍启抱了英莲去看社火花灯，半夜中，霍启因要小解，便将英莲放在一家门槛上坐着。待他小解完了来抱时，那有英莲的踪影？急得霍启直寻了半夜，至天明不见，那霍启也就不敢回来见主人，便逃往他乡去了。那士隐夫妇，见女儿一夜不归，便知有些不妥，再使几个人去寻找，回来皆云连音响皆无。夫妻二人，半世只生此女，一旦失落，岂不思想，因此昼夜啼哭，几乎不曾寻死。",
+      "zh_modern": "真是闲处光阴易过，转眼又是元宵佳节了。士隐命家人霍启抱了英莲去看社火花灯，半夜里，霍启因要小解，便将英莲放在一家门槛上坐着。等他来抱时，哪里还有英莲的踪影？霍启直寻了半夜，至天明也不见，便逃往他乡去了。士隐夫妇，见女儿不归，便知不妥，再派人去寻找，都说没有音讯。夫妻二人，半世只生此女，一旦失落，岂能不思想，因此昼夜啼哭，几乎寻死。",
+      "en": "Time passes easily in idle times, and it was the Lantern Festival again. Shiyin ordered Huoqi to carry Yinglian to see the lanterns. At midnight, Huoqi needed to relieve himself and set Yinglian on a doorstep. When he returned, she was gone. Huoqi searched until dawn but fled rather than face his master. When Shiyin and his wife saw their daughter did not return, they sent others to search, but found no trace. The couple had only this one daughter; how could they not grieve? Day and night they wept.",
+      "ru": "Время в праздности проходит легко, и снова наступил праздник Фонарей. Шиинь приказал Хоци нести Инлянь смотреть фонари. В полночь Хоци нужно было справить нужду, и он посадил Инлянь на порог. Когда вернулся, её не было. Хоци искал до рассвета, но бежал, не смея встретиться с хозяином. Шиинь и жена поняли, что что-то не так, послали искать, но не нашли. У них была только эта дочь; как им не горевать? День и ночь они плакали.",
+      "ja": "真に閑処に光陰過ぎ易く、忽ち元宵の佳節となった。士隠は家人の霍啓に英蓮を抱いて花灯を見に行かせた。半夜中、霍啓は小解を要して、英蓮を門檻に坐らせた。戻ると、英蓮の蹤影は無かった。霍啓は半夜を尋ねたが見えず、他郷に逃げ去った。士隠夫婦は女児が帰らざるを見て不妥を知り、人を使わして尋ねさせたが、音響すら無かった。夫妻は半世只だ此の女を生む、失落せば思想せざるを得ず、昼夜啼哭し、幾ど尋死せんとした。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "妙！祸起也。此因事而命名。",
+          "zh_modern": "妙！祸起也。这是因事而命名（霍启谐音祸起）。",
+          "en": "Wonderful! Calamity arises. This name is given according to events (Huoqi sounds like 'disaster arises').",
+          "ru": "Чудесно! Бедствие начинается. Имя дано по событиям (Хоци звучит как 'бедствие возникает').",
+          "ja": "妙！禍起なり。事に因りて命名す。",
+          "type": "夹批"
+        },
+        {
+          "source": "脂批",
+          "original": "唤醒天下父母之痴心。",
+          "zh_modern": "唤醒天下父母之痴心。",
+          "en": "This awakens the foolish devotion of all parents.",
+          "ru": "Это пробуждает преданность всех родителей.",
+          "ja": "天下の父母の痴心を喚醒す。",
+          "type": "夹批"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "看看一月，士隐先就得了一病，当时封氏骔人也因思女构疾，日日请医疗病。不想这日三月十五，葫芦庙中炸供，那些和尚不加小心，致使油锅火逸，便烧着窗纸。此方人家多用竹篱木壁者，大抵也因劫数，于是接二连三，牵五挂四，将一条街烧得如火焰山一般。彼时虽有军民来救，那火已成了势，如何救得下去？直烧了一夜，方渐渐熄去，也不知烧了几家。只可怜甄",
+      "zh_modern": "看看一个月过去了，士隐先就得了一病，当时封氏夫人也因思念女儿而生病，日日请医治病。不想这日三月十五，葫芦庙中炸供，那些和尚不小心，致使油锅火逸，便烧着窗纸。此方人家多用竹篱木壁，大抵也因劫数，于是接二连三，将一条街烧得如火焰山一般。虽有军民来救，那火已成势，如何救得下去？直烧了一夜，方渐渐熄去，也不知烧了几家。只可怜甄",
+      "en": "A month passed, and Shiyin fell ill. Madam Feng also fell sick from grieving for her daughter. On the fifteenth of the third month, the Gourd Temple was making fried offerings; the monks were careless, causing the oil to catch fire. In this area, many households used bamboo fences and wooden walls. The fire spread, burning the street like a mountain of flames. Although soldiers came to fight it, the fire was too strong. It burned through the night, and no one knew how many homes were destroyed. Pitiful indeed was Zhen",
+      "ru": "Прошёл месяц, и Шиинь заболел. Госпожа Фэн тоже заболела от тоски по дочери. Пятнадцатого числа третьего месяца в Храме Тыквы готовили жареные подношения; монахи были небрежны, масло загорелось. В этой местности многие дома использовали бамбук и дерево. Огонь распространился, сжигая улицу как огненную гору. Хотя пришли солдаты, огонь был слишком силён. Горел всю ночь. Поистине жалок был Чжэнь",
+      "ja": "一月、士隠先ず一病を得た。封氏夫人も女を思うが故に病を構えた。三月十五、葫蘆廟中にて炸供を作り、和尚達は小心せず、油鍋の火が窗紙に燃え着いた。此の方の人家は竹籬木壁を用いる者多く、劫数に因りて接二連三、一条の街を火焔山の如く焼いた。軍民が救いに来たが、火は勢いを成し、如何にして救い得んや？一夜を焼き、漸く熄み去り、幾家を焼きたるかも知らず。只だ可憐なり甄",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "土俗人风。",
+          "zh_modern": "土俗人风（当地的风俗习惯）。",
+          "en": "Local customs and folkways.",
+          "ru": "Местные обычаи и нравы.",
+          "ja": "土俗人風。",
+          "type": "夹批"
+        }
+      ]
+    }
+  ],
+  "total_segments": 4,
+  "translator_notes": [
+    "春闱 (Spring Examination): The triennial provincial examinations.",
+    "黄道 (Auspicious Day): 'Yellow road days' are auspicious for important activities.",
+    "霍启 (Huoqi): The servant's name puns on 祸起 (huòqǐ), 'disaster arises.'",
+    "元宵 (Lantern Festival): The 15th of the first lunar month—exactly what the monk's prophecy warned about.",
+    "三月十五: The fire occurs on another 15th, echoing the Lantern Festival.",
+    "The page ends mid-sentence, as the narrative describes the destruction of Shiyin's household."
+  ]
+}
