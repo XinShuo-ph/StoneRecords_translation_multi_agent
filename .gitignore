@@ -44,5 +44,5 @@ Thumbs.db
 # Large files that shouldn't be committed
 # (but keep the source PDF as it's part of the project)
 
-# Sync daemon local state (each worker has their own)
-.sync/
+# Extracted page images (can regenerate from PDF)
+source_pages/*.png
