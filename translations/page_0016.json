@@ -1,0 +1,176 @@
+{
+  "page": 16,
+  "chapter": "第一回",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "今之人，贫者日为衣食所累，富者又怀不足之心，纵一时稍闲，又有贪淫恋色、好货寻愁之事，那里有工夫去看那理治之书？所以，我这一段故事，也不愿世人称奇道妙，也不定要世人喜悦检读，",
+      "zh_modern": "如今的人，贫穷的整日为衣食操劳，富贵的又怀着贪得无厌的心，纵然有一时的空闲，又有贪淫好色、聚敛钱财、自寻烦恼的事，哪里有工夫去看那些治理国政的书？所以，我这一段故事，也不指望世人称奇道妙，也不一定要世人喜悦阅读，",
+      "en": "People today, if poor, are burdened daily by [the need for] clothing and food; if rich, they are still dissatisfied. Even if they have a moment of leisure, they are occupied with lust and greed, acquiring goods and seeking sorrow. Where would they find the time to read books on governance? Therefore, with this story of mine, I do not wish for people to praise it as a marvel, nor do I insist that they read it with delight,",
+      "ru": "Нынешние люди, если бедны, то каждый день обременены заботами о хлебе насущном; если богаты, то все равно чувствуют неудовлетворенность. Даже если выпадает минутка досуга, они предаются похоти и стяжательству, ищут богатства и находят печали. Где уж им найти время читать книги об управлении государством? Поэтому я не желаю, чтобы люди восхищались чудесностью моей истории, и не настаиваю, чтобы они читали её с удовольствием,",
+      "ja": "今の人、貧者は日に衣食の為に累せられ、富者は又た不足の心を懐（いだ）き、縦（たと）い一時稍（やや）閑あるも、又た貪淫恋色、好貨尋愁の事有り、那（いず）くんぞ工夫有りて彼の理治の書を看らんや？ 所以（ゆえ）に、我がこの一段の故事、世人の奇と称し妙と道（い）うを願わず、亦た定めて世人の喜悦して検読するを要せず、",
+      "commentary": [
+        {
+          "source": "甲戌/蒙府",
+          "original": "批示误谬。",
+          "zh_modern": "批示谬误。",
+          "en": "Pointing out errors.",
+          "ru": "Указывая на ошибки.",
+          "ja": "誤謬を批示せん。"
+        },
+        {
+          "source": "甲戌/蒙府",
+          "original": "转得更好。",
+          "zh_modern": "转折得更好。",
+          "en": "The transition is even better.",
+          "ru": "Переход еще лучше.",
+          "ja": "転ずること更に好し。"
+        },
+        {
+          "source": "甲戌",
+          "original": "开卷一篇立意，真打破历来小说窠臼。阅其笔则是《庄子》《离骚》之亚。◇斯亦太过。",
+          "zh_modern": "开卷这一篇的立意，真是打破了历来小说的老套。看它的笔法，则是《庄子》《离骚》的亚流。◇这也未免太过了。",
+          "en": "The intent of this opening chapter truly breaks the mold of traditional novels. Reading its style, it is second only to \"Zhuangzi\" and \"Li Sao.\" ◇ This is perhaps too much praise.",
+          "ru": "Замысел этой вступительной главы поистине ломает шаблоны прежних романов. Стиль его уступает лишь «Чжуан-цзы» и «Ли сао». ◇ Это уж слишком.",
+          "ja": "開巻一篇の立意、真に歴来の小説の窠臼（かきゅう）を打破す。その筆を閲するに則ち『荘子』『離騒』の亜（つぎ）なり。◇斯れ亦た太（はなは）だ過ぐ。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "只愿他们当那醉馀饱卧之时，或避世去愁之际，把此一玩，岂不省了些寿命筋力？就比那谋虚逐妄去，也省了口舌是非之害、腿脚奔忙之苦。再者，亦令世人换新眼目，不比那些胡牵乱扯，忽离忽遇，满纸才人淑女、子建文君、红娘小玉等通共熟套之旧稿。我师意为何如？”",
+      "zh_modern": "只希望他们在酒醉饭饱、躺卧休息的时候，或者是避世消愁的时候，拿来把玩一番，岂不省了一些寿命筋力？相比那些谋求虚名、追逐妄想的事，也省了口舌是非的祸害、腿脚奔波的劳苦。再说，也能让世人换换新眼目，不比那些胡牵乱扯、忽离忽遇、满纸才人淑女、曹植文君、红娘小玉等通俗老套的旧稿。老师您的意思如何？”",
+      "en": "I only hope that when they are lying down after eating and drinking to satiety, or when they want to escape the world and dispel sorrow, they might take this up for amusement. Wouldn't that save some vitality and energy? Compared to scheming for vanity and chasing illusions, it would save them from the harm of gossip and disputes, and the toil of running around. Moreover, it would give people a fresh perspective, unlike those old, hackneyed manuscripts full of tangled plots, sudden partings and meetings, and pages full of talented scholars and ladies, Cao Zhis and Wenjuns, Hongniangs and Xiaoyus. What do you think, Master?\"",
+      "ru": "Я лишь надеюсь, что когда они, пьяные и сытые, прилягут отдохнуть или захотят уйти от мира и развеять тоску, они возьмут это и полистают. Разве это не сбережет им немного жизненных сил? По сравнению с погоней за пустым и ложным, это избавит их от вреда сплетен и ссор, от тягот беготни. К тому же, это даст людям новый взгляд, в отличие от тех старых избитых рукописей, где все притянуто за уши, где сплошь встречи и разлуки, где страницы полны талантливых мужей и благородных дев, Цао Чжи и Вэнь-цзюнь, Хуннян и Сяоюй. Что вы думаете об этом, Наставник?»",
+      "ja": "只だ願わくは彼らが那（か）の酔余飽臥の時、或いは世を避け愁いを去るの際（きわ）に当たり、此を把（と）りて一玩せば、豈（あに）些（いささ）かの寿命筋力を省かざらんや？ 那の虚を謀り妄を逐（お）い去るに比すれば、就（すなわ）ち口舌是非の害、腿脚奔忙の苦を省く。再者（また）、亦た世人をして新眼目を換（か）えしめ、那の胡牽乱扯（こけんらんしゃ）、忽離忽遇、満紙の才人淑女、子建・文君、紅娘・小玉等の通共熟套の旧稿に比せず。我が師の意は如何？」と。",
+      "commentary": [
+        {
+          "source": "甲戌/蒙府",
+          "original": "余代空空道人答曰：“不独破愁醒盹，且有大益。”",
+          "zh_modern": "我代空空道人回答说：“不仅能破愁解闷、醒神醒脑，而且大有益处。”",
+          "en": "I answer on behalf of Vanitas: \"Not only does it dispel sorrow and wake one from dozing, but it is also of great benefit.\"",
+          "ru": "Я отвечаю за даоса Пустоту: «Не только разгоняет тоску и будит ото сна, но и приносит большую пользу».",
+          "ja": "余、空空道人に代りて答えて曰く：「独り愁いを破り盹（いねむり）を醒ますのみならず、且つ大益有り」と。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "空空道人听如此说，思忖半晌，将这《石头记》再检阅一遍，因见上面虽有些指奸责佞、贬恶诛邪之语，亦非伤时骂世之旨，及至君仁臣良、父慈子孝，凡伦常所关之处，皆是称功颂德，眷眷无穷，实非别书之可比。虽其中大旨谈情，亦不过实录其事，又非假拟妄称，一味淫邀艳约、私订偷盟之可比。因毫不干涉时世，方从头至尾抄录回来，问世传奇。",
+      "zh_modern": "空空道人听了这话，思量了半天，将这部《石头记》再检阅了一遍，因为看见上面虽然有些指责奸佞、贬斥恶行、诛伐邪恶的话语，但并非伤时骂世的主旨，至于君仁臣良、父慈子孝，凡是关系到伦常的地方，都是歌功颂德，眷恋无穷，实在不是别的书能比的。虽然其中大旨是谈情，也不过是如实记录其事，又不是虚构妄称、一味描写淫邀艳约、私订偷盟的书可比的。因为毫不干涉时世，才从头到尾抄录回来，问世流传。",
+      "en": "Hearing this, Vanitas pondered for a long while and reviewed \"The Story of the Stone\" once more. He saw that although it contained some words criticizing the treacherous and blaming the sycophantic, disparaging evil and punishing wickedness, its intent was not to slander the times or revile the world. As for benevolent rulers and good ministers, kind fathers and filial sons—wherever ethical relationships were concerned—it was full of praise and endless devotion, truly incomparable to other books. Although its main theme was love, it merely recorded the events faithfully, and was not comparable to those books that fabricate lies and focus solely on licentious invitations and secret trysts. Because it did not interfere with the politics of the times at all, he copied it from beginning to end and brought it back to publish as a marvel.",
+      "ru": "Даос Пустота, услышав это, задумался надолго и еще раз просмотрел «Записки о Камне». Он увидел, что хотя там и есть слова, обличающие коварных и льстивых, осуждающие зло и карающие пороки, но цель книги не в том, чтобы ругать время и мир. Что же касается гуманных государей и верных министров, добрых отцов и почтительных сыновей — везде, где речь идет об этических нормах, книга полна восхваления и бесконечной преданности, с чем не могут сравниться другие книги. Хотя главная тема — чувства, это всего лишь правдивая запись событий, и её нельзя сравнить с теми книгами, где сплошной вымысел и лишь похотливые приглашения да тайные союзы. Поскольку она нисколько не затрагивала политику того времени, он переписал её от начала до конца, чтобы поведать миру.",
+      "ja": "空空道人此（か）くの如く説くを聴き、思忖すること半晌（はんしょう）、この『石頭記』を再（ま）た検閲すること一遍、因りて見るに上面（かみ）に些（いささ）か姦を指（さ）し佞を責め、悪を貶（おとし）め邪を誅するの語有りと雖（いえど）も、亦た時を傷（いた）み世を罵るの旨に非ず、君仁臣良、父慈子孝に至りては、凡そ倫常に関係する処は、皆是れ功を称し徳を頌（たた）え、眷眷として窮まり無く、実に別書の比すべきに非ず。その中大旨情を談ずと雖も、亦た不过（ただ）実（まこと）にその事を録するのみにして、又た仮擬妄称、一味の淫邀艶約、私訂偸盟の比すべきに非ず。時世に干渉すること毫（いささ）かも無きに因り、方（はじ）めて頭従（よ）り尾に至るまで抄録し来たりて、問世伝奇す。",
+      "commentary": [
+        {
+          "source": "甲戌/蒙府",
+          "original": "本名。",
+          "zh_modern": "本来的名字。",
+          "en": "Original name.",
+          "ru": "Изначальное название.",
+          "ja": "本名なり。"
+        },
+        {
+          "source": "甲戌/蒙府",
+          "original": "这空空道人也太小心了，想亦世之一腐儒耳。",
+          "zh_modern": "这空空道人也太小心了，想来也是世上的一个腐儒罢了。",
+          "en": "This Vanitas is too cautious; I suppose he is just a rotten pedant of the world.",
+          "ru": "Этот даос Пустота слишком осторожен; полагаю, он просто один из мирских начетчиков.",
+          "ja": "この空空道人も亦た太（はなは）だ小心なり、想うに亦た世の一腐儒のみ。"
+        },
+        {
+          "source": "甲戌/蒙府",
+          "original": "亦断不可少。",
+          "zh_modern": "也断断不可少。",
+          "en": "Also absolutely indispensable.",
+          "ru": "Тоже совершенно необходимо.",
+          "ja": "亦た断じて少なかるべからず。"
+        },
+        {
+          "source": "甲戌/蒙府",
+          "original": "要紧句。",
+          "zh_modern": "要紧的句子。",
+          "en": "A key sentence.",
+          "ru": "Важная фраза.",
+          "ja": "要緊の句。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "因空见色，由色生情，传情入色，自色悟空，遂易名为情僧，改《石头记》为《情僧录》。至吴玉峰题曰《红楼梦》。东鲁孔梅溪则题曰《风月宝鉴》。",
+      "zh_modern": "因为由空看见色，由色产生情，由情又传入色，从色又悟入空，于是改名为情僧，改《石头记》为《情僧录》。到了吴玉峰题名为《红楼梦》。东鲁孔梅溪则题名为《风月宝鉴》。",
+      "en": "Because he saw Form through Emptiness, and Passion arose from Form; he transmitted Passion into Form, and from Form realized Emptiness; therefore he changed his name to the Monk of Passion and changed the title \"The Story of the Stone\" to \"The Record of the Monk of Passion.\" Later, Wu Yufeng titled it \"A Dream of Red Mansions.\" Kong Meixi of Eastern Lu titled it \"A Mirror for the Romantic.\"",
+      "ru": "Поскольку из Пустоты он увидел Форму, из Формы родились Чувства, Чувства вошли в Форму, и через Форму он постиг Пустоту, он сменил имя на Монах Страсти, а название «Записки о Камне» на «Записи Монаха Страсти». У Юйфэн озаглавил её «Сон в красном тереме». Кун Мэйси из Восточного Лу озаглавил её «Зеркало любви» (Драгоценное зеркало ветра и луны).",
+      "ja": "空に因りて色を見、色に由りて情を生じ、情を伝えて色に入り、色より空を悟り、遂に名を易（か）えて情僧と為し、『石頭記』を改めて『情僧録』と為す。呉玉峰に至りて題して『紅楼夢』と曰う。東魯の孔梅渓は則ち題して『風月宝鑑』と曰う。",
+      "commentary": [
+        {
+          "source": "甲戌",
+          "original": "雪芹旧有《风月宝鉴》之书，乃其弟棠村序也。今棠村已逝，余睹新怀旧，故仍因之。",
+          "zh_modern": "雪芹旧作有《风月宝鉴》一书，是他的弟弟棠村作的序。如今棠村已经去世，我看到新书怀念旧人，所以仍沿用此名。",
+          "en": "Xueqin previously had a book titled \"A Mirror for the Romantic,\" with a preface by his younger brother Tangcun. Now that Tangcun has passed away, seeing the new work makes me cherish the old memories, so I still use this title.",
+          "ru": "У Сюэциня раньше была книга «Зеркало любви», предисловие к которой написал его младший брат Танцунь. Ныне Танцунь скончался; видя новое, я тоскую о старом, поэтому сохранил это название.",
+          "ja": "雪芹旧（もと）『風月宝鑑』の書有り、乃ち其の弟棠村が序なり。今棠村已に逝き、余新（しん）を睹（み）て旧を懐（おも）い、故に仍（な）お之に因る。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "prose",
+      "original": "后因曹雪芹于悼红轩中，披阅十载，增删五次，纂成目录，分出章回，则题曰《金陵十二钗》。并题一绝云：",
+      "zh_modern": "后来因为曹雪芹在悼红轩中，披阅十载，增删五次，编纂成目录，划分出章回，便题名为《金陵十二钗》。并题了一首绝句道：",
+      "en": "Later, because Cao Xueqin in the Mourning-the-Red Studio reviewed it for ten years and revised it five times, compiling the table of contents and dividing it into chapters, he titled it \"The Twelve Beauties of Jinling.\" He also inscribed a quatrain:",
+      "ru": "Позже, так как Цао Сюэцинь в кабинете «Оплакивания Красного» изучал её десять лет и правил пять раз, составил оглавление и разбил на главы, он озаглавил её «Двенадцать красавиц Цзиньлина». И приписал четверостишие:",
+      "ja": "後、曹雪芹が悼紅軒の中に於いて、披閲すること十載、増刪すること五次なるに因り、目錄を纂成し、章回を分出し、則ち題して『金陵十二釵』と曰う。並びに一絶を題して云う：",
+      "commentary": [
+        {
+          "source": "甲戌",
+          "original": "若云雪芹披阅增删，然则开卷至此这一篇楔子又系谁撰？足见作者之笔，狡猾之甚。后文如此处者不少。这正是作者用画家烟云模糊处，观者万不可被作者瞒蔽了去，方是巨眼。",
+          "zh_modern": "如果说是雪芹披阅增删，那么开卷到这里的这一篇楔子又是谁写的呢？足见作者笔法，狡猾到了极点。后文中像这样的地方不少。这正是作者用了画家的烟云模糊法，读者万万不可被作者瞒蔽了去，才算是巨眼。",
+          "en": "If it is said that Xueqin reviewed and revised it, then who wrote this prologue from the opening up to this point? This shows how extremely cunning the author's pen is. There are many such places in the later text. This is exactly where the author uses the painter's technique of misty obscuration; the viewer must not be deceived by the author to have a discerning eye.",
+          "ru": "Если говорится, что Сюэцинь изучал и правил, то кто же написал это вступление с самого начала и до этого места? Это показывает, насколько хитра кисть автора. В дальнейшем тексте таких мест немало. Это именно то, где автор использует прием художников «туманная дымка»; читатель ни в коем случае не должен дать автору обмануть себя, только тогда он будет проницателен.",
+          "ja": "若（も）し雪芹が披閲増刪すと云わば、然らば則ち開巻より此に至るこの一篇の楔子（せっし）は又た誰が撰する所ぞ？ 作者の筆、狡猾の甚だしきを見るに足る。後文此の如き所の者少なからず。これ正に作者が画家の煙雲模糊の処を用うるなり、観者万（決）して作者に瞞蔽せられ去ること不可（なか）れ、方（はじ）めて是れ巨眼ならん。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "poem",
+      "original": "满纸荒唐言，一把辛酸泪！\n都云作者痴，谁解其中味？",
+      "zh_modern": "满纸荒唐言，一把辛酸泪！\n都说作者痴，谁解其中味？",
+      "en": "Pages full of absurd words, a handful of bitter tears!\nThey all say the author is foolish, who understands the flavor within?",
+      "ru": "Страницы полны вздорных слов, горсть горьких слез!\nВсе говорят, что автор глуп, кто поймет скрытый смысл?",
+      "ja": "満紙荒唐の言、一把辛酸の涙！\n都（すべ）て云う作者は痴なりと、誰か解せん其中の味？",
+      "commentary": [
+        {
+          "source": "甲戌/戚序",
+          "original": "此是第一首标题诗。",
+          "zh_modern": "这是第一首标题诗。",
+          "en": "This is the first title poem.",
+          "ru": "Это первое заглавное стихотворение.",
+          "ja": "此れ是れ第一首の標題詩なり。"
+        },
+        {
+          "source": "甲戌",
+          "original": "能解者方有辛酸之泪，哭成此书。壬午除夕。◇书未成，芹为泪尽而逝。",
+          "zh_modern": "能理解的人才会有辛酸之泪，哭成了这本书。壬午年除夕。◇书未写完，雪芹泪尽而逝。",
+          "en": "Only those who understand will have bitter tears, weeping to create this book. New Year's Eve of Renwu year. ◇ The book was not finished; Xueqin died after his tears ran dry.",
+          "ru": "Лишь тот, кто поймет, прольет горькие слезы, оплакивая создание этой книги. Канун Нового года Жэнь-у. ◇ Книга не была закончена, Цинь скончался, когда иссякли слезы.",
+          "ja": "解する能う者は方（はじ）めて辛酸の涙有り、哭して此の書を成す。壬午除夕。◇書未だ成らず、芹涙尽きて逝く。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Continued from previous page: The prologue concludes with the author's poem.",
+    "Cao Xueqin (曹雪芹): The author of the novel.",
+    "Form/Emptiness (色/空): Buddhist concepts central to the novel's philosophy.",
+    "Red Mansions (红楼): Refers to the wealthy mansions where the daughters of rich families lived.",
+    "Mourning-the-Red Studio (悼红轩): Cao Xueqin's studio name, implying mourning for the 'red' (women/flowers).",
+    "This page marks the end of the 'Introduction/Prologue' section (often considered part of Chapter 1)."
+  ]
+}

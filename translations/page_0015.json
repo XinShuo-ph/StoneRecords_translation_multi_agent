@@ -1,0 +1,150 @@
+{
+  "page": 15,
+  "chapter": "第一回",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "诗后便是此石堕落之乡，投胎之处，亲自经历的一段陈迹故事。其中家庭闺阁琐事，以及闲情诗词倒还全备，或可适趣解闷，然朝代年纪，地舆邦国，却反失落无考。",
+      "zh_modern": "诗后便是这块石头堕落的地方，投胎之处，亲自经历的一段陈旧往事。其中家庭闺阁的琐事，以及闲情诗词倒还齐全，或许可以用来解闷，然而朝代年代、地理邦国，却反而失落无法考证。",
+      "en": "Following the verse is the story of the place where this stone fell, the place where it was incarnated, and the past events it personally experienced. In it, the trifles of family and boudoir, as well as leisurely poems and lyrics, are complete and might serve to amuse and dispel boredom; however, the dynasty, age, geography, and country are lost and cannot be verified.",
+      "ru": "После стихов следует рассказ о месте падения этого камня, месте его перерождения и старых событиях, которые он пережил лично. Мелочи семейной жизни и женских покоев, а также стихи и песни для досуга в ней представлены полно и могут развлечь и разогнать скуку; однако династия и годы, география и страна утеряны и не поддаются проверке.",
+      "ja": "詩の後（あと）は便ち此の石の堕落の郷、投胎の処、親（みずか）ら歴（へ）たる一段の陳跡の故事なり。その中（うち）、家庭閨閣の瑣事、及び閑情の詩詞は倒（かえ）って還（ま）た全備し、或いは適趣解悶す可きも、然るに朝代年紀、地輿邦国は、却って反って失落して考うる無し。",
+      "commentary": [
+        {
+          "source": "甲戌/蒙府",
+          "original": "“或”字谦得好。",
+          "zh_modern": "“或”字谦虚得好。",
+          "en": "The word \"might\" (or) shows modesty well.",
+          "ru": "Слово «может быть» (хо) очень скромно и уместно.",
+          "ja": "「或」の字謙して好し。"
+        },
+        {
+          "source": "甲戌/蒙府",
+          "original": "若用此套者，胸中必无好文字，手中断无新笔墨。",
+          "zh_modern": "如果用那一套（指假借朝代），胸中必定没有好文章，手中绝对没有新笔墨。",
+          "en": "If one uses that convention, there must be no good writing in one's heart, and certainly no new style in one's hand.",
+          "ru": "Если использовать этот шаблон, то в сердце наверняка нет хороших текстов, а в руке — новой кисти.",
+          "ja": "若（も）し此の套を用いる者は、胸中必ず好文字無く、手中断じて新筆墨無からん。"
+        },
+        {
+          "source": "甲戌/蒙府",
+          "original": "据余说，却大有考证。◇妙在“无考”。",
+          "zh_modern": "据我说，却大有可考证之处。◇妙就妙在“无考”。",
+          "en": "In my opinion, there is much that can be verified. ◇ The marvel lies in \"cannot be verified.\"",
+          "ru": "По-моему, здесь есть что проверить. ◇ Чудо в том, что «не поддается проверке».",
+          "ja": "余の説に拠れば、却って大いに考証有り。◇妙は「無考」に在り。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "dialogue",
+      "original": "空空道人遂向石头说道：“石兄，你这一段故事，据你自己说有些趣味，故编写在此，意欲问世传奇。据我看来：第一件，无朝代年纪可考，第二件，并无大贤大忠理朝廷、治风俗的善政，其中只不过几个异样的女子，或情或痴，或小才微善，亦无班姑、蔡女之德能。我纵抄去，恐世人不爱看呢。”",
+      "zh_modern": "空空道人便向石头说道：“石兄，你这一段故事，据你自己说有些趣味，所以编写在这里，想要问世流传。据我看来：第一件，没有朝代年代可以考证；第二件，并没有大贤大忠治理朝廷、教化风俗的善政，其中只不过是几个特别的女子，有的重情，有的痴心，有的有点小才微善，也没有班昭、蔡琰那样的德行才能。我纵然抄录回去，恐怕世人不爱看呢。”",
+      "en": "Vanitas then said to the stone: \"Brother Stone, this story of yours, according to you, has some interest, so you have compiled it here intending to publish it as a marvel. But as I see it: first, there is no dynasty or age to be verified; second, there is no good administration of great sages and loyal ministers ruling the court and regulating customs. Instead, there are only a few unusual girls, some passionate, some foolish, some with minor talents or small virtues, and none with the virtue and ability of Ban Zhao or Cai Yan. Even if I copy it, I fear people in the world will not care to read it.\"",
+      "ru": "Тогда даос Пустота сказал камню: «Брат Камень, эта твоя история, как ты сам говоришь, довольно занимательна, поэтому ты записал её здесь, желая поведать миру как чудесное сказание. Но, на мой взгляд: во-первых, здесь нет династии и годов, которые можно проверить; во-вторых, нет благого правления великих мудрецов и верных министров, управляющих двором и исправляющих нравы. Здесь лишь несколько необычных девушек, то страстных, то безрассудных, с малыми талантами или небольшими добродетелями, и нет ни у кого добродетели и способностей Бань Чжао или Цай Янь. Даже если я перепишу её, боюсь, люди в мире не захотят её читать».",
+      "ja": "空空道人遂に石头に向かいて説道（い）う：「石兄、汝（なんじ）のこの一段の故事、汝自己の説に拠れば些（いささ）か趣味有り、故に此処に編写し、問世伝奇せんと意欲す。我に拠りて之を看るに：第一件、朝代年紀の考う可き無く、第二件、並びに大賢大忠の朝廷を理（おさ）め風俗を治むるの善政無く、その中只だ不过（たった）幾箇（いくにん）かの異様の女子、或いは情、或いは痴、或いは小才微善あるも、亦た班姑（班昭）・蔡女（蔡琰）の徳能無し。我縦（たと）い抄し去るも、恐らくは世人看るを愛せざらん」と。",
+      "commentary": [
+        {
+          "source": "甲戌/蒙府",
+          "original": "先驳得妙。",
+          "zh_modern": "先反驳得妙。",
+          "en": "Refuted well at the start.",
+          "ru": "Ловко возразил с самого начала.",
+          "ja": "先ず駁すること妙なり。"
+        },
+        {
+          "source": "甲戌/蒙府",
+          "original": "将世人欲驳之腐言预先代人驳尽。妙！",
+          "zh_modern": "把世人想要反驳的陈腐之言预先替他们驳尽了。妙！",
+          "en": "Preemptively refuting all the rotten arguments that people might raise. Marvelous!",
+          "ru": "Заранее исчерпал все гнилые доводы, которые могли бы привести люди. Чудесно!",
+          "ja": "世人の駁せんと欲するの腐言を、予（あらかじ）め人に代りて駁し尽くす。妙！"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "dialogue",
+      "original": "石头笑答道：“我师何太痴耶！若云无朝代可考，今我师竟假借汉唐等年纪添缀，又有何难？但我想，历来野史，皆蹈一辙，莫如我这不借此套者，反倒新奇别致，不过只取其事体情理罢了，又何必拘拘于朝代年纪哉！",
+      "zh_modern": "石头笑着回答道：“老师何必太迂腐呢！如果说没有朝代可以考证，如今老师竟然假借汉唐等年代添补上去，又有什么难的？但我想，历来的野史，都是如出一辙，不如我这不借用俗套的，反而新奇别致，不过只取其中的事体情理罢了，又何必拘泥于朝代年代呢！",
+      "en": "The stone laughed and replied: \"Master, why are you so foolish! If you say there is no dynasty to be verified, what difficulty would there be for you now to borrow the dates of Han or Tang and patch them in? But I think that wild histories through the ages have all followed the same rut. It is better that I do not borrow this convention, which makes my story novel and unique. I only take the essence of the events and feelings—why must one be constrained by dynasty and age?",
+      "ru": "Камень со смехом ответил: «Наставник, отчего вы так наивны! Если говорить, что нет династии для проверки, то что стоит вам сейчас позаимствовать годы Хань или Тан и приписать их? Но я думаю, что все неофициальные истории испокон веков следовали одной колее. Лучше уж я не буду прибегать к этому шаблону, и это будет свежо и необычно. Я беру лишь суть событий и чувств, зачем же непременно привязываться к династии и годам!",
+      "ja": "石头笑いて答えて道（い）う：「我が師何ぞ太（はなは）だ痴なるや！ 若（も）し朝代の考う可き無きを云わば、今我が師竟（つい）に漢唐等の年紀を仮借して添綴（てんてつ）するも、又た何の難きことか有らん？ 但だ我想うに、歴来の野史は、皆一轍（いってつ）を蹈（ふ）み、如（し）かず我がこの此の套（とう）を借りざる者の、反って倒（かえ）って新奇別致なるに、不过（ただ）只だその事体情理を取るのみにして、又た何ぞ必しも朝代年紀に拘拘（こうこう）とせんや！",
+      "commentary": [
+        {
+          "source": "甲戌/蒙府",
+          "original": "所以答得好。",
+          "zh_modern": "所以回答得好。",
+          "en": "Therefore the answer is good.",
+          "ru": "Поэтому ответ хорош.",
+          "ja": "所以（ゆえ）に答うること好し。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "dialogue",
+      "original": "再者，市井俗人喜看理治之书者甚少，爱看适趣闲文者特多。历来野史，或讪谤君相，或贬人妻女，奸淫凶恶，不可胜数。更有一种风月笔墨，其淫秽污臭，涂毒笔墨，坏人子弟，又不可胜数。",
+      "zh_modern": "再说，市井俗人喜欢看治理国政之书的人很少，爱看趣味闲文的人特别多。历来的野史，有的讪谤君相，有的贬低别人的妻女，奸淫凶恶的内容，数不胜数。更有一种风月笔墨，内容淫秽污臭，涂毒笔墨，败坏人家子弟，也是数不胜数。",
+      "en": "Moreover, among the common people of the marketplace, very few like to read books on governance, while many love to read amusing leisurely texts. Wild histories through the ages have either slandered monarchs and ministers or disparaged other people's wives and daughters; cases of adultery and wickedness are innumerable. There is also a type of erotic literature that is obscene and filthy, poisoning the pen and corrupting young people; these too are innumerable.",
+      "ru": "К тому же, среди простого люда на рынках мало кто любит читать книги об управлении государством, зато очень многие любят читать занимательную беллетристику. Неофициальные истории прошлого либо клеветали на государей и министров, либо порочили чужих жен и дочерей; случаев разврата и злодейства там не счесть. Есть еще род эротической литературы, грязной и зловонной, отравляющей кисть и развращающей молодежь, и таких книг тоже не счесть.",
+      "ja": "再者（また）、市井の俗人、理治の書を看るを喜ぶ者は甚だ少なく、適趣の閑文を看るを愛する者は特（こと）に多し。歴来の野史、或いは君相を訕謗（さんぼう）し、或いは人の妻女を貶（おとし）め、姦淫凶悪、勝げて数うべからず。更に一種の風月筆墨有り、その淫穢汚臭、筆墨を塗毒し、人の子弟を壊（やぶ）ること、又た勝げて数うべからず。",
+      "commentary": [
+        {
+          "source": "甲戌/蒙府",
+          "original": "先批其大端。",
+          "zh_modern": "先批评其主要弊端。",
+          "en": "First criticizing the major faults.",
+          "ru": "Сначала критикует главные недостатки.",
+          "ja": "先ずその大端を批（ひ）す。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "dialogue",
+      "original": "至若佳人才子等书，则又千部共出一套，且其中终不能不涉于淫滥，以致满纸潘安子建、西子文君，不过作者要写出自的那两首情诗艳赋来，故假拟出男女二人名姓，又必旁出一小人其间拨乱，亦如剧中之小丑然。且鬟婢开口即者也之乎，非文即理。故逐一看去，悉皆自相矛盾，大不近情理之话。",
+      "zh_modern": "至于那些才子佳人等书，则是千部书共用一套路，而且其中终究免不了涉及淫滥，以致满纸都是潘安、曹植、西施、卓文君一类的人物，不过是作者要写出自己的那两首情诗艳赋来，所以假拟出男女两个人的姓名，又必须在旁边生出一个小人从中拨乱，就像戏里的小丑一样。而且丫鬟婢女开口就是之乎者也，不是文绉绉的就是讲大道理。所以逐一看去，全都是自相矛盾、大不近情理的话。",
+      "en": "As for books about scholars and beauties, a thousand volumes follow a single pattern, and they inevitably descend into licentiousness. They fill their pages with Pan Ans and Cao Zhis, Xishis and Wenjuns. It is merely that the author wants to publish a few of his own love poems and romantic rhapsodies, so he invents the names of a man and a woman, and inevitably introduces a villain to cause trouble between them, like the clown in a play. Moreover, even the maids speak in classical particles like 'zhe', 'ye', 'zhi', 'hu', full of literary pedantry or moral reasoning. So when you look at them one by one, they are all self-contradictory and far from the truth of human feelings.",
+      "ru": "Что же касается книг о красавицах и талантах, то тысяча томов следует одному шаблону, и они неизбежно скатываются в распутство. Страницы пестрят именами Пань Аней и Цао Чжи, Си Ши и Вэнь-цзюнь. Просто автор хочет вставить свои собственные любовные стихи и оды, поэтому выдумывает имена героя и героини, и непременно вводит злодея, который сеет смуту между ними, словно шут в пьесе. К тому же служанки, стоит им открыть рот, сыплют книжными частицами «чжэ», «е», «чжи», «ху», говорят либо высокопарно, либо нравоучительно. Поэтому, если присмотреться, все они полны противоречий и далеки от жизненной правды.",
+      "ja": "佳人才子等の書に至りては、則ち又た千部共に一套を出（い）で、且つその中終（つい）に淫濫に渉らざる能わず、満紙潘安・子建、西子・文君を致すも、不过（ただ）作者自己の那（か）の両首の情詩艶賦を写し出さんと要するが為、故（ことさ）らに男女二人の名姓を仮擬し、又た必ず傍ら一小人を出（いだ）しその間（かん）に撥乱せしむるは、亦た劇中の小丑（道化）の如く然り。且つ鬟婢（かんぴ）口を開けば即ち者也之乎、文に非ざれば即ち理なり。故に逐一看り去るに、悉（ことごと）く皆自相矛盾、大いに情理に近からざるの話なり。",
+      "commentary": [
+        {
+          "source": "蒙府",
+          "original": "放笔以情趣世人，并评倒多少传奇。文气淋漓，字句切实。",
+          "zh_modern": "放笔以真情取悦世人，并且评倒了多少传奇小说。文气淋漓，字句切实。",
+          "en": "Writing freely to please the world with emotion, and critiquing many romances. The literary style is unrestrained, the words are precise.",
+          "ru": "Пишет свободно, увлекая людей чувствами, и опровергает множество романов. Стиль насыщенный, слова точные.",
+          "ja": "筆を放（ほしいまま）にして情を以て世人に趣（おもむ）かせ、並びに多少の伝奇を評倒す。文気淋漓、字句切実なり。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "dialogue",
+      "original": "竟不如我半世亲睹亲闻的这几个女子，虽不敢说强似前代书中所有之人，但事迹原委，亦可以消愁破闷，也有几首歪诗熟话，可以喷饭供酒。至若离合悲欢，兴衰际遇，则又追踪蹑迹，不敢稍加穿凿，徒为供人之目而反失其真传者。",
+      "zh_modern": "竟不如我半世亲眼所见、亲耳所闻的这几个女子，虽不敢说强过前代书中的所有人，但事迹的原委，也可以用来消愁解闷，也有几首歪诗俗话，可以以此佐酒喷饭。至于离合悲欢、兴衰际遇，则是追踪蹑迹、据实录入，不敢稍加穿凿附会，为了取悦人之耳目而反而失去了真传。",
+      "en": "They are not as good as these few girls I have seen and heard of with my own eyes and ears over half a lifetime. Although I dare not say they are better than the characters in previous books, the origins and details of their stories can serve to dispel sorrow and boredom. There are also a few doggerel verses and familiar sayings that can provoke laughter and accompany wine. As for their partings and meetings, joys and sorrows, rise and fall, I have followed the traces and tracked the footprints, not daring to add any fabrication, lest by trying to please the eyes of others I lose the transmission of the truth.",
+      "ru": "Уж лучше эти несколько девушек, которых я сам видел и слышал за полжизни. Хоть я и не смею сказать, что они лучше героинь прошлых книг, но подробности их историй могут развеять тоску и скуку. Есть и несколько неумелых стихов и простых поговорок, над которыми можно посмеяться за вином. Что же касается встреч и разлук, радостей и печалей, взлетов и падений, то я следовал по пятам событий, не смея ничего присочинять, чтобы в угоду читателю не утратить правды.",
+      "ja": "竟（つい）に如（し）かず我が半世親（みずか）ら睹（み）、親ら聞ける此の幾箇（いくにん）の女子の、敢て前代の書中の所有の人に強（まさ）ると説くはいまだせずといえども、但だ事跡原委は、亦た以て愁いを消し悶えを破るべく、也有（また）幾首の歪詩熟話の、以て飯を噴き酒に供す可きに。離合悲歓、興衰際遇に至りては、則ち又た蹤（あと）を追い跡を躡（ふ）み、敢て稍（いささ）かも穿鑿を加えず、徒（いたず）らに人の目を供するを為して反ってその真伝を失う者はあらじ。",
+      "commentary": [
+        {
+          "source": "甲戌/庚辰",
+          "original": "事则实事，然亦叙得有间架、有曲折、有顺逆、有映带、有隐有见、有正有闰，以致草蛇灰线、空谷传声、一击两鸣、明修栈道、暗渡陈仓、云龙雾雨、两山对峙、烘云托月、背面傅粉、千皴万染诸奇。书中之秘法，亦不复少。余亦于逐回中搜剔刳剖，明白注释，以待高明，再",
+          "zh_modern": "事情是真实的事情，但也叙述得有结构、有曲折、有顺逆、有映衬、有隐有显、有正有副，以致运用了草蛇灰线、空谷传声、一击两鸣、明修栈道、暗渡陈仓、云龙雾雨、两山对峙、烘云托月、背面傅粉、千皴万染等各种奇法。书中的秘法，也不在少数。我也会在每一回中搜寻剖析，明白注释，以等待高明的人，再...",
+          "en": "The events are real events, but they are narrated with structure, twists, directness and reversals, reflections, hidden and visible parts, primary and secondary elements, employing such techniques as 'snake in the grass and gray line' (subtle clues), 'sound echoing in an empty valley', 'one strike ringing twice', 'openly repairing the plank road while secretly crossing at Chencang' (feinting), 'cloud dragon and mist rain', 'two mountains facing each other', 'painting clouds to highlight the moon' (contrast), 'powdering the back' (reverse description), and 'thousand wrinkles and ten thousand dyes'. The secret methods in the book are numerous. I will also search and analyze them in each chapter, clearly annotating them, to await the wise, and then...",
+          "ru": "События — реальные события, но изложены они со структурой, поворотами, прямотой и обратностью, отражениями, скрытым и явным, основным и побочным, вплоть до использования таких приемов, как «змея в траве и серая нить», «эхо в пустой долине», «один удар — два звона», «явно чинить настил, тайно переправляться в Чэньцан», «облачный дракон и туманный дождь», «две горы друг против друга», «рисовать облака, чтобы оттенять луну», «пудрить спину», «тысяча штрихов и десять тысяч оттенков». Тайных методов в книге немало. Я также буду в каждой главе выискивать и разбирать их, давая ясные комментарии, ожидая мудрых, и тогда...",
+          "ja": "事は則ち実事なり、然れども亦た叙すること間架有り、曲折有り、順逆有り、映帯有り、隠有り見（あら）われ有り、正有り閏（うるう）有り、草蛇灰線、空谷伝声、一撃両鳴、明修桟道、暗渡陳倉、雲龍霧雨、両山対峙、烘雲託月、背面傅粉、千皴万染の諸奇を致すを以てなり。書中の秘法も、亦た復た少なからず。余も亦た逐回の中に捜剔刳剖（そうてきこぼう）し、明白に注釈し、以て高明を待ち、再（また）"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Continued from previous page: Dialogue between Vanitas (空空道人) and the Stone.",
+    "Pan An (潘安), Cao Zhi (子建), Xi Shi (西子), Zhuo Wenjun (文君): Famous beautiful men, talented poets, and beautiful women of history, used as stock characters in bad romances.",
+    "Literary techniques mentioned in commentary: 'Snake in the grass and gray line' (subtle clues running through the text), 'Painting clouds to highlight the moon' (describing something by describing its environment/contrast).",
+    "Text ends with a long commentary cut off mid-sentence."
+  ]
+}
