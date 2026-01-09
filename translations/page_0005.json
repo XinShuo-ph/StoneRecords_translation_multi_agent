@@ -1,0 +1,62 @@
+{
+  "page": 5,
+  "chapter": "电子版制作说明（续）",
+  "page_content_type": "fanli",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "抚琴居红楼梦脂评汇校本\n\n色。抄本中有些同一位置不止一条批语的，原以“○”或空格隔开，现\n统一以“◇”隔开。",
+      "zh_modern": "抚琴居红楼梦脂评汇校本\n\n（续）颜色说明：抄本中同一位置有时不止一条批语，原以“○”或空格分隔，现统一用“◇”分隔。",
+      "en": "Fuqinju Dream of the Red Chamber: Collated Zhiping Edition\n\n(continued) Color/formatting note: in some manuscript copies, more than one comment is recorded at the same position; the original uses “○” or blank space as separators, but this edition uniformly uses “◇”.",
+      "ru": "«Фуциньцзюй: Хунлоумэн. Сводное издание с脂评»\n\n(продолжение) Примечание о разметке: в рукописях иногда в одном и том же месте встречается более одной批语; в оригинале они разделялись знаком “○” или пробелом, здесь же везде используется “◇”.",
+      "ja": "撫琴居・紅楼夢脂評匯校本\n\n（続）体裁・色分けについて：抄本では同一箇所に複数の批語があることがあり、原は「○」または空白で区切っていたが、本版では統一して「◇」で区切る。",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "本书使用半角圆括号()和半角方括号[]作为校改文字记号：(某)表\n示删字，[某]表示补字，(甲)[乙]表示改字。",
+      "zh_modern": "本书使用半角圆括号 () 和半角方括号 [] 作为校改文字记号： (某) 表示删字，[某] 表示补字，(甲)[乙] 表示改字。",
+      "en": "This book uses half-width parentheses () and half-width square brackets [] as emendation markers: (x) indicates deletion; [x] indicates insertion; (A)[B] indicates replacement (changed from A to B).",
+      "ru": "В книге используются полуширинные круглые скобки () и полуширинные квадратные скобки [] как обозначения правок: (x) — удалённый знак; [x] — добавленный знак; (A)[B] — замена (из A в B).",
+      "ja": "本書では半角の丸括弧()と角括弧[]を校改記号として用いる。(某)は削除、[某]は補入、(甲)[乙]は改字（甲を乙に改める）を示す。",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "本电子书自发布以来，不少网友提出了改进意见，这些建议基本上\n都已经采纳。现在，接受多数朋友的意见，这个版本采用 PDF 格式。\n本书的整理得到很多网友的帮助。早期版本曾得浪知协助覆校，订\n正不少错误；冰冰冰冷、云涛先后参与讨论，给我很多启发。3.0 版发出\n之后，又承君子九思、爱如潮水、yupeng、蓝山、潇湘楚客、zhwl、\nliuzhoufish、娄员外、寻梦园、阿迦、梁三、影乐之声、兔子她妈、休\n闲、志学斋主、daphne、rocwings 等各位指出了若干问题，统此鸣谢。\n由于整理者学识所限，本书虽经多次修订，存在问题必然尚多。希望朋\n友们在使用过程中发现错误及不妥之处，继续不吝赐教。",
+      "zh_modern": "本电子书发布以来，不少网友提出改进意见，这些建议基本都已采纳。现在应多数朋友建议，本版本采用 PDF 格式。\n\n本书整理得到许多网友帮助。早期版本曾得“浪知”协助覆校，订正不少错误；“冰冰冰冷”“云涛”等先后参与讨论，给我很多启发。3.0 版发布之后，又承“君子九思”“爱如潮水”“yupeng”“蓝山”“潇湘楚客”“zhwl”“liuzhoufish”“娄员外”“寻梦园”“阿迦”“梁三”“影乐之声”“兔子她妈”“休闲”“志学斋主”“daphne”“rocwings”等诸位指出若干问题，谨此一并致谢。\n\n由于整理者学识所限，本书虽经多次修订，问题必然仍多。希望朋友们在使用过程中发现错误及不妥之处，继续不吝赐教。",
+      "en": "Since this e-book was first released, many readers online have offered suggestions for improvement, most of which have been adopted. Following the majority’s advice, this version is produced in PDF format.\n\nThe collation of this book benefited from help provided by many contributors. Early versions were proofread with assistance from “Langzhi,” correcting numerous errors; “Bingbingbingleng” and “Yuntao,” among others, joined discussions and offered many insights. After version 3.0 was released, “Junzi Jiusi,” “Airu Chaoshu i,” “yupeng,” “Lanshan,” “Xiaoxiang Chuke,” “zhwl,” “liuzhoufish,” “Lou Yuanwai,” “Xunmengyuan,” “Ajia,” “Liang San,” “Yingle Zhisheng,” “Tuzi Ta Ma,” “Xiuxian,” “Zhixue Zhai Zhu,” “daphne,” “rocwings,” and others pointed out a number of issues; I offer my thanks to all.\n\nGiven the compiler’s limited learning, even after multiple revisions this book inevitably still contains problems. I hope readers will continue to point out errors or improprieties they find in the course of use.",
+      "ru": "С момента публикации этой электронной книги многие пользователи сети высказывали предложения по улучшению; в основном они уже учтены. Теперь, по совету большинства друзей, данная версия выполнена в формате PDF.\n\nВ работе над сверкой и整理 помогло множество участников. В ранних версиях «浪知» помогал с повторной вычиткой и исправлением немалого числа ошибок; «冰冰冰冷» и «云涛» участвовали в обсуждениях и дали мне много полезных мыслей. После выхода версии 3.0 «君子九思», «爱如潮水», yupeng, 蓝山, 潇湘楚客, zhw l, liuzhoufish, 娄员外, 寻梦园, 阿迦, 梁三, 影乐之声, 兔子她妈, 休闲, 志学斋主, daphne, rocwings и другие указали на ряд проблем — всем им выражаю общую благодарность.\n\nВ силу ограниченности знаний составителя, несмотря на многократные правки, в книге неизбежно остаётся немало недостатков. Прошу читателей и дальше не скупиться на замечания, обнаруживая ошибки или неудачные места при использовании.",
+      "ja": "本電子書は公開以来、多くのネット利用者から改善意見が寄せられ、その提案は概ね採用されてきた。今般、多数の友人の意見を受け、本版は PDF 形式を採用する。\n\n本書の整理は多くの方々の助力を得た。初期版では「浪知」氏が覆校を助け、多くの誤りを訂正した。「冰冰冰冷」「云涛」らも討議に参加し、多くの示唆を与えてくれた。3.0版の公開後は、君子九思、爱如潮水、yupeng、蓝山、潇湘楚客、zhwl、liuzhoufish、娄员外、寻梦园、阿迦、梁三、影乐之声、兔子她妈、休闲、志学斋主、daphne、rocwings 等の諸氏がいくつかの問題点を指摘してくださった。ここに一括して謝意を表する。\n\n整理者の学識には限りがあるため、本書は幾度も改訂を重ねたとはいえ、問題がなお多いのは必然である。利用の過程で誤りや不適切な点を見つけた際には、今後も遠慮なくご教示願いたい。",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "联系方式：Email：kolistan@yahoo.com.cn，QQ：552129470，MSN：\nkolistan@msn.com，或到“抚琴居红楼梦文学社区”发贴。反馈意见的\n朋友将会在以后本书修订时及时获得更新版本。",
+      "zh_modern": "联系方式：Email：kolistan@yahoo.com.cn；QQ：552129470；MSN：kolistan@msn.com。亦可到“抚琴居红楼梦文学社区”发帖。反馈意见的朋友，将在本书后续修订时及时获得更新版本。",
+      "en": "Contact: Email: kolistan@yahoo.com.cn; QQ: 552129470; MSN: kolistan@msn.com. You may also post in the “Fuqinju Dream of the Red Chamber literary community.” Those who provide feedback will receive updated versions as the book is revised in the future.",
+      "ru": "Контакты: Email: kolistan@yahoo.com.cn; QQ: 552129470; MSN: kolistan@msn.com. Также можно оставить сообщение в «Литературном сообществе “Фуциньцзюй: Хунлоумэн”». Друзья, приславшие отзывы, смогут своевременно получать обновлённые версии при последующих исправлениях книги.",
+      "ja": "連絡先：Email：kolistan@yahoo.com.cn、QQ：552129470、MSN：kolistan@msn.com。あるいは「撫琴居・紅楼夢文学コミュニティ」に投稿されたい。意見を寄せた方は、今後の改訂時に更新版を速やかに入手できる。",
+      "commentary": []
+    },
+    {
+      "id": 5,
+      "type": "prose",
+      "original": "本书由 Kolistan 汇校整理、制作电子版并免费提供下载，允许在不\n改变其内容完整的前提下自由传播，但禁止用于商业用途。其它网站转\n载本书，请注明整理者联系资料，以使我们及时得到回馈意见。我们从\n未授权任何人对本书进行格式转换（如改为 word、htm、exe、chm、txt\n等等），照搬本书内容或仅作局部改动，而变更（或删除）整理者名字\n另行发表者，我们保留追究的权利。\n\nKolistan\n\n2007.11.30.\n\nII",
+      "zh_modern": "本书由 Kolistan 汇校整理、制作电子版并免费提供下载；在不改变内容完整性的前提下，允许自由传播，但禁止用于商业用途。其他网站转载本书，请注明整理者联系资料，以便我们及时得到反馈意见。我们从未授权任何人对本书进行格式转换（如改为 word、htm、exe、chm、txt 等等）；凡照搬本书内容或仅作局部改动，却变更（或删除）整理者署名另行发表者，我们保留追究的权利。\n\nKolistam\n2007.11.30\nII",
+      "en": "This book was collated by Kolistam, produced as an electronic edition, and provided as a free download. It may be freely shared provided the integrity of its contents is not altered; commercial use is prohibited. If other websites repost this book, please indicate the compiler’s contact information so we can receive feedback in a timely manner. We have never authorized anyone to convert this book into other formats (e.g., Word, HTM, EXE, CHM, TXT, etc.). Those who copy the contents wholesale, or make only minor local changes, yet change (or remove) the compiler’s name and publish it elsewhere, remain subject to our right to pursue responsibility.\n\nKolistam\n2007-11-30\nII",
+      "ru": "Книга сверена и подготовлена Kolistam, выпущена в электронном виде и распространяется бесплатно. Разрешается свободное распространение при условии сохранения целостности содержания; коммерческое использование запрещено. При размещении книги на других сайтах просим указывать контактные данные составителя, чтобы мы могли своевременно получать отзывы. Мы никогда не уполномочивали кого-либо переводить книгу в другие форматы (например, Word, HTM, EXE, CHM, TXT и т. п.). В случаях, когда содержание копируется дословно либо с незначительными изменениями, но при этом изменяется (или удаляется) имя составителя и материал публикуется отдельно, мы оставляем за собой право добиваться ответственности.\n\nKolistam\n2007-11-30\nII",
+      "ja": "本書は Kolistam が汇校整理し、電子版として制作のうえ無料で提供する。内容の完全性を損なわない限り自由に頒布してよいが、商用利用は禁止する。他サイトが本書を転載する際は、整理者の連絡先を明記し、こちらが迅速にフィードバックを得られるようにされたい。われわれは本書の形式変換（word、htm、exe、chm、txt 等）をいかなる者にも許諾していない。本書内容をそのまま転載、または一部のみ改変したうえで整理者名を変更（あるいは削除）して別途公表する者については、追及する権利を留保する。\n\nKolistam\n2007-11-30\nII",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "本页为“电子版制作说明”第二页（页码 II），包含符号/校改标记说明、致谢名单、联系方式与再次声明。",
+    "致谢段落中含大量网名/ID，译文尽量按原样保留（必要处仅做最小限度的标点/分隔处理）。"
+  ],
+  "total_segments": 5
+}

@@ -1,0 +1,82 @@
+{
+  "page": 10,
+  "chapter": "凡例",
+  "page_content_type": "fanli",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "脂砚斋重评石头记凡例①",
+      "zh_modern": "脂砚斋重评《石头记》凡例①",
+      "en": "General Principles for Zhiyan Zhai’s Re-annotated “The Story of the Stone” (1)",
+      "ru": "Правила/пояснения к «Запискам о Камне» в повторной оценке Чжияньчжай (1)",
+      "ja": "脂硯斎重評『石頭記』凡例①",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "《红楼梦》旨义",
+      "zh_modern": "《红楼梦》的主旨与书名含义",
+      "en": "On the Purport of “Dream of the Red Chamber”",
+      "ru": "О замысле и названии «Сна в красном тереме»",
+      "ja": "『紅楼夢』の旨義",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "是书题名极多，一曰《红楼梦》②，是总其全部之名也；又曰《风月宝鉴》，是戒妄动风月之情；又曰《石头记》，是自譬石头所记之事也。此三名皆书中曾已点睛矣。如宝玉作梦，梦中有曲，名曰《红楼梦十二支》，此则《红楼梦》之点睛。又如贾瑞病，跛道人持一镜来，上面即錾“风月宝鉴”四字，此则《风月宝鉴》之点睛。又如道人亲眼见石上大书一篇故事，则系石头所记之往来，此则《石头记》之点睛处。然此书又名曰《金陵十二钗》，审其名，则必系金陵十二女子也；然通部细搜检去，上中下女子岂止十二人哉！若云其中自有十二个，则又未尝指明白系某某，及至“红楼梦”一回中，亦曾翻出金陵十二钗之簿籍，又有十二支曲可考。",
+      "zh_modern": "这本书的题名很多：一称《红楼梦》②，是概括全书的总名；又称《风月宝鉴》，意在告诫人不要妄动男女风月之情；又称《石头记》，是自比为“石头”所记下的种种往来之事。这三个书名，在书中都曾点明其要旨。\n\n比如宝玉做梦，梦里有曲，名为《红楼梦十二支》，这就是《红楼梦》之名的点睛之处；又如贾瑞害病，跛足道人送来一面镜子，上面刻着“风月宝鉴”四字，这就是《风月宝鉴》之名的点睛；再如道人亲见石上大书一篇故事，说的是石头所记的经历往来，这便是《石头记》之名的点睛。\n\n此外本书又名《金陵十二钗》，按其名看应是金陵十二位女子；但通篇细检，上、中、下诸等女子岂止十二人？若说其中自有十二个，又未曾明指是某某；直到“红楼梦”一回中，才翻出金陵十二钗的簿籍，并且还有十二支曲可作考证。",
+      "en": "This book has many titles. One is “Dream of the Red Chamber” (2), which serves as the overarching name for the whole. Another is “Mirror of Romance,” meant to warn against rashly stirring up passions of love and desire. Another is “The Story of the Stone,” by which it likens itself to events recorded by a “stone.” These three titles are each explicitly “brought to the point” (made clear) within the book.\n\nFor example, when Baoyu dreams, there are songs within the dream entitled “Twelve Airs of the Dream of the Red Chamber”—this is where the title “Dream of the Red Chamber” is pointed out. Again, when Jia Rui falls ill, a lame Taoist brings a mirror on which the four characters “Mirror of Romance” are engraved—this is where that title is pointed out. Again, when the Taoist sees with his own eyes a long story written on the stone, recounting the comings and goings recorded by the stone—this is where “The Story of the Stone” is pointed out.\n\nYet the book is also called “The Twelve Beauties of Jinling.” By that name, it would seem to concern twelve women of Jinling; but if one searches the whole work closely, the women of upper, middle, and lower ranks are far more than twelve! If one insists that there are twelve among them, the text does not clearly name which twelve; only in the chapter titled “Dream of the Red Chamber” does the register of the Twelve Beauties of Jinling appear, and there are also twelve airs that can be consulted as evidence.",
+      "ru": "У этой книги множество названий. Одно — «Сон в красном тереме»②, общее имя всего сочинения. Другое — «Зерцало любви и похоти» (风月宝鉴), призванное предостеречь от безрассудного возбуждения «ветра и луны» — страстей любовного влечения. Третье — «Записки о Камне» (石头记), то есть повествование, будто бы записанное «камнем» и сравнивающее себя с ним. Все три названия внутри книги уже «поставлены в точку» — прямо объяснены.\n\nТак, Баоюй видит сон, и в этом сне звучат песни под названием «Двенадцать напевов “Сна в красном тереме”» — здесь раскрывается смысл имени «Сон в красном тереме». Так же, когда Цзя Жуй заболевает, хромой даос приносит зеркало, на котором вырезаны четыре иероглифа «风月宝鉴» — здесь раскрывается смысл названия «风月宝鉴». И ещё: даос собственными глазами видит на камне крупно написанную историю — это и есть «приходы и уходы», записанные камнем; здесь раскрывается смысл «Записок о Камне».\n\nОднако книга зовётся также «Двенадцать красавиц Цзиньлина» (金陵十二钗). Судя по названию, речь должна идти о двенадцати женщинах из Цзиньлина; но если внимательно просмотреть весь текст, женщин высшего, среднего и низшего круга там никак не только двенадцать! Если же утверждать, что двенадцать среди них всё‑таки есть, то книга нигде прямо не указывает, кто именно они; лишь в главе «Сон в красном тереме» появляется реестр «Двенадцати красавиц Цзиньлина», и к тому же есть двенадцать напевов, которые можно привлечь как подтверждение.",
+      "ja": "此の書の題名は極めて多い。ひとつは『紅楼夢』②で、全編を総括する名である。ひとつは『風月宝鑑』で、みだりに風月の情（男女の恋情）を動かすことを戒める。ひとつは『石頭記』で、石が記した事どもを自らに譬えるのである。この三つの名はいずれも書中で既に点睛（要点の提示）されている。\n\nたとえば宝玉が夢を見ると、夢中に曲があり『紅楼夢十二支』と名づけられる。これが『紅楼夢』の点睛である。たとえば賈瑞が病み、跛の道人が一面の鏡を持ち来たり、その面に「風月宝鑑」の四字が彫られている。これが『風月宝鑑』の点睛である。また道人が石の上に大書された一篇の物語を親眼に見るが、それは石の記す往来の事である。これが『石頭記』の点睛である。\n\nしかるに此の書はまた『金陵十二釵』とも名づけられる。名から見れば金陵の十二人の女子であろう。しかし全編を細かに探れば、上中下の女子は十二人にとどまらない。もし其中に十二人ありと言うなら、誰それであると明指したことはなく、「紅楼夢」の一回に至ってようやく十二釵の簿籍が翻出され、また十二支の曲が考証の拠り所として挙げられるのである。",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "书中凡写长安，在文人笔墨之间，则从古之称；凡愚夫妇、儿女子家常口角，则曰“中京”，是不欲着迹于方向也。盖天子之邦，亦当以中为尊，特避其东南西北四字样也。",
+      "zh_modern": "书中凡写“长安”，在文人笔墨之间，就沿用古称；而写到寻常夫妻、儿女的日常口角时，则称“中京”，是不愿在地理方位上留下明确痕迹。因为天子所在之地，本应以“中”为尊，所以特意避开东南西北等字样。",
+      "en": "Whenever the book speaks of “Chang’an,” it uses the ancient name when written in a literati register; but in the everyday bickering of ordinary husbands and wives, and of sons and daughters, it calls the capital “Zhongjing” (“Central Capital”), so as not to leave a clear trace of geographic direction. For the realm of the Son of Heaven should rightly honor the “center,” and thus the text deliberately avoids words like east, south, west, and north.",
+      "ru": "Там, где в книге говорится о «Чанъане» в ученой, книжной манере, используется древнее наименование; но в бытовых перебранках простых мужей и жен, детей и женщин, столица называется «Чжунцзин» («Срединная столица»), чтобы не оставлять явного следа в обозначении направлений. Ибо земля Сына Неба должна почитать «середину», поэтому намеренно избегаются слова «восток, юг, запад, север».",
+      "ja": "書中、長安を書くにあたり文人の筆墨の間では古称に従う。しかるに愚夫婦・児女子の家常の口角には「中京」と曰い、方角に迹を著（あらわ）したくないのである。天子の邦は「中」を尊ぶべきゆえ、ことさらに東南西北の四字を避けるのである。",
+      "commentary": []
+    },
+    {
+      "id": 5,
+      "type": "prose",
+      "original": "此书只是着意于闺中，故叙闺中之事切，略涉于外事者则简，不得谓其不均也。",
+      "zh_modern": "此书着意写的是闺中世界，所以对闺中之事叙述格外详尽；凡稍稍涉及外面的事便从简带过，并不能因此说它写得不均衡。",
+      "en": "This book is written with its attention fixed on the women’s quarters; therefore it recounts matters within the inner chambers in detail, while treating external affairs only briefly when they are touched upon. One should not call this an imbalance.",
+      "ru": "Книга намеренно сосредоточена на «внутренних покоях», потому дела闺中 излагаются подробно, а внешние события, лишь слегка затрагиваемые, передаются кратко. Нельзя из-за этого считать изложение «неравномерным».",
+      "ja": "此の書はただ闺中に着意するゆえ、闺中の事を叙することは切（つまび）らかであり、外事にわずかに渉るものは簡略である。これを不均と謂うべきではない。",
+      "commentary": []
+    },
+    {
+      "id": 6,
+      "type": "prose",
+      "original": "此书不敢干涉朝廷，凡有不得不用朝政者，只略用一笔带出，盖实不敢以写儿女之笔墨唐突朝廷之上也，又不得谓其不备。",
+      "zh_modern": "此书不敢干涉朝廷政事；凡不得不用到朝政之处，也只是略略一笔带过。因为实在不敢用写儿女情事的笔墨去唐突朝廷之上，所以也不能说它不够周备。",
+      "en": "The book does not dare to intrude upon matters of the court. Where it cannot avoid mentioning government affairs, it merely touches on them in a single stroke, for it dares not let a pen devoted to men-and-women’s matters offend the dignity of the imperial realm. Nor should this be called a lack of completeness.",
+      "ru": "Книга не смеет вмешиваться в дела двора. Там, где невозможно вовсе обойтись без упоминания государственной политики, это лишь едва проводится одной чертой: ведь составитель не дерзает пером, пишущим о делах мужчин и женщин, дерзко вторгаться в сферу двора. Потому и нельзя упрекать книгу в «неполноте».",
+      "ja": "此の書は朝廷に干渉することを憚（はばか）り、朝政を用いざるを得ぬところも、ただ一筆にて略して帯出する。実に児女を書く筆墨をもって朝廷の上を唐突することを敢えてせぬゆえであり、これを不備と謂うべきでもない。",
+      "commentary": []
+    },
+    {
+      "id": 7,
+      "type": "prose",
+      "original": "此书开卷第一回也，作者自云：因曾历过一番梦幻之后，故将真事隐去，而撰此《石头记》一书也。故曰“甄士隐梦幻识通灵”。但书中所记何事？又因何而撰是书哉？自云：今风尘碌碌，一事无成，忽念及当日所有之女子，一一细推了去，觉其行止见识皆出于我之上，何堂堂之须眉诚不若彼一干裙钗？实愧则有馀，悔则无益之大无可奈何之日\nwww.hlmbbs.com\n1",
+      "zh_modern": "本书开卷第一回，作者自说：自己经历过一番梦幻之后，便把“真事”隐藏起来，写成这部《石头记》，所以第一回题作“甄士隐梦幻识通灵”。\n\n然而书中究竟记的是什么事？又为何要写这本书？作者又自述：如今在尘世中奔波劳碌，一事无成，忽然想起当年所见所识的那些女子，逐一细细推究，觉得她们的言行见识都在我之上；我这堂堂男儿，竟不如那一群女子（裙钗）！因此惭愧有余、追悔无益，陷入一种无可奈何的境地……（本页至此句未完，下页续）\nwww.hlmbbs.com\n1",
+      "en": "At the very opening—Chapter One—the author says of himself: having once gone through a sequence of dreamlike illusions, he therefore concealed the “true events” and wrote this book, “The Story of the Stone.” Hence the chapter is titled “Zhen Shiyin, in a Dream, Perceives the Jade.”\n\nBut what, after all, does the book record, and why was it written? The author explains: now, amid worldly dust and toil, he has achieved nothing. Suddenly recalling all the women he once knew, he examines them one by one and finds that their conduct and understanding all surpass his own. How could a man, a “whiskered fellow,” truly be inferior to that company of hairpins and skirts (women)! He has shame to spare, yet regret is of no use—leaving him in a day of utter helplessness… (the sentence breaks off here and continues on the next page)\nwww.hlmbbs.com\n1",
+      "ru": "С первой же главы автор говорит о себе: пережив однажды череду сновидных наваждений, он потому и «скрыл подлинные события» и сочинил эту книгу — «Записки о Камне». Поэтому первая глава и названа: «Чжэнь Шиинь в мечтании узнаёт о чудесной яшме».\n\nНо что же именно записано в книге и почему она была написана? Автор продолжает: ныне, среди мирской пыли и суеты, он не достиг ничего. И вдруг вспомнил всех женщин, которых когда‑то знал, и стал тщательно обдумывать их одну за другой — и увидел, что их поступки и разумение превосходят его. Как же так: он, «усатый муж», да не ровня тем, кто носит шпильки и юбки (женщинам)! Стыда в нём более чем достаточно, а раскаяние бесплодно — и вот наступает день, когда ему остаётся лишь бессильное отчаяние… (фраза обрывается и продолжается на следующей странице)\nwww.hlmbbs.com\n1",
+      "ja": "巻頭の第一回にて、作者みずから曰く：かつて一たび夢幻を歴（へ）た後、ゆえに真事を隠し、此の『石頭記』一書を撰したのである。ゆえに「甄士隠夢幻識通霊」と題する。\n\nしかし書中に記すは何事ぞ、また何ゆえに此の書を撰したのか。作者曰く：今や風塵に碌碌として、一事も成らず。ふと当日の諸々の女子を思い起こし、一々細かに推し量れば、その行止・見識はいずれも我を上回る。何ぞ堂々たる須眉（男子）が、かの一干の裙釵（女子）に及ばぬことがあろうか。まことに愧（は）じは有り余り、悔いは益なく、ただ大いなる無可奈何の日に至るのみ……（本頁にて句未完、次頁へ続く）\nwww.hlmbbs.com\n1",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "本页为“凡例”开端（页码 1），正文为文言/半文言体的编辑说明与“作者自云”的引语，末句在本页处中断，下页续。",
+    "原文中出现脚注标记①、②；本项目仅按原样保留标记，不在本页内展开脚注内容（若后页有脚注正文，再按页翻译）。"
+  ],
+  "total_segments": 7
+}

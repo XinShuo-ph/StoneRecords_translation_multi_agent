@@ -1,0 +1,62 @@
+{
+  "page": 11,
+  "chapter": "凡例（续）",
+  "page_content_type": "fanli",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "抚琴居红楼梦脂评汇校本",
+      "zh_modern": "抚琴居《红楼梦脂评汇校本》",
+      "en": "Fuqinju Dream of the Red Chamber: Collated Zhiping Edition",
+      "ru": "«Фуциньцзюй: Хунлоумэн. Сводное издание с脂评»",
+      "ja": "撫琴居・紅楼夢脂評匯校本",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "也。当此时，则自欲将已往所赖——上赖天恩，下承祖德，锦衣纨袴之\n时，饫甘餍美之日，背父母教育之恩，负师兄规训之德，以致今日一事\n无成、半生潦倒之罪，编述一记，以告普天下人。虽我之罪固不能免，\n然闺阁中本自历历有人，万不可因我不肖，则一并使其泯灭也。虽今日\n之茅椽蓬牖，瓦灶绳床，其风晨月夕，阶柳庭花，亦未有伤于我之襟怀\n笔墨者。何为不用假语村言敷演出一段故事来，以悦人之耳目哉？故曰\n“[贾雨村]风尘怀闺秀”，乃是第一回题纲正义也。开卷即云“风尘怀\n闺秀”，则知作者本意原为记述当日闺友闺情，并非怨世骂时之书矣。\n虽一时有涉于世态，然亦不得不叙者，但非其本旨耳。阅者切记之。",
+      "zh_modern": "因此，当此之时，作者便想把自己过去所倚赖的一切——上蒙天恩、下承祖德，在锦衣纨袴、饫甘餍美的日子里，背弃父母教养之恩、辜负师兄规训之德，以致今日一事无成、半生潦倒的罪过——编成一记，告知天下人。虽说我的罪过固然难免，但闺阁之中原本历历自有人，万不可因我不肖，就连带使她们也一并湮没。\n\n如今我虽住在茅屋蓬窗、瓦灶绳床之中，风晨月夕、阶柳庭花，并未损伤我胸中襟怀与笔墨。何不借“假语村言”敷演一段故事，以悦人耳目？因此说“[贾雨村]风尘怀闺秀”，乃第一回回目提纲挈领的本义。开卷便言“风尘怀闺秀”，可知作者本意原是记述当日闺友闺情，并非怨世骂时之书。即使偶有涉及世态，也只是不得不叙，并非全书本旨。读者务必牢记。",
+      "en": "…and so, at this moment, he wishes to compile an account of the guilt of his former life—having relied above on Heaven’s grace and below on ancestral virtue, living in embroidered robes and soft silks, sated with sweet and rich delights; having turned his back on the kindness of his parents’ instruction and failed the virtue of his elders’ discipline—so that, having come to this day with nothing accomplished and half a lifetime wasted, he might set it down as a record to tell all under Heaven. Though my guilt indeed cannot be avoided, in the inner chambers there were truly persons, clear and distinct; one must never let them be erased together merely because I am unworthy.\n\nEven if today I dwell in a thatched eave and reed-window, with a tiled stove and a rope-bed, in mornings of wind and evenings of moon, with willows by the steps and flowers in the courtyard, none of this has injured my feelings or my pen. Why not use “false words and rustic sayings” to unfold a tale, pleasing the eyes and ears? Hence the phrase “([Jia Yucun]) amid dust and wind, cherishing a lady” is the true guiding meaning of the title of Chapter One. The book opens by speaking of “cherishing a lady amid the world’s dust,” so we know the author’s intent was to record the friendships and affections of women of former days—not to rail at the age and curse the world. Though at times it touches on worldly manners, such passages are included only because they cannot be omitted; they are not the book’s central purpose. Readers must remember this.",
+      "ru": "…и в это время он сам желает составить запись о своих прежних прегрешениях: прежде он опирался — сверху на милость Неба, снизу на добродетель предков; носил парчу и бархат, жил в сладостях и излишествах; отверг благодеяние родительского воспитания и не оправдал наставлений старших — и потому дошёл до нынешнего дня, не совершив ничего и прожив полжизни в нищете и падении. Всё это он хочет изложить как записку и поведать всем под Небом. Хотя моей вины, конечно, не избежать, однако в женских покоях изначально были люди, живые и ясные; нельзя из‑за моей негодности дать им исчезнуть вместе со мной.\n\nПусть ныне я живу под соломенными стропилами и у окна из тростника, с глиняной печью и верёвочной постелью; пусть вокруг — ветер на рассвете и луна по вечерам, ивы у ступеней и цветы во дворе, — это не повредило ни моему внутреннему чувству, ни моему письму. Почему бы не развернуть некую историю, пользуясь «ложными речами и деревенскими словами», чтобы радовать слух и взгляд? Потому «([Цзя Юйцунь]) в мирской пыли хранит в сердце девицу» и есть правильный смысл‑тезис заглавия первой главы. Раз книга с первых строк говорит о «девице среди пыли мира», ясно, что авторский замысел — записать дружбу и чувства женщин былых дней; это не книга, которая проклинает время и ропщет на мир. Если временами она касается людских нравов, то лишь потому, что это нельзя совсем не упомянуть; но это не главная цель сочинения. Читателю следует крепко помнить.",
+      "ja": "…その時、作者はみずから、過去に頼みとしたもの――上は天恩に頼り、下は祖徳を承け、錦衣紈袴の時、甘美を飽（あ）き餍（あ）く日々にあって、父母の教育の恩に背き、師兄の規訓の徳に負（そむ）き、今日一事も成らず半生潦倒するに至った罪を――一記に編して天下に告げようとする。わが罪は免れ得ぬとしても、闺閣にはもとより歴々として人がある。わが不肖のために、彼女らまで一括して泯滅させてはならない。\n\nたとえ今日、茅の椽（たるき）に蓬の窓、瓦の竈に縄の寝床であろうと、風の朝・月の夕、階の柳・庭の花は、わが襟懐と筆墨を損なわない。何ぞ「仮語村言」をもって一段の物語を敷演し、人の耳目を悦ばせぬことがあろうか。ゆえに「（［賈雨村］）風塵に闺秀を懐く」とは第一回題綱の正義である。開巻してすでに「風塵懐闺秀」と云う以上、作者の本意は当日の闺友・闺情を記述するにあり、世を怨み時を罵る書ではないと知れる。たとえ一時世態に渉ることがあっても、叙せざるを得ぬゆえであって、本旨ではない。読者は切に記すべし。",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "type": "poem",
+      "original": "诗曰：\n浮生着甚苦奔忙，盛席华筵终散场。\n悲喜千般同幻渺，古今一梦尽荒唐。\n谩言红袖啼痕重，更有情痴抱恨长。\n字字看来皆是血，十年辛苦不寻常。",
+      "zh_modern": "诗曰：\n人生为何这样苦苦奔忙？再盛大的酒席也终要散场。\n千般悲喜都同样虚幻缥缈，古今万事不过一场荒唐的大梦。\n别只说红袖佳人泪痕深重，更有情痴之人抱恨悠长。\n字字读来皆如血泪，十年辛苦绝非寻常。",
+      "en": "The poem says:\nWhy does fleeting life so painfully rush about?\nEven the grandest feast must end and break apart.\nA thousand griefs and joys are equally airy dreams;\nPast and present—one mad dream, all absurd.\nDo not speak only of “red sleeves” and heavy tear-marks;\nStill more are love-mad hearts that clasp long resentment.\nRead every word: it is all blood;\nTen years of bitter toil are not a common thing.",
+      "ru": "Стих гласит:\nЗачем же бренный век так горько суетится?\nИ пышный пир, и роскошь — всё рассеется, как дым.\nТысячи радостей и горестей — едино призрак‑сон;\nИ древность, и сегодня — один безумный вздор.\nНе только «красные рукава» в слезах и следах рыданья —\nЕсть и страсть‑безумие, что долго носит злобу‑скорбь.\nВглядись в слова — в них кровь;\nДесять лет тяжёлых мук — не пустяки.",
+      "ja": "詩曰：\n浮世は何ぞかくも苦しく奔り忙しき。\n盛なる席も華やぐ筵も、ついに散じて終わる。\n悲喜千般、みな幻渺に同じ。\n古今一夢、ことごとく荒唐なり。\n紅袖の涙痕のみを重しと言うな。\nさらに情痴ありて、恨みを抱き長し。\n字字見れば皆血なり。\n十年の辛苦、尋常にあらず。",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "①此凡例五条及题诗仅见于甲戌本卷首，退二格抄写。其他各本均无凡例，且\n均截取第五条“此开卷第一回也”并入第一回作为正文开始。",
+      "zh_modern": "①本“凡例”五条与题诗只见于甲戌本卷首，且以退二格的方式抄写。其他各本均无“凡例”，并都将第五条“此开卷第一回也”截取出来并入第一回，作为正文的开端。",
+      "en": "(1) These five items of “General Principles,” together with the prefatory poem, appear only at the beginning of the Jiaxu manuscript, copied with a two-character indent. Other versions contain no such “General Principles”; all of them excerpt the fifth item (“This is the first chapter upon opening the book…”) and incorporate it into Chapter One as the start of the main text.",
+      "ru": "(1) Эти пять пунктов «凡例» и вступительное стихотворение встречаются только в начале 甲戌本 и переписаны с отступом в два иероглифа. В остальных версиях «凡例» отсутствует; во всех них из пятого пункта («Это первая глава при открытии книги…») делают вырезку и включают её в первую главу как начало основного текста.",
+      "ja": "①この凡例五条と題詩は甲戌本の巻首にのみ見え、二字下げで抄写されている。他の諸本には凡例がなく、いずれも第五条「此開巻第一回也」を切り取って第一回に編入し、正文の開始としている。",
+      "commentary": []
+    },
+    {
+      "id": 5,
+      "type": "prose",
+      "original": "②此处原被撕去一角，缺五字。胡适补“多”“红楼”三字，吴恩裕另校补“一\n曰”两字。除“红楼”二字无争议外，前三字所补是否恰当，有不同意见。\nredactor: kolistan\n2",
+      "zh_modern": "②此处原被撕去一角，缺五字。胡适补“多”“红楼”三字，吴恩裕另校补“一曰”两字。除“红楼”二字无争议外，前三字所补是否恰当，尚有不同意见。\n编者：kolistan\n2",
+      "en": "(2) Here a corner of the original was torn away, leaving five missing characters. Hu Shi supplied three characters—“duo” (many) and “Honglou” (Red Chamber); Wu Enyu, in a separate collation, supplied two more characters, “yi yue” (“one is called”). Apart from the two characters “Honglou,” which are undisputed, scholars differ over whether the first three supplied characters are appropriate.\nredactor: kolistan\n2",
+      "ru": "(2) В этом месте изначально был оторван угол, и утрачены пять иероглифов. Ху Ши восполнил три иероглифа — «多» и «红楼»; У Энюй при другой сверке дополнил ещё два — «一曰» («один называется»). Кроме двух иероглифов «红楼», которые не вызывают споров, относительно уместности первых трёх восполненных знаков существуют разные мнения.\nredactor: kolistan\n2",
+      "ja": "②ここは原本の隅が破れて五字欠けていた。胡適は「多」「紅楼」の三字を補い、呉恩裕は別に校補して「一曰」の二字を補った。「紅楼」二字に争いはないが、前三字の補いが適切かどうかについては異論がある。\nredactor: kolistan\n2",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "本页为凡例第2页（页码 2），含一首题诗与脚注①②；脚注对“凡例”的版本来源与缺字补字情况作学术性说明。",
+    "原文中“假语村言”与人名“贾雨村”构成谐音/双关（假语存），此处不展开释义，留待第一回出现时在译注中说明。"
+  ],
+  "total_segments": 5
+}

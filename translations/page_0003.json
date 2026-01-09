@@ -1,0 +1,32 @@
+{
+  "page": 3,
+  "chapter": "声明与联系方式",
+  "page_content_type": "front_matter",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "本电子版仅供网络阅读、检索之用。写文章引用务请核对相关影印本。",
+      "zh_modern": "本电子版仅供网络阅读与检索使用；撰文引用时务必核对相关影印本。",
+      "en": "This electronic edition is provided only for online reading and searching. When quoting it in writing, please verify against the relevant facsimile editions.",
+      "ru": "Данная электронная версия предназначена лишь для чтения в сети и поиска по тексту. При цитировании просим сверяться с соответствующими факсимильными изданиями.",
+      "ja": "本電子版はネット閲覧・検索のためのみに供する。文章で引用する際は、必ず該当の影印本と照合されたい。",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "声明：本书由 Kolistan 汇校整理、制作并免费提供下载，允许在不改变其内容完整的前提下自由传播，但禁止用于商业用途。其他网站转载本书全部或部分内容时，必须注明整理者联系方式及抚琴居网址。照搬本书内容或仅作局部改动，而变更（或删除）整理者名字另行发表者，我们保留追究的权利。\n\n红楼梦脂评汇校本\n版本：3.13（2009.7.20.）\n曹雪芹著 / 脂砚斋评\nKolistam 汇校整理、制作\n抚琴居红楼梦文学社区发布\n\n联系方式：\nEmail: kolistan@yahoo.com.cn\nQQ: 552129470\nMSN: kolistan@msn.com\n网址: http://bbs.hlmbbs.com/",
+      "zh_modern": "声明：本书由 Kolistan 汇校整理、制作并免费提供下载；在不改变内容完整性的前提下，允许自由传播，但禁止用于商业用途。其他网站转载本书全部或部分内容时，必须注明整理者联系方式及“抚琴居”网址。凡照搬本书内容或仅作局部改动，却变更（或删除）整理者署名另行发表者，我们保留追究的权利。\n\n《红楼梦脂评汇校本》\n版本：3.13（2009.7.20）\n曹雪芹著／脂砚斋评\nKolistam 汇校整理、制作\n抚琴居红楼梦文学社区发布\n\n联系方式：\nEmail: kolistan@yahoo.com.cn\nQQ: 552129470\nMSN: kolistan@msn.com\n网址：http://bbs.hlmbbs.com/",
+      "en": "Statement: This book was collated and produced by Kolistam and is provided as a free download. It may be freely shared provided the integrity of its contents is not altered; commercial use is prohibited. If other websites repost all or part of this book, they must state the compiler’s contact information and the Fuqinju website. Those who copy the contents wholesale, or make only minor local changes, yet change (or remove) the compiler’s name and publish it elsewhere, remain subject to our right to pursue responsibility.\n\nDream of the Red Chamber: Collated Edition with Zhiyan Zhai Commentary\nVersion: 3.13 (2009-07-20)\nWritten by Cao Xueqin / annotated by Zhiyan Zhai\nCollated and produced by Kolistam\nReleased by the Fuqinju Dream of the Red Chamber literary community\n\nContact:\nEmail: kolistan@yahoo.com.cn\nQQ: 552129470\nMSN: kolistan@msn.com\nWebsite: http://bbs.hlmbbs.com/",
+      "ru": "Заявление: книга сверена и подготовлена Kolistam и распространяется бесплатно. Разрешается свободное распространение при условии сохранения целостности содержания; коммерческое использование запрещено. При перепечатке книги (полностью или частично) на других сайтах необходимо указать контактные данные составителя и адрес сайта «Фуциньцзюй». В случаях, когда содержание копируется дословно либо с незначительными изменениями, но при этом изменяется (или удаляется) имя составителя и материал публикуется отдельно, мы оставляем за собой право добиваться ответственности.\n\n«Сон в красном тереме»: сводное (сверенное) издание с комментариями Чжияньчжай\nВерсия: 3.13 (2009-07-20)\nАвтор — Цао Сюэцинь / комментарии — Чжияньчжай\nСверка и подготовка — Kolistam\nОпубликовано литературным сообществом «Фуциньцзюй: Хунлоумэн»\n\nКонтакты:\nEmail: kolistan@yahoo.com.cn\nQQ: 552129470\nMSN: kolistan@msn.com\nСайт: http://bbs.hlmbbs.com/",
+      "ja": "声明：本書は Kolistam が汇校整理・制作し、無料でダウンロード提供する。内容の完全性を損なわない限り自由に頒布してよいが、商用利用は禁止する。他サイトが本書の全部または一部を転載する場合、整理者の連絡先および「撫琴居」サイトのURLを明記しなければならない。本書内容をそのまま転載、または一部のみ改変したうえで整理者名を変更（あるいは削除）して別途公表する者については、追及する権利を留保する。\n\n『紅楼夢 脂評匯校本』\n版：3.13（2009.7.20）\n曹雪芹 著／脂硯斎 評\nKolistam 校合整理・制作\n「撫琴居・紅楼夢文学コミュニティ」公開\n\n連絡先：\nEmail: kolistan@yahoo.com.cn\nQQ: 552129470\nMSN: kolistan@msn.com\nURL: http://bbs.hlmbbs.com/",
+      "commentary": []
+    }
+  ],
+  "translator_notes": [
+    "本页为电子版使用声明与版权/转载说明，并附版本号与联系方式。",
+    "联系方式（Email/QQ/MSN/网址）按原样保留；译文中仅做字段标签的翻译。"
+  ],
+  "total_segments": 2
+}
