@@ -1,0 +1,230 @@
+{
+  "page": 23,
+  "chapter": "第一回",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "恰值士隐走来听见，笑道：“雨村兄真抱负不浅也！”",
+      "zh_modern": "恰好士隐走来听见，笑道：“雨村兄的抱负真是不浅啊！”",
+      "en": "It happened that Shiyin walked over and heard this; he smiled and said, \"Brother Yucun, your ambitions are truly not shallow!\"",
+      "ru": "Случилось так, что Шиинь подошел и услышал это; он улыбнулся и сказал: «Брат Юйцунь, твои амбиции поистине не мелкие!»",
+      "ja": "ちょうど士隠が歩いて来てこれを聞き、笑って言った。「雨村兄、まことに抱負浅からず！」",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "表过黛玉，则紧接上宝钗。偏有些脂气。",
+          "zh_modern": "表述过黛玉之后，紧接着就接上宝钗。偏偏有些脂粉气。",
+          "en": "Having mentioned Daiyu, it immediately follows with Baochai. It tends to have a bit of a rouge [feminine/romantic] scent.",
+          "ru": "Упомянув Дайюй, сразу же переходим к Баочай. Это отдает пудрой [женственностью/романтикой].",
+          "ja": "黛玉を表し過（お）われば、則ち緊（しっか）りと宝釵に接す。偏（ひとえ）に些（いささ）か脂気有り。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "dialogue",
+      "original": "雨村忙笑道：“岂敢！不过偶吟前人之句，何敢狂诞至此。”因问：“老先生何兴至此？”",
+      "zh_modern": "雨村急忙笑道：“哪里哪里！不过是偶尔吟咏前人的诗句，怎么敢狂妄荒诞到这个地步。”于是问道：“老先生有什么兴致来到这里？”",
+      "en": "Yucun hurriedly smiled and said, \"I dare not! I was merely reciting lines from the ancients by chance; how would I dare to be so arrogant and absurd?\" He then asked, \"Old sir, what brings you here in such high spirits?\"",
+      "ru": "Юйцунь поспешно улыбнулся и сказал: «Не смею! Я просто случайно цитировал строки древних; как бы я осмелился быть таким высокомерным и абсурдным?» Затем он спросил: «Старый господин, что привело вас сюда в таком приподнятом настроении?»",
+      "ja": "雨村は慌てて笑って言った。「どうしてそのようなことがありましょう！ただ偶（たま）たま前人の句を吟じたまでで、あえて此処（ここ）に至るまで狂誕（きょうたん）ならんや。」因（よ）りて問う。「老先生、何の興（きょう）ありて此処に至れるや？」",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "type": "dialogue",
+      "original": "士隐笑道：“今夜中秋，俗谓‘团圆之节’，想尊兄旅寄僧房，不无寂寞之感，故特具小酌，邀兄到敝斋一饮，不知可纳芹意否？”",
+      "zh_modern": "士隐笑道：“今夜是中秋节，俗话说是‘团圆之节’，我想仁兄寄居在寺庙里，不免有些寂寞的感慨，所以特意备了点薄酒，邀请仁兄到寒舍一饮，不知能否赏光？”",
+      "en": "Shiyin smiled and said, \"Tonight is Mid-Autumn, commonly called the 'Festival of Reunion.' Thinking that you, honored brother, lodging in this monk's quarters, must feel some loneliness, I have specially prepared a small feast and come to invite you to my humble study for a drink. I wonder if you will accept my humble invitation?\"",
+      "ru": "Шиинь улыбнулся и сказал: «Сегодня ночь Середины Осени, которую обычно называют \"Праздником Воссоединения\". Полагая, что вы, почтенный брат, живя в этой монашеской келье, должно быть, чувствуете некоторое одиночество, я специально приготовил небольшое угощение и пришел пригласить вас в мой скромный кабинет выпить. Не знаю, примете ли вы мое скромное приглашение?»",
+      "ja": "士隠は笑って言った。「今夜は中秋、俗に『団円の節』と謂（い）う。想うに尊兄（そんけい）、僧房に旅寄（りょキ）し、寂寞の感無きにしも非（あ）らず。故に特（こと）に小酌（しょうしゃく）を具（そな）え、兄を邀（むか）えて敝斎（へいさい）に到りて一飲せんとす。知らず、芹意（きんい）を納（い）るるや否や？」",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "type": "dialogue",
+      "original": "雨村听了，并不推辞，便笑道：“既蒙谬爱，何敢拂此盛情。”",
+      "zh_modern": "雨村听了，并不推辞，便笑道：“既然承蒙错爱，怎么敢违背您的盛情呢。”",
+      "en": "Yucun heard this and did not decline at all; he smiled and said, \"Since I have received your undeserved kindness, how could I dare refuse such generous hospitality?\"",
+      "ru": "Юйцунь выслушал это и ничуть не стал отказываться; он улыбнулся и сказал: «Раз уж я удостоился вашей незаслуженной доброты, как я смею отвергать такое щедрое гостеприимство?»",
+      "ja": "雨村はこれを聞き、決して辞退せず、便（すなわ）ち笑って言った。「既に謬愛（びゅうアイ）を蒙（こうむ）る、何ぞ敢えて此の盛情を払わん。」",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "不推辞，语便不入故套。",
+          "zh_modern": "不推辞，言语就不落入俗套。",
+          "en": "He does not decline; thus his words do not fall into the old clichés.",
+          "ru": "Он не отказывается; поэтому его слова не впадают в старые клише.",
+          "ja": "推辞せず、語便ち故套に入らず。"
+        },
+        {
+          "source": "脂批",
+          "original": "写雨村豁达，气象不俗。",
+          "zh_modern": "描写雨村性格豁达，气象不凡。",
+          "en": "Writes of Yucun's open-mindedness; his bearing is uncommon.",
+          "ru": "Описывает широту взглядов Юйцуня; его поведение необычно.",
+          "ja": "雨村の豁達（かったつ）にして、気象俗ならざるを写す。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "prose",
+      "original": "说着，便同了士隐复过这边书院中来。",
+      "zh_modern": "说着，便同士隐又来到这边的书院中。",
+      "en": "Saying this, he accompanied Shiyin back to the study.",
+      "ru": "Сказав это, он пошел с Шиинем обратно в кабинет.",
+      "ja": "言い終わりて、便ち士隠と同（とも）に復（ま）たこちらの書院の中へ過（よ）ぎり来たる。",
+      "commentary": []
+    },
+    {
+      "id": 6,
+      "type": "prose",
+      "original": "须臾茶毕，早已设下杯盘，那美酒佳肴自不必说。二人归坐，先是款斟漫饮，次渐谈至兴浓，不觉飞觥限斝起来。",
+      "zh_modern": "片刻茶喝完了，早已摆好了杯盘，那美酒佳肴自然不必多说。两人入座，先是慢慢斟酒细饮，后来渐渐谈到兴致浓时，不知不觉推杯换盏起来。",
+      "en": "Moments later, tea was finished, and cups and plates had already been set out; it goes without saying that there were fine wines and delicious dishes. The two took their seats; at first they poured slowly and drank leisurely, but as their conversation grew more animated, they unconsciously began to pass the cup and drain the goblet.",
+      "ru": "Через мгновение чай был допит, и чашки с тарелками уже были расставлены; само собой разумеется, там были прекрасные вина и вкусные блюда. Двое заняли свои места; сначала они наливали медленно и пили не спеша, но по мере того как их разговор становился все более оживленным, они невольно начали передавать кубок и осушать бокал.",
+      "ja": "須臾（しゅゆ）にして茶畢（おわ）り、早（すで）に杯盤（はいばん）を設け、那（か）の美酒佳肴（びしゅかこう）は自（おの）ずから言うを必（もち）いず。二人座に帰し、先ずは款（ゆる）やかに斟（く）み漫（そぞ）ろに飲み、次（つい）で漸（ようや）く談じて興（きょう）濃きに至り、覚えず觥（こう）を飛ばし斝（か）を限（かぎ）るに至る。",
+      "commentary": []
+    },
+    {
+      "id": 7,
+      "type": "prose",
+      "original": "当时街坊上家家箫管，户户弦歌，当头一轮明月，飞彩凝辉，二人愈添豪兴，酒到杯干。",
+      "zh_modern": "当时街坊上家家吹奏箫管，户户弹琴唱歌，头顶一轮明月，流光溢彩，两人更加增添了豪兴，酒到杯干。",
+      "en": "At that time, flutes and pipes were playing in every house in the neighborhood, and strings and songs were heard in every home. A bright moon hung directly overhead, radiating colorful brilliance. The two men felt even more high-spirited and drained their cups as soon as they were filled.",
+      "ru": "В это время в каждом доме по соседству играли флейты и свирели, и в каждом доме слышались струны и песни. Яркая луна висела прямо над головой, излучая красочное сияние. Двое мужчин почувствовали еще большее воодушевление и осушали свои чаши, как только их наполняли.",
+      "ja": "当時街坊（がいぼう）には家家（かか）簫管（しょうかん）し、戸戸（ここ）弦歌（げんか）し、当頭（とうとう）の一輪の明月、彩（いろ）を飛ばし輝きを凝（こ）らし、二人愈（いよいよ）豪興（ごうきょう）を添え、酒到れば杯干（ほ）す。",
+      "commentary": []
+    },
+    {
+      "id": 8,
+      "type": "prose",
+      "original": "雨村此时已有七八分酒意，狂兴不禁，乃对月寓怀，口号一绝云：",
+      "zh_modern": "雨村此时已有七八分醉意，狂兴难忍，便对着月亮寄托情怀，口占一首绝句道：",
+      "en": "By now Yucun was seventy or eighty percent drunk. Unable to restrain his wild spirits, he gazed at the moon to express his feelings and recited a quatrain:",
+      "ru": "К этому времени Юйцунь был пьян на семьдесят или восемьдесят процентов. Не в силах сдержать свой буйный дух, он посмотрел на луну, чтобы выразить свои чувства, и продекламировал четверостишие:",
+      "ja": "雨村此の時已（すで）に七八分の酒意有り、狂興（きょうきょう）禁ぜず、乃（すなわ）ち月に対して懐（おも）いを寓（ぐ）し、口号（こうごう）す一絶、云く：",
+      "commentary": []
+    },
+    {
+      "id": 9,
+      "type": "poem",
+      "original": "时逢三五便团圆，\n满把晴光护玉栏。\n天上一轮才捧出，\n人间万姓仰头看。",
+      "zh_modern": "时逢十五便团圆（指月亮），\n满把清光护住玉栏杆。\n天上的一轮明月才被捧出，\n人间万姓都仰头观看。",
+      "en": "When the fifteenth comes, the circle is complete,\nFilling the jade railing with bright light so sweet.\nJust as one wheel is held up in the sky,\nTen thousand commoners look up with curious eye.",
+      "ru": "Когда приходит пятнадцатое, круг завершается,\nНаполняя нефритовую ограду ярким светом.\nКак только одно колесо поднимается в небо,\nДесять тысяч простолюдинов поднимают головы и смотрят.",
+      "ja": "時三五に逢えば便（すなわ）ち団円、\n満把（まんぱ）の晴光（せいこう）玉欄（ギョクラン）を護る。\n天上一輪才（わず）かに捧げ出ださるれば、\n人間（じんかん）万姓（ばんせい）頭（こうべ）を仰いで看（み）る。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "是将发之机。",
+          "zh_modern": "这是即将发达的契机。",
+          "en": "This is the opportunity about to arise.",
+          "ru": "Это возможность, которая вот-вот появится.",
+          "ja": "是れ将に発せんとするの機なり。"
+        },
+        {
+          "source": "脂批",
+          "original": "奸雄心事，不觉露出。",
+          "zh_modern": "奸雄的心事，不知不觉露出来了。",
+          "en": "The ambition of a villainous hero is unconsciously revealed.",
+          "ru": "Амбиции коварного героя бессознательно раскрываются.",
+          "ja": "奸雄の心事、覚えず露出ス。"
+        },
+        {
+          "source": "脂批",
+          "original": "这首诗非本旨，不过欲出雨村，不得不有者。用中秋诗起，用中秋诗收，又用起诗社于秋日。所叹者三春也，却用三秋作关键。",
+          "zh_modern": "这首诗不是本书的主旨，不过是因为要引出雨村，不得不有的。用中秋诗起头，用中秋诗收尾，后来又在秋天起诗社。所感叹的是三春（三位女子/春天），却用三秋作为关键。",
+          "en": "This poem is not the main intent; it is only because Yucun must be introduced that it must exist. It starts with a Mid-Autumn poem, ends with a Mid-Autumn poem, and the poetry club is started in autumn. What is lamented are the Three Springs [three jade-like girls or spring season], yet Three Autumns are used as the key.",
+          "ru": "Это стихотворение не является главной целью; оно должно существовать только потому, что нужно представить Юйцуня. Оно начинается со стихотворения Праздника Середины Осени, заканчивается стихотворением Праздника Середины Осени, а поэтический клуб открывается осенью. Оплакиваются Три Весны [три девушки, подобные нефриту, или весенний сезон], но ключом служат Три Осени.",
+          "ja": "この詩は本旨に非ず、ただ雨村を出ださんと欲し、無くんばあらずの者なり。中秋の詩を用い起こし、中秋の詩を用い収め、また詩社を秋日に起こすを用う。嘆く所の者は三春なり、却って三秋を用いて関鍵（かんけん）と作（な）す。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": "prose",
+      "original": "士隐听了，大叫：“妙哉！吾每谓兄必非久居人下者，今所吟之句，飞腾之兆已见，不日可接履于云霓之上矣。可贺，可贺！”",
+      "zh_modern": "士隐听了，大叫：“妙啊！我常说仁兄一定不是长久居于人下的人，今天所吟的诗句，飞黄腾达的预兆已经显现，不久就可以步步高升到云霓之上了。可喜可贺！”",
+      "en": "Shiyin heard this and shouted, \"Marvelous! I have always said that you, brother, are not one to remain long beneath others. The lines you have just recited show omens of soaring upward; before long you will be treading upon the clouds and rainbows. Congratulations, congratulations!\"",
+      "ru": "Шиинь услышал это и воскликнул: «Чудесно! Я всегда говорил, что вы, брат, не из тех, кто долго остается в подчинении у других. Строки, которые вы только что продекламировали, предвещают взлет; скоро вы будете ступать по облакам и радугам. Поздравляю, поздравляю!»",
+      "ja": "士隠はこれを聞き、大いに叫んで言った。「妙なるかな！吾（われ）每（つね）に謂（い）う、兄は必ずしも久しく人の下に居る者に非ずと。今吟ずる所の句、飛騰（ひとう）の兆（きざ）し已に見え、不日（ふじつ）にして履（くつ）を雲霓（うんげい）の上に接すべし。賀すべし、賀すべし！」",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "伏笔，作巨眼语。妙！",
+          "zh_modern": "伏笔，这是有眼光的人说的话。妙！",
+          "en": "Foreshadowing, speaking with great vision. Marvelous!",
+          "ru": "Предзнаменование, сказанное с большой проницательностью. Чудесно!",
+          "ja": "伏筆、巨眼の語と作（な）る。妙なり！"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": "prose",
+      "original": "乃亲斟一斗为贺。",
+      "zh_modern": "于是亲自斟了一大杯酒作为祝贺。",
+      "en": "He then personally poured a large goblet to congratulate him.",
+      "ru": "Затем он лично налил большой кубок, чтобы поздравить его.",
+      "ja": "乃ち親（みずか）ら一斗を斟（く）みて賀（が）と為す。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "这个“斗”字莫作升斗之斗看。◇可笑。",
+          "zh_modern": "这个“斗”字不要当作升斗的斗来看。◇可笑。",
+          "en": "Do not read this character \"dou\" as the \"dou\" of peck and bushel. ◇ Laughable.",
+          "ru": "Не читайте этот иероглиф «доу» как меру объема. ◇ Смешно.",
+          "ja": "この「斗」の字、升斗の斗と作（な）して看るなかれ。◇笑うべし。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": "dialogue",
+      "original": "雨村因干过，叹道：“非晚生酒后狂言，若论时尚之学，晚生也或可去充数沽名，只是目今行囊、路费一概无措，神京路远，非赖卖字撰文可能到者。”",
+      "zh_modern": "雨村干了杯，叹道：“不是晚生酒后狂言，如果论当时流行的学问（指八股文），晚生也或许可以去充个数钓取名誉，只是目前行囊、路费一概没有着落，京城路途遥远，不是靠卖字写文章能到得了的。”",
+      "en": "Having drained his cup, Yucun sighed and said, \"It is not that I speak wildly after wine, but if we discuss the scholarship currently in fashion, I might perhaps be able to make up the number and fish for fame. It is just that at present I have absolutely no provision for travel bags or expenses. The Divine Capital is far away, and it is not a place one can reach by relying on selling calligraphy and writing essays.\"",
+      "ru": "Осушив кубок, Юйцунь вздохнул и сказал: «Не то чтобы я болтал лишнее после вина, но если говорить о науке, которая сейчас в моде, я, возможно, смог бы пополнить ряды и снискать славу. Просто сейчас у меня нет абсолютно никаких средств на дорожные сумки или расходы. Божественная Столица далеко, и туда не добраться, полагаясь на продажу каллиграфии и написание сочинений».",
+      "ja": "雨村は飲み干して、嘆いて言った。「晩生（それがし）が酒後の狂言に非ず、若（も）し時尚の学を論ぜば、晩生もまた或いは去（ゆ）きて充数（じゅうすう）し名を沽（か）うべきも、ただ目今（もっこん）行囊（こうのう）・路費、一概に措（お）く無く、神京（しんきょう）は路（みち）遠く、字を売り文を撰するに頼りて到るべく能（あた）う者に非ず。」",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "四字新而含蓄最广，若必指明，则又落套矣。",
+          "zh_modern": "这四个字（时尚之学）新颖而且含蓄最广，如果一定要指明，那就又落入俗套了。",
+          "en": "These four characters [\"fashionable scholarship\"] are new and imply the widest meaning; if one must point it out explicitly, it falls into clichés.",
+          "ru": "Эти четыре иероглифа [«модная наука»] новы и подразумевают широчайший смысл; если указывать на это прямо, это станет клише.",
+          "ja": "四字新にして含蓄最も広し、若し必ず指明せば、則ちまた故套に落ちん。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": "dialogue",
+      "original": "士隐不待说完，便道：“兄何不早言。愚每有此心，但每遇兄时，兄并未谈及，愚故未敢唐突。今既及此，愚虽不才，‘义利’二字却还识得。",
+      "zh_modern": "士隐没等他说完，便道：“仁兄为什么不早说！我常有这份心，但是每次遇到仁兄时，仁兄并未谈及，所以我不敢唐突。今天既然谈到这里，我虽然不才，‘义利’二字却还懂得。",
+      "en": "Shiyin did not wait for him to finish but said, \"Brother, why did you not speak earlier? I have often had this intention, but whenever I met you, you never mentioned it, so I did not dare to be abrupt. Now that we have come to this, although I am untalented, I still recognize the two characters for 'Righteousness' and 'Profit'.",
+      "ru": "Шиинь не стал дожидаться, пока он закончит, и сказал: «Брат, почему вы не сказали раньше? У меня часто было такое намерение, но всякий раз, когда я встречал вас, вы никогда не упоминали об этом, поэтому я не смел быть резким. Теперь, когда мы дошли до этого, хоть я и бесталанен, я все же различаю два иероглифа: \"Долг\" и \"Выгода\".",
+      "ja": "士隠は説き終わるを待たず、便ち言った。「兄何ぞ早く言わざる。愚（われ）每（つね）に此の心有れど、但（た）だ兄に遇（あ）う每（ごと）に、兄並びに未だ談じ及ばず、愚故（ゆえ）に未だ敢えて唐突ならず。今既に此（ここ）に及ぶ、愚不才なりと虽（いえど）も、『義利』の二字は却（かえ）って還（ま）た識（し）り得たり。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "“义利”二字，时人多不识",
+          "zh_modern": "“义利”二字，当时的人大多不认识",
+          "en": "The two characters \"Righteousness\" and \"Profit\"—many people of the time do not recognize them.",
+          "ru": "Два иероглифа «Долг» и «Выгода» — многие люди того времени не знают их.",
+          "ja": "「義利」の二字、時人多くは識らず"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "时尚之学 (Fashionable scholarship): Refers to the Eight-Legged Essay (八股文), the standardized test for the civil service exams, often criticized for being rigid and stifling true talent.",
+    "芹意 (Celery intent): A humble term for one's own intention or offering, derived from the Book of Songs.",
+    "三五 (Three fives): 15th day of the lunar month, the full moon/Mid-Autumn Festival.",
+    "蟾光 (Toad's light): Moonlight.",
+    "义利 (Righteousness and Profit): A Confucian concept distinguishing between acting for moral reasons vs. for personal gain. Shiyin puts righteousness above profit."
+  ]
+}

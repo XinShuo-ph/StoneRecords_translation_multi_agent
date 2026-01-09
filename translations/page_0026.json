@@ -1,0 +1,262 @@
+{
+  "page": 26,
+  "chapter": "第一回",
+  "segments": [
+    {
+      "id": 1,
+      "type": "dialogue",
+      "original": "士隐听了，便迎上来道：“你满口说些什么？只听见些‘好’‘了’‘好’‘了’。”",
+      "zh_modern": "士隐听了，便迎上去说：“你满嘴说的什么？只听见些‘好’‘了’‘好’‘了’。”",
+      "en": "Shiyin listened and walked up to him, saying, \"What is all this you are saying? All I can hear is 'Won' and 'Done', 'Won' and 'Done'.\"",
+      "ru": "Шиинь услышал это и подошел к нему, говоря: «О чем это ты болтаешь? Я слышу только «Хорошо» и «Конец», «Хорошо» и «Конец».",
+      "ja": "士隠聴き了（お）わり、便（すなわ）ち迎え上がりて道（い）う。「汝（なんじ）満口（まんこう）に説く些（いささ）かは何ぞ？只（た）だ聴こゆるは些（いささ）か『好（こう）』『了（りょう）』『好』『了』のみ。」",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "type": "dialogue",
+      "original": "那道人笑道：“你若果听见‘好’‘了’二字，还算你明白。可知世上万般，好便是了，了便是好。若不了，便不好，若要好，须是了。我这歌儿，便名《好了歌》。”",
+      "zh_modern": "那道人笑道：“你如果真的听见‘好’‘了’二字，还算你是个明白人。要知道世上万般事物，好就是了，了就是好。如果不了，便不好；若要好，必须了。我这首歌，便叫《好了歌》。”",
+      "en": "The Taoist smiled and said, \"If you truly heard the two words 'Won' and 'Done', then you are intelligent indeed. You must know that in this world, everything that is 'Won' (good) must be 'Done' (finished), and everything that is 'Done' is 'Won'. If it is not 'Done', it is not 'Won'; if you want it to be 'Won', it must be 'Done'. My song is called the 'Won-Done Song'.\"",
+      "ru": "Даос улыбнулся и сказал: «Если ты действительно услышал два слова \"Хорошо\" и \"Конец\", то ты и вправду умен. Знай, что в этом мире все \"Хорошее\" должно иметь \"Конец\", а \"Конец\" — это и есть \"Хорошо\". Если нет \"Конца\", то это не \"Хорошо\"; если хочешь, чтобы было \"Хорошо\", должен быть \"Конец\". Моя песня называется \"Песня о Хорошем и Конце\"».",
+      "ja": "那（か）の道人笑いて道（い）う。「汝若（も）し果して『好』『了』の二字を聴き見（あら）わさば、還（ま）た汝を明白（めいはく）なりと算（かぞ）うべし。知るべし世上の万般、好（よ）きは便（すなわ）ち了（お）わるなり、了わるは便ち好（よ）きなり。若（も）し了わざれば、便ち好からず、若し好からんと要（ほっ）せば、須（すべから）く是れ了わるべし。我が這（こ）の歌児（かじ）は、便ち《好了歌（こうりょうか）》と名づく。」",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "type": "dialogue",
+      "original": "士隐本是有宿慧的，一闻此言，心中早已彻悟，因笑道：“且住！待我将你这《好了歌》解注出来何如？”",
+      "zh_modern": "士隐本来是有夙世慧根的，一听这话，心中早已彻底领悟，于是笑道：“且慢！等我把你这《好了歌》注解出来怎么样？”",
+      "en": "Shiyin possessed wisdom from a former life; upon hearing these words, he instantly attained enlightenment. He smiled and said, \"Wait! Let me provide a commentary for your 'Won-Done Song'—how about that?\"",
+      "ru": "Шиинь обладал мудростью из прошлой жизни; услышав эти слова, он мгновенно достиг просветления. Он улыбнулся и сказал: «Постой! Давай я истолкую твою \"Песню о Хорошем и Конце\" — как тебе это?»",
+      "ja": "士隠本（もと）より是れ宿慧（シュクエ）有る者、一（ひと）たび此の言を聞くや、心中早（すで）に徹悟（てつご）し、因（よ）りて笑いて道（い）う。「且（しばら）く住（とど）まれ！我をして将（もっ）て汝が這（こ）の《好了歌》を解注（かいちゅう）し出ださしめんこと何如（いかん）？」",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "type": "dialogue",
+      "original": "道人笑道：“你解，你解。”",
+      "zh_modern": "道人笑道：“你解，你解。”",
+      "en": "The Taoist smiled and said, \"Interpret it, interpret it.\"",
+      "ru": "Даос улыбнулся и сказал: «Толкуй, толкуй».",
+      "ja": "道人笑いて道（い）う。「汝解せよ、汝解せよ。」",
+      "commentary": []
+    },
+    {
+      "id": 5,
+      "type": "prose",
+      "original": "士隐乃说道：",
+      "zh_modern": "士隐便说道：",
+      "en": "Shiyin then said:",
+      "ru": "Тогда Шиинь сказал:",
+      "ja": "士隠乃（すなわ）ち道（い）う：",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "要写情要写幻境，偏先写出一篇奇人奇境来。",
+          "zh_modern": "要写情要写幻境，偏偏先写出一篇奇人奇境来。",
+          "en": "Wanting to write about passion and illusion, but insisting on first writing a chapter about strange people and strange realms.",
+          "ru": "Желая написать о страсти и иллюзиях, но настаивая на том, чтобы сначала написать главу о странных людях и странных мирах.",
+          "ja": "情を写し幻境を写さんと要（ほっ）するに、偏（ひとえ）に先ず一篇の奇人奇境を写し出だす。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "poem",
+      "original": "陋室空堂，当年笏满床，\n衰草枯杨，曾为歌舞场。\n蛛丝儿结满雕梁，\n绿纱今又糊在蓬窗上。",
+      "zh_modern": "如今的陋室空堂，当年曾是朝笏满床（高官满座）。\n如今的衰草枯杨，当年曾是歌舞场。\n蜘蛛网结满了雕刻的梁柱，\n绿纱如今又糊在了蓬窗（穷人家的窗户）上。",
+      "en": "Mean huts and empty halls,\nWhere emblems of office used to hang on the walls.\nWithered grass and dead trees,\nWhere once was a place of dance and ease.\nSpiderwebs cover the carved beams so fine,\nWhile green gauze now pastes over the thatch window line.",
+      "ru": "Убогие хижины и пустые залы,\nГде когда-то ложе было полно чиновничьих табличек.\nУвядшая трава и засохшие ивы,\nГде когда-то были танцы и песни.\nПаутина заплела резные балки,\nА зеленый газ теперь заклеивает соломенные окна.",
+      "ja": "陋室（ろうしつ）空堂（くうどう）、当年（とうねん）笏（しゃく）床（とこ）に満てり、\n衰草（すいそう）枯楊（こよう）、曾（かつ）て歌舞の場と為（な）る。\n蛛糸（ちゅし）児（じ）結び満つ雕梁（ちょうりょう）、\n緑紗（りょくさ）今又糊（こ）す蓬窓（ほうそう）の上。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "宁、荣未有之先。",
+          "zh_modern": "宁国府、荣国府未有之前。",
+          "en": "Before Ning and Rong existed.",
+          "ru": "До того, как существовали Нин и Жун.",
+          "ja": "寧、栄未だ有らざるの先。"
+        },
+        {
+          "source": "脂批",
+          "original": "宁、荣既败之后。",
+          "zh_modern": "宁国府、荣国府既败之后。",
+          "en": "After Ning and Rong had declined.",
+          "ru": "После того, как Нин и Жун пришли в упадок.",
+          "ja": "寧、栄既に敗れし後。"
+        },
+        {
+          "source": "脂批",
+          "original": "潇湘馆、紫芸轩等处。",
+          "zh_modern": "潇湘馆、紫芸轩等处。",
+          "en": "Places like Xiaoxiang Lodge and Ziyun Pavilion.",
+          "ru": "Такие места, как Павильон Сяосян и Павильон Цзыюнь.",
+          "ja": "瀟湘館、紫芸軒等の処。"
+        },
+        {
+          "source": "脂批",
+          "original": "雨村等一干新荣暴发之家。",
+          "zh_modern": "雨村等一干新荣暴发之家。",
+          "en": "Yucun and other newly wealthy upstart families.",
+          "ru": "Юйцунь и другие семьи нуворишей.",
+          "ja": "雨村等一干新栄暴発の家。"
+        },
+        {
+          "source": "脂批",
+          "original": "先说场面，忽新忽败，忽丽忽朽，已见得反覆不了。",
+          "zh_modern": "先说场面，忽新忽败，忽丽忽朽，已经看得出反覆无常。",
+          "en": "First speaking of the scene, suddenly new, suddenly defeated, suddenly beautiful, suddenly rotting—already showing the endless cycle of reversal.",
+          "ru": "Сначала говоря о сцене, внезапно новой, внезапно поверженной, внезапно прекрасной, внезапно гниющей — уже показывая бесконечный цикл переворотов.",
+          "ja": "先ず場面を説く、忽（たちま）ち新、忽ち敗、忽ち麗、忽ち朽（く）ち、已に反覆了（お）わざるを見得たり。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "poem",
+      "original": "说什么脂正浓，粉正香，如何两鬓又成霜？",
+      "zh_modern": "说什么脂粉正浓、香气正郁，怎么两鬓忽然又成了白霜？",
+      "en": "Why say the rouge is fresh and powder sweet?\nHow is it the temples are already frosted with sleet?",
+      "ru": "К чему говорить, что румяна густы, а пудра ароматна?\nКак же так вышло, что виски уже покрылись инеем?",
+      "ja": "何をか説く脂（あぶら）正に濃く、粉（こ）正に香（かんば）しきに、如何（いかん）ぞ両鬢（りょうびん）又霜と成る？",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "宝钗、湘云一干人。",
+          "zh_modern": "宝钗、湘云一干人。",
+          "en": "Baochai, Xiangyun and their like.",
+          "ru": "Баочай, Сянъюнь и им подобные.",
+          "ja": "宝釵、湘雲一干の人。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "poem",
+      "original": "昨日黄土陇头送白骨，\n今宵红灯帐底卧鸳鸯。",
+      "zh_modern": "昨天在黄土坟头送别白骨（亲人），\n今晚在红灯帐底卧着鸳鸯（新人）。",
+      "en": "Yesterday, yellow earth covered the white bones on the hill,\nTonight, red lanterns shine on the lovers' bed still.",
+      "ru": "Вчера на холме желтая земля укрыла белые кости,\nСегодня вечером под красным фонарем лежат влюбленные.",
+      "ja": "昨日（さくじつ）黄土（こうど）隴頭（ろうとう）に白骨を送り、\n今宵（こんよい）紅灯（こうとう）帳底（ちょうてい）に鴛鴦（えんおう）臥（ふ）す。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "黛玉、晴雯一干人。",
+          "zh_modern": "黛玉、晴雯一干人。",
+          "en": "Daiyu, Qingwen and their like.",
+          "ru": "Дайюй, Цинвэнь и им подобные.",
+          "ja": "黛玉、晴雯一干の人。"
+        },
+        {
+          "source": "脂批",
+          "original": "一段妻妾迎新送死，倏恩倏爱，倏痛倏悲，缠绵不了。",
+          "zh_modern": "这一段写妻妾迎新送死，忽然恩忽然爱，忽然痛忽然悲，缠绵不断。",
+          "en": "A passage of wives and concubines welcoming the new and sending off the dead; sudden grace, sudden love, sudden pain, sudden grief—endless entanglement.",
+          "ru": "Отрывок о женах и наложницах, встречающих новых и провожающих мертвых; внезапная милость, внезапная любовь, внезапная боль, внезапное горе — бесконечная запутанность.",
+          "ja": "一段妻妾新（しん）を迎え死を送る、倏（たちま）ち恩し倏ち愛し、倏ち痛み倏ち悲しみ、纏綿（てんめん）して了（お）わず。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": "poem",
+      "original": "金满箱，银满箱，\n展眼乞丐人皆谤。",
+      "zh_modern": "金子装满箱，银子装满箱，\n转眼变成乞丐，人人诽谤。",
+      "en": "Gold fills the chests, silver fills the chests,\nIn the blink of an eye, a beggar whom all detest.",
+      "ru": "Золото полнит сундуки, серебро полнит сундуки,\nВ мгновение ока — нищий, которого все хулят.",
+      "ja": "金は箱に満ち、銀は箱に満つ、\n展眼（てんがん）すれば乞丐（きっかい）人皆（みな）謗（そし）る。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "熙凤一干人。",
+          "zh_modern": "熙凤一干人。",
+          "en": "Xifeng and her like.",
+          "ru": "Сифэн и ей подобные.",
+          "ja": "熙鳳一干の人。"
+        },
+        {
+          "source": "脂批",
+          "original": "甄玉、贾玉一干人。",
+          "zh_modern": "甄宝玉、贾宝玉一干人。",
+          "en": "Zhen Baoyu, Jia Baoyu and their like.",
+          "ru": "Чжэнь Баоюй, Цзя Баоюй и им подобные.",
+          "ja": "甄玉、賈玉一干の人。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": "poem",
+      "original": "正叹他人命不长，那知自己归来丧！",
+      "zh_modern": "正感叹别人命不长，哪知道自己回来就丧了命！",
+      "en": "Just sighing that another's life was not long,\nUnaware that upon return, he'd be gone!",
+      "ru": "Только вздыхал, что жизнь другого коротка,\nНе зная, что сам по возвращении умрет!",
+      "ja": "正に嘆く他人の命長からざるを、那（なん）ぞ知らん自己帰り来たりて喪（し）なんとは！",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "一段石火光阴，悲喜不了。风露草霜，富贵嗜欲，贪婪不了。",
+          "zh_modern": "这一段石火般的光阴，悲喜不断。风露草霜，富贵嗜欲，贪婪不断。",
+          "en": "A passage of time like a spark from a flint, endless joy and sorrow. Wind and dew, grass and frost, riches and desires—endless greed.",
+          "ru": "Течение времени, подобно искре от кремня, бесконечная радость и печаль. Ветер и роса, трава и иней, богатство и желания — бесконечная жадность.",
+          "ja": "一段石火の光陰、悲喜了（お）わず。風露草霜、富貴嗜欲、貪婪了わず。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": "poem",
+      "original": "训有方，保不定日后作强梁。",
+      "zh_modern": "教训虽然有方，保不住日后要做强盗。",
+      "en": "Though trained with care and propriety,\nWho knows if he won't become a bandit in society?",
+      "ru": "Хотя воспитывали по правилам,\nНе факт, что в будущем не станет разбойником.",
+      "ja": "訓（おし）えに方（ほう）有り、保ち定めず日後（じつご）強梁（きょうりょう）と作（な）るを。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "言父母死后之日。",
+          "zh_modern": "说的是父母死后的日子。",
+          "en": "Speaking of the days after the parents die.",
+          "ru": "Говоря о днях после смерти родителей.",
+          "ja": "父母死後の日を言う。"
+        },
+        {
+          "source": "脂批",
+          "original": "柳湘莲一干人。",
+          "zh_modern": "柳湘莲一干人。",
+          "en": "Liu Xianglian and his like.",
+          "ru": "Лю Сянлянь и ему подобные.",
+          "ja": "柳湘蓮一干の人。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": "poem",
+      "original": "择膏粱，谁承望流落在烟花巷！",
+      "zh_modern": "以此选择富贵人家，谁指望流落在烟花柳巷！",
+      "en": "Choosing a rich match for a daughter fair,\nWho expected she'd end up in a brothel somewhere!",
+      "ru": "Выбирали богатого жениха,\nКто ждал, что она окажется в квартале красных фонарей!",
+      "ja": "膏粱（こうりょう）を択（えら）ぶも、誰か承（う）け望まん煙花（えんか）の巷（ちまた）に流落せんとは！",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "一段儿女死后无凭，生前空为筹划计算，痴心不了。",
+          "zh_modern": "这一段写儿女死后无依无靠，生前白白为他们筹划计算，痴心不断。",
+          "en": "A passage on children having no support after parents' death; futile planning and calculation during life—endless foolish devotion.",
+          "ru": "Отрывок о детях, оставшихся без поддержки после смерти родителей; тщетное планирование и расчеты при жизни — бесконечная глупая преданность.",
+          "ja": "一段児女死後憑（たよ）り無く、生前空しく為に籌画計算し、痴心了（お）わず。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "笏满床 (Tablets filling the bed): Refers to the 'Tale of the Tablet Bed', symbolizing a family full of high-ranking officials.",
+    "蓬窗 (Thatch window): Symbol of poverty.",
+    "强梁 (Qiangliang): Bandits or robbers. The commentary links this to Liu Xianglian, a character who becomes a wanderer/heroic outlaw type.",
+    "烟花巷 (Mist and flower lane): Euphemism for brothels. Refers to Qiaojie, Xifeng's daughter, who is sold into a brothel after the family falls.",
+    "宁、荣 (Ning, Rong): The two branches of the Jia family.",
+    "好了歌 (Won-Done Song): A central thematic poem of the novel, expressing Buddhist/Taoist detachment from worldly impermanence."
+  ]
+}

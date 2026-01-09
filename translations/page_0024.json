@@ -1,0 +1,338 @@
+{
+  "page": 24,
+  "chapter": "第一回",
+  "segments": [
+    {
+      "id": 1,
+      "type": "dialogue",
+      "original": "故自不识。且喜明岁正当大比，兄宜作速入都，春闱一战，方不负兄之所学也。",
+      "zh_modern": "所以自然不认识。好在明年正是大考之年，仁兄应该赶快进京，参加春闱会试，才不辜负仁兄的才学。",
+      "en": "So naturally they do not know it. Fortunately, next year is exactly the time for the Grand Evaluation. Brother, you should go to the capital with all speed and do battle in the Spring Quarter Examination; only then will you not betray your learning.",
+      "ru": "Поэтому они, естественно, не знают этого. К счастью, следующий год — это как раз время Великого Экзамена. Брат, тебе следует со всей скоростью отправиться в столицу и сразиться на Весеннем Экзамене; только так ты не предашь свою ученость.",
+      "ja": "故に自（おの）ずから識（し）らず。且（か）つ喜ぶらくは明歳正に大比（たいひ）に当たり、兄宜しく速やかに入都し、春闈（しゅんい）に一戦すべし、方（はじめ）て兄の所学に負（そむ）かざるなり。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "故自不识。",
+          "zh_modern": "所以自然不认识。",
+          "en": "So they naturally do not know it.",
+          "ru": "Так что они, естественно, не знают этого.",
+          "ja": "故に自ずから識らず。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "dialogue",
+      "original": "其盘费馀事，弟自代为处置，亦不枉兄之谬识矣！”",
+      "zh_modern": "至于路费等琐事，小弟自然替你料理，也不枉费仁兄对我的一番错爱了！”",
+      "en": "As for travel expenses and other matters, I shall take care of them myself, so as not to let your undeserved appreciation of me go to waste!\"",
+      "ru": "Что касается дорожных расходов и прочих дел, я сам позабочусь о них, чтобы не дать пропасть твоему незаслуженному признанию меня!»",
+      "ja": "其の盤費（ばんぴ）余事、弟（てい）自ら代わりて処置せん、亦（また）兄の謬識（びゅうしき）を枉（ま）げざるなり！」",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "当下即命小童进去，速封五十两白银，并两套冬衣。",
+      "zh_modern": "说完便命书童进去，赶快封了五十两银子，还有两套冬衣。",
+      "en": "He immediately ordered the servant boy to go inside and quickly seal up fifty taels of silver and two sets of winter clothes.",
+      "ru": "Он немедленно приказал слуге пойти внутрь и быстро упаковать пятьдесят лянов серебра и два комплекта зимней одежды.",
+      "ja": "当下（とうか）即ち小童に命じて進み去らしめ、速やかに五十両の白銀、並びに両套の冬衣を封ぜしむ。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "写士隐如此豪爽，又全无一些粘皮带骨之气相，愧杀近之读书假道学矣。",
+          "zh_modern": "写士隐如此豪爽，又完全没有一点拖泥带水的小气相，真是羞煞了近来的读书假道学了。",
+          "en": "Writes of Shiyin being so generous, without any sticky or lingering pettiness; it puts to shame the fake moralists among recent scholars.",
+          "ru": "Описывает Шииня таким щедрым, без какой-либо липкой или затяжной мелочности; это позорит фальшивых моралистов среди современных ученых.",
+          "ja": "士隠の如此（かくのごと）く豪爽にして、また全く一些の粘皮帯骨（ねんぴたいこつ）の気相無きを写し、近之（ちかごろ）の読書仮道学を愧殺（きさつ）す。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "dialogue",
+      "original": "又云：“十九日乃黄道之期，兄可即买舟西上，待雄飞高举，明冬再晤，岂非大快之事耶！”",
+      "zh_modern": "又说：“十九日是个黄道吉日，仁兄可以立刻雇船向西进发，等你高飞远举，明年冬天再相见，岂不是一大快事吗！”",
+      "en": "He added, \"The nineteenth is an auspicious day of the Yellow Path. Brother, you can hire a boat and go west immediately. Wait until you have flown high like a hero, and we shall meet again next winter—will that not be a most joyous occasion!\"",
+      "ru": "Он добавил: «Девятнадцатое число — благоприятный день Желтого Пути. Брат, ты можешь нанять лодку и немедленно отправиться на запад. Подожди, пока ты взлетишь высоко, как герой, и мы встретимся снова следующей зимой — разве это не будет радостным событием!»",
+      "ja": "また云く、「十九日は乃ち黄道の期、兄即ち舟を買いて西上すべし、雄飛高挙（ゆうひこうきょ）を待ちて、明冬再び晤（あ）わん、豈（あ）に大快の事に非（あら）ずや！」",
+      "commentary": []
+    },
+    {
+      "id": 5,
+      "type": "prose",
+      "original": "雨村收了银、衣，不过略谢一语，并不介意，仍是吃酒谈笑。",
+      "zh_modern": "雨村收了银子和衣服，不过略微说了一句感谢的话，并不放在心上，仍然是喝酒谈笑。",
+      "en": "Yucun accepted the silver and clothes with only a brief word of thanks, not making a fuss about it, and continued to drink and chat as before.",
+      "ru": "Юйцунь принял серебро и одежду, лишь коротко поблагодарив, не придавая этому особого значения, и продолжал пить и болтать, как прежде.",
+      "ja": "雨村は銀、衣を収め、不過（ただ）略（ほぼ）一語を謝せしのみにて、並びに介意せず、仍（な）お是れ吃酒（きっしゅ）し談笑す。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "写雨村真是个英雄。",
+          "zh_modern": "写雨村真是个英雄。",
+          "en": "Writes that Yucun is truly a hero.",
+          "ru": "Пишет, что Юйцунь — настоящий герой.",
+          "ja": "雨村真に是れ箇（こ）の英雄なるを写す。"
+        },
+        {
+          "source": "脂批",
+          "original": "托大处，即遇此等人，又不得太琐细。",
+          "zh_modern": "托大的地方，既然遇到这种人，又不能太琐碎。",
+          "en": "Where he acts big; when meeting such a person, one cannot be too trivial.",
+          "ru": "Где он ведет себя важно; встречаясь с таким человеком, нельзя быть слишком мелочным.",
+          "ja": "大を託する処、即ち此等の人に遇えば、また太（はなは）だ鎖細（ささい）なるを得ず。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "prose",
+      "original": "那天已交三鼓，二人方散。",
+      "zh_modern": "那天已到了三更时分，二人才散去。",
+      "en": "It was already the third watch that night when the two finally parted.",
+      "ru": "Была уже третья стража той ночи, когда двое наконец расстались.",
+      "ja": "那（か）の天已に三鼓に交わり、二人方（はじめ）て散ず。",
+      "commentary": []
+    },
+    {
+      "id": 7,
+      "type": "prose",
+      "original": "士隐送雨村去后，回房一觉，直至红日三竿方醒。",
+      "zh_modern": "士隐送雨村走后，回房睡了一觉，直到红日三竿才醒来。",
+      "en": "After Shiyin saw Yucun off, he returned to his room and slept until the red sun was three poles high before waking.",
+      "ru": "Проводив Юйцуня, Шиинь вернулся в свою комнату и спал, пока красное солнце не поднялось на высоту трех шестов, прежде чем проснуться.",
+      "ja": "士隠雨村を送りて去りし後、房に帰りて一覚（いっかく）、直ちに紅日三竿に至りて方（はじめ）て醒む。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "是宿酒。",
+          "zh_modern": "是宿酒未醒。",
+          "en": "It is the hangover.",
+          "ru": "Это похмелье.",
+          "ja": "是れ宿酒なり。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "prose",
+      "original": "因思昨夜之事，意欲再写两封荐书，与雨村带至神京，使雨村投谒个仕宦之家，为寄足之地。",
+      "zh_modern": "想起昨夜的事，想要再写两封推荐信，给雨村带到京城，让雨村去拜谒官宦人家，作为寄身之处。",
+      "en": "Thinking of the previous night's events, he intended to write two letters of recommendation for Yucun to take to the Divine Capital, so that Yucun could visit officials' families and have a place to stay.",
+      "ru": "Вспоминая события прошлой ночи, он намеревался написать два рекомендательных письма, чтобы Юйцунь взял их с собой в Божественную Столицу, дабы Юйцунь мог посетить семьи чиновников и иметь место для ночлега.",
+      "ja": "昨夜の事を思うに因りて、意（こころ）再（ま）た両封の薦書（せんしょ）を書き、雨村に与えて神京に帯（たい）せしめ、雨村をして箇（こ）の仕宦（しかん）の家に投謁（とうえつ）し、足（あし）を寄するの地と為さしめんと欲す。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "又周到如此。",
+          "zh_modern": "又是这般周到。",
+          "en": "Thoughtful again like this.",
+          "ru": "Снова так заботлив.",
+          "ja": "また周到なること此（かく）のごとし。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": "prose",
+      "original": "因使人过去请时，那家人去了回来说：“和尚说，贾爷今日五鼓已进京去了，也曾留下话与和尚转达老爷，说：‘读书人不在黄道黑道，总以事理为要，不及面辞了。’”",
+      "zh_modern": "于是派人过去请的时候，那家人去了回来说：“和尚说，贾爷今天五更已经进京去了，也曾留下话让和尚转达老爷，说：‘读书人不在乎黄道黑道，总以事理为紧要，来不及当面告辞了。’”",
+      "en": "So he sent someone to invite him over. The servant went and returned, saying, \"The monk says that Master Jia already left for the capital at the fifth watch today. He left a message with the monk to pass on to you, sir, saying: 'Scholars do not concern themselves with auspicious or ominous days; reason and affairs are always the essentials. I could not stay to say goodbye in person.'\"",
+      "ru": "Поэтому он послал кого-то пригласить его. Слуга пошел и вернулся, сказав: «Монах говорит, что господин Цзя уже уехал в столицу в пятую стражу сегодня. Он оставил сообщение монаху, чтобы передать вам, господин, говоря: \"Ученые не заботятся о благоприятных или зловещих днях; разум и дела всегда важнее. Я не смог остаться, чтобы попрощаться лично\"».",
+      "ja": "因りて人をして過ぎて請わしむる時、那（か）の家人去りて回り来たりて説く。「和尚説く、贾爺（かや）今日五鼓已に進京し去れり、また曾（かつ）て話を留めて和尚に老爷（ろうや）に転達せしめて説く、『読書人黄道黒道に在らず、総（すべ）て事理を以て要と為し、面辞（めんじ）するに及ばず』と。」",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "写雨村真令人爽快。",
+          "zh_modern": "写雨村真是令人感到爽快。",
+          "en": "Writes of Yucun in a way that truly refreshes people.",
+          "ru": "Описывает Юйцуня так, что это действительно освежает.",
+          "ja": "雨村を写して真に人をして爽快ならしむ。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": "prose",
+      "original": "士隐听了，也只得罢了。",
+      "zh_modern": "士隐听了，也只得罢了。",
+      "en": "Shiyin heard this and could only let it be.",
+      "ru": "Шиинь услышал это и мог только смириться.",
+      "ja": "士隠これを聴き、また只（ただ）罷（や）むを得ず。",
+      "commentary": []
+    },
+    {
+      "id": 11,
+      "type": "prose",
+      "original": "真是闲处光阴易过，倏忽又是元宵佳节矣。",
+      "zh_modern": "真是闲暇时光容易过，转眼又是元宵佳节了。",
+      "en": "Truly, time passes easily in idleness; in a flash, it was the Lantern Festival again.",
+      "ru": "Поистине, время легко проходит в праздности; в мгновение ока снова наступил Праздник Фонарей.",
+      "ja": "真に閑処（かんしょ）光陰過ぎ易く、倏忽（しゅくこつ）として又是（またこれ）元宵佳節なり。",
+      "commentary": []
+    },
+    {
+      "id": 12,
+      "type": "prose",
+      "original": "士隐命家人霍启抱了英莲去看社火花灯，",
+      "zh_modern": "士隐叫家人霍启抱着英莲去看社火花灯，",
+      "en": "Shiyin ordered the servant Huo Qi to carry Yinglian to see the festival lanterns and fireworks.",
+      "ru": "Шиинь приказал слуге Хо Ци отнести Инлянь посмотреть на праздничные фонари и фейерверки.",
+      "ja": "士隠は家人霍啓（かくけい）に命じて英蓮を抱き社火花灯を看（み）せしむるに、",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "妙！祸起也。此因事而命名。",
+          "zh_modern": "妙！霍启就是“祸起”的谐音。这是根据事情来命名的。",
+          "en": "Marvelous! \"Huo Qi\" sounds like \"Trouble Starts.\" This name is given because of the event.",
+          "ru": "Чудесно! «Хо Ци» звучит как «Беда начинается». Это имя дано из-за события.",
+          "ja": "妙なり！禍（わざわ）い起こるなり。此れ事に因りて名を命ずるなり。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": "prose",
+      "original": "半夜中，霍启因要小解，便将英莲放在一家门槛上坐着。待他小解完了来抱时，那有英莲的踪影？",
+      "zh_modern": "半夜里，霍启因为要小便，便把英莲放在一家门槛上坐着。等他小便完了来抱时，哪里还有英莲的踪影？",
+      "en": "In the middle of the night, Huo Qi needed to urinate, so he set Yinglian down on the threshold of a house. When he finished and came back to pick her up, where was there any trace of Yinglian?",
+      "ru": "Среди ночи Хо Ци нужно было помочиться, поэтому он посадил Инлянь на порог дома. Когда он закончил и вернулся, чтобы забрать ее, где был хоть какой-то след Инлянь?",
+      "ja": "半夜中、霍啓小解を要するに因り、便（すなわ）ち英蓮を将（もっ）て一家の門檻（もんかん）の上に放ちて坐せしむ。彼（か）の小解を待ち完了して来たりて抱く時、那（なん）ぞ英蓮の踪影（そうえい）有らんや？",
+      "commentary": []
+    },
+    {
+      "id": 14,
+      "type": "prose",
+      "original": "急得霍启直寻了半夜，至天明不见，那霍启也就不敢回来见主人，便逃往他乡去了。",
+      "zh_modern": "急得霍启一直找了半夜，到天亮也没见到，那霍启也就不敢回来见主人，便逃往他乡去了。",
+      "en": "Huo Qi was so anxious that he searched for half the night, but by dawn she was nowhere to be seen. Huo Qi did not dare return to face his master, so he fled to another region.",
+      "ru": "Хо Ци так волновался, что искал половину ночи, но к рассвету ее нигде не было видно. Хо Ци не осмелился вернуться к своему хозяину, поэтому он сбежал в другие края.",
+      "ja": "急ぐこと霍啓直ちに尋ねること半夜、天明に至るも見えず、那（か）の霍啓も即（すなわ）ち敢えて帰り来たりて主人に見（まみ）えず、便ち他郷へ逃げ往き去りぬ。",
+      "commentary": []
+    },
+    {
+      "id": 15,
+      "type": "prose",
+      "original": "那士隐夫妇，见女儿一夜不归，便知有些不妥，再使几个人去寻找，回来皆云连音响皆无。",
+      "zh_modern": "那士隐夫妇，见女儿一夜没回来，便知道有些不对劲，再派几个人去寻找，回来都说连一点消息都没有。",
+      "en": "When Shiyin and his wife saw that their daughter had not returned all night, they knew something was wrong. They sent several more people to search, but all returned saying there was not even a whisper of news.",
+      "ru": "Когда Шиинь и его жена увидели, что их дочь не вернулась всю ночь, они поняли, что что-то не так. Они послали еще несколько человек на поиски, но все вернулись, говоря, что нет ни звука, ни весточки.",
+      "ja": "那（か）の士隠夫婦、女儿（じょじ）の一夜帰らざるを見て、便ち些（いささ）か妥（おだや）かならざるを知り、再び幾人かをして去りて尋ねしむるに、帰り来たりて皆云く、音響すら皆無しと。",
+      "commentary": []
+    },
+    {
+      "id": 16,
+      "type": "prose",
+      "original": "夫妻二人，半世只生此女，一旦失落，岂不思想，因此昼夜啼哭，几乎不曾寻死。",
+      "zh_modern": "夫妻二人，半辈子只生了这个女儿，一旦丢失，怎能不思念，因此日夜啼哭，差点就要寻死。",
+      "en": "The couple had produced only this one daughter in half a lifetime; once lost, how could they not miss her? Thus they wept day and night and almost sought death themselves.",
+      "ru": "У пары родилась только эта единственная дочь за полжизни; потеряв ее, как они могли не тосковать? Поэтому они плакали день и ночь и почти искали смерти.",
+      "ja": "夫妻二人、半世只（た）だ此の女（むすめ）を生み、一旦失落す、豈（あ）に思想せざらんや、此（これ）に因りて昼夜啼哭（ていこく）し、幾（ほとん）ど尋死（じんし）せざるなり。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "喝醒天下父母之痴心。",
+          "zh_modern": "喝醒天下父母的痴心。",
+          "en": "A wake-up call to the foolish hearts of parents under heaven.",
+          "ru": "Пробуждающий зов к глупым сердцам родителей под небесами.",
+          "ja": "天下父母の痴心を喝醒（かっせい）す。"
+        },
+        {
+          "source": "脂批",
+          "original": "天下作子弟的，看了想去。",
+          "zh_modern": "天下做子弟的，看了要去思考。",
+          "en": "Let the children of the world read this and think.",
+          "ru": "Пусть дети мира прочитают это и задумаются.",
+          "ja": "天下子弟と作る者、看（み）て想い去れ。"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "type": "prose",
+      "original": "看看一月，士隐先就得了一病，当时封氏孺人也因思女构疾，日日请医疗病。",
+      "zh_modern": "眼看过了满一个月，士隐先就得了一场病，当时封氏夫人也因为思念女儿成了病，每天请医生看病。",
+      "en": "In the blink of an eye a month passed. Shiyin fell ill first, and then his wife, Lady Feng, also fell ill from longing for her daughter; every day they called for doctors to treat them.",
+      "ru": "В мгновение ока прошел месяц. Шиинь заболел первым, а затем его жена, госпожа Фэн, тоже заболела от тоски по дочери; каждый день они звали врачей, чтобы лечить их.",
+      "ja": "看（み）る看る一月、士隠先ず就（すなわ）ち一病を得、当時封氏孺人（ふうしじゅじん）も亦（また）女（むすめ）を思い疾（やまい）を構え、日日医を請い病を療（りょう）ず。",
+      "commentary": []
+    },
+    {
+      "id": 18,
+      "type": "prose",
+      "original": "不想这日三月十五，葫芦庙中炸供，那些和尚不加小心，致使油锅火逸，便烧着窗纸。",
+      "zh_modern": "没想到这天三月十五，葫芦庙里炸供品，那些和尚不小心，致使油锅里的火溢出来，烧着了窗纸。",
+      "en": "Unexpectedly, on the fifteenth of the third month, the monks in the Bottle Gourd Temple were frying offerings. Being careless, they allowed the fire from the oil pan to escape and set light to the paper window.",
+      "ru": "Неожиданно, пятнадцатого числа третьего месяца, монахи в храме Калебаса жарили подношения. Будучи неосторожными, они позволили огню из масляной сковороды вырваться и поджечь бумажное окно.",
+      "ja": "図らざりき此の日三月十五、葫蘆廟（ころびょう）中にて供（くもつ）を炸（あ）げ、那些（あれら）の和尚小心を加えず、油鍋（ゆか）の火逸（いつ）するを致し、便（すなわ）ち窓紙（そうし）を焼き着く。",
+      "commentary": []
+    },
+    {
+      "id": 19,
+      "type": "prose",
+      "original": "此方人家多用竹篱木壁者，",
+      "zh_modern": "这一带人家多是用竹篱笆和木板墙的，",
+      "en": "The houses in this area mostly used bamboo fences and wooden walls.",
+      "ru": "Дома в этом районе в основном имели бамбуковые заборы и деревянные стены.",
+      "ja": "此の方（かた）人家多くは竹籬（ちくり）木壁（もくへき）を用うる者にして、",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "土俗人风。",
+          "zh_modern": "当地的风俗习惯。",
+          "en": "Local customs and folkways.",
+          "ru": "Местные обычаи и нравы.",
+          "ja": "土俗人風なり。"
+        },
+        {
+          "source": "脂批",
+          "original": "交竹滑溜婉转。",
+          "zh_modern": "竹子交织在一起，火势滑溜蔓延。",
+          "en": "Interwoven bamboo is slippery and flexible.",
+          "ru": "Переплетенный бамбук скользкий и гибкий.",
+          "ja": "交竹（こうちく）滑溜婉転（かつりゅうえんてん）たり。"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "type": "prose",
+      "original": "大抵也因劫数，于是接二连三，牵五挂四，将一条街烧得如火焰山一般。",
+      "zh_modern": "大概也是因为劫数难逃，于是接二连三，牵连不断，把一条街烧得像火焰山一样。",
+      "en": "Probably it was also due to fate; one after another, catching five and snagging four, the fire burned the whole street until it was like the Mountain of Flames.",
+      "ru": "Вероятно, это также было связано с судьбой; один за другим, цепляя пять и захватывая четыре, огонь сжег всю улицу, пока она не стала похожа на Гору Пламени.",
+      "ja": "大抵（たいてい）も亦（また）劫数（こうすう）に因り、是（ここ）に于（お）いて二に接し三に連なり、五に牽（ひ）き四に掛け、一条の街を将（もっ）て焼き得ること火焰山（かえんざん）の如く一般なり。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "写出南直召祸之实病。",
+          "zh_modern": "写出了南直隶招致灾祸的实际弊病。",
+          "en": "Writes out the actual malady of the Southern Zhili region inviting disaster.",
+          "ru": "Описывает истинную болезнь региона Южный Чжили, навлекающую бедствие.",
+          "ja": "南直（なんちょく）禍（わざわ）いを招くの実病を写し出だす。"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "type": "prose",
+      "original": "彼时虽有军民来救，那火已成了势，如何救得下去？直烧了一夜，方渐渐熄去，也不知烧了几家。只可怜甄",
+      "zh_modern": "那时虽然有军民来救火，但火势已成，怎么救得下去？一直烧了一夜，才渐渐熄灭，也不知道烧了多少家。只可怜甄",
+      "en": "Although soldiers and civilians came to help at that time, the fire had already gained momentum; how could it be saved? It burned right through the night before gradually dying out, and who knows how many homes were burnt? It was only a pity that the Zhen...",
+      "ru": "Хотя солдаты и гражданские лица пришли на помощь в то время, огонь уже набрал силу; как его можно было остановить? Он горел всю ночь, прежде чем постепенно угас, и кто знает, сколько домов сгорело? Жаль только, что Чжэнь...",
+      "ja": "彼（か）の時軍民の来たりて救う有りと虽（いえど）も、那（か）の火已に勢いを成し、如何（いかん）ぞ救い下去（くだ）り得ん？直ちに焼くこと一夜、方（はじめ）て漸漸（ぜんぜん）に熄（や）み去り、また知らず幾家を焼きしかを。只（た）だ憐れむべし甄",
+      "commentary": []
+    }
+  ],
+  "notes": [
+    "黄道 (Yellow Path): The ecliptic, in Chinese astrology, refers to auspicious days.",
+    "霍启 (Huo Qi): A homophone for 祸起 (Trouble rises/starts), indicating he is the catalyst for Shiyin's misfortune.",
+    "炸供 (Frying offerings): Preparation of food offerings for religious ceremonies.",
+    "社火花灯 (Festival lanterns and fireworks): Celebrations during the Lantern Festival (15th of 1st lunar month).",
+    "火焰山 (Mountain of Flames): Reference to Journey to the West, emphasizing the intensity of the fire.",
+    "南直 (Southern Zhili): The region around Nanjing, known for its densely packed wooden architecture prone to fires."
+  ]
+}

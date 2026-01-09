@@ -1,0 +1,297 @@
+{
+  "page": 27,
+  "chapter": "第一回",
+  "segments": [
+    {
+      "id": 1,
+      "type": "poem",
+      "original": "因嫌纱帽小，致使锁枷扛，\n昨怜破袄寒，今嫌紫蟒长。",
+      "zh_modern": "只因为嫌官职小（纱帽小），一心向上爬，结果反倒戴上了枷锁。\n昨天还在可怜破棉袄寒冷，今天又嫌紫色蟒袍太长（麻烦/不满足）。",
+      "en": "Because he thought his official cap too small,\nHe came to wear the cangue and lock, ending it all.\nYesterday he pitied his tattered coat in the cold,\nToday he finds the purple python robe too long to hold.",
+      "ru": "Из-за того, что шапка чиновника казалась мала,\nПришлось надеть колодки и кандалы.\nВчера жалел о рваной куртке в холод,\nСегодня недоволен, что пурпурный халат длинен.",
+      "ja": "因（よ）りて嫌（いと）う紗帽（さぼう）の小さきを、致して鎖枷（さか）を扛（にな）わしむ。\n昨（きのう）憐れむ破襖（はおう）の寒きを、今嫌う紫蟒（しもう）の長きを。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "贾赦、雨村一干人。",
+          "zh_modern": "贾赦、雨村一干人。",
+          "en": "Jia She, Yucun and their like.",
+          "ru": "Цзя Шэ, Юйцунь и им подобные.",
+          "ja": "賈赦、雨村一干の人。"
+        },
+        {
+          "source": "脂批",
+          "original": "贾兰、贾菌一干人。",
+          "zh_modern": "贾兰、贾菌一干人。",
+          "en": "Jia Lan, Jia Jun and their like.",
+          "ru": "Цзя Лань, Цзя Цзюнь и им подобные.",
+          "ja": "賈蘭、賈菌一干の人。"
+        },
+        {
+          "source": "脂批",
+          "original": "一段功名升黜无时，强夺苦争，喜惧不了。",
+          "zh_modern": "这一段写功名升降无常，强夺苦争，喜惧不断。",
+          "en": "A passage on the unpredictability of promotion and dismissal, forceful taking and bitter struggling—endless joy and fear.",
+          "ru": "Отрывок о непредсказуемости продвижения и увольнения, насильственном захвате и ожесточенной борьбе — бесконечная радость и страх.",
+          "ja": "一段功名升黜（しょうちゅつ）時無く、強奪苦争し、喜懼（きく）了（お）わず。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "poem",
+      "original": "乱烘烘你方唱罢我登场，\n反认他乡是故乡。\n甚荒唐，到头来都是为他人作嫁衣裳！",
+      "zh_modern": "乱哄哄的你刚唱完我又登场，\n反而把异乡当作了故乡。\n真是太荒唐，到头来都是为别人做嫁衣裳！",
+      "en": "In wild confusion, you leave the stage and I appear,\nMistaking a foreign land for my home so dear.\nHow utterly absurd!\nIn the end, it's all making wedding clothes for others, word for word!",
+      "ru": "В дикой суматохе: ты закончил петь, я выхожу на сцену,\nПринимая чужую землю за родной дом.\nКак нелепо!\nВ конце концов, все это лишь шитье свадебного платья для других!",
+      "ja": "乱烘烘（らんこうこう）として汝方（まさ）に唱え罷（や）めば我登場し、\n反（かえ）って他郷を認めて故郷と是（な）す。\n甚（はなは）だ荒唐、頭（こうべ）に到りて来（すべ）て是れ他人の為に嫁衣裳（かしょう）を作（な）す！",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "总收。",
+          "zh_modern": "总收。",
+          "en": "General summary.",
+          "ru": "Общее резюме.",
+          "ja": "総収なり。"
+        },
+        {
+          "source": "脂批",
+          "original": "总收古今亿兆痴人，共历幻场，此幻事扰扰纷纷，无日可了。",
+          "zh_modern": "总括古今亿万痴人，共同经历幻境，这些幻事纷纷扰扰，没有终结的一天。",
+          "en": "A general summary of billions of foolish people past and present, experiencing the realm of illusion together; these illusory events are chaotic and numerous, with no day of ending.",
+          "ru": "Общее резюме миллиардов глупых людей прошлого и настоящего, вместе переживающих царство иллюзий; эти иллюзорные события хаотичны и многочисленны, и им нет конца.",
+          "ja": "古今億兆の痴人を総収し、共に幻場を歴（へ）、此の幻事擾擾（じょうじょう）紛紛（ふんぷん）として、日にして了（お）わる可き無し。"
+        },
+        {
+          "source": "脂批",
+          "original": "太虚幻境青埂峰一并结住。",
+          "zh_modern": "太虚幻境和青埂峰一起结住。",
+          "en": "The Land of Illusion and Green Sickness Peak are tied together here.",
+          "ru": "Страна Иллюзий и Пик Зеленой Болезни связаны здесь воедино.",
+          "ja": "太虚幻境、青埂峰（せいこうほう）一併（いちへい）して結び住（とど）む。"
+        },
+        {
+          "source": "脂批",
+          "original": "语虽旧句，用于此妥极是极。苟能如此，便能了得。",
+          "zh_modern": "虽然是旧句，用在这里极妥当极合适。如果能这样，便能了悟。",
+          "en": "Although the words are old phrases, used here they are extremely appropriate. If one can be like this, one can be 'Done'.",
+          "ru": "Хотя слова — это старые фразы, использованные здесь, они чрезвычайно уместны. Если человек может быть таким, он может быть «Готов».",
+          "ja": "語は旧句と虽（いえど）も、此（ここ）に用うること妥（だ）の極み是（ぜ）の極みなり。苟（いやしく）も能（よ）く此（かく）のごとくんば、便ち了し得ん。"
+        },
+        {
+          "source": "脂批",
+          "original": "此等歌谣原不宜太雅，恐其不能通俗，故只此便妙极。其说得痛切处，又非一味俗语可到。",
+          "zh_modern": "这类歌谣原本不宜太雅致，恐怕不能通俗，所以这样就妙极了。它说得痛切的地方，又不是一味俗语所能达到的。",
+          "en": "Such songs should not be too elegant, lest they fail to be popular; so this is marvelous. Where it speaks poignantly, it is not something mere vulgar language can reach.",
+          "ru": "Такие песни не должны быть слишком изысканными, иначе они не станут популярными; так что это чудесно. Там, где она говорит пронзительно, это не то, чего может достичь простой вульгарный язык.",
+          "ja": "此等の歌謡原（もと）太雅（たいが）に宜しからず、其の通俗なること能わざるを恐ればなり、故に只だ此（これ）にて便ち妙極なり。其の説き得て痛切なる処、また一味の俗語の到るべきに非ず。"
+        },
+        {
+          "source": "脂批",
+          "original": "谁不解得世事如此，有龙象力者方能放得下。",
+          "zh_modern": "谁不明白世事就是如此，但只有具备龙象般大定力的人才能放得下。",
+          "en": "Who does not understand that worldly affairs are like this? Only those with the strength of dragons and elephants can put them down.",
+          "ru": "Кто не понимает, что мирские дела таковы? Только те, у кого есть сила драконов и слонов, могут отпустить их.",
+          "ja": "誰か世事此（かく）のごときを解し得ざらん、竜象（りゅうぞう）の力有る者方（はじめ）て放ち得下（お）く。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "dialogue",
+      "original": "那疯跛道人听了，拍掌笑道：“解得切，解得切！”",
+      "zh_modern": "那疯跛道人听了，拍手笑道：“解得切题，解得切题！”",
+      "en": "The mad lame Taoist listened, clapped his hands, and laughed, saying, \"An apt interpretation! An apt interpretation!\"",
+      "ru": "Безумный хромой даос услышал это, захлопал в ладоши и засмеялся, говоря: «Точное толкование! Точное толкование!»",
+      "ja": "那（か）の瘋跛道人（ふうはどうじん）聴き了（お）わり、掌（て）を拍（う）ちて笑いて道（い）う。「解し得ること切（せつ）なり、解し得ること切なり！」",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "type": "dialogue",
+      "original": "士隐便笑一声“走罢！”",
+      "zh_modern": "士隐便笑了一声说：“走吧！”",
+      "en": "Shiyin gave a laugh and said, \"Let us go!\"",
+      "ru": "Шиинь усмехнулся и сказал: «Пойдем!»",
+      "ja": "士隠便（すなわ）ち一声「走り罷（や）まん（行こう）！」と笑う。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "如闻如见。",
+          "zh_modern": "如闻其声，如见其人。",
+          "en": "As if heard and seen.",
+          "ru": "Как будто слышу и вижу.",
+          "ja": "聞くが如く見るが如し。"
+        },
+        {
+          "source": "脂批",
+          "original": "“走罢”二字真悬崖撒手，若个能行？",
+          "zh_modern": "“走罢”二字真是悬崖撒手，几个人能做到？",
+          "en": "The two words \"Let us go\" are truly letting go at the cliff's edge; who can do it?",
+          "ru": "Два слова «Пойдем» — это поистине отпустить руки на краю обрыва; кто может это сделать?",
+          "ja": "「走罷（そうは）」の二字、真に懸崖撒手（けんがいさっしゅ）なり、若個（いくにん）か能く行わん？"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "prose",
+      "original": "将道人肩上褡裢抢了过来背着，竟不回家，同了疯道人飘飘而去。",
+      "zh_modern": "说着把道人肩上的褡裢抢过来背着，竟然不回家，同那疯道人飘然而去。",
+      "en": "He snatched the bag from the Taoist's shoulder and slung it over his own back; then, without returning home, he drifted away with the mad Taoist.",
+      "ru": "Он выхватил сумку с плеча даоса и закинул ее себе на спину; затем, не возвращаясь домой, он уплыл вместе с безумным даосом.",
+      "ja": "道人の肩の上の褡裢（とうれん）を将（もっ）て搶（うば）い過ぎ来たりて背（せ）おい、竟（つい）に家に帰らず、瘋道人と同（とも）に飄飄（ひょうひょう）として去る。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "一转念间登彼岸。",
+          "zh_modern": "一转念间就登上了彼岸。",
+          "en": "In the turn of a thought, ascending to the other shore.",
+          "ru": "В мгновение ока, взойдя на другой берег.",
+          "ja": "一転念の間、彼岸に登る。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "prose",
+      "original": "当下烘动街坊，众人当作一件新闻传说。",
+      "zh_modern": "当时轰动了街坊，大家都把这当成一件新闻传说。",
+      "en": "At that time, it caused a sensation in the neighborhood, and everyone spread it as a piece of news.",
+      "ru": "В то время это вызвало сенсацию в округе, и все передавали это как новость.",
+      "ja": "当下（とうか）街坊（がいぼう）を烘動（こうどう）し、衆人一件の新聞として伝説す。",
+      "commentary": []
+    },
+    {
+      "id": 7,
+      "type": "prose",
+      "original": "封氏闻得此信，哭个死去活来，只得与父亲商议，遣人各处访寻，那讨音信？",
+      "zh_modern": "封氏听到这个消息，哭得死去活来，只好和父亲商量，派人到处寻找，哪里讨得到音信？",
+      "en": "When Lady Feng heard this news, she cried herself half to death. She could only consult with her father and send people to search everywhere, but where was there any news to be found?",
+      "ru": "Когда госпожа Фэн услышала эту новость, она плакала до полусмерти. Ей оставалось только посоветоваться с отцом и послать людей искать повсюду, но где было найти хоть какую-то весточку?",
+      "ja": "封氏此の信（たより）を聞き得て、哭（な）くこと死去活来（しきょかつらい）し、只（た）だ父親と商議し、人を遣（や）りて各処を訪ね尋ねしむるも、那（いず）くんぞ音信を討（もと）めん？",
+      "commentary": []
+    },
+    {
+      "id": 8,
+      "type": "prose",
+      "original": "无奈何，少不得依靠着他父母度日。幸而身边还有两个旧日的丫鬟伏侍，主仆三人，日夜作些个针线发卖，帮着父亲用度。那封肃虽然日日抱怨，也无可奈何了。",
+      "zh_modern": "无可奈何，少不得依靠着她的父母度日。幸亏身边还有两个旧日的丫鬟服侍，主仆三人，日夜做些针线活卖钱，帮补父亲的用度。那封肃虽然天天抱怨，但也无可奈何了。",
+      "en": "Having no choice, she had to rely on her parents for her livelihood. Fortunately, she still had two maids from the old days to serve her. The three of them, mistress and servants, did needlework day and night to sell, helping with her father's expenses. Although Feng Su complained every day, there was nothing he could do about it.",
+      "ru": "Не имея выбора, она должна была полагаться на родителей в средствах к существованию. К счастью, у нее все еще были две служанки из прежних времен, чтобы служить ей. Втроем, хозяйка и служанки, они день и ночь занимались рукоделием на продажу, помогая отцу с расходами. Хотя Фэн Су жаловался каждый день, он ничего не мог с этим поделать.",
+      "ja": "奈何（いかん）ともする無く、少なからず彼（か）の父母に依靠（いこう）して日を度（わた）る。幸いにして身辺還（ま）た兩個（りょうこ）の旧日の丫鬟（あかん）伏侍（ふくじ）する有り、主僕（しゅぼく）三人、日夜些（いささ）かの針線（しんせん）を作（な）して発売し、父親の用度を帮（たす）く。那（か）の封粛日日抱怨（ほうえん）すと虽然（いえど）も、また奈何ともする無きなり。",
+      "commentary": []
+    },
+    {
+      "id": 9,
+      "type": "prose",
+      "original": "这日，那甄家的大丫鬟在门前买线，忽听得街上喝道之声，众人都说新太爷到任。",
+      "zh_modern": "这天，那甄家的大丫鬟（娇杏）在门前买线，忽然听见街上喝道的声音，大家都说是新太爷到任了。",
+      "en": "One day, the Zhen family's head maid was buying thread at the door when she suddenly heard the sound of clearing the way on the street; everyone said the new Grand Master had arrived to take office.",
+      "ru": "Однажды старшая служанка семьи Чжэнь покупала нитки у двери, когда вдруг услышала звуки расчистки дороги на улице; все говорили, что прибыл новый Великий Господин, чтобы вступить в должность.",
+      "ja": "此の日、那（か）の甄家の大丫鬟（だいあかん）門前に在りて線を買うに、忽（たちま）ち聴き得たり街上喝道（かつどう）の声、衆人都（みな）説く新太爺（しんたいや）任に到ると。",
+      "commentary": []
+    },
+    {
+      "id": 10,
+      "type": "prose",
+      "original": "丫鬟于是隐在门内看时，只见军牢快手，一对一对的过去，俄而大轿内抬着一个乌帽猩袍的官府过去。",
+      "zh_modern": "丫鬟于是躲在门里看时，只见军牢快手，一对一对地走过去，过了一会儿，大轿里抬着一个戴乌纱帽穿猩红袍的官员过去。",
+      "en": "The maid hid inside the gate to watch. She saw soldiers and bailiffs passing by in pairs, and shortly after, an official in a black gauze cap and scarlet robe was carried past in a large sedan chair.",
+      "ru": "Служанка спряталась за воротами, чтобы наблюдать. Она видела, как солдаты и судебные приставы проходят парами, а вскоре после этого в большом паланкине пронесли чиновника в черной марлевой шапке и алом халате.",
+      "ja": "丫鬟是（ここ）に于（お）いて門内に隠れて看（み）る時、只（た）だ見る軍牢（ぐんろう）快手（かいしゅ）、一対一対して過去し、俄（にわ）カにして大轎（だいきょう）内に一個の烏帽猩袍（うぼうせいほう）の官府を抬（かつ）ぎて過去す。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "雨村别来无恙否？可贺可贺。",
+          "zh_modern": "雨村别来无恙吗？可喜可贺。",
+          "en": "Yucun, have you been well since we parted? Congratulations, congratulations.",
+          "ru": "Юйцунь, здоров ли ты был с тех пор, как мы расстались? Поздравляю, поздравляю.",
+          "ja": "雨村別来（べつらい）恙（つつが）無きや否や？賀すべし賀すべし。"
+        },
+        {
+          "source": "脂批",
+          "original": "所谓“乱哄哄，你方唱罢我登场”是也。",
+          "zh_modern": "这就是所谓的“乱哄哄，你方唱罢我登场”。",
+          "en": "This is exactly what is meant by \"In wild confusion, you leave the stage and I appear.\"",
+          "ru": "Это именно то, что имеется в виду под словами «В дикой суматохе: ты закончил петь, я выхожу на сцену».",
+          "ja": "所謂「乱烘烘（らんこうこう）、汝方（まさ）に唱え罷（や）めば我登場す」とは是（こ）れなり。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": "prose",
+      "original": "丫鬟倒发了个怔，自思这官好面善，倒像在那里见过的。",
+      "zh_modern": "丫鬟倒发了个呆，心想这官员好面熟，倒像在哪里见过的。",
+      "en": "The maid was stunned for a moment, thinking to herself that this official looked very familiar, as if she had seen him somewhere before.",
+      "ru": "Служанка на мгновение остолбенела, подумав про себя, что этот чиновник выглядит очень знакомым, как будто она видела его где-то раньше.",
+      "ja": "丫鬟倒（かえ）って個（こ）の怔（しょう）を発し、自ら思うに這（こ）の官好（はなは）だ面善（めんぜん）にして、倒（かえ）って那里（どこ）かで見たるが像（ごと）しと。",
+      "commentary": []
+    },
+    {
+      "id": 12,
+      "type": "prose",
+      "original": "于是进入房中，也就丢过，不在心上。",
+      "zh_modern": "于是进到房里，也就丢开了，没放在心上。",
+      "en": "So she entered the room and put it out of her mind.",
+      "ru": "Поэтому она вошла в комнату и выбросила это из головы.",
+      "ja": "是に于いて房中に入り、也（ま）た就（すなわ）ち丟過（ちゅうか）し、心上に在らず。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "是无儿女之情，故有夫人之分。",
+          "zh_modern": "因为没有儿女私情，所以才有夫人的名分。",
+          "en": "Because she has no romantic/sentimental feelings, she is destined to be a Madam.",
+          "ru": "Поскольку у нее нет романтических чувств, ей суждено стать госпожой.",
+          "ja": "是れ児女の情無きなり、故に夫人の分有り。"
+        },
+        {
+          "source": "脂批",
+          "original": "起初到底有心乎？无心乎？",
+          "zh_modern": "起初到底是有心呢？还是无心呢？",
+          "en": "In the beginning, did she have intentions? Or no intentions?",
+          "ru": "В начале были ли у нее намерения? Или нет?",
+          "ja": "起初（きしょ）到底心有るや？心無きや？"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": "prose",
+      "original": "至晚间，正该歇息之时，忽听一片声打的门响，许多人乱嚷，说：“本府太爷差人来传人问话。”",
+      "zh_modern": "到了晚上，正该休息的时候，忽然听见一片打门的声响，许多人乱嚷，说：“本府太爷派人来传人问话。”",
+      "en": "By evening, just when it was time to rest, suddenly there was a loud banging on the door and many people shouting, \"The Grand Master of this prefecture has sent men to summon someone for questioning.\"",
+      "ru": "К вечеру, как раз когда пришло время отдыхать, вдруг раздался громкий стук в дверь и крики множества людей: «Великий Господин этой префектуры прислал людей, чтобы вызвать кого-то на допрос».",
+      "ja": "晩間に至り、正に歇息（けっそく）すべきの時、忽ち聴く一片の声門を打つ響き、許多（あまた）の人乱（みだ）りに嚷（さけ）び、説く、「本府の太爺（たいや）人を差（さ）して来たりて人を伝えて話を問わんとす」と。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "不忘情的先写出头一位来了。",
+          "zh_modern": "不忘情的人，先写出第一位来了。",
+          "en": "The one who does not forget affection is written out first.",
+          "ru": "Тот, кто не забывает привязанности, описан первым.",
+          "ja": "情を忘れざるの先ず頭一位を写し出し来たる。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": "prose",
+      "original": "封肃听了，唬得目瞪口呆，",
+      "zh_modern": "封肃听了，吓得目瞪口呆，",
+      "en": "When Feng Su heard this, he was dumbstruck with fright.",
+      "ru": "Услышав это, Фэн Су онемел от испуга.",
+      "ja": "封粛聴き了わり、唬（おど）ろき得て目瞪（みは）り口呆（あき）れ、",
+      "commentary": []
+    }
+  ],
+  "notes": [
+    "纱帽 (Gauze cap): Symbol of official office.",
+    "锁枷 (Cangue and lock): Wooden collar worn by prisoners; symbolizing punishment.",
+    "紫蟒 (Purple python robe): Ceremonial robe worn by high officials.",
+    "为他人作嫁衣裳 (Making wedding clothes for others): A famous line from a Tang poem, meaning to work hard for others' benefit.",
+    "悬崖撒手 (Letting go at the cliff's edge): A Zen metaphor for taking a decisive step into the unknown or enlightenment, letting go of all worldly attachments.",
+    "龙象 (Dragons and Elephants): In Buddhism, refers to beings of great strength and power, or high-ranking monks."
+  ]
+}

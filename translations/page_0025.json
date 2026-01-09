@@ -1,0 +1,214 @@
+{
+  "page": 25,
+  "chapter": "第一回",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "家在隔壁，早已烧成一片瓦砾场了。只有他夫妇并几个家人的性命不曾伤了。",
+      "zh_modern": "家就在隔壁，早已烧成了一片瓦砾场了。只有他们夫妇和几个家人的性命没有受到伤害。",
+      "en": "...family's house was next door and had long since been burned to a field of rubble. Only the lives of the couple and a few servants had not been harmed.",
+      "ru": "...дом семьи был по соседству и давно превратился в поле обломков. Пострадали только жизни супругов и нескольких слуг.",
+      "ja": "家は隔壁に在り、早（すで）に焼けて一片の瓦礫場と成れり。只（た）だ彼（か）の夫婦並びに幾人（いくにん）かの家人の性命は曾（かつ）て傷（そこな）われず。",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "急得士隐惟跌足长叹而已。",
+      "zh_modern": "急得士隐只有跌脚长叹罢了。",
+      "en": "Shiyin could do nothing but stamp his foot and sigh deeply in anxiety.",
+      "ru": "Шиинь ничего не мог поделать, кроме как топать ногой и глубоко вздыхать от беспокойства.",
+      "ja": "急ぐこと士隠惟（た）だ跌足（てっそく）し長嘆するのみ。",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "只得与妻子商议，且到田庄上去安身。",
+      "zh_modern": "只得和妻子商量，暂且到乡下田庄上去安身。",
+      "en": "He had no choice but to discuss with his wife and move to their farm estate for the time being.",
+      "ru": "У него не было выбора, кроме как обсудить это с женой и временно переехать в их поместье.",
+      "ja": "只（た）だ妻子と商議し、且（しばら）く田庄（でんそう）へ上（のぼ）りて身を安んず。",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "type": "prose",
+      "original": "偏值近年水旱不收，鼠盗蜂起，无非抢粮夺食，鼠窃狗偷，民不安生，因此官兵剿捕，难以安身。",
+      "zh_modern": "偏偏遇上这几年水旱灾害，庄稼歉收，盗贼像蜂群一样四起，无非是抢粮夺食，鼠窃狗偷，百姓不得安生，因此官兵围剿抓捕，难以在乡下安身。",
+      "en": "Unfortunately, it coincided with recent years of floods and droughts yielding no harvest; bandits and thieves rose up like swarms of bees, snatching grain and stealing food, pilfering like rats and dogs. The people had no peace, and because government troops were hunting them down, it was difficult to settle there.",
+      "ru": "К несчастью, это совпало с последними годами наводнений и засух, не давших урожая; бандиты и воры поднялись, как рои пчел, хватая зерно и крадя еду, воруя, как крысы и собаки. У людей не было покоя, и так как правительственные войска охотились на них, там было трудно обосноваться.",
+      "ja": "偏（ひとえ）に近年水旱（すいかん）収めざるに値（あ）い、鼠盗（そとう）蜂起し、糧を搶（うば）い食を奪い、鼠窃（そせつ）狗偷（くとう）するに非（あら）ざる無く、民安んじて生きず、此（これ）に因（よ）りて官兵剿捕（そうほ）し、身を安んじ難し。",
+      "commentary": []
+    },
+    {
+      "id": 5,
+      "type": "prose",
+      "original": "士隐只得将田庄都折变了，便携了妻子与两个丫鬟投他岳丈家去。",
+      "zh_modern": "士隐只好把田庄都变卖折现了，便带着妻子和两个丫鬟去投奔他的岳丈家。",
+      "en": "Shiyin had no choice but to sell off the farm estate, and then he took his wife and two maids to seek refuge at his father-in-law's house.",
+      "ru": "У Шииня не было выбора, кроме как продать поместье, а затем он взял жену и двух служанок, чтобы искать убежища в доме своего тестя.",
+      "ja": "士隠只（た）だ田庄を将（もっ）て都（すべ）て折変（せっぺん）し、便（すなわ）ち妻子と兩個の丫鬟（あかん）を携え、彼（か）の岳丈（がくじょう）の家へ投じ去りぬ。",
+      "commentary": []
+    },
+    {
+      "id": 6,
+      "type": "prose",
+      "original": "他岳丈名唤封肃，本贯大如州人氏，虽是务农，家中都还殷实。",
+      "zh_modern": "他岳丈名叫封肃，原籍是大如州人，虽然是务农，家中倒还殷实。",
+      "en": "His father-in-law was named Feng Su, a native of Daru Prefecture. Although he was a farmer, his family was quite well-off.",
+      "ru": "Его тестя звали Фэн Су, он был родом из префектуры Дару. Хотя он был фермером, его семья была довольно зажиточной.",
+      "ja": "彼（か）の岳丈名は封粛（ふうしゅく）と喚（よ）び、本貫は大如州（だいにょしゅう）の人氏、務農なりと虽（いえど）も、家中都（すべ）て還（ま）た殷実（いんじつ）なり。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "风俗。",
+          "zh_modern": "风俗。",
+          "en": "Customs.",
+          "ru": "Обычаи.",
+          "ja": "風俗なり。"
+        },
+        {
+          "source": "脂批",
+          "original": "托言大概如此之风俗也。",
+          "zh_modern": "假托说是大概如此的风俗。",
+          "en": "A pretext saying that customs are roughly like this.",
+          "ru": "Предлог, что обычаи примерно таковы.",
+          "ja": "大概如此の風俗なりと託言するなり。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "prose",
+      "original": "今见女婿这等狼狈而来，心中便有些不乐。",
+      "zh_modern": "如今见女婿这样狼狈地投奔而来，心里便有些不高兴。",
+      "en": "Now seeing his son-in-law arriving in such a wretched state, he felt somewhat displeased in his heart.",
+      "ru": "Теперь, видя, что зять прибыл в таком жалком состоянии, он почувствовал некоторое недовольство в сердце.",
+      "ja": "今女婿（じょせい）の這等（これら）狼狽して来るを見て、心中便（すなわ）ち些（いささ）か楽しまず。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "所以大概之人情如是，风俗如是也。",
+          "zh_modern": "所以大概人情就是这样，风俗就是这样。",
+          "en": "So generally human feelings are like this, and customs are like this.",
+          "ru": "Так что, как правило, человеческие чувства таковы, и обычаи таковы.",
+          "ja": "所以（ゆえ）に大概の人情是（かく）の如し、風俗是（かく）の如くなり。"
+        },
+        {
+          "source": "脂批",
+          "original": "大都不过如此。",
+          "zh_modern": "大多不过如此。",
+          "en": "Mostly it is just like this.",
+          "ru": "В основном так оно и есть.",
+          "ja": "大都（おおよそ）此（かく）の如きに過ぎず。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "prose",
+      "original": "幸而士隐还有折变田地的银子未曾用完，拿出来托他随分就价薄置些须房地，为后日衣食之计。",
+      "zh_modern": "幸亏士隐还有变卖田地的银子没用完，拿出来托他看着价钱随意买些薄田朽屋，作为日后衣食的打算。",
+      "en": "Fortunately, Shiyin still had some silver left from selling his land, which he had not used up. He took it out and entrusted it to Feng Su to buy some modest house and land as he saw fit, to provide for future food and clothing.",
+      "ru": "К счастью, у Шииня еще оставалось немного серебра от продажи земли, которое он не истратил. Он достал его и поручил Фэн Су купить какой-нибудь скромный дом и землю по его усмотрению, чтобы обеспечить себя едой и одеждой в будущем.",
+      "ja": "幸いにして士隠還（ま）た田地を折変せし銀子の未だ用い完（つく）さざる有り、拿（と）り出だして彼に託し、分に隨（したが）い価に就（つ）き些須（さしゅ）の房地を薄置（はくち）し、後日の衣食の計（はかりごと）と為さしむ。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "若非“幸而”，则有不留之意。",
+          "zh_modern": "如果不是因为“幸而”，那就有不留他的意思了。",
+          "en": "If not for \"Fortunately\", there would be an intention not to keep him.",
+          "ru": "Если бы не «К счастью», было бы намерение не оставлять его.",
+          "ja": "若し「幸而（さいわいにして）」に非ざれば、則ち留めざるの意有らん。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": "prose",
+      "original": "那封肃便半哄半赚，些须与他些薄田朽屋。",
+      "zh_modern": "那封肃便半哄半骗，稍微给他置办了些贫瘠的田地和破旧的房屋。",
+      "en": "That Feng Su, half-coaxing and half-cheating, gave him some poor fields and a dilapidated house.",
+      "ru": "Этот Фэн Су, наполовину уговаривая, наполовину обманывая, дал ему несколько бедных полей и полуразрушенный дом.",
+      "ja": "那（か）の封粛便（すなわ）ち半ば哄（すか）し半ば賺（あざむ）き、些須（いささ）か彼に些（いささ）かの薄田朽屋を与う。",
+      "commentary": []
+    },
+    {
+      "id": 10,
+      "type": "prose",
+      "original": "士隐乃读书之人，不惯生理稼穑等事，勉强支持了一二年，越觉穷了下去。",
+      "zh_modern": "士隐是个读书人，不习惯经营农务等事，勉强支撑了一两年，越发觉得穷困下去了。",
+      "en": "Shiyin was a scholar and unaccustomed to business or farming; he managed to hold on for a year or two, but felt himself sinking deeper into poverty.",
+      "ru": "Шиинь был ученым и непривычен к бизнесу или сельскому хозяйству; он продержался год или два, но чувствовал, что все глубже погружается в нищету.",
+      "ja": "士隠は乃（すなわ）ち読書の人、生理稼穑（せいりかしょく）等の事に慣れず、勉強（べんきょう）して支持すること一二年、越（いよいよ）窮し下去（くだ）るを覚ゆ。",
+      "commentary": []
+    },
+    {
+      "id": 11,
+      "type": "prose",
+      "original": "封肃每见面时，便说些现成话，且人前人后又怨他们不善过活，只一味好吃懒作等语。",
+      "zh_modern": "封肃每次见面时，便说些风凉话，而且人前人后又埋怨他们不会过日子，只知道好吃懒做等话。",
+      "en": "Whenever Feng Su saw him, he would speak some sarcastic remarks, and behind his back he complained that they did not know how to live properly and were only good for eating and being lazy.",
+      "ru": "Всякий раз, когда Фэн Су видел его, он отпускал саркастические замечания, а за его спиной жаловался, что они не умеют жить правильно и годятся только на то, чтобы есть и лениться.",
+      "ja": "封粛面を見る每（ごと）に、便（すなわ）ち些（いささ）かの現成話を説き、且（か）つ人前人後また彼らが過活（かかつ）に善からざるを怨み、只（た）だ一味好吃懶作（こうきらんさ）す等の語なり。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "此等人何多之极！",
+          "zh_modern": "这种人何其多啊！",
+          "en": "How extremely numerous are people of this sort!",
+          "ru": "Как же много таких людей!",
+          "ja": "此等の人何ぞ多きの極みなる！"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": "prose",
+      "original": "士隐知投人不着，心中未免悔恨，再兼上年惊唬，急忿怨痛，已有积伤，暮年之人，贫病交攻，竟渐渐露出那下世的光景来。",
+      "zh_modern": "士隐知道投靠错了人，心里不免悔恨，再加上去年受的惊吓，急火攻心，积郁成疾，已有了内伤。暮年之人，贫病交加，竟渐渐露出那去世的迹象来。",
+      "en": "Shiyin knew he had sought refuge with the wrong person and inevitably felt regret. Added to this were the shock of the previous year and his urgent anger and resentment, which had caused accumulated injury. An old man attacked by both poverty and illness, he gradually began to show signs of departing this life.",
+      "ru": "Шиинь знал, что искал убежища не у того человека, и неизбежно чувствовал сожаление. К этому добавились потрясение прошлого года и его острый гнев и обида, которые привели к накопленным травмам. Старик, атакованный и бедностью, и болезнью, он постепенно начал подавать признаки ухода из этой жизни.",
+      "ja": "士隠人を投ずるに着（あ）らざるを知り、心中悔恨を免れず、再（ま）た上年の驚唬（きょうこう）、急忿（きゅうふん）怨痛（えんつう）を兼ね、已（すで）に積傷（せきしょう）有り、暮年の人、貧病交（こもごも）攻め、竟（つい）に漸漸（ぜんぜん）に那（か）の下世の光景を露出し来たる。",
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "几几乎。世人则不能止于几几乎，可悲！",
+          "zh_modern": "差点儿（就死了）。世人却不能止步于差点儿，可悲！",
+          "en": "Almost there. Worldly people cannot stop at \"almost\", how sad!",
+          "ru": "Почти там. Мирские люди не могут остановиться на «почти», как печально!",
+          "ja": "幾几乎（ちかちか）乎（かな）。世人は則ち幾几乎（ちかちか）乎に止まること能わず、悲しむべし！"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": "prose",
+      "original": "可巧这日，拄了拐挣挫在街前散散心时，忽见那边来了一个跛足道人，疯狂落脱，麻屣鹑衣，口内念着几句言词，道是：",
+      "zh_modern": "凑巧这天，他拄着拐杖挣扎着到街前散心时，忽然看见那边来了一个跛脚道人，疯疯癫癫，穿得破破烂烂，嘴里念着几句词，说道：",
+      "en": "Coincidentally, on this day, as he leaned on his cane and struggled to walk in front of the street to clear his mind, he suddenly saw a lame Taoist coming from that direction. The Taoist was mad and disheveled, wearing hemp shoes and ragged clothes, and chanting a few lines of verse:",
+      "ru": "Случайно в этот день, когда он опирался на трость и с трудом шел по улице, чтобы проветрить голову, он вдруг увидел хромого даоса, идущего с той стороны. Даос был безумен и растрепан, одет в пеньковые туфли и рваную одежду, и распевал несколько строк стихов:",
+      "ja": "可巧（おりあしく）此の日、拐（つえ）を拄（つ）き街前に在りて掙挫（そうざ）して心を散じ散じする時、忽（たちま）ち見る那辺（あちら）より一個の跛足道人来たり、瘋狂（ふうきょう）落脱（らくだつ）、麻屣（まし）鶉衣（じゅんい）、口内（こうない）幾句の言詞を念じ、道（い）うは是れ：",
+      "commentary": []
+    },
+    {
+      "id": 14,
+      "type": "poem",
+      "original": "世人都晓神仙好，惟有功名忘不了！\n古今将相在何方？荒冢一堆草没了。\n世人都晓神仙好，只有金银忘不了！\n终朝只恨聚无多，及到多时眼闭了。\n世人都晓神仙好，只有姣妻忘不了！\n君生日日说恩情，君死又随人去了。\n世人都晓神仙好，只有儿孙忘不了！\n痴心父母古来多，孝顺儿孙谁见了？",
+      "zh_modern": "世人都知道神仙好，只有功名忘不了！\n古往今来的将相在哪里？只剩下一堆荒坟被野草淹没了。\n世人都知道神仙好，只有金银忘不了！\n整天只恨聚敛得不多，等到钱多的时候眼闭了（人死了）。\n世人都知道神仙好，只有娇妻忘不了！\n你活着的时候天天说恩情，你死后她又随人去了。\n世人都知道神仙好，只有儿孙忘不了！\n痴心的父母自古以来就多，孝顺的儿孙谁见到了？",
+      "en": "The world all knows that immortals are fine,\nOnly fame and glory they cannot put behind!\nWhere are the generals and ministers of old?\nIn desolate graves, by grass overgrown and cold.\nThe world all knows that immortals are fine,\nOnly gold and silver they cannot put behind!\nAll day long they regret they haven't gathered more,\nWhen they finally have enough, their eyes close for sure.\nThe world all knows that immortals are fine,\nOnly lovely wives they cannot put behind!\nWhile you live, they speak of love every day,\nWhen you die, they go off with another straight away.\nThe world all knows that immortals are fine,\nOnly sons and grandsons they cannot put behind!\nDoting parents have been many since ancient days,\nBut filial children—who has seen their ways?",
+      "ru": "Все люди знают, что быть бессмертным хорошо,\nТолько славу и почести забыть не могут!\nГде теперь генералы и министры древности?\nЛишь груда травы на заброшенных могилах.\nВсе люди знают, что быть бессмертным хорошо,\nТолько золото и серебро забыть не могут!\nВесь день жалеют, что накопили мало,\nА когда накопили много, глаза уже закрылись.\nВсе люди знают, что быть бессмертным хорошо,\nТолько красивых жен забыть не могут!\nПри жизни каждый день говорят о любви,\nА умрешь — уходят с другим.\nВсе люди знают, что быть бессмертным хорошо,\nТолько детей и внуков забыть не могут!\nЛюбящих родителей издревле много,\nА кто видел почтительных детей?",
+      "ja": "世人（せじん）都（すべ）て晓（さと）る神仙の好（よ）きを、\n惟（た）だ功名有って忘れ了（お）えず！\n古今の将相（しょうしょう）何（いず）くにか在る？\n荒塚（こうちょう）一堆（いったい）草没し了（お）わんぬ。\n世人都て晓る神仙の好きを、\n只（た）だ金銀有って忘れ了えず！\n終朝（しゅうちょう）只だ恨む聚（あつ）むること多からざるを、\n多きに及んで時眼閉し了わんぬ。\n世人都て晓る神仙の好きを、\n只だ姣妻（こうさい）有って忘れ了えず！\n君生ける日日恩情を説くも、\n君死すれば又人に随（したが）い去り了わんぬ。\n世人都て晓る神仙の好きを、\n只だ児孫（じそん）有って忘れ了えず！\n痴心の父母古来多きも、\n孝順の児孫誰か見了（お）わん？",
+      "commentary": []
+    }
+  ],
+  "notes": [
+    "封肃 (Feng Su): Pun on 风俗 (Customs/Worldly ways), representing the harsh reality of social norms.",
+    "大如州 (Da Ru Zhou): Pun on 大抵如此 (Roughly like this / Mostly so), suggesting his behavior is typical of the world.",
+    "好了歌 (Won-Done Song): The Taoist's song about the vanity of worldly attachments (Fame, Money, Wives, Children). 'Hao' (Good) and 'Liao' (Done/Finished) are linked—one must be 'done' with worldly things to be 'good' (enlightened).",
+    "将相 (Generals and Ministers): Symbols of high status and power.",
+    "荒冢 (Desolate graves): The ultimate fate of all, regardless of status."
+  ]
+}

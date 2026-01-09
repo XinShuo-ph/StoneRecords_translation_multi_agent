@@ -1,0 +1,80 @@
+{
+  "page": 28,
+  "chapter": "第一回",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "不知有何祸事。",
+      "zh_modern": "不知道有什么祸事。",
+      "en": "He did not know what calamity was impending.",
+      "ru": "Он не знал, какая беда грозит.",
+      "ja": "知らず何の禍事（わざわい）有るかを。",
+      "commentary": []
+    },
+    {
+      "id": 2,
+      "type": "commentary",
+      "original": "总评：出口神奇，幻中不幻。文势跳跃，情里生情。借幻说法，而幻中更自多情，因情捉笔，而情里偏成痴幻。试问君家识得否，色空空色两无干。",
+      "zh_modern": "总评：出口神奇，幻境中却又不虚幻。文势跳跃，情理中生出情意。借幻境说法，而幻境中更显得多情，因为情而动笔，而情里偏偏成了痴幻。试问各位是否识得，色即是空，空即是色，两者互不相干。",
+      "en": "General Review: The words are miraculous, illusion within non-illusion. The literary momentum leaps, emotion born within emotion. Borrowing illusion to expound the Law, yet within illusion there is even more passion; seizing the brush because of passion, yet within passion it becomes foolish illusion. May I ask if you, sir, recognize this? Form and Emptiness, Emptiness and Form—the two have nothing to do with each other.",
+      "ru": "Общий обзор: Слова чудесны, иллюзия внутри не-иллюзии. Литературный импульс скачет, эмоция рождается внутри эмоции. Заимствуя иллюзию, чтобы излагать Закон, но внутри иллюзии еще больше страсти; хватаясь за кисть из-за страсти, но внутри страсти это становится глупой иллюзией. Могу я спросить, узнаете ли вы это, сэр? Форма и Пустота, Пустота и Форма — эти двое не имеют ничего общего друг с другом.",
+      "ja": "総評：口を出（い）ずれば神奇、幻中（ゲンチュウ）幻ならず。文勢（ブンセイ）跳躍し、情裏（ジョウリ）に情を生ず。幻を借りて法を説き、而（しか）して幻中更に自（おの）ずから多情、情に因りて筆を捉（と）り、而して情裏偏（ひとえ）に痴幻（チゲン）と成る。試みに問う君家（くんか）識り得たりや否や、色空（シキクウ）空色（クウシキ）両（ふた）つながら干（あずか）ること無きを。"
+    },
+    {
+      "id": 3,
+      "type": "note",
+      "original": "①以上文字见于庚、戚、蒙、列、辰、舒、杨诸本，其中甲辰本为回前批，馀本均为正文。此段与甲戌本凡例第五条略同，玩其文意应非正文，现作为回前批处理。",
+      "zh_modern": "①以上文字见于庚辰本、戚序本、蒙府本、列藏本、甲辰本、舒序本、杨藏本等诸本，其中甲辰本作为回前批，其余版本均为正文。此段与甲戌本凡例第五条略同，玩味其文意应非正文，现作为回前批处理。",
+      "en": "① The above text is found in the Geng, Qi, Meng, Lie, Chen, Shu, and Yang editions. Among them, the Jia Chen edition treats it as a pre-chapter commentary, while the other editions treat it as main text. This passage is slightly similar to the fifth rule in the Jia Xu edition's General Principles. Analyzing its meaning, it should not be main text, so it is now treated as a pre-chapter commentary.",
+      "ru": "① Вышеуказанный текст встречается в изданиях Гэн, Ци, Мэн, Ле, Чэнь, Шу и Ян. Среди них издание Цзя Чэнь рассматривает его как комментарий перед главой, в то время как другие издания рассматривают его как основной текст. Этот отрывок немного похож на пятое правило в Общих принципах издания Цзя Сюй. Анализируя его смысл, он не должен быть основным текстом, поэтому теперь он рассматривается как комментарий перед главой.",
+      "ja": "①以上の文字は庚、戚、蒙、列、辰、舒、楊の諸本に見ゆ、其の中甲辰本は回前の批と為し、余本は均しく正文と為す。此の段は甲戌本の凡例第五条と略（ほぼ）同じく、其の文意を玩（あじわ）うに応（まさ）に正文に非ざるべく、現（いま）回前の批として処理す。",
+      "commentary": []
+    },
+    {
+      "id": 4,
+      "type": "note",
+      "original": "②“说说笑笑……将一块大石登时变成”四百二十馀字为甲戌本独有，各本皆缺，补以“来至石下，席地而坐长谈，见”数语连接下文。",
+      "zh_modern": "②“说说笑笑……将一块大石登时变成”四百二十余字为甲戌本独有，各本皆缺，补以“来至石下，席地而坐长谈，见”数语连接下文。",
+      "en": "② The 420-plus characters from \"Chatting and laughing...\" to \"...instantly transformed a large stone\" are unique to the Jia Xu edition and are missing in all other editions, which supplement it with the phrase \"Coming to the foot of the stone, sitting on the ground for a long talk, seeing...\" to connect to the following text.",
+      "ru": "② Более 420 иероглифов от «Болтая и смеясь...» до «...мгновенно превратил большой камень» уникальны для издания Цзя Сюй и отсутствуют во всех других изданиях, которые дополняют его фразой «Подойдя к подножию камня, сев на землю для долгого разговора, видя...», чтобы соединить с последующим текстом.",
+      "ja": "②「说说笑笑……将一块大石登时变成」の四百二十余字は甲戌本の独有と為し、各本皆欠き、「来至石下、席地而坐长谈、见」の数語を以て補い下文に連接す。",
+      "commentary": []
+    },
+    {
+      "id": 5,
+      "type": "note",
+      "original": "③甲戌本第一至五回的夹批，全部为针对诗歌、联语的句后批。由于这些诗、联是分行排列，句与句之间又留有空格，这五回的夹批就批在行末和句间空隙处。这与其他各回夹在正文中间连抄的双行批有所不同，因此也有人认为应视为侧批。",
+      "zh_modern": "③甲戌本第一至五回的夹批，全部为针对诗歌、联语的句后批。由于这些诗、联是分行排列，句与句之间又留有空格，这五回的夹批就批在行末和句间空隙处。这与其他各回夹在正文中间连抄的双行批有所不同，因此也有人认为应视为侧批。",
+      "en": "③ The interline comments in the first five chapters of the Jia Xu edition are all post-sentence comments targeting poetry and couplets. Since these poems and couplets are arranged in lines with spaces between sentences, the interline comments in these five chapters are placed at the end of lines and in the spaces between sentences. This is different from the double-line comments copied continuously within the main text in other chapters, so some people think they should be considered side comments.",
+      "ru": "③ Межстрочные комментарии в первых пяти главах издания Цзя Сюй — это все комментарии после предложений, касающиеся поэзии и двустиший. Поскольку эти стихи и двустишия расположены по строкам с пробелами между предложениями, межстрочные комментарии в этих пяти главах помещаются в конце строк и в пробелах между предложениями. Это отличается от двухстрочных комментариев, непрерывно копируемых внутри основного текста в других главах, поэтому некоторые люди считают, что их следует рассматривать как боковые комментарии.",
+      "ja": "③甲戌本第一至五回の夾批は、全部詩歌、聯語に対する句後の批たり。此等の詩、聯は分行排列し、句と句の間にまた空格を留むるに由（よ）り、這（こ）の五回の夾批は行末と句間の空隙処（くうげきしょ）に批す。這（これ）は他の各回正文の中間に夾（はさ）み連抄する双行の批と些（いささ）か異なる所有り、因此（ここにより）てまた人の応（まさ）に側批と視（な）すべきと認むる有り。",
+      "commentary": []
+    },
+    {
+      "id": 6,
+      "type": "note",
+      "original": "④著名批语。以前著作引录此批多将“壬午除夕”断归下句，作“书未成，芹为泪尽而逝”的时间定语，并因此成为曹雪芹卒年“壬午说”的主要证据，但“壬午说”并不能解决现存文献资料中的矛盾。香港梅节先生认为此处应系两批连抄，“壬午除夕”是前一条批语的作批时间，而不是芹逝时间。其说理由充分，今从之。",
+      "zh_modern": "④著名批语。以前著作引录此批多将“壬午除夕”断归下句，作“书未成，芹为泪尽而逝”的时间定语，并因此成为曹雪芹卒年“壬午说”的主要证据，但“壬午说”并不能解决现存文献资料中的矛盾。香港梅节先生认为此处应系两批连抄，“壬午除夕”是前一条批语的作批时间，而不是芹逝时间。其说理由充分，今从之。",
+      "en": "④ Famous commentary. Previous works citing this comment often assigned \"Renwu New Year's Eve\" to the following sentence, making it the temporal modifier for \"The book was not finished, Qin died after exhausting his tears,\" and thus it became the main evidence for the \"Renwu Theory\" of Cao Xueqin's death year. However, the \"Renwu Theory\" cannot resolve contradictions in existing documentary materials. Mr. Mei Jie of Hong Kong believes that this should be two comments copied together; \"Renwu New Year's Eve\" is the time of the preceding comment, not the time of Qin's death. His argument is well-grounded, and we follow it here.",
+      "ru": "④ Известный комментарий. Предыдущие работы, цитирующие этот комментарий, часто относили «Канун Нового года Жэньу» к следующему предложению, делая его временным модификатором для «Книга не была закончена, Цинь умер, исчерпав свои слезы», и, таким образом, это стало главным доказательством «Теории Жэньу» о годе смерти Цао Сюэциня. Однако «Теория Жэньу» не может разрешить противоречия в существующих документальных материалах. Г-н Мэй Цзе из Гонконга считает, что это должны быть два комментария, скопированные вместе; «Канун Нового года Жэньу» — это время предыдущего комментария, а не время смерти Циня. Его аргумент хорошо обоснован, и мы следуем ему здесь.",
+      "ja": "④著名な批語。以前の著作此の批を引録するに多くは「壬午除夕」を将（もっ）て下句に断帰し、「書未だ成らず、芹涙尽きて逝く」の時間定語と作（な）し、並びに此（これ）に因りて曹雪芹卒年「壬午説」の主要証拠と成るも、「壬午説」は並びに現存文献資料中の矛盾を解決すること能わず。香港の梅節先生、此処（ここ）は応（まさ）に両批連抄に係（かか）るべく、「壬午除夕」は前一条の批語の作批時間にして、芹逝くの時間に非ずと認む。其の説理由充分、今之（これ）に従う。",
+      "commentary": []
+    },
+    {
+      "id": 7,
+      "type": "note",
+      "original": "⑤“出则”，甲辰本作“出处”，馀本均同甲戌本。吴恩裕认为“则”字系“处”字简写的草书形讹，近是。",
+      "zh_modern": "⑤“出则”，甲辰本作“出处”，馀本均同甲戌本。吴恩裕认为“则”字系“处”字简写的草书形讹，近是。",
+      "en": "⑤ \"Chu ze\" (Origin rule/then): The Jia Chen edition has \"Chu chu\" (Origin/Source), while other editions are the same as the Jia Xu edition. Wu Enyu believes that the character \"ze\" is a cursive script error for the simplified character \"chu\", which is likely correct.",
+      "ru": "⑤ «Чу цзэ» (Правило происхождения/затем): В издании Цзя Чэнь стоит «Чу чу» (Происхождение/Источник), в то время как другие издания совпадают с изданием Цзя Сюй. У Эньюй считает, что иероглиф «цзэ» — это ошибка скорописи для упрощенного иероглифа «чу», что, вероятно, верно.",
+      "ja": "⑤「出則」、甲辰本「出処」に作る、余本均しく甲戌本に同じ。呉恩裕、「則」の字は「処」の字の簡写の草書形訛（けいか）に係ると認む、近是（きんぜ）なり。",
+      "commentary": []
+    }
+  ],
+  "notes": [
+    "总评 (General Review): A summary commentary usually found at the end of a chapter in critical editions.",
+    "色空 (Form and Emptiness): Core Buddhist concept from the Heart Sutra.",
+    "Textual Notes (①-⑤): These are modern editorial notes explaining differences between various manuscript editions of Dream of the Red Chamber (Jia Xu, Geng Chen, etc.)."
+  ]
+}
