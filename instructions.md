@@ -211,12 +211,12 @@ If stuck on a passage for more than 5 minutes:
 
 ## Anti-Patterns to Avoid
 
-- Skipping content - Translate EVERYTHING on the page
-- Empty translations - Every field must have content
-- Wrong page number - Verify you're on the correct page
-- Stopping to ask questions - Keep working, add notes
-- Invalid JSON - Validate before saving
-- Skipping research - Always research before translating
+- Skipping content (instead, translate EVERYTHING on the page)
+- Empty translations (instead, ensure every field has content)
+- Wrong page number (instead, verify page number before starting)
+- Stopping to ask questions (instead, add a note and continue)
+- Invalid JSON (instead, validate before saving)
+- Skipping research (instead, always research before translating)
 
 ---
 
