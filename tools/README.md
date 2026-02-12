@@ -106,7 +106,7 @@ Validate translation JSON files for completeness and format.
 ### Usage
 ```bash
 # Single file
-python3 tools/validate_json.py translations/chapter_001.json
+python3 tools/validate_json.py translations/page_0020.json
 
 # All files
 python3 tools/validate_json.py translations/
@@ -122,9 +122,9 @@ python3 tools/validate_json.py translations/
 
 ### Output
 ```
-✓ chapter_001.json: Valid (52 segments)
-✗ chapter_002.json: ERROR - Missing 'en' in segment 15
-✓ chapter_003.json: Valid (38 segments)
+✓ page_0020.json: Valid (7 segments)
+✗ page_0021.json: INVALID - Missing required field: translator_notes
+✓ page_0022.json: Valid (6 segments)
 ```
 
 ---
