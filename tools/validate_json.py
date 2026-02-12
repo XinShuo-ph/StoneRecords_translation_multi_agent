@@ -3,7 +3,7 @@
 Validate translation JSON files for completeness and format.
 
 Usage:
-    python3 validate_json.py translations/chapter_001.json
+    python3 validate_json.py translations/page_0020.json
     python3 validate_json.py translations/
 """
 
@@ -127,18 +127,25 @@ def validate_chapter(filepath: str) -> tuple[bool, list[str]]:
                 # This is just a warning, not an error
                 pass
             
-            # Validate commentary array if present
-            if "commentary" in segment and segment["commentary"]:
+            # Validate commentary array (required, may be empty)
+            if "commentary" not in segment:
+                errors.append(f"{segment_prefix}: Missing field 'commentary' (use [] if none)")
+            elif not isinstance(segment.get("commentary"), list):
+                errors.append(f"{segment_prefix}.commentary: Must be an array (use [] if none)")
+            else:
                 for c_idx, commentary in enumerate(segment["commentary"]):
                     c_prefix = f"{segment_prefix}.commentary[{c_idx}]"
-                    
+                    if not isinstance(commentary, dict):
+                        errors.append(f"{c_prefix}: Must be an object")
+                        continue
+
                     # Check required commentary fields
                     for field in REQUIRED_COMMENTARY_FIELDS:
                         if field not in commentary:
                             errors.append(f"{c_prefix}: Missing field '{field}'")
                         elif commentary[field] is None or commentary[field] == "":
                             errors.append(f"{c_prefix}: Empty field '{field}'")
-                    
+
                     # Check commentary type is valid
                     if commentary.get("type") not in VALID_COMMENTARY_TYPES:
                         errors.append(f"{c_prefix}: Invalid commentary type '{commentary.get('type')}'. Must be one of {VALID_COMMENTARY_TYPES}")
@@ -150,6 +157,13 @@ def validate_chapter(filepath: str) -> tuple[bool, list[str]]:
     # Check translator_notes is a list
     if not isinstance(data.get("translator_notes"), list):
         errors.append("translator_notes must be an array")
+    else:
+        if len(data["translator_notes"]) == 0:
+            errors.append("translator_notes must be a non-empty array")
+        else:
+            for n_idx, note in enumerate(data["translator_notes"]):
+                if not isinstance(note, str) or len(note.strip()) == 0:
+                    errors.append(f"translator_notes[{n_idx}] must be a non-empty string")
     
     # Check page_content_type if present
     valid_content_types = ["front_matter", "fanli", "chapter_start", "chapter_body", "chapter_end", "appendix"]

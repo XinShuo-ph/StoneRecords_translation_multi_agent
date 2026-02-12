@@ -106,7 +106,7 @@ Validate translation JSON files for completeness and format.
 ### Usage
 ```bash
 # Single file
-python3 tools/validate_json.py translations/chapter_001.json
+python3 tools/validate_json.py translations/page_0020.json
 
 # All files
 python3 tools/validate_json.py translations/
@@ -199,9 +199,9 @@ sudo apt-get install fonts-noto-cjk
 
 ### Recommended Workflow
 
-1. **Translate** → Save to `translations/chapter_XXX.json`
-2. **Validate** → `python3 tools/validate_json.py translations/chapter_XXX.json`
-3. **Compile** → `python3 tools/compile_chapters.py translations/chapter_XXX.json output/`
+1. **Translate** → Save to `translations/page_XXXX.json`
+2. **Validate** → `python3 tools/validate_json.py translations/page_XXXX.json`
+3. **Compile** → (optional) compile a set of pages/chapters as needed
 4. **Review** → Check output PDF for formatting issues
 
 ### Continuous Integration

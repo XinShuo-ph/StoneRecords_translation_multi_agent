@@ -1,12 +1,14 @@
 ## Goal
 
-Translate pages from 红楼梦脂评汇校本 (Dream of the Red Chamber with Zhiping Commentary) into four languages:
-- **Modern Chinese (简体中文)** - Accessible contemporary Mandarin
-- **English** - Scholarly literary translation
-- **Russian (Русский)** - Literary Russian translation
-- **Japanese (日本語)** - Classical-influenced literary Japanese
+Translate pages from **红楼梦脂评汇校本** (Dream of the Red Chamber with Zhiping Commentary) into four languages:
+- **Modern Chinese (简体中文)**: accurate, readable, lightly literary
+- **English**: scholarly literary register
+- **Russian (Русский)**: literary Russian
+- **Japanese (日本語)**: classical-influenced literary Japanese
 
-Each PDF page becomes one JSON file. Translate ALL content on each page: main text AND commentary.
+**One PDF page = one JSON file.** Translate **ALL visible text** on that page: **main text (正文) + all commentary (脂评/眉批/夹批/侧批/回末批等) + poetry + headers/labels when meaningful**.
+
+This document is **translation-only**. Worker coordination/progress protocols (if any) are defined elsewhere and must not change the translation output contract below.
 
 ---
 
@@ -24,38 +26,37 @@ The source contains:
 
 ## Workflow: For Each Page
 
-### Step 1: View the Page
+### Step 0: Verify you are on the correct page (non-negotiable)
 
-Read both:
-- The page image (`source_pages/page_XXXX.png`) for visual layout
-- The PDF for text selection and formatting context
+- Open `source_pages/page_XXXX.png` and confirm the **file name’s XXXX** matches the page you will output in JSON (`"page": XXXX`).
+- Scan the full page (top/bottom + margins). If the page ends mid-sentence, **include the partial text** and note “continues next page” in `translator_notes`.
 
-Identify all content:
-- Main narrative text
-- Any commentary (眉批, 夹批, 侧批)
-- Any poetry
+### Step 1: Inventory the page before translating (prevents missing/partial work)
 
-### Step 2: Research
+Before translating, do a quick **content inventory**:
+- Split the main text into **segments** (paragraph-sized chunks; poems as their own segments).
+- For each segment, collect **all** commentary that belongs to it (including margin notes).
+- If a commentary’s attachment is unclear, still include it and add `position` like `"top margin (applies to whole page)"`.
+
+### Step 2: Research (light but mandatory)
 
 Before translating, research each segment:
 - Read relevant materials in `research/` directory
-- Search online for scholarly interpretations
+- (Optional) quick online lookup for idioms/allusions when needed
 - Look up classical allusions (典故)
 - Understand character name puns and hidden meanings
 - Note historical and cultural context
 
-Document findings in the `notes` field.
+Record findings as short bullets in `translator_notes` (and optionally `research_notes`).
 
 ### Step 3: Translate
 
-For each text segment on the page:
-1. Copy the original Classical Chinese
-2. Translate to Modern Chinese
-3. Translate to English
-4. Translate to Russian
-5. Translate to Japanese
+For each segment on the page:
+1. **Copy the original text exactly** (no summarizing; no skipping sentences).
+2. Translate into **all 4 target languages**.
+3. Translate **all commentary objects** in all 4 target languages.
 
-Translate all commentary as well.
+Practical order that improves consistency: **original → zh_modern (accuracy anchor) → en/ru/ja**.
 
 ### Step 4: 润色 (Polish)
 
@@ -70,13 +71,50 @@ Review and refine each translation:
 
 Save to `translations/page_XXXX.json` (4-digit page number).
 
-### Step 6: Next Page
+### Step 6: Validate before moving on (non-negotiable)
 
-Continue to the next page immediately. Do not pause between pages.
+Run:
+
+```bash
+python3 tools/validate_json.py translations/page_XXXX.json
+```
+
+Fix all errors until it validates.
 
 ---
 
-## JSON Output Format
+## JSON Output Format (strict contract)
+
+### Required top-level fields
+
+- `page` (int)
+- `chapter` (string, e.g. `"第一回"`, `"前言"`, `"凡例"`)
+- `segments` (array, non-empty)
+- `translator_notes` (array of strings, non-empty)
+- `total_segments` (int, must equal `segments.length`)
+
+### Optional (recommended when applicable)
+
+- `chapter_title` (object with `original/zh_modern/en/ru/ja`) when the page contains the chapter heading
+- `page_content_type` (one of `front_matter`, `fanli`, `chapter_start`, `chapter_body`, `chapter_end`, `appendix`)
+- `research_notes` (array of strings)
+
+### Segment requirements
+
+Each item in `segments[]` MUST include:
+- `id` (1..N, sequential)
+- `type` (`"prose" | "poem" | "dialogue"`)
+- `original`, `zh_modern`, `en`, `ru`, `ja` (all non-empty strings)
+- `commentary` (array; use `[]` if none)
+
+### Commentary requirements
+
+Each item in `commentary[]` MUST include:
+- `type` (one of `眉批`, `夹批`, `侧批`, `回前批`, `回末批`, `回末总批`)
+- `source` (the label seen on the page, e.g. `甲戌本`, `庚辰本`, `己卯本`, `蒙府本`, `脂批`, `校者`…)
+- `original`, `zh_modern`, `en`, `ru`, `ja` (all non-empty strings)
+
+Optional commentary fields: `position`, `commentator`.
 
 ```json
 {
@@ -93,6 +131,7 @@ Continue to the next page immediately. Do not pause between pages.
       "ja": "日本語...",
       "commentary": [
         {
+          "type": "夹批",
           "source": "脂批",
           "original": "批语原文",
           "zh_modern": "...",
@@ -103,27 +142,12 @@ Continue to the next page immediately. Do not pause between pages.
       ]
     }
   ],
-  "notes": ["Research findings: puns, allusions, cultural context"]
+  "translator_notes": ["Research findings: puns, allusions, cultural context"],
+  "total_segments": 1
 }
 ```
 
-See `examples/page_0020.json` for a complete example with 7 segments and 12 commentary annotations.
-
-### Required Fields
-
-| Field | Description |
-|-------|-------------|
-| `page` | PDF page number |
-| `chapter` | "前言", "第一回", "第二回", etc. |
-| `segments[].id` | Sequential ID (1, 2, 3...) |
-| `segments[].type` | "prose", "poem", "dialogue" |
-| `segments[].original` | Original Classical Chinese |
-| `segments[].zh_modern` | Modern Chinese translation |
-| `segments[].en` | English translation |
-| `segments[].ru` | Russian translation |
-| `segments[].ja` | Japanese translation |
-| `segments[].commentary` | Array of commentary (empty `[]` if none) |
-| `notes` | Research findings |
+See `examples/page_0020.json` for a complete example (and validate with `tools/validate_json.py`).
 
 ---
 
@@ -182,7 +206,7 @@ Many names contain hidden meanings:
 | 贾雨村 (Jia Yucun) | 假语存 - False words remain |
 | 贾宝玉 (Jia Baoyu) | 假宝玉 - False precious jade |
 
-When translating, keep transliterated names and note the pun in `notes`.
+When translating, keep transliterated names and note the pun in `translator_notes`.
 
 ---
 
@@ -200,23 +224,23 @@ When translating, keep transliterated names and note the pun in `notes`.
 ## Continuous Execution
 
 Work continuously:
-1. Complete page → Save JSON → Next page → Repeat
-2. Continue until you've completed all assigned pages
+1. Inventory → Translate → Polish → Validate → Save
+2. Repeat for all assigned pages
 
 If stuck on a passage for more than 5 minutes:
-- Add a note: `"Uncertain: [your question]"`
+- Make a best-effort translation and add a note: `"Uncertain: [your question]"` in `translator_notes`
 - Continue to next segment
 
 ---
 
 ## Anti-Patterns to Avoid
 
-- Skipping content (instead, translate EVERYTHING on the page)
-- Empty translations (instead, ensure every field has content)
-- Wrong page number (instead, verify page number before starting)
-- Stopping to ask questions (instead, add a note and continue)
-- Invalid JSON (instead, validate before saving)
-- Skipping research (instead, always research before translating)
+- Skipping content (instead, **inventory first** and translate everything you can see)
+- Partial translation of a paragraph (instead, copy the full paragraph into `original` before translating)
+- Wrong page number (instead, verify `source_pages/page_XXXX.png` and set `"page": XXXX`)
+- Empty fields / missing keys (instead, follow the strict schema and validate)
+- Invalid JSON (instead, validate before moving on)
+- Getting stuck and stopping (instead, best-effort + `translator_notes` + continue)
 
 ---
 
@@ -225,9 +249,10 @@ If stuck on a passage for more than 5 minutes:
 Before moving to the next page, verify:
 
 - [ ] Page number is correct
-- [ ] ALL visible text is translated (main + commentary)
+- [ ] ALL visible text is translated (main + commentary + poems + margin notes)
 - [ ] All 4 target languages are present for each segment
-- [ ] All segments have `commentary` field (empty `[]` if none)
+- [ ] All segments have `commentary: []` or a non-empty array of valid commentary objects
 - [ ] Sequential IDs (1, 2, 3...)
 - [ ] JSON is valid
-- [ ] Notes include research findings
+- [ ] `translator_notes` includes research findings and any uncertainties
+- [ ] `total_segments` equals the number of segments in this file

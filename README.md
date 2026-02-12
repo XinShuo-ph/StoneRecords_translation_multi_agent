@@ -80,7 +80,8 @@ Each page becomes a JSON file:
       "commentary": [...]
     }
   ],
-  "notes": ["Translator observations"]
+  "translator_notes": ["Translator observations / research notes"],
+  "total_segments": 1
 }
 ```
 
