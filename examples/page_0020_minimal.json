@@ -1,0 +1,33 @@
+{
+  "page": 20,
+  "chapter": "第一回",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "士隐意欲也跟了过去，方举步时，忽听一声霹雳，有若山崩地陷。",
+      "zh_modern": "士隐也想跟着他们过去，刚要迈步，忽然听到一声惊雷，好像山崩地陷一般。",
+      "en": "Shiyin wished to follow them, but just as he was about to take a step, he suddenly heard a thunderclap like mountains crumbling and the earth splitting open.",
+      "ru": "Шиинь хотел последовать за ними, но едва он собрался сделать шаг, как вдруг раздался громовой удар, словно горы рушились и земля разверзалась.",
+      "ja": "士隠もついて行こうとし、まさに足を踏み出そうとした時、突然山が崩れ地が陥るかのような雷鳴が轟いた。"
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "士隐大叫一声，定睛一看，只见烈日炎炎，芭蕉冉冉，梦中之事便忘了对半。",
+      "zh_modern": "士隐大叫一声，定睛细看，只见烈日炎炎，芭蕉轻轻摇曳，梦中的事情已经忘了一大半。",
+      "en": "Shiyin let out a great cry and, looking intently, saw only the blazing sun and the swaying banana plants. Half of what had happened in his dream was already forgotten.",
+      "ru": "Шиинь вскрикнул и, пристально вглядевшись, увидел лишь палящее солнце и колышущиеся банановые листья. Половина того, что было во сне, уже забылась.",
+      "ja": "士隠は大声で叫び、目を凝らして見ると、ただ炎天の陽光と揺れる芭蕉があるばかりで、夢の中の出来事は半ば忘れてしまっていた。"
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "又见奶娘正抱了英莲走来。士隐见女儿越发生得粉妆玉琢，乖觉可喜，便伸手接来，抱在怀中，斗他顽耍一回。",
+      "zh_modern": "又见奶娘正抱着英莲走过来。士隐见女儿越发出落得粉妆玉琢、乖巧可爱，便伸手接过来，抱在怀中，逗她玩耍了一会儿。",
+      "en": "He then saw the wet nurse approaching with Yinglian in her arms. Shiyin noticed that his daughter had grown ever more delicately beautiful, like a figure of powder and jade, clever and adorable. He reached out to take her and held her in his arms, playing with her for a while.",
+      "ru": "Он увидел, что кормилица несёт к нему Инлянь. Шиинь заметил, что дочь стала ещё прекраснее — словно изваяние из пудры и яшмы, сообразительная и милая. Он протянул руки, взял её на руки и немного поиграл с ней.",
+      "ja": "また乳母が英蓮を抱いて歩いてくるのが見えた。士隠は娘がますます粉を施し玉を琢いたように美しく、利発で可愛らしくなっているのを見て、手を伸ばして受け取り、懐に抱いてしばらく遊ばせた。"
+    }
+  ]
+}

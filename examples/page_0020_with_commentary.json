@@ -1,0 +1,67 @@
+{
+  "page": 20,
+  "chapter": "第一回",
+  "segments": [
+    {
+      "id": 1,
+      "type": "prose",
+      "original": "士隐意欲也跟了过去，方举步时，忽听一声霹雳，有若山崩地陷。士隐大叫一声，定睛一看，只见烈日炎炎，芭蕉冉冉，梦中之事便忘了对半。",
+      "zh_modern": "士隐也想跟着他们过去，刚要迈步，忽然听到一声惊雷，好像山崩地陷一般。士隐大叫一声，定睛细看，只见烈日炎炎，芭蕉轻轻摇曳，梦中的事情已经忘了一大半。",
+      "en": "Shiyin wished to follow them, but just as he was about to take a step, he suddenly heard a thunderclap like mountains crumbling and the earth splitting open. Shiyin let out a great cry and, looking intently, saw only the blazing sun and the swaying banana plants. Half of what had happened in his dream was already forgotten.",
+      "ru": "Шиинь хотел последовать за ними, но едва он собрался сделать шаг, как вдруг раздался громовой удар, словно горы рушились и земля разверзалась. Шиинь вскрикнул и, пристально вглядевшись, увидел лишь палящее солнце и колышущиеся банановые листья. Половина того, что было во сне, уже забылась.",
+      "ja": "士隠もついて行こうとし、まさに足を踏み出そうとした時、突然山が崩れ地が陥るかのような雷鳴が轟いた。士隠は大声で叫び、目を凝らして見ると、ただ炎天の陽光と揺れる芭蕉があるばかりで、夢の中の出来事は半ば忘れてしまっていた。",
+      "commentary": [
+        {
+          "source": "脂砚斋",
+          "original": "真是大警觉大转身。",
+          "zh_modern": "真是一个大警醒、大转变啊。",
+          "en": "Truly a great awakening and great transformation.",
+          "ru": "Поистине великое пробуждение и великий поворот.",
+          "ja": "まさに大いなる覚醒、大いなる転身なり。"
+        },
+        {
+          "source": "甲戌本",
+          "original": "旺得无垠，不落旧套。",
+          "zh_modern": "生机勃勃，无边无际，不落俗套。",
+          "en": "Flourishing without bounds, avoiding clichéd conventions.",
+          "ru": "Полный жизни, безграничный, избегающий избитых клише.",
+          "ja": "生気溢れて無辺、旧套に落ちず。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "prose",
+      "original": "又见奶娘正抱了英莲走来。士隐见女儿越发生得粉妆玉琢，乖觉可喜，便伸手接来，抱在怀中，斗他顽耍一回，又带至街前，看那过会的热闹。",
+      "zh_modern": "又见奶娘正抱着英莲走过来。士隐见女儿越发出落得粉妆玉琢、乖巧可爱，便伸手接过来，抱在怀中，逗她玩耍了一会儿，又带到街前，看那庙会的热闹。",
+      "en": "He then saw the wet nurse approaching with Yinglian in her arms. Shiyin noticed that his daughter had grown ever more delicately beautiful, like a figure of powder and jade, clever and adorable. He reached out to take her, held her in his arms, played with her for a while, then carried her to the street to watch the bustling temple fair.",
+      "ru": "Он увидел, что кормилица несёт к нему Инлянь. Шиинь заметил, что дочь стала ещё прекраснее — словно изваяние из пудры и яшмы, сообразительная и милая. Он протянул руки, взял её на руки, немного поиграл с ней, а затем вынес на улицу посмотреть на оживлённую храмовую ярмарку.",
+      "ja": "また乳母が英蓮を抱いて歩いてくるのが見えた。士隠は娘がますます粉を施し玉を琢いたように美しく、利発で可愛らしくなっているのを見て、手を伸ばして受け取り、懐に抱いてしばらく遊ばせ、それから街前に連れて行って廟会の賑わいを見せた。",
+      "commentary": []
+    },
+    {
+      "id": 3,
+      "type": "prose",
+      "original": "方欲進來時，只見從那邊來了一僧一道，那僧則癩頭跣足，那道則跛足蓬頭，瘋瘋癲癲，揮霍談笑而至。",
+      "zh_modern": "正要回来时，只见从那边来了一个和尚和一个道士，那和尚癞头赤脚，那道士跛足蓬头，二人疯疯癫癫、手舞足蹈地说笑着走了过来。",
+      "en": "Just as he was about to go back inside, he saw approaching from the other direction a Buddhist monk and a Taoist priest. The monk had a scabby head and bare feet, while the Taoist was lame and unkempt. The two came along in a crazed manner, gesticulating wildly and laughing as they walked.",
+      "ru": "Когда он собирался вернуться, с другой стороны появились буддийский монах и даосский священник. У монаха была паршивая голова и босые ноги, а даос был хромым и растрёпанным. Оба шли в каком-то безумии, размахивая руками и смеясь.",
+      "ja": "戻ろうとした時、向こうから一人の僧と一人の道士がやってきた。その僧は癩頭で裸足、その道士は跛足で蓬髪、二人とも狂ったように手を振り回しながら談笑してやってきた。",
+      "commentary": [
+        {
+          "source": "甲戌本",
+          "original": "所謂「萬境都如夢境看」也。",
+          "zh_modern": "这就是所说的「万境都如梦境看」啊。",
+          "en": "This is what is meant by 'viewing all realms as if they were dreams.'",
+          "ru": "Вот что имеется в виду под словами «смотреть на все миры как на сновидения».",
+          "ja": "いわゆる「万境都如梦境看」というものなり。"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "英莲 (Yinglian) will later be renamed 香菱 (Xiangling) after her abduction",
+    "粉妆玉琢 is a classical idiom meaning 'delicate beauty like powder and carved jade'",
+    "The monk and Taoist are recurring supernatural figures who appear at key moments throughout the novel"
+  ]
+}

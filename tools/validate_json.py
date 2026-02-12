@@ -1,10 +1,16 @@
 #!/usr/bin/env python3
 """
-Validate translation JSON files for completeness and format.
+Validate translation JSON files for completeness and format (V2 Schema).
+
+Supports 3-tier validation:
+- Tier 1 (Minimum): Required fields only
+- Tier 2 (Good): With commentary and notes
+- Tier 3 (Excellent): With all enhancements
 
 Usage:
-    python3 validate_json.py translations/chapter_001.json
+    python3 validate_json.py translations/page_0020.json
     python3 validate_json.py translations/
+    python3 validate_json.py --verbose translations/page_0020.json
 """
 
 import json
@@ -12,13 +18,16 @@ import sys
 import os
 from pathlib import Path
 
-# Required fields for page JSON
+# V2 Schema: Only truly required fields
 REQUIRED_PAGE_FIELDS = [
     "page",
     "chapter",
-    "segments",
-    "translator_notes",
-    "total_segments"
+    "segments"
+]
+
+# Optional but recommended for Tier 2
+RECOMMENDED_PAGE_FIELDS = [
+    "notes"  # or "translator_notes"
 ]
 
 # Required fields for chapter title (optional, only if chapter_title present)
@@ -30,11 +39,17 @@ REQUIRED_SEGMENT_FIELDS = ["id", "type", "original", "zh_modern", "en", "ru", "j
 # Valid segment types
 VALID_SEGMENT_TYPES = ["prose", "poem", "dialogue"]
 
-# Required fields for commentary objects
-REQUIRED_COMMENTARY_FIELDS = ["type", "source", "original", "zh_modern", "en", "ru", "ja"]
+# Required fields for commentary objects (when commentary is present)
+REQUIRED_COMMENTARY_FIELDS = ["source", "original", "zh_modern", "en", "ru", "ja"]
+
+# Optional commentary fields
+OPTIONAL_COMMENTARY_FIELDS = ["type", "position"]
 
 # Valid commentary types
 VALID_COMMENTARY_TYPES = ["眉批", "夹批", "侧批", "回前批", "回末批", "回末总批"]
+
+# Verbose mode flag
+VERBOSE = False
 
 
 def validate_chapter(filepath: str) -> tuple[bool, list[str]]:
@@ -135,21 +150,23 @@ def validate_chapter(filepath: str) -> tuple[bool, list[str]]:
                     # Check required commentary fields
                     for field in REQUIRED_COMMENTARY_FIELDS:
                         if field not in commentary:
-                            errors.append(f"{c_prefix}: Missing field '{field}'")
+                            errors.append(f"{c_prefix}: Missing required field '{field}'")
                         elif commentary[field] is None or commentary[field] == "":
                             errors.append(f"{c_prefix}: Empty field '{field}'")
                     
-                    # Check commentary type is valid
-                    if commentary.get("type") not in VALID_COMMENTARY_TYPES:
+                    # Check commentary type is valid (if present - optional)
+                    if "type" in commentary and commentary.get("type") not in VALID_COMMENTARY_TYPES:
                         errors.append(f"{c_prefix}: Invalid commentary type '{commentary.get('type')}'. Must be one of {VALID_COMMENTARY_TYPES}")
     
-    # Check total_segments matches actual count
-    if data.get("total_segments") != len(segments):
+    # Check total_segments matches actual count (if present - optional)
+    if "total_segments" in data and data.get("total_segments") != len(segments):
         errors.append(f"total_segments ({data.get('total_segments')}) does not match actual segment count ({len(segments)})")
     
-    # Check translator_notes is a list
-    if not isinstance(data.get("translator_notes"), list):
+    # Check translator_notes or notes is a list (if present - optional for Tier 1)
+    if "translator_notes" in data and not isinstance(data.get("translator_notes"), list):
         errors.append("translator_notes must be an array")
+    if "notes" in data and not isinstance(data.get("notes"), list):
+        errors.append("notes must be an array")
     
     # Check page_content_type if present
     valid_content_types = ["front_matter", "fanli", "chapter_start", "chapter_body", "chapter_end", "appendix"]
@@ -194,15 +211,63 @@ def validate_directory(dirpath: str) -> dict:
     return results
 
 
+def determine_quality_tier(data: dict) -> tuple[int, str]:
+    """Determine the quality tier of a translation."""
+    has_commentary = False
+    has_notes = False
+    has_research_notes = False
+    has_poem_notes = False
+    
+    # Check for commentary
+    for segment in data.get("segments", []):
+        if segment.get("commentary") and len(segment.get("commentary", [])) > 0:
+            has_commentary = True
+        if segment.get("type") == "poem" and "poem_notes" in segment:
+            has_poem_notes = True
+    
+    # Check for notes
+    if data.get("notes") or data.get("translator_notes"):
+        notes = data.get("notes", []) or data.get("translator_notes", [])
+        if len(notes) > 0:
+            has_notes = True
+    
+    if data.get("research_notes") and len(data.get("research_notes", [])) > 0:
+        has_research_notes = True
+    
+    # Tier 3: Excellent
+    if has_commentary and has_notes and has_research_notes and has_poem_notes:
+        return 3, "Excellent (Tier 3)"
+    
+    # Tier 2: Good
+    if has_commentary and has_notes:
+        return 2, "Good (Tier 2)"
+    
+    # Tier 1: Minimum acceptable
+    return 1, "Minimum (Tier 1)"
+
+
 def main():
+    global VERBOSE
+    
     if len(sys.argv) < 2:
-        print("Usage: python3 validate_json.py <file_or_directory>")
+        print("Usage: python3 validate_json.py [--verbose] <file_or_directory>")
         print("\nExamples:")
-        print("  python3 validate_json.py translations/chapter_001.json")
+        print("  python3 validate_json.py translations/page_0020.json")
         print("  python3 validate_json.py translations/")
+        print("  python3 validate_json.py --verbose translations/page_0020.json")
         sys.exit(1)
     
-    target = sys.argv[1]
+    # Check for verbose flag
+    args = sys.argv[1:]
+    if "--verbose" in args:
+        VERBOSE = True
+        args.remove("--verbose")
+    
+    if not args:
+        print("Error: No file or directory specified")
+        sys.exit(1)
+    
+    target = args[0]
     
     if os.path.isfile(target):
         # Single file
@@ -213,9 +278,25 @@ def main():
             with open(target, 'r', encoding='utf-8') as f:
                 data = json.load(f)
             segment_count = len(data.get("segments", []))
-            print(f"✓ {filename}: Valid ({segment_count} segments)")
+            tier, tier_label = determine_quality_tier(data)
+            
+            # Count commentary
+            commentary_count = sum(len(seg.get("commentary", [])) for seg in data.get("segments", []))
+            
+            if VERBOSE:
+                print(f"✓ {filename}: VALIDATION PASSED")
+                print(f"  Quality: {tier_label}")
+                print(f"  Segments: {segment_count}")
+                print(f"  Commentary: {commentary_count} annotations")
+                print(f"  Page: {data.get('page')}")
+                print(f"  Chapter: {data.get('chapter')}")
+                if data.get("notes") or data.get("translator_notes"):
+                    notes = data.get("notes", []) or data.get("translator_notes", [])
+                    print(f"  Notes: {len(notes)} research findings")
+            else:
+                print(f"✓ {filename}: Valid ({segment_count} segments, {tier_label})")
         else:
-            print(f"✗ {filename}: INVALID")
+            print(f"✗ {filename}: VALIDATION FAILED")
             for error in errors:
                 print(f"  - {error}")
             sys.exit(1)
@@ -232,12 +313,19 @@ def main():
                 with open(os.path.join(target, filename), 'r', encoding='utf-8') as f:
                     data = json.load(f)
                 segment_count = len(data.get("segments", []))
-                print(f"✓ {filename}: Valid ({segment_count} segments)")
+                tier, tier_label = determine_quality_tier(data)
+                
+                if VERBOSE:
+                    commentary_count = sum(len(seg.get("commentary", [])) for seg in data.get("segments", []))
+                    print(f"✓ {filename}: Valid - {tier_label}, {segment_count} segments, {commentary_count} annotations")
+                else:
+                    print(f"✓ {filename}: Valid ({tier_label})")
                 valid_count += 1
             else:
                 print(f"✗ {filename}: INVALID")
-                for error in errors:
-                    print(f"  - {error}")
+                if VERBOSE:
+                    for error in errors:
+                        print(f"    - {error}")
                 invalid_count += 1
         
         print(f"\nSummary: {valid_count} valid, {invalid_count} invalid")
