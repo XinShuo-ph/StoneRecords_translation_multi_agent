@@ -6,21 +6,14 @@
 
 ## PDF Page Mapping
 
-**IMPORTANT**: Workers should claim chapters by PDF page ranges. Use the PDF's bookmarks to navigate.
+Use the PDF bookmarks to navigate chapter boundaries quickly.
 
-The source PDF `红楼梦脂评汇校本_有书签目录_v3.13.pdf` has bookmarks for each chapter. When claiming a chapter:
-1. Open the PDF and navigate to your chapter's bookmark
-2. Note the PDF page range (start page to end page)
-3. Record this in your `WORKER_STATE.md` and in your translation JSON
+For any page being translated:
+1. Open the chapter bookmark in `红楼梦脂评汇校本_有书签目录_v3.13.pdf`
+2. Confirm exact page number in the PDF viewer
+3. Cross-check against `source_pages/page_XXXX.png`
 
-**Page Range Format in JSON**:
-```json
-"pdf_page_range": {
-  "start": 15,
-  "end": 28,
-  "note": "Verify with your PDF reader"
-}
-```
+This document is for chapter/content reference only; worker assignment/synchronization rules are intentionally kept outside this file.
 
 ---
 

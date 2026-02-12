@@ -106,7 +106,7 @@ Validate translation JSON files for completeness and format.
 ### Usage
 ```bash
 # Single file
-python3 tools/validate_json.py translations/chapter_001.json
+python3 tools/validate_json.py translations/page_0020.json
 
 # All files
 python3 tools/validate_json.py translations/
@@ -114,17 +114,21 @@ python3 tools/validate_json.py translations/
 
 ### Checks
 - Valid JSON syntax
-- Required fields present
+- Canonical required fields present
+- No unknown fields (schema lock)
+- Filename/page match (`page_XXXX.json` vs `page`)
 - No empty/null translations
+- Source anchor present (`first_visible_text`, `last_visible_text`)
 - Sequential segment IDs
-- UTF-8 encoding
-- Matching segment counts
+- Valid segment and commentary types
+- Matching `total_segments`
 
 ### Output
 ```
-✓ chapter_001.json: Valid (52 segments)
-✗ chapter_002.json: ERROR - Missing 'en' in segment 15
-✓ chapter_003.json: Valid (38 segments)
+✓ page_0020.json: Valid (7 segments)
+✗ page_0021.json: INVALID
+  - segment[2] missing required field: commentary
+  - source_anchor.last_visible_text must be a non-empty string
 ```
 
 ---
@@ -199,17 +203,17 @@ sudo apt-get install fonts-noto-cjk
 
 ### Recommended Workflow
 
-1. **Translate** → Save to `translations/chapter_XXX.json`
-2. **Validate** → `python3 tools/validate_json.py translations/chapter_XXX.json`
-3. **Compile** → `python3 tools/compile_chapters.py translations/chapter_XXX.json output/`
+1. **Translate** → Save to `translations/page_XXXX.json`
+2. **Validate** → `python3 tools/validate_json.py translations/page_XXXX.json`
+3. **Compile (optional, chapter-formatted inputs only)** → `python3 tools/compile_chapters.py translations/ output/`
 4. **Review** → Check output PDF for formatting issues
 
 ### Continuous Integration
 
-Workers should validate JSON before committing:
+Validate JSON before committing:
 ```bash
 # In commit hook or manual check
-python3 tools/validate_json.py translations/chapter_*.json
+python3 tools/validate_json.py translations/
 ```
 
 ---
