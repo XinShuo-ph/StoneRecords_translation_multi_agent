@@ -2,7 +2,7 @@
 
 **红楼梦脂评汇校本 → Modern Chinese, English, Russian, Japanese**
 
-A translation project for *Dream of the Red Chamber* (红楼梦), one of the Four Great Classical Novels of Chinese Literature.
+A collaborative multi-agent translation project for *Dream of the Red Chamber* (红楼梦), one of the Four Great Classical Novels of Chinese Literature.
 
 ---
 
@@ -10,18 +10,36 @@ A translation project for *Dream of the Red Chamber* (红楼梦), one of the Fou
 
 This project translates 脂评汇校本 version of 红楼梦 from Classical Chinese into:
 
-- **Modern Chinese (简体中文)** - Accessible contemporary Mandarin
-- **English** - Scholarly literary translation
-- **Russian (Русский)** - Literary Russian
-- **Japanese (日本語)** - Classical-influenced literary Japanese
+- **Modern Chinese (简体中文)** — Accessible contemporary Mandarin
+- **English** — Scholarly literary translation
+- **Russian (Русский)** — Literary Russian
+- **Japanese (日本語)** — Classical-influenced literary Japanese
+
+Multiple AI agents work in parallel, coordinated by an automated sync daemon that prevents duplicate work and manages page assignment.
 
 ---
 
 ## Quick Start
 
-1. Read `instructions.md` for the translation task
-2. View source pages in `source_pages/` or open the PDF directly
-3. Save translations to `translations/page_XXXX.json`
+### For Translation Workers
+
+1. **Start the sync daemon** (mandatory — prevents duplication):
+   ```bash
+   python3 tools/sync_daemon.py --start &
+   sleep 30
+   ```
+2. **Get your page assignment**:
+   ```bash
+   python3 tools/sync_daemon.py --next-page
+   ```
+3. **Read `instructions.md`** for the translation workflow
+4. **Save translations** to `translations/page_XXXX.json`
+
+### For Project Coordinators
+
+- Read `PROTOCOL.md` for the collaboration architecture
+- Read `INVESTIGATION_REPORT.md` for analysis of previous approaches
+- Use `python3 tools/sync_daemon.py --status` to view global progress
 
 ---
 
@@ -29,7 +47,10 @@ This project translates 脂评汇校本 version of 红楼梦 from Classical Chin
 
 ```
 workspace/
-├── instructions.md              # Translation instructions
+├── instructions.md              # Translation task (concise, quality-focused)
+├── PROTOCOL.md                  # Parallel collaboration protocol
+├── INVESTIGATION_REPORT.md      # Analysis of 16 previous protocol branches
+├── WORKER_STATE_TEMPLATE.md     # Template for new worker state files
 ├── 红楼梦脂评汇校本_有书签目录_v3.13.pdf  # Source PDF
 │
 ├── source_pages/                # Extracted PDF pages as images
@@ -42,12 +63,14 @@ workspace/
 │   ├── character_guide.md       # Main character profiles
 │   ├── poetry_guide.md          # Poetry translation approaches
 │   ├── commentary_guide.md      # Commentary types & sources
-│   └── ...
+│   ├── cultural_context.md      # Qing Dynasty context
+│   └── existing_translations.md # Reference existing translations
 │
 ├── examples/                    # Format examples
 │   └── page_0020.json           # Complete page translation example
 │
 ├── tools/                       # Utilities
+│   ├── sync_daemon.py           # Mandatory sync daemon for coordination
 │   ├── pdf_to_images.py         # Extract PDF pages as images
 │   ├── validate_json.py         # Validate translation JSON
 │   └── compile_chapters.py      # Compile translations to PDF
@@ -57,6 +80,19 @@ workspace/
 │
 └── output/                      # Generated PDFs
 ```
+
+---
+
+## Collaboration Protocol
+
+This project uses multiple AI agents translating different pages in parallel. The protocol evolved through several iterations:
+
+1. **V1**: Manual sync with heartbeats and page claiming (too complex, not followed)
+2. **V2**: Added automated sync daemon (addressed the problem but added complexity)
+3. **V3**: Stripped all protocol for simplicity (high quality but 83% duplication)
+4. **Best Version** (current): Concise quality instructions + automated daemon coordination
+
+See `INVESTIGATION_REPORT.md` for the full analysis and `PROTOCOL.md` for the finalized protocol.
 
 ---
 
@@ -77,28 +113,24 @@ Each page becomes a JSON file:
       "en": "English...",
       "ru": "Russian...",
       "ja": "Japanese...",
-      "commentary": [...]
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "original": "Commentary text...",
+          "zh_modern": "...",
+          "en": "...",
+          "ru": "...",
+          "ja": "..."
+        }
+      ]
     }
   ],
-  "notes": ["Translator observations"]
+  "notes": ["Research findings: puns, allusions, cultural context"]
 }
 ```
 
 See `examples/page_0020.json` for a complete example.
-
----
-
-## Extracting PDF Pages
-
-To extract pages as images for viewing:
-
-```bash
-# Extract all pages
-python3 tools/pdf_to_images.py 红楼梦脂评汇校本_有书签目录_v3.13.pdf source_pages/
-
-# Extract specific range
-python3 tools/pdf_to_images.py 红楼梦脂评汇校本_有书签目录_v3.13.pdf source_pages/ 20 40
-```
 
 ---
 
