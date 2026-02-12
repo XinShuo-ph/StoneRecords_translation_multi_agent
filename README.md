@@ -19,7 +19,7 @@ This project translates 脂评汇校本 version of 红楼梦 from Classical Chin
 
 ## Quick Start
 
-1. Read `instructions.md` for the translation task
+1. Read `instructions.md` for the translation-only spec
 2. View source pages in `source_pages/` or open the PDF directly
 3. Save translations to `translations/page_XXXX.json`
 
@@ -60,7 +60,7 @@ workspace/
 
 ---
 
-## Translation Output Format
+## Translation Output Format (Canonical)
 
 Each page becomes a JSON file:
 
@@ -77,14 +77,23 @@ Each page becomes a JSON file:
       "en": "English...",
       "ru": "Russian...",
       "ja": "Japanese...",
-      "commentary": [...]
+      "commentary": [
+        {
+          "source": "甲戌本",
+          "original": "批语原文",
+          "zh_modern": "现代汉语批语",
+          "en": "English commentary",
+          "ru": "Комментарий",
+          "ja": "日本語注釈"
+        }
+      ]
     }
   ],
-  "notes": ["Translator observations"]
+  "notes": ["Research finding 1", "Research finding 2", "Research finding 3"]
 }
 ```
 
-See `examples/page_0020.json` for a complete example.
+See `examples/page_0020.json` for a valid representative example.
 
 ---
 

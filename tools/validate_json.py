@@ -3,194 +3,239 @@
 Validate translation JSON files for completeness and format.
 
 Usage:
-    python3 validate_json.py translations/chapter_001.json
+    python3 validate_json.py translations/page_0020.json
     python3 validate_json.py translations/
 """
 
 import json
 import sys
 import os
+import re
 from pathlib import Path
 
-# Required fields for page JSON
-REQUIRED_PAGE_FIELDS = [
-    "page",
-    "chapter",
-    "segments",
-    "translator_notes",
-    "total_segments"
+# Canonical top-level keys (strict for consistency)
+REQUIRED_TOP_LEVEL_KEYS = ["page", "chapter", "segments", "notes"]
+ALLOWED_TOP_LEVEL_KEYS = set(REQUIRED_TOP_LEVEL_KEYS)
+
+# Required fields for each segment (strict for consistency)
+REQUIRED_SEGMENT_KEYS = [
+    "id",
+    "type",
+    "original",
+    "zh_modern",
+    "en",
+    "ru",
+    "ja",
+    "commentary",
 ]
-
-# Required fields for chapter title (optional, only if chapter_title present)
-REQUIRED_TITLE_FIELDS = ["original", "zh_modern", "en", "ru", "ja"]
-
-# Required fields for each segment
-REQUIRED_SEGMENT_FIELDS = ["id", "type", "original", "zh_modern", "en", "ru", "ja"]
+ALLOWED_SEGMENT_KEYS = set(REQUIRED_SEGMENT_KEYS)
 
 # Valid segment types
 VALID_SEGMENT_TYPES = ["prose", "poem", "dialogue"]
 
 # Required fields for commentary objects
-REQUIRED_COMMENTARY_FIELDS = ["type", "source", "original", "zh_modern", "en", "ru", "ja"]
+REQUIRED_COMMENTARY_KEYS = ["source", "original", "zh_modern", "en", "ru", "ja"]
 
-# Valid commentary types
-VALID_COMMENTARY_TYPES = ["眉批", "夹批", "侧批", "回前批", "回末批", "回末总批"]
+# Placeholder checks targeting observed failure patterns.
+BRACKET_PLACEHOLDER_RE = re.compile(r"^\s*\[[^\]]+\]\s*$")
+PLACEHOLDER_MARKERS = [
+    "todo",
+    "tbd",
+    "placeholder",
+    "to be translated",
+    "not translated",
+]
+PAGE_FILENAME_RE = re.compile(r"page_(\d{4})\.json$")
 
 
-def validate_chapter(filepath: str) -> tuple[bool, list[str]]:
+def is_non_empty_str(value: object) -> bool:
+    return isinstance(value, str) and bool(value.strip())
+
+
+def looks_like_placeholder(text: str) -> bool:
+    stripped = text.strip()
+    lowered = stripped.lower()
+
+    # e.g. "[Dialogue between ...]"
+    if BRACKET_PLACEHOLDER_RE.match(stripped):
+        inner = stripped[1:-1]
+        if any(ch.isalpha() for ch in inner):
+            return True
+
+    return any(marker in lowered for marker in PLACEHOLDER_MARKERS)
+
+
+def validate_commentary_array(commentary: object, prefix: str, errors: list[str]) -> None:
+    if not isinstance(commentary, list):
+        errors.append(f"{prefix}: must be an array")
+        return
+
+    for c_idx, item in enumerate(commentary, start=1):
+        c_prefix = f"{prefix}[{c_idx}]"
+
+        if not isinstance(item, dict):
+            errors.append(f"{c_prefix}: must be an object")
+            continue
+
+        for key in REQUIRED_COMMENTARY_KEYS:
+            if key not in item:
+                errors.append(f"{c_prefix}: missing key '{key}'")
+                continue
+            if not is_non_empty_str(item[key]):
+                errors.append(f"{c_prefix}.{key}: must be a non-empty string")
+                continue
+            if looks_like_placeholder(item[key]):
+                errors.append(f"{c_prefix}.{key}: placeholder-like content is not allowed")
+
+
+def validate_file(filepath: str) -> tuple[bool, list[str]]:
     """
-    Validate a single chapter JSON file.
-    
+    Validate a single page JSON file.
+
     Returns:
-        (is_valid, list_of_errors)
+        (is_valid, errors)
     """
-    errors = []
-    
-    # Check file exists
+    errors: list[str] = []
+
     if not os.path.exists(filepath):
         return False, [f"File not found: {filepath}"]
-    
-    # Try to load JSON
+
     try:
-        with open(filepath, 'r', encoding='utf-8') as f:
+        with open(filepath, "r", encoding="utf-8") as f:
             data = json.load(f)
     except json.JSONDecodeError as e:
         return False, [f"Invalid JSON: {e}"]
     except UnicodeDecodeError as e:
         return False, [f"Encoding error (must be UTF-8): {e}"]
-    
-    # Check required page fields
-    for field in REQUIRED_PAGE_FIELDS:
-        if field not in data:
-            errors.append(f"Missing required field: {field}")
-    
-    # Check page is an integer
-    if "page" in data and not isinstance(data["page"], int):
-        errors.append("'page' must be an integer")
-    
-    # Check chapter is a string
-    if "chapter" in data and not isinstance(data["chapter"], str):
-        errors.append("'chapter' must be a string (e.g., '第一回', '凡例', '附录')")
-    
-    if errors:
-        return False, errors
-    
-    # Check chapter title (optional - only required if present)
-    if "chapter_title" in data and data["chapter_title"]:
-        if isinstance(data.get("chapter_title"), dict):
-            for field in REQUIRED_TITLE_FIELDS:
-                if field not in data["chapter_title"]:
-                    errors.append(f"Missing title field: chapter_title.{field}")
-                elif not data["chapter_title"][field]:
-                    errors.append(f"Empty title field: chapter_title.{field}")
-        else:
-            errors.append("chapter_title must be an object if provided")
-    
-    # Check segments
-    segments = data.get("segments", [])
-    if not isinstance(segments, list):
-        errors.append("segments must be an array")
-    elif len(segments) == 0:
-        errors.append("segments array is empty")
+
+    if not isinstance(data, dict):
+        return False, ["Top-level JSON must be an object"]
+
+    # Top-level keys: required + no extras.
+    for key in REQUIRED_TOP_LEVEL_KEYS:
+        if key not in data:
+            errors.append(f"Missing required key: '{key}'")
+
+    extra_top_keys = sorted(set(data.keys()) - ALLOWED_TOP_LEVEL_KEYS)
+    if extra_top_keys:
+        errors.append(
+            "Unexpected top-level keys: "
+            + ", ".join(extra_top_keys)
+            + " (allowed: page, chapter, segments, notes)"
+        )
+
+    # page
+    page = data.get("page")
+    if not isinstance(page, int) or page <= 0:
+        errors.append("'page' must be a positive integer")
+
+    # Check filename/page consistency when possible.
+    basename = os.path.basename(filepath)
+    match = PAGE_FILENAME_RE.match(basename)
+    if match and isinstance(page, int):
+        expected_page = int(match.group(1))
+        if page != expected_page:
+            errors.append(
+                f"Filename-page mismatch: file is page_{expected_page:04d}.json but 'page' is {page}"
+            )
+
+    # chapter
+    if not is_non_empty_str(data.get("chapter")):
+        errors.append("'chapter' must be a non-empty string")
+
+    # notes
+    notes = data.get("notes")
+    if not isinstance(notes, list):
+        errors.append("'notes' must be an array")
     else:
-        expected_id = 1
-        for i, segment in enumerate(segments):
-            segment_prefix = f"segment[{i}]"
-            
-            # Check required fields
-            for field in REQUIRED_SEGMENT_FIELDS:
-                if field not in segment:
-                    errors.append(f"{segment_prefix}: Missing field '{field}'")
-                elif segment[field] is None or segment[field] == "":
-                    errors.append(f"{segment_prefix}: Empty field '{field}'")
-            
-            # Check segment ID sequence
-            if segment.get("id") != expected_id:
-                errors.append(f"{segment_prefix}: Expected id {expected_id}, got {segment.get('id')}")
-            expected_id += 1
-            
-            # Check segment type
-            if segment.get("type") not in VALID_SEGMENT_TYPES:
-                errors.append(f"{segment_prefix}: Invalid type '{segment.get('type')}'. Must be one of {VALID_SEGMENT_TYPES}")
-            
-            # Check translations are non-empty strings
-            for lang in ["original", "zh_modern", "en", "ru", "ja"]:
-                if lang in segment:
-                    val = segment[lang]
-                    if not isinstance(val, str):
-                        errors.append(f"{segment_prefix}.{lang}: Must be a string")
-                    elif len(val.strip()) == 0:
-                        errors.append(f"{segment_prefix}.{lang}: Cannot be empty/whitespace")
-            
-            # If poem, check for poem_notes (warning, not error)
-            if segment.get("type") == "poem" and "poem_notes" not in segment:
-                # This is just a warning, not an error
-                pass
-            
-            # Validate commentary array if present
-            if "commentary" in segment and segment["commentary"]:
-                for c_idx, commentary in enumerate(segment["commentary"]):
-                    c_prefix = f"{segment_prefix}.commentary[{c_idx}]"
-                    
-                    # Check required commentary fields
-                    for field in REQUIRED_COMMENTARY_FIELDS:
-                        if field not in commentary:
-                            errors.append(f"{c_prefix}: Missing field '{field}'")
-                        elif commentary[field] is None or commentary[field] == "":
-                            errors.append(f"{c_prefix}: Empty field '{field}'")
-                    
-                    # Check commentary type is valid
-                    if commentary.get("type") not in VALID_COMMENTARY_TYPES:
-                        errors.append(f"{c_prefix}: Invalid commentary type '{commentary.get('type')}'. Must be one of {VALID_COMMENTARY_TYPES}")
-    
-    # Check total_segments matches actual count
-    if data.get("total_segments") != len(segments):
-        errors.append(f"total_segments ({data.get('total_segments')}) does not match actual segment count ({len(segments)})")
-    
-    # Check translator_notes is a list
-    if not isinstance(data.get("translator_notes"), list):
-        errors.append("translator_notes must be an array")
-    
-    # Check page_content_type if present
-    valid_content_types = ["front_matter", "fanli", "chapter_start", "chapter_body", "chapter_end", "appendix"]
-    if "page_content_type" in data:
-        if data["page_content_type"] not in valid_content_types:
-            errors.append(f"page_content_type must be one of {valid_content_types}")
-    
-    # Check chapter_end_commentary if present
-    if "chapter_end_commentary" in data and data["chapter_end_commentary"]:
-        for c_idx, commentary in enumerate(data["chapter_end_commentary"]):
-            c_prefix = f"chapter_end_commentary[{c_idx}]"
-            for field in REQUIRED_COMMENTARY_FIELDS:
-                if field not in commentary:
-                    errors.append(f"{c_prefix}: Missing field '{field}'")
-    
+        if len(notes) < 3:
+            errors.append("'notes' must contain at least 3 items")
+        for idx, note in enumerate(notes, start=1):
+            prefix = f"notes[{idx}]"
+            if not is_non_empty_str(note):
+                errors.append(f"{prefix}: must be a non-empty string")
+                continue
+            if len(note.strip()) < 8:
+                errors.append(f"{prefix}: is too short to be a meaningful research note")
+            if looks_like_placeholder(note):
+                errors.append(f"{prefix}: placeholder-like content is not allowed")
+
+    # segments
+    segments = data.get("segments")
+    if not isinstance(segments, list):
+        errors.append("'segments' must be an array")
+        return len(errors) == 0, errors
+
+    if not segments:
+        errors.append("'segments' must not be empty")
+        return len(errors) == 0, errors
+
+    expected_id = 1
+    for idx, segment in enumerate(segments, start=1):
+        s_prefix = f"segments[{idx}]"
+
+        if not isinstance(segment, dict):
+            errors.append(f"{s_prefix}: must be an object")
+            continue
+
+        for key in REQUIRED_SEGMENT_KEYS:
+            if key not in segment:
+                errors.append(f"{s_prefix}: missing key '{key}'")
+
+        extra_segment_keys = sorted(set(segment.keys()) - ALLOWED_SEGMENT_KEYS)
+        if extra_segment_keys:
+            errors.append(
+                f"{s_prefix}: unexpected keys: {', '.join(extra_segment_keys)} "
+                "(allowed: id, type, original, zh_modern, en, ru, ja, commentary)"
+            )
+
+        if segment.get("id") != expected_id:
+            errors.append(
+                f"{s_prefix}.id: expected {expected_id}, got {segment.get('id')}"
+            )
+        expected_id += 1
+
+        seg_type = segment.get("type")
+        if seg_type not in VALID_SEGMENT_TYPES:
+            errors.append(
+                f"{s_prefix}.type: invalid '{seg_type}' (must be one of {VALID_SEGMENT_TYPES})"
+            )
+
+        for key in ["original", "zh_modern", "en", "ru", "ja"]:
+            value = segment.get(key)
+            if not is_non_empty_str(value):
+                errors.append(f"{s_prefix}.{key}: must be a non-empty string")
+                continue
+            if looks_like_placeholder(value):
+                errors.append(f"{s_prefix}.{key}: placeholder-like content is not allowed")
+
+        validate_commentary_array(segment.get("commentary"), f"{s_prefix}.commentary", errors)
+
     return len(errors) == 0, errors
 
 
 def validate_directory(dirpath: str) -> dict:
     """
-    Validate all JSON files in a directory.
-    
-    Returns:
-        {filename: (is_valid, errors)}
+    Validate all page JSON files in a directory.
+
+    Returns: {filename: (is_valid, errors)}
     """
     results = {}
-    
+
     path = Path(dirpath)
-    # Look for both page_*.json and any .json files
+    # Canonical names first
     json_files = sorted(path.glob("page_*.json"))
     if not json_files:
         json_files = sorted(path.glob("*.json"))
-    
+
     if not json_files:
         print(f"No JSON files found in {dirpath}")
         return results
-    
+
     for filepath in json_files:
-        is_valid, errors = validate_chapter(str(filepath))
+        is_valid, errors = validate_file(str(filepath))
         results[filepath.name] = (is_valid, errors)
-    
+
     return results
 
 
@@ -198,19 +243,19 @@ def main():
     if len(sys.argv) < 2:
         print("Usage: python3 validate_json.py <file_or_directory>")
         print("\nExamples:")
-        print("  python3 validate_json.py translations/chapter_001.json")
+        print("  python3 validate_json.py translations/page_0020.json")
         print("  python3 validate_json.py translations/")
         sys.exit(1)
-    
+
     target = sys.argv[1]
-    
+
     if os.path.isfile(target):
         # Single file
-        is_valid, errors = validate_chapter(target)
+        is_valid, errors = validate_file(target)
         filename = os.path.basename(target)
-        
+
         if is_valid:
-            with open(target, 'r', encoding='utf-8') as f:
+            with open(target, "r", encoding="utf-8") as f:
                 data = json.load(f)
             segment_count = len(data.get("segments", []))
             print(f"✓ {filename}: Valid ({segment_count} segments)")
@@ -219,17 +264,17 @@ def main():
             for error in errors:
                 print(f"  - {error}")
             sys.exit(1)
-    
+
     elif os.path.isdir(target):
         # Directory
         results = validate_directory(target)
-        
+
         valid_count = 0
         invalid_count = 0
-        
+
         for filename, (is_valid, errors) in results.items():
             if is_valid:
-                with open(os.path.join(target, filename), 'r', encoding='utf-8') as f:
+                with open(os.path.join(target, filename), "r", encoding="utf-8") as f:
                     data = json.load(f)
                 segment_count = len(data.get("segments", []))
                 print(f"✓ {filename}: Valid ({segment_count} segments)")
@@ -239,12 +284,12 @@ def main():
                 for error in errors:
                     print(f"  - {error}")
                 invalid_count += 1
-        
+
         print(f"\nSummary: {valid_count} valid, {invalid_count} invalid")
-        
+
         if invalid_count > 0:
             sys.exit(1)
-    
+
     else:
         print(f"Error: {target} is not a file or directory")
         sys.exit(1)

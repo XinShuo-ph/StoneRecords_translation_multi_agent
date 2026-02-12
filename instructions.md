@@ -1,82 +1,96 @@
-## Goal
+# Translation Instructions (Translation-Only, v2)
 
-Translate pages from 红楼梦脂评汇校本 (Dream of the Red Chamber with Zhiping Commentary) into four languages:
-- **Modern Chinese (简体中文)** - Accessible contemporary Mandarin
-- **English** - Scholarly literary translation
-- **Russian (Русский)** - Literary Russian translation
-- **Japanese (日本語)** - Classical-influenced literary Japanese
+This file defines **translation quality and JSON output only**.
 
-Each PDF page becomes one JSON file. Translate ALL content on each page: main text AND commentary.
+It does **not** define worker coordination, claiming pages, heartbeat, or branch sync behavior.
+Those belong to a separate worker protocol.
 
 ---
 
-## Source Material
+## 1) Goal
 
-**PDF**: `红楼梦脂评汇校本_有书签目录_v3.13.pdf`
+Translate each assigned PDF page of `红楼梦脂评汇校本_有书签目录_v3.13.pdf` into:
 
-**Page Images**: `source_pages/page_XXXX.png`
+- Modern Chinese (`zh_modern`)
+- English (`en`)
+- Russian (`ru`)
+- Japanese (`ja`)
 
-The source contains:
-- **Main text (正文)**: The novel's narrative
-- **Commentary (脂评)**: Annotations from various manuscript sources marked with 【甲戌】【庚辰】【己卯】etc.
+For each page, translate **all visible text**:
 
----
+- Main narrative text (正文)
+- Poetry
+- Commentary (脂评: 眉批 / 夹批 / 侧批 / 回末批 etc.)
 
-## Workflow: For Each Page
-
-### Step 1: View the Page
-
-Read both:
-- The page image (`source_pages/page_XXXX.png`) for visual layout
-- The PDF for text selection and formatting context
-
-Identify all content:
-- Main narrative text
-- Any commentary (眉批, 夹批, 侧批)
-- Any poetry
-
-### Step 2: Research
-
-Before translating, research each segment:
-- Read relevant materials in `research/` directory
-- Search online for scholarly interpretations
-- Look up classical allusions (典故)
-- Understand character name puns and hidden meanings
-- Note historical and cultural context
-
-Document findings in the `notes` field.
-
-### Step 3: Translate
-
-For each text segment on the page:
-1. Copy the original Classical Chinese
-2. Translate to Modern Chinese
-3. Translate to English
-4. Translate to Russian
-5. Translate to Japanese
-
-Translate all commentary as well.
-
-### Step 4: 润色 (Polish)
-
-Review and refine each translation:
-- Ensure literary quality matches the original's elegance
-- Verify cultural nuances are preserved
-- Check that poetry maintains its structure and rhythm
-- Confirm consistency with glossary terms
-- Read translations aloud mentally—do they flow naturally?
-
-### Step 5: Save as JSON
-
-Save to `translations/page_XXXX.json` (4-digit page number).
-
-### Step 6: Next Page
-
-Continue to the next page immediately. Do not pause between pages.
+One PDF page = one JSON file at `translations/page_XXXX.json`.
 
 ---
 
-## JSON Output Format
+## 2) Definition of Done (Non-Negotiable)
+
+A page is complete only if all conditions below are true:
+
+1. Filename and page number match (`page_0020.json` => `"page": 20`).
+2. Every segment has all required translation fields.
+3. Every segment has `commentary` (use `[]` when none).
+4. No placeholders or summaries (forbidden: `[Dialogue ...]`, `TODO`, `TBD`, "continued...", etc.).
+5. JSON is valid and passes `python3 tools/validate_json.py translations/page_XXXX.json`.
+6. `notes` contains concrete research findings (minimum 3 non-empty items).
+
+If any item fails, the page is **not done**.
+
+---
+
+## 3) Workflow Per Page
+
+### Step A: Lock the source page
+
+- Open the exact target page in PDF or page image.
+- Confirm page number before translating.
+- Read top-to-bottom and mark all text blocks (main text + commentary).
+
+### Step B: Build segments before writing
+
+- Split by natural textual units (prose block / poem / dialogue block).
+- Keep source order.
+- Do not merge unrelated blocks.
+- Do not skip "small" marginal comments.
+
+### Step C: Translate each segment fully
+
+For each segment:
+
+1. Copy original Classical Chinese into `original`.
+2. Translate to `zh_modern`, `en`, `ru`, `ja`.
+3. Add segment-level `commentary` array:
+   - `[]` if no commentary belongs to this segment.
+   - Otherwise add commentary objects with full 5-language coverage.
+
+### Step D: Research and polish
+
+Before finalizing:
+
+- Check terms against `research/glossary.md`.
+- Resolve key allusions/puns and capture them in `notes`.
+- Polish for literary tone and clarity.
+- Ensure names and terms stay consistent inside the page.
+
+### Step E: Validate and save
+
+- Save to `translations/page_XXXX.json`.
+- Run validator:
+
+```bash
+python3 tools/validate_json.py translations/page_XXXX.json
+```
+
+- Fix all errors before moving on.
+
+---
+
+## 4) Canonical JSON Schema (Required)
+
+Use this exact top-level structure:
 
 ```json
 {
@@ -87,147 +101,105 @@ Continue to the next page immediately. Do not pause between pages.
       "id": 1,
       "type": "prose",
       "original": "原文...",
-      "zh_modern": "现代文...",
+      "zh_modern": "现代汉语...",
       "en": "English...",
       "ru": "Русский...",
       "ja": "日本語...",
       "commentary": [
         {
-          "source": "脂批",
+          "source": "甲戌本",
           "original": "批语原文",
-          "zh_modern": "...",
-          "en": "...",
-          "ru": "...",
-          "ja": "..."
+          "zh_modern": "现代汉语批语",
+          "en": "English commentary",
+          "ru": "Комментарий",
+          "ja": "日本語注釈"
         }
       ]
     }
   ],
-  "notes": ["Research findings: puns, allusions, cultural context"]
+  "notes": [
+    "Research finding 1...",
+    "Research finding 2...",
+    "Research finding 3..."
+  ]
 }
 ```
 
-See `examples/page_0020.json` for a complete example with 7 segments and 12 commentary annotations.
+### Required keys
 
-### Required Fields
+- Top level: `page`, `chapter`, `segments`, `notes`
+- Segment: `id`, `type`, `original`, `zh_modern`, `en`, `ru`, `ja`, `commentary`
+- Commentary object: `source`, `original`, `zh_modern`, `en`, `ru`, `ja`
 
-| Field | Description |
-|-------|-------------|
-| `page` | PDF page number |
-| `chapter` | "前言", "第一回", "第二回", etc. |
-| `segments[].id` | Sequential ID (1, 2, 3...) |
-| `segments[].type` | "prose", "poem", "dialogue" |
-| `segments[].original` | Original Classical Chinese |
-| `segments[].zh_modern` | Modern Chinese translation |
-| `segments[].en` | English translation |
-| `segments[].ru` | Russian translation |
-| `segments[].ja` | Japanese translation |
-| `segments[].commentary` | Array of commentary (empty `[]` if none) |
-| `notes` | Research findings |
+### `type` allowed values
 
----
+- `prose`
+- `poem`
+- `dialogue`
 
-## Translation Quality Guidelines
+### `notes` requirements
 
-### Voice and Style
-
-红楼梦 is one of the greatest works of world literature. Preserve:
-- **Elegant classical beauty** - Don't over-modernize
-- **Psychological depth** - Subtle emotional nuances
-- **Symbolic richness** - Names and objects carry meaning
-- **Poetry structure** - Maintain verse forms
-
-### By Language
-
-**Modern Chinese (简体中文)**:
-- 使用规范现代汉语，保留古典韵味
-- 保留原有的典故和意涵
-
-**English**:
-- Scholarly literary register
-- Pinyin for names (Jia Baoyu, Lin Daiyu)
-- Cultural notes where needed
-
-**Russian (Русский)**:
-- Literary Russian for classical literature
-- Preserve aristocratic register
-
-**Japanese (日本語)**:
-- Classical-influenced literary style
-- Use 音読み for Chinese names
+- Must be an array of strings.
+- Minimum 3 items.
+- Must contain concrete findings (allusion, term choice, textual ambiguity, source comparison, etc.).
+- No blank or generic filler notes.
 
 ---
 
-## Key Terms Reference
+## 5) Quality Floor
 
-| Classical | Modern Chinese | English | Russian | Japanese |
-|-----------|----------------|---------|---------|----------|
-| 公子 | 公子/少爷 | young master | молодой господин | 公子 |
-| 小姐 | 小姐 | young lady | барышня | お嬢様 |
-| 丫鬟 | 丫鬟/婢女 | maidservant | служанка | 女中 |
-| 老爷 | 老爷/大人 | master/lord | господин | 旦那様 |
-| 太太 | 太太/夫人 | madam/lady | госпожа | 奥様 |
+### Fidelity
 
-See `research/glossary.md` for complete terminology.
+- Do not paraphrase away key meaning.
+- Keep metaphors, irony, and foreshadowing explicit where present.
+- Preserve poem line breaks.
 
----
+### Register
 
-## Character Name Puns
+- `zh_modern`: readable modern Chinese with classical flavor retained.
+- `en`: literary-scholarly tone, consistent pinyin names.
+- `ru`: literary Russian register, no colloquial flattening.
+- `ja`: literary Japanese tone with classical influence.
 
-Many names contain hidden meanings:
+### Completeness
 
-| Name | Hidden Meaning |
-|------|----------------|
-| 甄士隐 (Zhen Shiyin) | 真事隐 - True events hidden |
-| 贾雨村 (Jia Yucun) | 假语存 - False words remain |
-| 贾宝玉 (Jia Baoyu) | 假宝玉 - False precious jade |
+- Never skip commentary.
+- Never submit partial-page stubs.
+- Never replace unknown text with bracket placeholders.
 
-When translating, keep transliterated names and note the pun in `notes`.
+If uncertain:
 
----
-
-## Commentary Types
-
-| Type | Position | Description |
-|------|----------|-------------|
-| 眉批 | Top of page | Extended commentary |
-| 夹批 | Inline | Brief notes within text |
-| 侧批 | Side margin | Side comments |
-| 回末批 | Chapter end | End-of-chapter comments |
+- Keep the best faithful translation you can produce.
+- Record uncertainty in `notes` with a concrete explanation.
+- Continue; do not leave fields empty.
 
 ---
 
-## Continuous Execution
+## 6) Hard Reject Patterns
 
-Work continuously:
-1. Complete page → Save JSON → Next page → Repeat
-2. Continue until you've completed all assigned pages
+Any of the following is an automatic failure:
 
-If stuck on a passage for more than 5 minutes:
-- Add a note: `"Uncertain: [your question]"`
-- Continue to next segment
-
----
-
-## Anti-Patterns to Avoid
-
-- Skipping content (instead, translate EVERYTHING on the page)
-- Empty translations (instead, ensure every field has content)
-- Wrong page number (instead, verify page number before starting)
-- Stopping to ask questions (instead, add a note and continue)
-- Invalid JSON (instead, validate before saving)
-- Skipping research (instead, always research before translating)
+- Wrong page in filename vs `page` value
+- Invalid JSON (quote escaping errors, trailing commas, etc.)
+- Missing required keys
+- Empty translation fields
+- Placeholder text (`[ ... ]`, `TODO`, `TBD`, etc.)
+- Commentary translated in only one language
+- Fewer than 3 meaningful notes
 
 ---
 
-## Quick Checklist Per Page
+## 7) Pre-Save Checklist
 
-Before moving to the next page, verify:
+Before finalizing each page:
 
-- [ ] Page number is correct
-- [ ] ALL visible text is translated (main + commentary)
-- [ ] All 4 target languages are present for each segment
-- [ ] All segments have `commentary` field (empty `[]` if none)
-- [ ] Sequential IDs (1, 2, 3...)
-- [ ] JSON is valid
-- [ ] Notes include research findings
+- [ ] Correct page number and filename
+- [ ] All visible main text is segmented and translated
+- [ ] All visible commentary is included and translated
+- [ ] Every segment has full `zh_modern/en/ru/ja`
+- [ ] Every segment has `commentary` (`[]` if none)
+- [ ] IDs are 1..N with no gaps
+- [ ] `notes` has at least 3 concrete research items
+- [ ] `python3 tools/validate_json.py translations/page_XXXX.json` passes
+
+If any box is unchecked, revise before proceeding.
