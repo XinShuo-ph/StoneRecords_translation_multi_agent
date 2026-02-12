@@ -1,3 +1,7 @@
+> **DEPRECATED**: This file has been superseded by `translation_instructions.md`.
+> Please refer to `translation_instructions.md` for the current translation task specification.
+> This file is kept for historical reference only.
+
 ## Goal
 
 Translate pages from 红楼梦脂评汇校本 (Dream of the Red Chamber with Zhiping Commentary) into four languages:

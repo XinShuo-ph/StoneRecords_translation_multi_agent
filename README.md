@@ -19,9 +19,11 @@ This project translates 脂评汇校本 version of 红楼梦 from Classical Chin
 
 ## Quick Start
 
-1. Read `instructions.md` for the translation task
+1. Read `translation_instructions.md` for the translation task (format, workflow, quality standards)
 2. View source pages in `source_pages/` or open the PDF directly
-3. Save translations to `translations/page_XXXX.json`
+3. Check `research/glossary.md` for standardized name/term translations
+4. Save translations to `translations/page_XXXX.json`
+5. Validate with `python3 tools/validate_json.py translations/page_XXXX.json`
 
 ---
 
@@ -29,7 +31,8 @@ This project translates 脂评汇校本 version of 红楼梦 from Classical Chin
 
 ```
 workspace/
-├── instructions.md              # Translation instructions
+├── translation_instructions.md   # Translation task instructions (format, workflow, quality)
+├── instructions.md              # Legacy instructions (see translation_instructions.md)
 ├── 红楼梦脂评汇校本_有书签目录_v3.13.pdf  # Source PDF
 │
 ├── source_pages/                # Extracted PDF pages as images
