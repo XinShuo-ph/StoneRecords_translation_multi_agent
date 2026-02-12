@@ -66,8 +66,13 @@ Each page becomes a JSON file:
 
 ```json
 {
+  "schema_version": "page.v2",
   "page": 20,
   "chapter": "第一回",
+  "source": {
+    "pdf": "红楼梦脂评汇校本_有书签目录_v3.13.pdf",
+    "page_image": "source_pages/page_0020.png"
+  },
   "segments": [
     {
       "id": 1,
@@ -80,7 +85,7 @@ Each page becomes a JSON file:
       "commentary": [...]
     }
   ],
-  "notes": ["Translator observations"]
+  "translator_notes": ["Research notes, allusions, consistency decisions"]
 }
 ```
 
