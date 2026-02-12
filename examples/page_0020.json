@@ -23,8 +23,8 @@
           "source": "脂批",
           "original": "醒得无痕，不落旧套。",
           "zh_modern": "醒来得毫无痕迹，不落入俗套。",
-          "en": "He awakens without a trace [of the dream], avoiding the old clichés.",
-          "ru": "Просыпается без следа [сна], избегая старых штампов.",
+          "en": "He awakens without a trace of the dream, avoiding the old clichés.",
+          "ru": "Просыпается без следа сна, избегая старых штампов.",
           "ja": "覚めて痕なし、旧套に落ちず。"
         },
         {
@@ -58,10 +58,10 @@
       "commentary": [
         {
           "source": "脂批",
-          "original": "所谓"万境都如梦境看"也。",
-          "zh_modern": "所谓"万境都如梦境看"。",
+          "original": "所谓\u201c万境都如梦境看\u201d也。",
+          "zh_modern": "所谓\u201c万境都如梦境看\u201d。",
           "en": "This is what is meant by 'viewing all realms as if they were dream realms.'",
-          "ru": "Это то, что называется «видеть все миры как сновидения».",
+          "ru": "Это то, что называется \u00abвидеть все миры как сновидения\u00bb.",
           "ja": "いわゆる「万境すべて夢境の如く看る」なり。"
         },
         {
@@ -77,7 +77,7 @@
           "original": "奇怪！所谓情僧也。",
           "zh_modern": "奇怪！所谓情僧。",
           "en": "Strange! This is the so-called 'Monk of Passion.'",
-          "ru": "Странно! Это так называемый «Монах Страсти».",
+          "ru": "Странно! Это так называемый \u00abМонах Страсти\u00bb.",
           "ja": "奇怪なり！いわゆる情僧なり。"
         }
       ]
@@ -85,18 +85,18 @@
     {
       "id": 4,
       "type": "dialogue",
-      "original": ""施主，你把这有命无运，累及爹娘之物，抱在怀内作甚？"",
-      "zh_modern": ""施主，你把这个有命无运、会连累爹娘的东西，抱在怀里干什么？"",
+      "original": "\u201c施主，你把这有命无运，累及爹娘之物，抱在怀内作甚？\u201d",
+      "zh_modern": "\u201c施主，你把这个有命无运、会连累爹娘的东西，抱在怀里干什么？\u201d",
       "en": "\"Benefactor, why do you hold in your arms this creature who has fate but no fortune, who will bring calamity upon her parents?\"",
-      "ru": "«Благодетель, зачем вы держите на руках это существо, у которого есть судьба, но нет удачи, которое навлечёт беду на своих родителей?»",
+      "ru": "\u00abБлагодетель, зачем вы держите на руках это существо, у которого есть судьба, но нет удачи, которое навлечёт беду на своих родителей?\u00bb",
       "ja": "「施主よ、この命はあれど運なく、父母に災いを及ぼす者を、何故に懐に抱いておられるのか？」",
       "commentary": [
         {
           "source": "脂批",
           "original": "八个字屈死多少英雄？屈死多少忠臣孝子？屈死多少仁人志士？屈死多少词客骚人？",
           "zh_modern": "这八个字屈死了多少英雄？屈死了多少忠臣孝子？屈死了多少仁人志士？屈死了多少词客骚人？",
-          "en": "These eight characters—how many heroes have they wrongfully doomed? How many loyal ministers and filial sons? How many benevolent and righteous men? How many poets and literati?",
-          "ru": "Эти восемь иероглифов — скольких героев они несправедливо погубили? Скольких верных министров и почтительных сыновей? Скольких добродетельных и праведных мужей? Скольких поэтов и литераторов?",
+          "en": "These eight characters\u2014how many heroes have they wrongfully doomed? How many loyal ministers and filial sons? How many benevolent and righteous men? How many poets and literati?",
+          "ru": "Эти восемь иероглифов \u2014 скольких героев они несправедливо погубили? Скольких верных министров и почтительных сыновей? Скольких добродетельных и праведных мужей? Скольких поэтов и литераторов?",
           "ja": "この八字、幾多の英雄を屈死せしめたか？幾多の忠臣孝子を屈死せしめたか？幾多の仁人志士を屈死せしめたか？幾多の詞客騒人を屈死せしめたか？"
         }
       ]
@@ -104,11 +104,11 @@
     {
       "id": 5,
       "type": "prose",
-      "original": "士隐听了，知是疯话，也不去睬他。那僧还说："舍我罢，舍我罢！"士隐不耐烦，便抱着女儿撤身进去，那僧乃指着他大笑，口内念了四句言词，道是：",
-      "zh_modern": "士隐听了，知道是疯话，也就不去理他。那和尚还在说："舍给我吧，舍给我吧！"士隐不耐烦了，便抱着女儿转身进去。那和尚于是指着他大笑，口中念了四句诗词，说的是：",
+      "original": "士隐听了，知是疯话，也不去睬他。那僧还说：\u201c舍我罢，舍我罢！\u201d士隐不耐烦，便抱着女儿撤身进去，那僧乃指着他大笑，口内念了四句言词，道是：",
+      "zh_modern": "士隐听了，知道是疯话，也就不去理他。那和尚还在说：\u201c舍给我吧，舍给我吧！\u201d士隐不耐烦了，便抱着女儿转身进去。那和尚于是指着他大笑，口中念了四句诗词，说的是：",
       "en": "Shiyin heard this and, knowing it was the raving of a madman, paid him no attention. The monk continued: \"Give her to me! Give her to me!\" Shiyin grew impatient and, holding his daughter, turned and went inside. The monk then pointed at him and laughed loudly, chanting four lines of verse:",
-      "ru": "Шиинь, услышав это и поняв, что это бред сумасшедшего, не обратил на него внимания. Монах продолжал: «Отдайте её мне! Отдайте её мне!» Шиинь потерял терпение и, держа дочь, повернулся и вошёл в дом. Тогда монах указал на него и громко рассмеялся, произнося четыре строки стихов:",
-      "ja": "士隠はこれを聞き、狂人の戯言と知り、相手にしなかった。その僧はなおも「我に舎（ゆず）れ、我に舎れ！」と言った。士隠は煩わしくなり、娘を抱いて身を翻して中に入った。すると僧は彼を指さして大笑いし、口の中で四句の言葉を念じた。曰く：",
+      "ru": "Шиинь, услышав это и поняв, что это бред сумасшедшего, не обратил на него внимания. Монах продолжал: \u00abОтдайте её мне! Отдайте её мне!\u00bb Шиинь потерял терпение и, держа дочь, повернулся и вошёл в дом. Тогда монах указал на него и громко рассмеялся, произнося четыре строки стихов:",
+      "ja": "士隠はこれを聞き、狂人の戯言と知り、相手にしなかった。その僧はなおも\u300c我に舎（ゆず）れ、我に舎れ！\u300dと言った。士隠は煩わしくなり、娘を抱いて身を翻して中に入った。すると僧は彼を指さして大笑いし、口の中で四句の言葉を念じた。曰く：",
       "commentary": [
         {
           "source": "脂批",
@@ -125,8 +125,8 @@
       "type": "poem",
       "original": "惯养娇生笑你痴，\n菱花空对雪澌澌。\n好防佳节元宵后，\n便是烟消火灭时。",
       "zh_modern": "惯常娇生惯养，笑你太痴愚，\n镜中容颜空对着纷纷飘落的雪花。\n要提防佳节元宵节之后，\n那便是烟消火灭之时。",
-      "en": "You dote and pamper her—how foolish you are!\nThe water-chestnut flower faces the drifting snow in vain.\nBeware the time after the Lantern Festival—\nThat will be when smoke disperses and fire dies.",
-      "ru": "Ты балуешь её — как ты глуп!\nЦветок водяного ореха тщетно глядит на падающий снег.\nОстерегайся времени после Праздника фонарей —\nТогда рассеется дым и погаснет огонь.",
+      "en": "You dote and pamper her\u2014how foolish you are!\nThe water-chestnut flower faces the drifting snow in vain.\nBeware the time after the Lantern Festival\u2014\nThat will be when smoke disperses and fire dies.",
+      "ru": "Ты балуешь её \u2014 как ты глуп!\nЦветок водяного ореха тщетно глядит на падающий снег.\nОстерегайся времени после Праздника фонарей \u2014\nТогда рассеется дым и погаснет огонь.",
       "ja": "惯れ養い娇に生ず、汝の痴を笑う、\n菱花空しく雪澌澌に対す。\n好く防げよ佳節元宵の後、\n便ち是れ煙消え火滅する時。",
       "commentary": [
         {
@@ -149,8 +149,8 @@
           "source": "脂批",
           "original": "前后一样，不直云前而云后，是诗词者。",
           "zh_modern": "前后是一样的，不直说前而说后，这是诗词的手法。",
-          "en": "Before and after are the same; not saying 'before' but 'after'—this is the technique of poetry.",
-          "ru": "До и после одинаковы; не говорить «до», а говорить «после» — это приём поэзии.",
+          "en": "Before and after are the same; not saying 'before' but 'after'\u2014this is the technique of poetry.",
+          "ru": "До и после одинаковы; не говорить \u00abдо\u00bb, а говорить \u00abпосле\u00bb \u2014 это приём поэзии.",
           "ja": "前後一様なり、直に前と云わず後と云うは、是れ詩詞の者なり。"
         },
         {
@@ -166,19 +166,19 @@
     {
       "id": 7,
       "type": "prose",
-      "original": "士隐听得明白，心下犹豫，意欲问他们来历。只听道人说道："你我不必同行，就此分手，各干营生去罢。三劫后，",
-      "zh_modern": "士隐听得明白，心下犹豫不决，想要问他们的来历。只听那道人说道："你我不必同行，就此分手，各自去做自己的事吧。三劫之后，",
+      "original": "士隐听得明白，心下犹豫，意欲问他们来历。只听道人说道：\u201c你我不必同行，就此分手，各干营生去罢。三劫后，",
+      "zh_modern": "士隐听得明白，心下犹豫不决，想要问他们的来历。只听那道人说道：\u201c你我不必同行，就此分手，各自去做自己的事吧。三劫之后，",
       "en": "Shiyin heard this clearly and hesitated, wanting to ask about their origins. He only heard the Taoist say: \"You and I need not travel together; let us part here and each go about our own affairs. After three kalpas,",
-      "ru": "Шиинь ясно услышал это и заколебался, желая спросить об их происхождении. Он лишь услышал, как даос сказал: «Нам с тобой не нужно идти вместе; давай расстанемся здесь и каждый займётся своими делами. Через три кальпы,",
-      "ja": "士隠は明白に聞き取り、心中躊躇して、彼らの来歴を問おうとした。ただ道人が言うのが聞こえた。「汝と我、必ずしも同行するに及ばず、此処にて分手し、各々生業に干（あた）らん。三劫の後、",
+      "ru": "Шиинь ясно услышал это и заколебался, желая спросить об их происхождении. Он лишь услышал, как даос сказал: \u00abНам с тобой не нужно идти вместе; давай расстанемся здесь и каждый займётся своими делами. Через три кальпы,",
+      "ja": "士隠は明白に聞き取り、心中躊躇して、彼らの来歴を問おうとした。ただ道人が言うのが聞こえた。\u300c汝と我、必ずしも同行するに及ばず、此処にて分手し、各々生業に干（あた）らん。三劫の後、",
       "commentary": [
         {
           "source": "脂批",
-          "original": "习用佛以世谓"劫"，凡三十年为一世。",
-          "zh_modern": "习惯上用佛教的说法把世称为"劫"，凡三十年为一世。",
+          "original": "习用佛以世谓\u201c劫\u201d，凡三十年为一世。",
+          "zh_modern": "习惯上用佛教的说法把世称为\u201c劫\u201d，凡三十年为一世。",
           "en": "Following Buddhist usage, 'kalpa' refers to a world-age; thirty years make one generation.",
-          "ru": "Следуя буддийскому употреблению, «кальпа» означает мировую эпоху; тридцать лет составляют одно поколение.",
-          "ja": "習いて仏の世を謂う「劫」を用い、凡そ三十年を一世と為す。"
+          "ru": "Следуя буддийскому употреблению, \u00abкальпа\u00bb означает мировую эпоху; тридцать лет составляют одно поколение.",
+          "ja": "習いて仏の世を謂う\u300c劫\u300dを用い、凡そ三十年を一世と為す。"
         }
       ]
     }
@@ -186,11 +186,11 @@
   "notes": [
     "英莲 (Yinglian): Her name is a pun on 应怜 (should be pitied). She is later renamed 香菱 (Xiangling) and eventually 秋菱. Her tragic fate is foreshadowed throughout.",
     "菱花 in the poem: 'Water-chestnut flower' puns on 英莲's later name 香菱. Also refers to a mirror (菱花镜), suggesting vanity/emptiness.",
-    "元宵 (Lantern Festival): Foreshadows when Yinglian will be kidnapped—on the Lantern Festival night.",
-    "烟消火灭: Literally 'smoke disperses, fire dies'—foreshadows the fire that destroys the Zhen family home.",
+    "元宵 (Lantern Festival): Foreshadows when Yinglian will be kidnapped — on the Lantern Festival night.",
+    "烟消火灭: Literally 'smoke disperses, fire dies' — foreshadows the fire that destroys the Zhen family home.",
     "三劫: Three kalpas = 90 years in this Buddhist-influenced counting. The monk and Taoist plan to meet again after this cosmic cycle.",
     "癞头和尚 (Scabby-headed Monk) and 跛足道人 (Lame Taoist): These two figures appear throughout the novel as supernatural guides/warnings. They represent enlightenment that the worldly characters cannot grasp.",
-    "有命无运: 'Has fate but no fortune'—a key concept in the novel. Yinglian was born into a good family but destined for tragedy.",
+    "有命无运: 'Has fate but no fortune' — a key concept in the novel. Yinglian was born into a good family but destined for tragedy.",
     "The page ends mid-sentence, continuing onto page 21."
   ]
 }
