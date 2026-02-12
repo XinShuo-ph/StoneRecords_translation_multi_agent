@@ -2,26 +2,16 @@
 
 **红楼梦脂评汇校本 → Modern Chinese, English, Russian, Japanese**
 
-A translation project for *Dream of the Red Chamber* (红楼梦), one of the Four Great Classical Novels of Chinese Literature.
-
----
-
-## Overview
-
-This project translates 脂评汇校本 version of 红楼梦 from Classical Chinese into:
-
-- **Modern Chinese (简体中文)** - Accessible contemporary Mandarin
-- **English** - Scholarly literary translation
-- **Russian (Русский)** - Literary Russian
-- **Japanese (日本語)** - Classical-influenced literary Japanese
+A scholarly multilingual translation of *Dream of the Red Chamber* (红楼梦), one of the Four Great Classical Novels of Chinese Literature, from the Zhiping Commentary Collation edition.
 
 ---
 
 ## Quick Start
 
-1. Read `instructions.md` for the translation task
+1. Read `instructions.md` — the complete translation task specification
 2. View source pages in `source_pages/` or open the PDF directly
 3. Save translations to `translations/page_XXXX.json`
+4. Validate with `python3 tools/validate_json.py translations/page_XXXX.json`
 
 ---
 
@@ -29,76 +19,76 @@ This project translates 脂评汇校本 version of 红楼梦 from Classical Chin
 
 ```
 workspace/
-├── instructions.md              # Translation instructions
-├── 红楼梦脂评汇校本_有书签目录_v3.13.pdf  # Source PDF
+├── instructions.md                         # Translation task instructions (START HERE)
+├── 红楼梦脂评汇校本_有书签目录_v3.13.pdf   # Source PDF
 │
-├── source_pages/                # Extracted PDF pages as images
+├── source_pages/                           # PDF pages as images
 │   ├── page_0001.png
 │   └── ...
 │
-├── research/                    # Reference materials
-│   ├── glossary.md              # Character names & terminology
-│   ├── chapter_structure.md     # Chapter titles and summaries
-│   ├── character_guide.md       # Main character profiles
-│   ├── poetry_guide.md          # Poetry translation approaches
-│   ├── commentary_guide.md      # Commentary types & sources
-│   └── ...
+├── research/                               # Reference materials
+│   ├── glossary.md                         # Character names & terminology
+│   ├── chapter_structure.md                # Chapter titles and summaries
+│   ├── character_guide.md                  # Character profiles
+│   ├── poetry_guide.md                     # Poetry translation approaches
+│   ├── commentary_guide.md                 # Commentary types & sources
+│   ├── cultural_context.md                 # Qing Dynasty context
+│   └── existing_translations.md            # Reference existing translations
 │
-├── examples/                    # Format examples
-│   └── page_0020.json           # Complete page translation example
+├── examples/                               # Format reference
+│   └── page_0020.json                      # Complete validated example
 │
-├── tools/                       # Utilities
-│   ├── pdf_to_images.py         # Extract PDF pages as images
-│   ├── validate_json.py         # Validate translation JSON
-│   └── compile_chapters.py      # Compile translations to PDF
+├── tools/                                  # Utilities
+│   ├── validate_json.py                    # Validate translation JSON
+│   ├── pdf_to_images.py                    # Extract PDF pages as images
+│   └── compile_chapters.py                 # Compile translations
 │
-├── translations/                # Output directory
-│   └── page_XXXX.json           # Translation files go here
+├── translations/                           # Translation output
+│   └── page_XXXX.json                      # One file per PDF page
 │
-└── output/                      # Generated PDFs
+├── output/                                 # Generated output
+│
+└── experiment_analysis.md                  # Analysis of previous parallel run
 ```
 
 ---
 
 ## Translation Output Format
 
-Each page becomes a JSON file:
+Each page becomes one JSON file. Required fields:
 
 ```json
 {
   "page": 20,
   "chapter": "第一回",
+  "total_segments": 3,
   "segments": [
     {
       "id": 1,
       "type": "prose",
-      "original": "Classical Chinese text...",
-      "zh_modern": "Modern Chinese...",
+      "original": "Classical Chinese...",
+      "zh_modern": "现代中文...",
       "en": "English...",
-      "ru": "Russian...",
-      "ja": "Japanese...",
-      "commentary": [...]
+      "ru": "Русский...",
+      "ja": "日本語...",
+      "commentary": [
+        {
+          "type": "侧批",
+          "source": "甲戌本",
+          "original": "...",
+          "zh_modern": "...",
+          "en": "...",
+          "ru": "...",
+          "ja": "..."
+        }
+      ]
     }
   ],
-  "notes": ["Translator observations"]
+  "notes": ["Research findings, allusions, puns, cultural context"]
 }
 ```
 
-See `examples/page_0020.json` for a complete example.
-
----
-
-## Extracting PDF Pages
-
-To extract pages as images for viewing:
-
-```bash
-# Extract all pages
-python3 tools/pdf_to_images.py 红楼梦脂评汇校本_有书签目录_v3.13.pdf source_pages/
-
-# Extract specific range
-python3 tools/pdf_to_images.py 红楼梦脂评汇校本_有书签目录_v3.13.pdf source_pages/ 20 40
-```
+See `examples/page_0020.json` for a complete validated example with 7 segments and 13 commentary annotations.
 
 ---
 
@@ -106,10 +96,4 @@ python3 tools/pdf_to_images.py 红楼梦脂评汇校本_有书签目录_v3.13.pd
 
 *Dream of the Red Chamber* (红楼梦), also known as *The Story of the Stone* (石头记), was written by Cao Xueqin (曹雪芹) in the 18th century. It tells the story of the decline of a great aristocratic family through the eyes of Jia Baoyu and his relationships with his cousins Lin Daiyu and Xue Baochai.
 
-The 脂评汇校本 version includes the Zhiping (脂砚斋) commentaries from various manuscript sources, providing valuable scholarly annotations.
-
----
-
-**让我们一起把这部伟大的文学作品呈现给世界！**
-
-*Let's bring this masterpiece to the world!*
+The 脂评汇校本 version includes the Zhiping (脂砚斋) commentaries from various manuscript sources, providing valuable scholarly annotations alongside the text.

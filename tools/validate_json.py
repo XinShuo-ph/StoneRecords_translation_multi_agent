@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """
-Validate translation JSON files for completeness and format.
+Validate translation JSON files against the required schema.
 
 Usage:
-    python3 validate_json.py translations/chapter_001.json
+    python3 validate_json.py translations/page_0020.json
     python3 validate_json.py translations/
+    python3 validate_json.py examples/page_0020.json
 """
 
 import json
@@ -12,241 +13,231 @@ import sys
 import os
 from pathlib import Path
 
-# Required fields for page JSON
-REQUIRED_PAGE_FIELDS = [
-    "page",
-    "chapter",
-    "segments",
-    "translator_notes",
-    "total_segments"
-]
+# ── Schema Definition ──
+# These must match instructions.md exactly.
 
-# Required fields for chapter title (optional, only if chapter_title present)
-REQUIRED_TITLE_FIELDS = ["original", "zh_modern", "en", "ru", "ja"]
+REQUIRED_PAGE_FIELDS = ["page", "chapter", "total_segments", "segments", "notes"]
 
-# Required fields for each segment
-REQUIRED_SEGMENT_FIELDS = ["id", "type", "original", "zh_modern", "en", "ru", "ja"]
-
-# Valid segment types
+REQUIRED_SEGMENT_FIELDS = ["id", "type", "original", "zh_modern", "en", "ru", "ja", "commentary"]
 VALID_SEGMENT_TYPES = ["prose", "poem", "dialogue"]
 
-# Required fields for commentary objects
 REQUIRED_COMMENTARY_FIELDS = ["type", "source", "original", "zh_modern", "en", "ru", "ja"]
+VALID_COMMENTARY_TYPES = ["眉批", "夹批", "侧批", "回前批", "回末批"]
 
-# Valid commentary types
-VALID_COMMENTARY_TYPES = ["眉批", "夹批", "侧批", "回前批", "回末批", "回末总批"]
+TRANSLATION_LANGS = ["original", "zh_modern", "en", "ru", "ja"]
 
 
-def validate_chapter(filepath: str) -> tuple[bool, list[str]]:
+def validate_page(filepath: str) -> tuple[bool, list[str], list[str]]:
     """
-    Validate a single chapter JSON file.
-    
+    Validate a single page translation JSON file.
+
     Returns:
-        (is_valid, list_of_errors)
+        (is_valid, errors, warnings)
     """
     errors = []
-    
-    # Check file exists
+    warnings = []
+
     if not os.path.exists(filepath):
-        return False, [f"File not found: {filepath}"]
-    
-    # Try to load JSON
+        return False, [f"File not found: {filepath}"], []
+
+    # Load JSON
     try:
-        with open(filepath, 'r', encoding='utf-8') as f:
+        with open(filepath, "r", encoding="utf-8") as f:
             data = json.load(f)
     except json.JSONDecodeError as e:
-        return False, [f"Invalid JSON: {e}"]
+        return False, [f"Invalid JSON: {e}"], []
     except UnicodeDecodeError as e:
-        return False, [f"Encoding error (must be UTF-8): {e}"]
-    
-    # Check required page fields
+        return False, [f"Encoding error (must be UTF-8): {e}"], []
+
+    # Check required top-level fields
     for field in REQUIRED_PAGE_FIELDS:
         if field not in data:
-            errors.append(f"Missing required field: {field}")
-    
-    # Check page is an integer
-    if "page" in data and not isinstance(data["page"], int):
-        errors.append("'page' must be an integer")
-    
-    # Check chapter is a string
-    if "chapter" in data and not isinstance(data["chapter"], str):
-        errors.append("'chapter' must be a string (e.g., '第一回', '凡例', '附录')")
-    
+            errors.append(f"Missing required field: '{field}'")
+
     if errors:
-        return False, errors
-    
-    # Check chapter title (optional - only required if present)
-    if "chapter_title" in data and data["chapter_title"]:
-        if isinstance(data.get("chapter_title"), dict):
-            for field in REQUIRED_TITLE_FIELDS:
-                if field not in data["chapter_title"]:
-                    errors.append(f"Missing title field: chapter_title.{field}")
-                elif not data["chapter_title"][field]:
-                    errors.append(f"Empty title field: chapter_title.{field}")
-        else:
-            errors.append("chapter_title must be an object if provided")
-    
-    # Check segments
-    segments = data.get("segments", [])
-    if not isinstance(segments, list):
-        errors.append("segments must be an array")
-    elif len(segments) == 0:
-        errors.append("segments array is empty")
+        return False, errors, warnings
+
+    # Check page is integer
+    if not isinstance(data["page"], int):
+        errors.append(f"'page' must be an integer, got {type(data['page']).__name__}")
+
+    # Check chapter is non-empty string
+    if not isinstance(data["chapter"], str) or not data["chapter"].strip():
+        errors.append("'chapter' must be a non-empty string (e.g. '第一回', '凡例')")
+
+    # Check notes is a non-empty list of strings
+    if not isinstance(data["notes"], list):
+        errors.append("'notes' must be an array")
+    elif len(data["notes"]) == 0:
+        errors.append("'notes' must contain at least one research note")
     else:
-        expected_id = 1
-        for i, segment in enumerate(segments):
-            segment_prefix = f"segment[{i}]"
-            
-            # Check required fields
-            for field in REQUIRED_SEGMENT_FIELDS:
-                if field not in segment:
-                    errors.append(f"{segment_prefix}: Missing field '{field}'")
-                elif segment[field] is None or segment[field] == "":
-                    errors.append(f"{segment_prefix}: Empty field '{field}'")
-            
-            # Check segment ID sequence
-            if segment.get("id") != expected_id:
-                errors.append(f"{segment_prefix}: Expected id {expected_id}, got {segment.get('id')}")
-            expected_id += 1
-            
-            # Check segment type
-            if segment.get("type") not in VALID_SEGMENT_TYPES:
-                errors.append(f"{segment_prefix}: Invalid type '{segment.get('type')}'. Must be one of {VALID_SEGMENT_TYPES}")
-            
-            # Check translations are non-empty strings
-            for lang in ["original", "zh_modern", "en", "ru", "ja"]:
-                if lang in segment:
-                    val = segment[lang]
-                    if not isinstance(val, str):
-                        errors.append(f"{segment_prefix}.{lang}: Must be a string")
-                    elif len(val.strip()) == 0:
-                        errors.append(f"{segment_prefix}.{lang}: Cannot be empty/whitespace")
-            
-            # If poem, check for poem_notes (warning, not error)
-            if segment.get("type") == "poem" and "poem_notes" not in segment:
-                # This is just a warning, not an error
-                pass
-            
-            # Validate commentary array if present
-            if "commentary" in segment and segment["commentary"]:
-                for c_idx, commentary in enumerate(segment["commentary"]):
-                    c_prefix = f"{segment_prefix}.commentary[{c_idx}]"
-                    
-                    # Check required commentary fields
-                    for field in REQUIRED_COMMENTARY_FIELDS:
-                        if field not in commentary:
-                            errors.append(f"{c_prefix}: Missing field '{field}'")
-                        elif commentary[field] is None or commentary[field] == "":
-                            errors.append(f"{c_prefix}: Empty field '{field}'")
-                    
-                    # Check commentary type is valid
-                    if commentary.get("type") not in VALID_COMMENTARY_TYPES:
-                        errors.append(f"{c_prefix}: Invalid commentary type '{commentary.get('type')}'. Must be one of {VALID_COMMENTARY_TYPES}")
-    
-    # Check total_segments matches actual count
-    if data.get("total_segments") != len(segments):
-        errors.append(f"total_segments ({data.get('total_segments')}) does not match actual segment count ({len(segments)})")
-    
-    # Check translator_notes is a list
-    if not isinstance(data.get("translator_notes"), list):
-        errors.append("translator_notes must be an array")
-    
-    # Check page_content_type if present
-    valid_content_types = ["front_matter", "fanli", "chapter_start", "chapter_body", "chapter_end", "appendix"]
-    if "page_content_type" in data:
-        if data["page_content_type"] not in valid_content_types:
-            errors.append(f"page_content_type must be one of {valid_content_types}")
-    
-    # Check chapter_end_commentary if present
-    if "chapter_end_commentary" in data and data["chapter_end_commentary"]:
-        for c_idx, commentary in enumerate(data["chapter_end_commentary"]):
-            c_prefix = f"chapter_end_commentary[{c_idx}]"
+        for i, note in enumerate(data["notes"]):
+            if not isinstance(note, str) or not note.strip():
+                errors.append(f"notes[{i}]: must be a non-empty string")
+
+    # Check segments
+    segments = data["segments"]
+    if not isinstance(segments, list):
+        errors.append("'segments' must be an array")
+        return len(errors) == 0, errors, warnings
+
+    if len(segments) == 0:
+        errors.append("'segments' array is empty — page must have at least one segment")
+
+    # Check total_segments matches
+    if isinstance(data["total_segments"], int):
+        if data["total_segments"] != len(segments):
+            errors.append(
+                f"'total_segments' is {data['total_segments']} but 'segments' has {len(segments)} items"
+            )
+    else:
+        errors.append(f"'total_segments' must be an integer, got {type(data['total_segments']).__name__}")
+
+    # Validate each segment
+    expected_id = 1
+    for i, seg in enumerate(segments):
+        prefix = f"segments[{i}]"
+
+        # Check required fields
+        for field in REQUIRED_SEGMENT_FIELDS:
+            if field not in seg:
+                errors.append(f"{prefix}: missing required field '{field}'")
+
+        # Check sequential ID
+        seg_id = seg.get("id")
+        if seg_id != expected_id:
+            errors.append(f"{prefix}: expected id={expected_id}, got id={seg_id}")
+        expected_id += 1
+
+        # Check type
+        seg_type = seg.get("type")
+        if seg_type not in VALID_SEGMENT_TYPES:
+            errors.append(f"{prefix}: invalid type '{seg_type}', must be one of {VALID_SEGMENT_TYPES}")
+
+        # Check translation fields are non-empty strings
+        for lang in TRANSLATION_LANGS:
+            val = seg.get(lang)
+            if val is None:
+                # Already reported as missing field above
+                continue
+            if not isinstance(val, str):
+                errors.append(f"{prefix}.{lang}: must be a string, got {type(val).__name__}")
+            elif not val.strip():
+                errors.append(f"{prefix}.{lang}: must not be empty")
+
+        # Check commentary array
+        commentary = seg.get("commentary")
+        if commentary is None:
+            continue  # Already reported as missing field
+        if not isinstance(commentary, list):
+            errors.append(f"{prefix}.commentary: must be an array (use [] if no commentary)")
+            continue
+
+        for c_idx, comm in enumerate(commentary):
+            c_prefix = f"{prefix}.commentary[{c_idx}]"
+
             for field in REQUIRED_COMMENTARY_FIELDS:
-                if field not in commentary:
-                    errors.append(f"{c_prefix}: Missing field '{field}'")
-    
-    return len(errors) == 0, errors
+                if field not in comm:
+                    errors.append(f"{c_prefix}: missing required field '{field}'")
+                elif comm[field] is None or (isinstance(comm[field], str) and not comm[field].strip()):
+                    errors.append(f"{c_prefix}.{field}: must not be empty")
+
+            comm_type = comm.get("type")
+            if comm_type and comm_type not in VALID_COMMENTARY_TYPES:
+                warnings.append(
+                    f"{c_prefix}: commentary type '{comm_type}' not in standard list {VALID_COMMENTARY_TYPES}"
+                )
+
+    # Warn about extra top-level fields
+    known_fields = set(REQUIRED_PAGE_FIELDS)
+    extra = set(data.keys()) - known_fields
+    if extra:
+        warnings.append(f"Extra top-level fields (not required): {extra}")
+
+    return len(errors) == 0, errors, warnings
 
 
 def validate_directory(dirpath: str) -> dict:
-    """
-    Validate all JSON files in a directory.
-    
-    Returns:
-        {filename: (is_valid, errors)}
-    """
+    """Validate all page_*.json files in a directory."""
     results = {}
-    
     path = Path(dirpath)
-    # Look for both page_*.json and any .json files
     json_files = sorted(path.glob("page_*.json"))
+
     if not json_files:
-        json_files = sorted(path.glob("*.json"))
-    
-    if not json_files:
-        print(f"No JSON files found in {dirpath}")
+        print(f"No page_*.json files found in {dirpath}")
         return results
-    
+
     for filepath in json_files:
-        is_valid, errors = validate_chapter(str(filepath))
-        results[filepath.name] = (is_valid, errors)
-    
+        is_valid, errors, warnings = validate_page(str(filepath))
+        results[filepath.name] = (is_valid, errors, warnings)
+
     return results
 
 
 def main():
     if len(sys.argv) < 2:
         print("Usage: python3 validate_json.py <file_or_directory>")
-        print("\nExamples:")
-        print("  python3 validate_json.py translations/chapter_001.json")
+        print()
+        print("Examples:")
+        print("  python3 validate_json.py translations/page_0020.json")
         print("  python3 validate_json.py translations/")
+        print("  python3 validate_json.py examples/page_0020.json")
         sys.exit(1)
-    
+
     target = sys.argv[1]
-    
+
     if os.path.isfile(target):
-        # Single file
-        is_valid, errors = validate_chapter(target)
+        is_valid, errors, warnings = validate_page(target)
         filename = os.path.basename(target)
-        
+
         if is_valid:
-            with open(target, 'r', encoding='utf-8') as f:
+            with open(target, "r", encoding="utf-8") as f:
                 data = json.load(f)
-            segment_count = len(data.get("segments", []))
-            print(f"✓ {filename}: Valid ({segment_count} segments)")
+            seg_count = len(data.get("segments", []))
+            note_count = len(data.get("notes", []))
+            comm_count = sum(
+                len(s.get("commentary", [])) for s in data.get("segments", [])
+            )
+            print(f"PASS  {filename}: {seg_count} segments, {comm_count} commentaries, {note_count} notes")
         else:
-            print(f"✗ {filename}: INVALID")
-            for error in errors:
-                print(f"  - {error}")
+            print(f"FAIL  {filename}")
+            for err in errors:
+                print(f"  ERROR: {err}")
+
+        for warn in warnings:
+            print(f"  WARN:  {warn}")
+
+        if not is_valid:
             sys.exit(1)
-    
+
     elif os.path.isdir(target):
-        # Directory
         results = validate_directory(target)
-        
+
         valid_count = 0
         invalid_count = 0
-        
-        for filename, (is_valid, errors) in results.items():
+
+        for filename, (is_valid, errors, warnings) in results.items():
             if is_valid:
-                with open(os.path.join(target, filename), 'r', encoding='utf-8') as f:
+                with open(os.path.join(target, filename), "r", encoding="utf-8") as f:
                     data = json.load(f)
-                segment_count = len(data.get("segments", []))
-                print(f"✓ {filename}: Valid ({segment_count} segments)")
+                seg_count = len(data.get("segments", []))
+                print(f"PASS  {filename}: {seg_count} segments")
                 valid_count += 1
             else:
-                print(f"✗ {filename}: INVALID")
-                for error in errors:
-                    print(f"  - {error}")
+                print(f"FAIL  {filename}")
+                for err in errors:
+                    print(f"  ERROR: {err}")
                 invalid_count += 1
-        
-        print(f"\nSummary: {valid_count} valid, {invalid_count} invalid")
-        
+
+            for warn in warnings:
+                print(f"  WARN:  {warn}")
+
+        print(f"\nTotal: {valid_count} passed, {invalid_count} failed")
+
         if invalid_count > 0:
             sys.exit(1)
-    
     else:
-        print(f"Error: {target} is not a file or directory")
+        print(f"Error: '{target}' is not a file or directory")
         sys.exit(1)
 
 
