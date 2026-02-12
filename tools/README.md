@@ -204,7 +204,7 @@ sudo apt-get install fonts-noto-cjk
 
 1. **Translate** → Save to `translations/page_XXXX.json`
 2. **Validate** → `python3 tools/validate_json.py translations/page_XXXX.json`
-3. **Compile** → `python3 tools/compile_chapters.py translations/ output/`
+3. **Compile (optional, chapter-level inputs only)** → `python3 tools/compile_chapters.py translations/chapter_001.json output/`
 4. **Review** → Check output PDF for formatting issues
 
 ### Continuous Integration
