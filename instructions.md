@@ -1,233 +1,205 @@
-## Goal
+# Translation Instructions (Translation-Only Contract)
 
-Translate pages from 红楼梦脂评汇校本 (Dream of the Red Chamber with Zhiping Commentary) into four languages:
-- **Modern Chinese (简体中文)** - Accessible contemporary Mandarin
-- **English** - Scholarly literary translation
-- **Russian (Русский)** - Literary Russian translation
-- **Japanese (日本語)** - Classical-influenced literary Japanese
+This document defines only translation requirements and JSON output quality.
 
-Each PDF page becomes one JSON file. Translate ALL content on each page: main text AND commentary.
+It intentionally does **not** define parallel-worker behavior (claiming pages, heartbeats, sync frequency, branch protocol, or session management). Keep those rules in a separate worker-protocol document.
 
 ---
 
-## Source Material
+## 1) Scope: One Input Page -> One Output JSON
 
-**PDF**: `红楼梦脂评汇校本_有书签目录_v3.13.pdf`
+For each assigned page number `XXXX`:
 
-**Page Images**: `source_pages/page_XXXX.png`
+- **Read source** from:
+  - PDF: `红楼梦脂评汇校本_有书签目录_v3.13.pdf`
+  - Image: `source_pages/page_XXXX.png`
+- **Write output** to:
+  - `translations/page_XXXX.json`
 
-The source contains:
-- **Main text (正文)**: The novel's narrative
-- **Commentary (脂评)**: Annotations from various manuscript sources marked with 【甲戌】【庚辰】【己卯】etc.
+Hard constraints:
 
----
-
-## Workflow: For Each Page
-
-### Step 1: View the Page
-
-Read both:
-- The page image (`source_pages/page_XXXX.png`) for visual layout
-- The PDF for text selection and formatting context
-
-Identify all content:
-- Main narrative text
-- Any commentary (眉批, 夹批, 侧批)
-- Any poetry
-
-### Step 2: Research
-
-Before translating, research each segment:
-- Read relevant materials in `research/` directory
-- Search online for scholarly interpretations
-- Look up classical allusions (典故)
-- Understand character name puns and hidden meanings
-- Note historical and cultural context
-
-Document findings in the `notes` field.
-
-### Step 3: Translate
-
-For each text segment on the page:
-1. Copy the original Classical Chinese
-2. Translate to Modern Chinese
-3. Translate to English
-4. Translate to Russian
-5. Translate to Japanese
-
-Translate all commentary as well.
-
-### Step 4: 润色 (Polish)
-
-Review and refine each translation:
-- Ensure literary quality matches the original's elegance
-- Verify cultural nuances are preserved
-- Check that poetry maintains its structure and rhythm
-- Confirm consistency with glossary terms
-- Read translations aloud mentally—do they flow naturally?
-
-### Step 5: Save as JSON
-
-Save to `translations/page_XXXX.json` (4-digit page number).
-
-### Step 6: Next Page
-
-Continue to the next page immediately. Do not pause between pages.
+1. Do not create `*_temp.json`, `*_test.json`, or any other non-standard filename in `translations/`.
+2. Do not save partial work as `page_XXXX.json`.
+3. A page file is valid only when the full page has been translated and validated.
 
 ---
 
-## JSON Output Format
+## 2) Atomic Workflow Per Page
+
+### Step A - Page Identity Gate (prevents wrong-page translations)
+
+Before translating:
+
+1. Open `source_pages/page_XXXX.png`.
+2. Confirm page number equals `XXXX`.
+3. Record two anchors from the original page:
+   - `page_anchor.top`: first clearly visible original phrase near top
+   - `page_anchor.bottom`: last clearly visible original phrase near bottom
+
+Each anchor should be at least 8 characters when possible.
+
+### Step B - Coverage Gate (prevents partial-page output)
+
+Capture **all visible textual content** on the page:
+
+- Main prose
+- Dialogue
+- Poetry
+- Commentary (眉批, 夹批, 侧批, 回末批, etc.)
+
+Rules:
+
+- Every segment must include `commentary` (empty `[]` if none).
+- If a sentence starts on previous page or continues to next page, translate the visible part and mention continuation in `notes`.
+- Never skip difficult lines. If uncertain, provide best translation and log uncertainty in `notes`.
+
+### Step C - Research Notes Gate (prevents shallow translation)
+
+Before finalizing, write at least **2 substantive notes** in `notes`:
+
+- allusions /典故
+- wordplay / names / register choices
+- commentary source interpretation
+- culture-specific context
+
+### Step D - Translation Quality Gate
+
+For every segment and commentary item, provide:
+
+- `zh_modern`
+- `en`
+- `ru`
+- `ja`
+
+Quality requirements:
+
+- Preserve literary tone (no flat machine-like paraphrase)
+- Keep names consistent across pages
+- Keep poem line breaks in all target languages when source is verse
+- Do not use placeholders (`TODO`, `TBD`, `待补`, `未翻译`, etc.)
+
+### Step E - Validation Gate
+
+Run:
+
+```bash
+python3 tools/validate_json.py translations/page_XXXX.json
+```
+
+Only keep the file if validation passes.
+
+---
+
+## 3) Strict JSON Schema
+
+### Required root keys (exact)
+
+- `page` (int)
+- `chapter` (string)
+- `page_image` (string; must be `source_pages/page_XXXX.png`)
+- `page_anchor` (object with `top`, `bottom`)
+- `segments` (array)
+- `notes` (array of strings, at least 2 items)
+
+No extra root keys.
+
+### Required segment keys (exact)
+
+- `id` (1..N, sequential)
+- `type` (`"prose" | "poem" | "dialogue"`)
+- `original`
+- `zh_modern`
+- `en`
+- `ru`
+- `ja`
+- `commentary` (array; empty allowed)
+
+No extra segment keys.
+
+### Required commentary keys (exact)
+
+- `source`
+- `original`
+- `zh_modern`
+- `en`
+- `ru`
+- `ja`
+
+No extra commentary keys.
+
+---
+
+## 4) JSON Example (abbreviated schema demo)
 
 ```json
 {
   "page": 20,
   "chapter": "第一回",
+  "page_image": "source_pages/page_0020.png",
+  "page_anchor": {
+    "top": "士隐意欲也跟了过去，方举步时，忽听一声霹雳",
+    "bottom": "你我不必同行，就此分手，各干营生去罢。三劫后，"
+  },
   "segments": [
     {
       "id": 1,
       "type": "prose",
-      "original": "原文...",
-      "zh_modern": "现代文...",
-      "en": "English...",
-      "ru": "Русский...",
-      "ja": "日本語...",
+      "original": "士隐意欲也跟了过去，方举步时，忽听一声霹雳，有若山崩地陷。",
+      "zh_modern": "士隐也想跟过去，刚抬步，忽然一声霹雳，好像山崩地裂。",
+      "en": "Shiyin meant to follow, but as he stepped forward, a thunderclap broke out as if mountains collapsed and earth split apart.",
+      "ru": "Шиинь хотел последовать за ними, но едва шагнул, как грянул гром, словно рушились горы и трескалась земля.",
+      "ja": "士隠も後を追おうとしたが、踏み出した途端、山崩れ地割れのごとき雷鳴が轟いた。",
       "commentary": [
         {
           "source": "脂批",
-          "original": "批语原文",
-          "zh_modern": "...",
-          "en": "...",
-          "ru": "...",
-          "ja": "..."
+          "original": "真是大警觉大转身。",
+          "zh_modern": "这真是一次大警醒、大转折。",
+          "en": "This is truly a great awakening and a decisive turn.",
+          "ru": "Воистину великое пробуждение и резкий поворот.",
+          "ja": "まことに大いなる警醒、大いなる転身である。"
         }
       ]
+    },
+    {
+      "id": 2,
+      "type": "poem",
+      "original": "好防佳节元宵后，\n便是烟消火灭时。",
+      "zh_modern": "要提防元宵佳节之后，\n那时便是烟消火灭之际。",
+      "en": "Beware the days after the Lantern Festival:\nthat is when smoke will fade and fire go out.",
+      "ru": "Берегись поры после Праздника фонарей:\nтогда рассеется дым и угаснет огонь.",
+      "ja": "佳節たる元宵の後をこそ戒めよ、\nその時こそ煙は消え、火は尽きる。",
+      "commentary": []
     }
   ],
-  "notes": ["Research findings: puns, allusions, cultural context"]
+  "notes": [
+    "“元宵后” foreshadows Yinglian's abduction and the family's subsequent disaster.",
+    "“烟消火灭” works both as literal omen and structural foreshadowing of household collapse.",
+    "This page ends mid-line; continuation should be checked against page 21."
+  ]
 }
 ```
 
-See `examples/page_0020.json` for a complete example with 7 segments and 12 commentary annotations.
+---
 
-### Required Fields
+## 5) Anti-Patterns (Reject Immediately)
 
-| Field | Description |
-|-------|-------------|
-| `page` | PDF page number |
-| `chapter` | "前言", "第一回", "第二回", etc. |
-| `segments[].id` | Sequential ID (1, 2, 3...) |
-| `segments[].type` | "prose", "poem", "dialogue" |
-| `segments[].original` | Original Classical Chinese |
-| `segments[].zh_modern` | Modern Chinese translation |
-| `segments[].en` | English translation |
-| `segments[].ru` | Russian translation |
-| `segments[].ja` | Japanese translation |
-| `segments[].commentary` | Array of commentary (empty `[]` if none) |
-| `notes` | Research findings |
+- Wrong source page translated into `page_XXXX.json`
+- Only partial page translated (top half only, or a few sentences only)
+- Missing required keys
+- Missing `commentary` key on any segment
+- Invalid JSON syntax
+- Placeholder text in any language field
+- Empty `notes` or purely trivial notes
 
 ---
 
-## Translation Quality Guidelines
+## 6) Final Checklist Per Page
 
-### Voice and Style
-
-红楼梦 is one of the greatest works of world literature. Preserve:
-- **Elegant classical beauty** - Don't over-modernize
-- **Psychological depth** - Subtle emotional nuances
-- **Symbolic richness** - Names and objects carry meaning
-- **Poetry structure** - Maintain verse forms
-
-### By Language
-
-**Modern Chinese (简体中文)**:
-- 使用规范现代汉语，保留古典韵味
-- 保留原有的典故和意涵
-
-**English**:
-- Scholarly literary register
-- Pinyin for names (Jia Baoyu, Lin Daiyu)
-- Cultural notes where needed
-
-**Russian (Русский)**:
-- Literary Russian for classical literature
-- Preserve aristocratic register
-
-**Japanese (日本語)**:
-- Classical-influenced literary style
-- Use 音読み for Chinese names
-
----
-
-## Key Terms Reference
-
-| Classical | Modern Chinese | English | Russian | Japanese |
-|-----------|----------------|---------|---------|----------|
-| 公子 | 公子/少爷 | young master | молодой господин | 公子 |
-| 小姐 | 小姐 | young lady | барышня | お嬢様 |
-| 丫鬟 | 丫鬟/婢女 | maidservant | служанка | 女中 |
-| 老爷 | 老爷/大人 | master/lord | господин | 旦那様 |
-| 太太 | 太太/夫人 | madam/lady | госпожа | 奥様 |
-
-See `research/glossary.md` for complete terminology.
-
----
-
-## Character Name Puns
-
-Many names contain hidden meanings:
-
-| Name | Hidden Meaning |
-|------|----------------|
-| 甄士隐 (Zhen Shiyin) | 真事隐 - True events hidden |
-| 贾雨村 (Jia Yucun) | 假语存 - False words remain |
-| 贾宝玉 (Jia Baoyu) | 假宝玉 - False precious jade |
-
-When translating, keep transliterated names and note the pun in `notes`.
-
----
-
-## Commentary Types
-
-| Type | Position | Description |
-|------|----------|-------------|
-| 眉批 | Top of page | Extended commentary |
-| 夹批 | Inline | Brief notes within text |
-| 侧批 | Side margin | Side comments |
-| 回末批 | Chapter end | End-of-chapter comments |
-
----
-
-## Continuous Execution
-
-Work continuously:
-1. Complete page → Save JSON → Next page → Repeat
-2. Continue until you've completed all assigned pages
-
-If stuck on a passage for more than 5 minutes:
-- Add a note: `"Uncertain: [your question]"`
-- Continue to next segment
-
----
-
-## Anti-Patterns to Avoid
-
-- Skipping content (instead, translate EVERYTHING on the page)
-- Empty translations (instead, ensure every field has content)
-- Wrong page number (instead, verify page number before starting)
-- Stopping to ask questions (instead, add a note and continue)
-- Invalid JSON (instead, validate before saving)
-- Skipping research (instead, always research before translating)
-
----
-
-## Quick Checklist Per Page
-
-Before moving to the next page, verify:
-
-- [ ] Page number is correct
-- [ ] ALL visible text is translated (main + commentary)
-- [ ] All 4 target languages are present for each segment
-- [ ] All segments have `commentary` field (empty `[]` if none)
-- [ ] Sequential IDs (1, 2, 3...)
-- [ ] JSON is valid
-- [ ] Notes include research findings
+- [ ] `page` matches filename `page_XXXX.json`
+- [ ] `page_image` matches `source_pages/page_XXXX.png`
+- [ ] `page_anchor.top` and `page_anchor.bottom` are filled
+- [ ] All visible page text translated (main + commentary)
+- [ ] Every segment has all four target languages and `commentary`
+- [ ] IDs are sequential from 1
+- [ ] `notes` has at least 2 substantive items
+- [ ] `python3 tools/validate_json.py translations/page_XXXX.json` passes

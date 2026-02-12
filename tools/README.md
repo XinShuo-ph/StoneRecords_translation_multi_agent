@@ -106,25 +106,28 @@ Validate translation JSON files for completeness and format.
 ### Usage
 ```bash
 # Single file
-python3 tools/validate_json.py translations/chapter_001.json
+python3 tools/validate_json.py translations/page_0020.json
 
 # All files
 python3 tools/validate_json.py translations/
 ```
 
 ### Checks
-- Valid JSON syntax
-- Required fields present
-- No empty/null translations
-- Sequential segment IDs
-- UTF-8 encoding
-- Matching segment counts
+- Valid JSON syntax and UTF-8 encoding
+- Exact root schema (`page`, `chapter`, `page_image`, `page_anchor`, `segments`, `notes`)
+- Filename/page/image consistency (`page_XXXX.json` <-> `page` <-> `source_pages/page_XXXX.png`)
+- Segment IDs sequential (1..N), valid `type`, required language fields present
+- Every segment has `commentary` array
+- Commentary objects contain required keys
+- Notes array exists with substantive entries
+- Placeholder text detection (`TODO`, `TBD`, `待补`, etc.)
 
 ### Output
 ```
-✓ chapter_001.json: Valid (52 segments)
-✗ chapter_002.json: ERROR - Missing 'en' in segment 15
-✓ chapter_003.json: Valid (38 segments)
+✓ page_0020.json: Valid (7 segments)
+✗ page_0021.json: INVALID
+  - root.page_image: Expected 'source_pages/page_0021.png', got 'source_pages/page_0020.png'
+  - segments[3].commentary: Must be an array
 ```
 
 ---
@@ -199,9 +202,9 @@ sudo apt-get install fonts-noto-cjk
 
 ### Recommended Workflow
 
-1. **Translate** → Save to `translations/chapter_XXX.json`
-2. **Validate** → `python3 tools/validate_json.py translations/chapter_XXX.json`
-3. **Compile** → `python3 tools/compile_chapters.py translations/chapter_XXX.json output/`
+1. **Translate** → Save to `translations/page_XXXX.json`
+2. **Validate** → `python3 tools/validate_json.py translations/page_XXXX.json`
+3. **(Optional) Compile chapter bundles** → `python3 tools/compile_chapters.py translations/chapter_001.json output/`
 4. **Review** → Check output PDF for formatting issues
 
 ### Continuous Integration
@@ -209,7 +212,7 @@ sudo apt-get install fonts-noto-cjk
 Workers should validate JSON before committing:
 ```bash
 # In commit hook or manual check
-python3 tools/validate_json.py translations/chapter_*.json
+python3 tools/validate_json.py translations/
 ```
 
 ---

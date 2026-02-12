@@ -68,6 +68,11 @@ Each page becomes a JSON file:
 {
   "page": 20,
   "chapter": "第一回",
+  "page_image": "source_pages/page_0020.png",
+  "page_anchor": {
+    "top": "页首可见原文锚点...",
+    "bottom": "页末可见原文锚点..."
+  },
   "segments": [
     {
       "id": 1,
@@ -77,10 +82,19 @@ Each page becomes a JSON file:
       "en": "English...",
       "ru": "Russian...",
       "ja": "Japanese...",
-      "commentary": [...]
+      "commentary": [
+        {
+          "source": "脂批",
+          "original": "批语原文...",
+          "zh_modern": "现代汉语...",
+          "en": "English...",
+          "ru": "Русский...",
+          "ja": "日本語..."
+        }
+      ]
     }
   ],
-  "notes": ["Translator observations"]
+  "notes": ["Research findings and translation decisions"]
 }
 ```
 
