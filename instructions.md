@@ -8,6 +8,27 @@ Translate pages from 红楼梦脂评汇校本 (Dream of the Red Chamber with Zhi
 
 Each PDF page becomes one JSON file. Translate ALL content on each page: main text AND commentary.
 
+**Collaboration**: You are one of multiple parallel workers. See `PROTOCOL.md` for how page assignment and synchronization work. The sync daemon handles coordination automatically — you focus on translation quality.
+
+---
+
+## Before You Start: Coordination Setup
+
+```bash
+# 1. Start the sync daemon (MANDATORY — prevents duplicate work)
+python3 tools/sync_daemon.py --start &
+sleep 30
+
+# 2. Get your assigned page
+NEXT=$(python3 tools/sync_daemon.py --next-page)
+echo "Your page: $NEXT"
+
+# 3. Verify it's available
+python3 tools/sync_daemon.py --check-page $NEXT
+```
+
+The daemon runs in the background, syncing with other workers every 60 seconds and auto-pushing your work every 3 minutes. See `PROTOCOL.md` for details.
+
 ---
 
 ## Source Material
@@ -44,7 +65,7 @@ Before translating, research each segment:
 - Understand character name puns and hidden meanings
 - Note historical and cultural context
 
-Document findings in the `notes` field.
+**Document all non-trivial findings in the `notes` field.** This is required — notes enrich the translation with pun explanations, allusion context, and cultural references that benefit readers and future translators.
 
 ### Step 3: Translate
 
@@ -55,7 +76,7 @@ For each text segment on the page:
 4. Translate to Russian
 5. Translate to Japanese
 
-Translate all commentary as well.
+Translate all commentary as well, including type and source attribution.
 
 ### Step 4: 润色 (Polish)
 
@@ -72,7 +93,11 @@ Save to `translations/page_XXXX.json` (4-digit page number).
 
 ### Step 6: Next Page
 
-Continue to the next page immediately. Do not pause between pages.
+Get your next page from the daemon and continue immediately:
+```bash
+NEXT=$(python3 tools/sync_daemon.py --next-page)
+```
+Do not pause between pages.
 
 ---
 
@@ -93,7 +118,8 @@ Continue to the next page immediately. Do not pause between pages.
       "ja": "日本語...",
       "commentary": [
         {
-          "source": "脂批",
+          "type": "夹批",
+          "source": "甲戌本",
           "original": "批语原文",
           "zh_modern": "...",
           "en": "...",
@@ -103,18 +129,21 @@ Continue to the next page immediately. Do not pause between pages.
       ]
     }
   ],
-  "notes": ["Research findings: puns, allusions, cultural context"]
+  "notes": [
+    "甄士隐 (Zhen Shiyin): Pun on 真事隐 (True events hidden)",
+    "北邙山: Famous burial ground in Luoyang, symbolizing death"
+  ]
 }
 ```
 
-See `examples/page_0020.json` for a complete example with 7 segments and 12 commentary annotations.
+See `examples/page_0020.json` for a complete example.
 
 ### Required Fields
 
 | Field | Description |
 |-------|-------------|
 | `page` | PDF page number |
-| `chapter` | "前言", "第一回", "第二回", etc. |
+| `chapter` | "前言", "凡例", "第一回", "第二回", etc. |
 | `segments[].id` | Sequential ID (1, 2, 3...) |
 | `segments[].type` | "prose", "poem", "dialogue" |
 | `segments[].original` | Original Classical Chinese |
@@ -122,8 +151,10 @@ See `examples/page_0020.json` for a complete example with 7 segments and 12 comm
 | `segments[].en` | English translation |
 | `segments[].ru` | Russian translation |
 | `segments[].ja` | Japanese translation |
-| `segments[].commentary` | Array of commentary (empty `[]` if none) |
-| `notes` | Research findings |
+| `segments[].commentary` | Array of commentary objects (empty `[]` if none) |
+| `segments[].commentary[].type` | "眉批", "夹批", "侧批", "回末批", "回前批" |
+| `segments[].commentary[].source` | "甲戌本", "庚辰本", "己卯本", "蒙府本", etc. |
+| `notes` | Research findings — puns, allusions, cultural context (**required, not empty**) |
 
 ---
 
@@ -132,10 +163,10 @@ See `examples/page_0020.json` for a complete example with 7 segments and 12 comm
 ### Voice and Style
 
 红楼梦 is one of the greatest works of world literature. Preserve:
-- **Elegant classical beauty** - Don't over-modernize
-- **Psychological depth** - Subtle emotional nuances
-- **Symbolic richness** - Names and objects carry meaning
-- **Poetry structure** - Maintain verse forms
+- **Elegant classical beauty** — Don't over-modernize
+- **Psychological depth** — Subtle emotional nuances
+- **Symbolic richness** — Names and objects carry meaning
+- **Poetry structure** — Maintain verse forms
 
 ### By Language
 
@@ -178,9 +209,9 @@ Many names contain hidden meanings:
 
 | Name | Hidden Meaning |
 |------|----------------|
-| 甄士隐 (Zhen Shiyin) | 真事隐 - True events hidden |
-| 贾雨村 (Jia Yucun) | 假语存 - False words remain |
-| 贾宝玉 (Jia Baoyu) | 假宝玉 - False precious jade |
+| 甄士隐 (Zhen Shiyin) | 真事隐 — True events hidden |
+| 贾雨村 (Jia Yucun) | 假语存 — False words remain |
+| 贾宝玉 (Jia Baoyu) | 假宝玉 — False precious jade |
 
 When translating, keep transliterated names and note the pun in `notes`.
 
@@ -193,6 +224,7 @@ When translating, keep transliterated names and note the pun in `notes`.
 | 眉批 | Top of page | Extended commentary |
 | 夹批 | Inline | Brief notes within text |
 | 侧批 | Side margin | Side comments |
+| 回前批 | Before chapter | Chapter preface commentary |
 | 回末批 | Chapter end | End-of-chapter comments |
 
 ---
@@ -200,8 +232,8 @@ When translating, keep transliterated names and note the pun in `notes`.
 ## Continuous Execution
 
 Work continuously:
-1. Complete page → Save JSON → Next page → Repeat
-2. Continue until you've completed all assigned pages
+1. Get page from daemon → Translate → Save JSON → Get next page → Repeat
+2. Continue until you've completed all assigned pages or reach context limit
 
 If stuck on a passage for more than 5 minutes:
 - Add a note: `"Uncertain: [your question]"`
@@ -211,12 +243,20 @@ If stuck on a passage for more than 5 minutes:
 
 ## Anti-Patterns to Avoid
 
+### Translation
 - Skipping content (instead, translate EVERYTHING on the page)
 - Empty translations (instead, ensure every field has content)
+- Empty notes (instead, always document research findings — puns, allusions, context)
 - Wrong page number (instead, verify page number before starting)
 - Stopping to ask questions (instead, add a note and continue)
 - Invalid JSON (instead, validate before saving)
 - Skipping research (instead, always research before translating)
+- Inconsistent names (instead, follow `research/glossary.md`)
+
+### Coordination
+- Starting without the sync daemon (instead, **always** start daemon first)
+- Picking a page number yourself (instead, use `sync_daemon.py --next-page`)
+- Not verifying availability (instead, run `--check-page N` before starting)
 
 ---
 
@@ -228,6 +268,8 @@ Before moving to the next page, verify:
 - [ ] ALL visible text is translated (main + commentary)
 - [ ] All 4 target languages are present for each segment
 - [ ] All segments have `commentary` field (empty `[]` if none)
+- [ ] Commentary includes `type` and `source` fields
 - [ ] Sequential IDs (1, 2, 3...)
 - [ ] JSON is valid
-- [ ] Notes include research findings
+- [ ] Notes include research findings (not empty)
+- [ ] File saved as `translations/page_XXXX.json`
