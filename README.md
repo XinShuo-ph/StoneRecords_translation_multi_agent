@@ -19,9 +19,11 @@ This project translates 脂评汇校本 version of 红楼梦 from Classical Chin
 
 ## Quick Start
 
-1. Read `instructions.md` for the translation task
+1. Read `instructions.md` for translation requirements
 2. View source pages in `source_pages/` or open the PDF directly
 3. Save translations to `translations/page_XXXX.json`
+4. Validate each output file before commit:
+   `python3 tools/validate_json.py translations/page_XXXX.json`
 
 ---
 
@@ -29,7 +31,8 @@ This project translates 脂评汇校本 version of 红楼梦 from Classical Chin
 
 ```
 workspace/
-├── instructions.md              # Translation instructions
+├── instructions.md              # Translation instructions (translation-only)
+├── parallel_worker_protocol.md  # Worker orchestration (separate doc)
 ├── 红楼梦脂评汇校本_有书签目录_v3.13.pdf  # Source PDF
 │
 ├── source_pages/                # Extracted PDF pages as images
@@ -67,6 +70,7 @@ Each page becomes a JSON file:
 ```json
 {
   "page": 20,
+  "source_page": "page_0020.png",
   "chapter": "第一回",
   "segments": [
     {
@@ -77,10 +81,20 @@ Each page becomes a JSON file:
       "en": "English...",
       "ru": "Russian...",
       "ja": "Japanese...",
-      "commentary": [...]
+      "commentary": [
+        {
+          "type": "夹批",
+          "source": "甲戌本",
+          "original": "Commentary text...",
+          "zh_modern": "Modern Chinese commentary...",
+          "en": "English commentary...",
+          "ru": "Russian commentary...",
+          "ja": "Japanese commentary..."
+        }
+      ]
     }
   ],
-  "notes": ["Translator observations"]
+  "notes": ["Research notes and translation decisions"]
 }
 ```
 

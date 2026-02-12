@@ -235,12 +235,11 @@ When translating a poem, include:
     "allusions": ["List classical allusions"],
     "significance": "Why this poem matters"
   },
-  "translator_notes": [
-    "Additional context",
-    "Translation decisions explained"
-  ]
+  "commentary": []
 }
 ```
+
+Add broader research and translation decisions to page-level `notes` in the page JSON.
 
 ---
 
