@@ -1,0 +1,298 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "红楼梦 Page Translation Schema",
+  "description": "Schema for validating translations of individual PDF pages from Dream of the Red Chamber",
+  "type": "object",
+  "required": [
+    "page",
+    "chapter",
+    "chapter_title",
+    "page_content_type",
+    "segments",
+    "translator_notes",
+    "research_sources",
+    "polish_log",
+    "quality_checklist",
+    "characters_appearing",
+    "total_segments",
+    "manuscript_sources_on_page"
+  ],
+  "properties": {
+    "page": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "PDF page number"
+    },
+    "chapter": {
+      "type": "string",
+      "pattern": "^(前言|凡例|第[一二三四五六七八九十百]+回|附录)$",
+      "description": "Chapter identifier in Chinese"
+    },
+    "chapter_title": {
+      "type": "object",
+      "required": ["original", "zh_modern", "en", "ru", "ja"],
+      "properties": {
+        "original": {
+          "type": "string",
+          "minLength": 1
+        },
+        "zh_modern": {
+          "type": "string",
+          "minLength": 1
+        },
+        "en": {
+          "type": "string",
+          "minLength": 1
+        },
+        "ru": {
+          "type": "string",
+          "minLength": 1
+        },
+        "ja": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "additionalProperties": false
+    },
+    "page_content_type": {
+      "type": "string",
+      "enum": ["front_matter", "fanli", "chapter_start", "chapter_body", "chapter_end", "appendix"]
+    },
+    "segments": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["id", "pdf_page", "type", "original", "zh_modern", "en", "ru", "ja"],
+        "properties": {
+          "id": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "pdf_page": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "type": {
+            "type": "string",
+            "enum": ["prose", "poem", "dialogue", "title", "preface"]
+          },
+          "original": {
+            "type": "string",
+            "minLength": 1
+          },
+          "zh_modern": {
+            "type": "string",
+            "minLength": 1
+          },
+          "en": {
+            "type": "string",
+            "minLength": 1
+          },
+          "ru": {
+            "type": "string",
+            "minLength": 1
+          },
+          "ja": {
+            "type": "string",
+            "minLength": 1
+          },
+          "commentary": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["type", "source", "position", "original", "zh_modern", "en", "ru", "ja"],
+              "properties": {
+                "type": {
+                  "type": "string",
+                  "enum": ["眉批", "夹批", "侧批", "回末批", "回前批"]
+                },
+                "source": {
+                  "type": "string",
+                  "pattern": "^(甲戌本|庚辰本|己卯本|蒙府本|戚序本|舒序本|郑藏本|甲辰本|列藏本|脂批|其他)$"
+                },
+                "position": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "original": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "zh_modern": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "en": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "ru": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "ja": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              },
+              "additionalProperties": false
+            }
+          },
+          "poem_notes": {
+            "type": "object",
+            "properties": {
+              "form": {
+                "type": "string"
+              },
+              "rhyme_scheme": {
+                "type": "string"
+              },
+              "literary_devices": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "translator_notes": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "minLength": 20,
+        "description": "Non-trivial research finding with source citation"
+      }
+    },
+    "research_sources": {
+      "type": "array",
+      "minItems": 3,
+      "items": {
+        "type": "object",
+        "required": ["type", "finding"],
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "author": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "page": {
+            "type": ["integer", "string"]
+          },
+          "type": {
+            "type": "string",
+            "enum": ["book", "article", "web", "commentary", "database"]
+          },
+          "finding": {
+            "type": "string",
+            "minLength": 10,
+            "description": "What you learned from this source"
+          }
+        }
+      }
+    },
+    "polish_log": {
+      "type": "array",
+      "minItems": 4,
+      "items": {
+        "type": "object",
+        "required": ["language", "iteration", "changes"],
+        "properties": {
+          "language": {
+            "type": "string",
+            "enum": ["zh_modern", "en", "ru", "ja"]
+          },
+          "iteration": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "changes": {
+            "type": "string",
+            "minLength": 10
+          }
+        }
+      }
+    },
+    "quality_checklist": {
+      "type": "object",
+      "required": [
+        "read_full_page",
+        "identified_all_content",
+        "researched_allusions",
+        "consulted_min_3_sources",
+        "all_commentary_translated",
+        "all_4_languages_complete",
+        "polished_each_language",
+        "verified_completeness",
+        "json_validated"
+      ],
+      "properties": {
+        "read_full_page": {
+          "type": "boolean",
+          "const": true
+        },
+        "identified_all_content": {
+          "type": "boolean",
+          "const": true
+        },
+        "researched_allusions": {
+          "type": "boolean",
+          "const": true
+        },
+        "consulted_min_3_sources": {
+          "type": "boolean",
+          "const": true
+        },
+        "all_commentary_translated": {
+          "type": "boolean",
+          "const": true
+        },
+        "all_4_languages_complete": {
+          "type": "boolean",
+          "const": true
+        },
+        "polished_each_language": {
+          "type": "boolean",
+          "const": true
+        },
+        "verified_completeness": {
+          "type": "boolean",
+          "const": true
+        },
+        "json_validated": {
+          "type": "boolean",
+          "const": true
+        }
+      },
+      "additionalProperties": false
+    },
+    "characters_appearing": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "total_segments": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "manuscript_sources_on_page": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "additionalProperties": false
+}
